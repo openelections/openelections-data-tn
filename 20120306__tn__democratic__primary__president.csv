@@ -1,286 +1,286 @@
-county,precinct,office,district,party,candidate,votes
-ANDERSON ,,President,,D,Barack Obama,887
-BEDFORD ,,President,,D,Barack Obama,254
-BENTON ,,President,,D,Barack Obama,524
-BLEDSOE ,,President,,D,Barack Obama,348
-BLOUNT ,,President,,D,Barack Obama,402
-BRADLEY ,,President,,D,Barack Obama,415
-CAMPBELL ,,President,,D,Barack Obama,316
-CANNON ,,President,,D,Barack Obama,116
-CARROLL ,,President,,D,Barack Obama,238
-CARTER ,,President,,D,Barack Obama,143
-CHEATHAM ,,President,,D,Barack Obama,214
-CHESTER ,,President,,D,Barack Obama,72
-CLAIBORNE ,,President,,D,Barack Obama,117
-CLAY ,,President,,D,Barack Obama,60
-COCKE ,,President,,D,Barack Obama,75
-COFFEE ,,President,,D,Barack Obama,430
-CROCKETT ,,President,,D,Barack Obama,328
-CUMBERLAND ,,President,,D,Barack Obama,593
-DAVIDSON ,,President,,D,Barack Obama,15452
-DECATUR ,,President,,D,Barack Obama,102
-DEKALB ,,President,,D,Barack Obama,580
-DICKSON ,,President,,D,Barack Obama,374
-DYER ,,President,,D,Barack Obama,202
-FAYETTE ,,President,,D,Barack Obama,347
-FENTRESS ,,President,,D,Barack Obama,165
-FRANKLIN ,,President,,D,Barack Obama,838
-GIBSON ,,President,,D,Barack Obama,598
-GILES ,,President,,D,Barack Obama,220
-GRAINGER ,,President,,D,Barack Obama,81
-GREENE ,,President,,D,Barack Obama,257
-GRUNDY ,,President,,D,Barack Obama,235
-HAMBLEN ,,President,,D,Barack Obama,204
-HAMILTON ,,President,,D,Barack Obama,4956
-HANCOCK ,,President,,D,Barack Obama,22
-HARDEMAN ,,President,,D,Barack Obama,968
-HARDIN ,,President,,D,Barack Obama,106
-HAWKINS ,,President,,D,Barack Obama,304
-HAYWOOD ,,President,,D,Barack Obama,473
-HENDERSON ,,President,,D,Barack Obama,50
-HENRY ,,President,,D,Barack Obama,797
-HICKMAN ,,President,,D,Barack Obama,153
-HOUSTON ,,President,,D,Barack Obama,115
-HUMPHREYS ,,President,,D,Barack Obama,258
-JACKSON ,,President,,D,Barack Obama,172
-JEFFERSON ,,President,,D,Barack Obama,171
-JOHNSON ,,President,,D,Barack Obama,90
-KNOX ,,President,,D,Barack Obama,2464
-LAKE ,,President,,D,Barack Obama,70
-LAUDERDALE ,,President,,D,Barack Obama,210
-LAWRENCE ,,President,,D,Barack Obama,191
-LEWIS ,,President,,D,Barack Obama,76
-LINCOLN ,,President,,D,Barack Obama,212
-LOUDON ,,President,,D,Barack Obama,285
-MACON ,,President,,D,Barack Obama,95
-MADISON ,,President,,D,Barack Obama,723
-MARION ,,President,,D,Barack Obama,1337
-MARSHALL ,,President,,D,Barack Obama,193
-MAURY ,,President,,D,Barack Obama,1801
-MCMINN ,,President,,D,Barack Obama,265
-MCNAIRY ,,President,,D,Barack Obama,173
-MEIGS ,,President,,D,Barack Obama,182
-MONROE ,,President,,D,Barack Obama,207
-MONTGOMERY ,,President,,D,Barack Obama,1326
-MOORE ,,President,,D,Barack Obama,34
-MORGAN ,,President,,D,Barack Obama,76
-OBION ,,President,,D,Barack Obama,169
-OVERTON ,,President,,D,Barack Obama,844
-PERRY ,,President,,D,Barack Obama,61
-PICKETT ,,President,,D,Barack Obama,23
-POLK ,,President,,D,Barack Obama,711
-PUTNAM ,,President,,D,Barack Obama,1119
-RHEA ,,President,,D,Barack Obama,288
-ROANE ,,President,,D,Barack Obama,335
-ROBERTSON ,,President,,D,Barack Obama,356
-RUTHERFORD ,,President,,D,Barack Obama,1753
-SCOTT ,,President,,D,Barack Obama,302
-SEQUATCHIE ,,President,,D,Barack Obama,141
-SEVIER ,,President,,D,Barack Obama,354
-SHELBY ,,President,,D,Barack Obama,22827
-SMITH ,,President,,D,Barack Obama,176
-STEWART ,,President,,D,Barack Obama,290
-SULLIVAN ,,President,,D,Barack Obama,442
-SUMNER ,,President,,D,Barack Obama,1665
-TIPTON ,,President,,D,Barack Obama,237
-TROUSDALE ,,President,,D,Barack Obama,140
-UNICOI ,,President,,D,Barack Obama,52
-UNION ,,President,,D,Barack Obama,66
-VAN BUREN ,,President,,D,Barack Obama,346
-WARREN ,,President,,D,Barack Obama,2116
-WASHINGTON ,,President,,D,Barack Obama,380
-WAYNE ,,President,,D,Barack Obama,65
-WEAKLEY ,,President,,D,Barack Obama,252
-WHITE ,,President,,D,Barack Obama,199
-WILLIAMSON ,,President,,D,Barack Obama,559
-WILSON ,,President,,D,Barack Obama,695
-ANDERSON ,,President,,D,Uncommitted,159
-BEDFORD ,,President,,D,Uncommitted,73
-BENTON ,,President,,D,Uncommitted,213
-BLEDSOE ,,President,,D,Uncommitted,102
-BLOUNT ,,President,,D,Uncommitted,56
-BRADLEY ,,President,,D,Uncommitted,84
-CAMPBELL ,,President,,D,Uncommitted,84
-CANNON ,,President,,D,Uncommitted,32
-CARROLL ,,President,,D,Uncommitted,38
-CARTER ,,President,,D,Uncommitted,25
-CHEATHAM ,,President,,D,Uncommitted,29
-CHESTER ,,President,,D,Uncommitted,14
-CLAIBORNE ,,President,,D,Uncommitted,22
-CLAY ,,President,,D,Uncommitted,6
-COCKE ,,President,,D,Uncommitted,9
-COFFEE ,,President,,D,Uncommitted,105
-CROCKETT ,,President,,D,Uncommitted,170
-CUMBERLAND ,,President,,D,Uncommitted,132
-DAVIDSON ,,President,,D,Uncommitted,937
-DECATUR ,,President,,D,Uncommitted,20
-DEKALB ,,President,,D,Uncommitted,212
-DICKSON ,,President,,D,Uncommitted,47
-DYER ,,President,,D,Uncommitted,35
-FAYETTE ,,President,,D,Uncommitted,15
-FENTRESS ,,President,,D,Uncommitted,18
-FRANKLIN ,,President,,D,Uncommitted,225
-GIBSON ,,President,,D,Uncommitted,92
-GILES ,,President,,D,Uncommitted,32
-GRAINGER ,,President,,D,Uncommitted,18
-GREENE ,,President,,D,Uncommitted,37
-GRUNDY ,,President,,D,Uncommitted,69
-HAMBLEN ,,President,,D,Uncommitted,16
-HAMILTON ,,President,,D,Uncommitted,214
-HANCOCK ,,President,,D,Uncommitted,0
-HARDEMAN ,,President,,D,Uncommitted,268
-HARDIN ,,President,,D,Uncommitted,23
-HAWKINS ,,President,,D,Uncommitted,78
-HAYWOOD ,,President,,D,Uncommitted,11
-HENDERSON ,,President,,D,Uncommitted,12
-HENRY ,,President,,D,Uncommitted,416
-HICKMAN ,,President,,D,Uncommitted,29
-HOUSTON ,,President,,D,Uncommitted,11
-HUMPHREYS ,,President,,D,Uncommitted,30
-JACKSON ,,President,,D,Uncommitted,37
-JEFFERSON ,,President,,D,Uncommitted,22
-JOHNSON ,,President,,D,Uncommitted,12
-KNOX ,,President,,D,Uncommitted,237
-LAKE ,,President,,D,Uncommitted,10
-LAUDERDALE ,,President,,D,Uncommitted,30
-LAWRENCE ,,President,,D,Uncommitted,45
-LEWIS ,,President,,D,Uncommitted,20
-LINCOLN ,,President,,D,Uncommitted,35
-LOUDON ,,President,,D,Uncommitted,27
-MACON ,,President,,D,Uncommitted,16
-MADISON ,,President,,D,Uncommitted,43
-MARION ,,President,,D,Uncommitted,768
-MARSHALL ,,President,,D,Uncommitted,32
-MAURY ,,President,,D,Uncommitted,281
-MCMINN ,,President,,D,Uncommitted,42
-MCNAIRY ,,President,,D,Uncommitted,34
-MEIGS ,,President,,D,Uncommitted,30
-MONROE ,,President,,D,Uncommitted,19
-MONTGOMERY ,,President,,D,Uncommitted,129
-MOORE ,,President,,D,Uncommitted,6
-MORGAN ,,President,,D,Uncommitted,20
-OBION ,,President,,D,Uncommitted,47
-OVERTON ,,President,,D,Uncommitted,270
-PERRY ,,President,,D,Uncommitted,9
-PICKETT ,,President,,D,Uncommitted,1
-POLK ,,President,,D,Uncommitted,300
-PUTNAM ,,President,,D,Uncommitted,526
-RHEA ,,President,,D,Uncommitted,85
-ROANE ,,President,,D,Uncommitted,71
-ROBERTSON ,,President,,D,Uncommitted,66
-RUTHERFORD ,,President,,D,Uncommitted,248
-SCOTT ,,President,,D,Uncommitted,60
-SEQUATCHIE ,,President,,D,Uncommitted,33
-SEVIER ,,President,,D,Uncommitted,78
-SHELBY ,,President,,D,Uncommitted,412
-SMITH ,,President,,D,Uncommitted,30
-STEWART ,,President,,D,Uncommitted,35
-SULLIVAN ,,President,,D,Uncommitted,70
-SUMNER ,,President,,D,Uncommitted,263
-TIPTON ,,President,,D,Uncommitted,33
-TROUSDALE ,,President,,D,Uncommitted,10
-UNICOI ,,President,,D,Uncommitted,15
-UNION ,,President,,D,Uncommitted,29
-VAN BUREN ,,President,,D,Uncommitted,135
-WARREN ,,President,,D,Uncommitted,1167
-WASHINGTON ,,President,,D,Uncommitted,62
-WAYNE ,,President,,D,Uncommitted,8
-WEAKLEY ,,President,,D,Uncommitted,81
-WHITE ,,President,,D,Uncommitted,64
-WILLIAMSON ,,President,,D,Uncommitted,59
-WILSON ,,President,,D,Uncommitted,117
-ANDERSON ,,President,,D,Write-in - John Wolfe,2
-BEDFORD ,,President,,D,Write-in - John Wolfe,0
-BENTON ,,President,,D,Write-in - John Wolfe,0
-BLEDSOE ,,President,,D,Write-in - John Wolfe,0
-BLOUNT ,,President,,D,Write-in - John Wolfe,0
-BRADLEY ,,President,,D,Write-in - John Wolfe,0
-CAMPBELL ,,President,,D,Write-in - John Wolfe,0
-CANNON ,,President,,D,Write-in - John Wolfe,0
-CARROLL ,,President,,D,Write-in - John Wolfe,0
-CARTER ,,President,,D,Write-in - John Wolfe,0
-CHEATHAM ,,President,,D,Write-in - John Wolfe,0
-CHESTER ,,President,,D,Write-in - John Wolfe,0
-CLAIBORNE ,,President,,D,Write-in - John Wolfe,0
-CLAY ,,President,,D,Write-in - John Wolfe,0
-COCKE ,,President,,D,Write-in - John Wolfe,0
-COFFEE ,,President,,D,Write-in - John Wolfe,0
-CROCKETT ,,President,,D,Write-in - John Wolfe,0
-CUMBERLAND ,,President,,D,Write-in - John Wolfe,0
-DAVIDSON ,,President,,D,Write-in - John Wolfe,0
-DECATUR ,,President,,D,Write-in - John Wolfe,0
-DEKALB ,,President,,D,Write-in - John Wolfe,0
-DICKSON ,,President,,D,Write-in - John Wolfe,0
-DYER ,,President,,D,Write-in - John Wolfe,0
-FAYETTE ,,President,,D,Write-in - John Wolfe,0
-FENTRESS ,,President,,D,Write-in - John Wolfe,0
-FRANKLIN ,,President,,D,Write-in - John Wolfe,0
-GIBSON ,,President,,D,Write-in - John Wolfe,0
-GILES ,,President,,D,Write-in - John Wolfe,0
-GRAINGER ,,President,,D,Write-in - John Wolfe,0
-GREENE ,,President,,D,Write-in - John Wolfe,0
-GRUNDY ,,President,,D,Write-in - John Wolfe,0
-HAMBLEN ,,President,,D,Write-in - John Wolfe,0
-HAMILTON ,,President,,D,Write-in - John Wolfe,3
-HANCOCK ,,President,,D,Write-in - John Wolfe,0
-HARDEMAN ,,President,,D,Write-in - John Wolfe,0
-HARDIN ,,President,,D,Write-in - John Wolfe,0
-HAWKINS ,,President,,D,Write-in - John Wolfe,0
-HAYWOOD ,,President,,D,Write-in - John Wolfe,0
-HENDERSON ,,President,,D,Write-in - John Wolfe,0
-HENRY ,,President,,D,Write-in - John Wolfe,0
-HICKMAN ,,President,,D,Write-in - John Wolfe,0
-HOUSTON ,,President,,D,Write-in - John Wolfe,0
-HUMPHREYS ,,President,,D,Write-in - John Wolfe,0
-JACKSON ,,President,,D,Write-in - John Wolfe,0
-JEFFERSON ,,President,,D,Write-in - John Wolfe,0
-JOHNSON ,,President,,D,Write-in - John Wolfe,0
-KNOX ,,President,,D,Write-in - John Wolfe,0
-LAKE ,,President,,D,Write-in - John Wolfe,0
-LAUDERDALE ,,President,,D,Write-in - John Wolfe,0
-LAWRENCE ,,President,,D,Write-in - John Wolfe,0
-LEWIS ,,President,,D,Write-in - John Wolfe,0
-LINCOLN ,,President,,D,Write-in - John Wolfe,0
-LOUDON ,,President,,D,Write-in - John Wolfe,0
-MACON ,,President,,D,Write-in - John Wolfe,0
-MADISON ,,President,,D,Write-in - John Wolfe,0
-MARION ,,President,,D,Write-in - John Wolfe,2
-MARSHALL ,,President,,D,Write-in - John Wolfe,0
-MAURY ,,President,,D,Write-in - John Wolfe,0
-MCMINN ,,President,,D,Write-in - John Wolfe,0
-MCNAIRY ,,President,,D,Write-in - John Wolfe,0
-MEIGS ,,President,,D,Write-in - John Wolfe,0
-MONROE ,,President,,D,Write-in - John Wolfe,0
-MONTGOMERY ,,President,,D,Write-in - John Wolfe,0
-MOORE ,,President,,D,Write-in - John Wolfe,0
-MORGAN ,,President,,D,Write-in - John Wolfe,0
-OBION ,,President,,D,Write-in - John Wolfe,0
-OVERTON ,,President,,D,Write-in - John Wolfe,0
-PERRY ,,President,,D,Write-in - John Wolfe,0
-PICKETT ,,President,,D,Write-in - John Wolfe,0
-POLK ,,President,,D,Write-in - John Wolfe,0
-PUTNAM ,,President,,D,Write-in - John Wolfe,0
-RHEA ,,President,,D,Write-in - John Wolfe,0
-ROANE ,,President,,D,Write-in - John Wolfe,0
-ROBERTSON ,,President,,D,Write-in - John Wolfe,0
-RUTHERFORD ,,President,,D,Write-in - John Wolfe,0
-SCOTT ,,President,,D,Write-in - John Wolfe,0
-SEQUATCHIE ,,President,,D,Write-in - John Wolfe,0
-SEVIER ,,President,,D,Write-in - John Wolfe,0
-SHELBY ,,President,,D,Write-in - John Wolfe,0
-SMITH ,,President,,D,Write-in - John Wolfe,0
-STEWART ,,President,,D,Write-in - John Wolfe,0
-SULLIVAN ,,President,,D,Write-in - John Wolfe,0
-SUMNER ,,President,,D,Write-in - John Wolfe,0
-TIPTON ,,President,,D,Write-in - John Wolfe,0
-TROUSDALE ,,President,,D,Write-in - John Wolfe,0
-UNICOI ,,President,,D,Write-in - John Wolfe,0
-UNION ,,President,,D,Write-in - John Wolfe,0
-VAN BUREN ,,President,,D,Write-in - John Wolfe,0
-WARREN ,,President,,D,Write-in - John Wolfe,0
-WASHINGTON ,,President,,D,Write-in - John Wolfe,0
-WAYNE ,,President,,D,Write-in - John Wolfe,0
-WEAKLEY ,,President,,D,Write-in - John Wolfe,0
-WHITE ,,President,,D,Write-in - John Wolfe,0
-WILLIAMSON ,,President,,D,Write-in - John Wolfe,0
-WILSON ,,President,,D,Write-in - John Wolfe,0
+"county","precinct","office","district","party","candidate","votes"
+"ANDERSON",,"President",,"D","Barack Obama",887
+"BEDFORD",,"President",,"D","Barack Obama",254
+"BENTON",,"President",,"D","Barack Obama",524
+"BLEDSOE",,"President",,"D","Barack Obama",348
+"BLOUNT",,"President",,"D","Barack Obama",402
+"BRADLEY",,"President",,"D","Barack Obama",415
+"CAMPBELL",,"President",,"D","Barack Obama",316
+"CANNON",,"President",,"D","Barack Obama",116
+"CARROLL",,"President",,"D","Barack Obama",238
+"CARTER",,"President",,"D","Barack Obama",143
+"CHEATHAM",,"President",,"D","Barack Obama",214
+"CHESTER",,"President",,"D","Barack Obama",72
+"CLAIBORNE",,"President",,"D","Barack Obama",117
+"CLAY",,"President",,"D","Barack Obama",60
+"COCKE",,"President",,"D","Barack Obama",75
+"COFFEE",,"President",,"D","Barack Obama",430
+"CROCKETT",,"President",,"D","Barack Obama",328
+"CUMBERLAND",,"President",,"D","Barack Obama",593
+"DAVIDSON",,"President",,"D","Barack Obama",15452
+"DECATUR",,"President",,"D","Barack Obama",102
+"DEKALB",,"President",,"D","Barack Obama",580
+"DICKSON",,"President",,"D","Barack Obama",374
+"DYER",,"President",,"D","Barack Obama",202
+"FAYETTE",,"President",,"D","Barack Obama",347
+"FENTRESS",,"President",,"D","Barack Obama",165
+"FRANKLIN",,"President",,"D","Barack Obama",838
+"GIBSON",,"President",,"D","Barack Obama",598
+"GILES",,"President",,"D","Barack Obama",220
+"GRAINGER",,"President",,"D","Barack Obama",81
+"GREENE",,"President",,"D","Barack Obama",257
+"GRUNDY",,"President",,"D","Barack Obama",235
+"HAMBLEN",,"President",,"D","Barack Obama",204
+"HAMILTON",,"President",,"D","Barack Obama",4956
+"HANCOCK",,"President",,"D","Barack Obama",22
+"HARDEMAN",,"President",,"D","Barack Obama",968
+"HARDIN",,"President",,"D","Barack Obama",106
+"HAWKINS",,"President",,"D","Barack Obama",304
+"HAYWOOD",,"President",,"D","Barack Obama",473
+"HENDERSON",,"President",,"D","Barack Obama",50
+"HENRY",,"President",,"D","Barack Obama",797
+"HICKMAN",,"President",,"D","Barack Obama",153
+"HOUSTON",,"President",,"D","Barack Obama",115
+"HUMPHREYS",,"President",,"D","Barack Obama",258
+"JACKSON",,"President",,"D","Barack Obama",172
+"JEFFERSON",,"President",,"D","Barack Obama",171
+"JOHNSON",,"President",,"D","Barack Obama",90
+"KNOX",,"President",,"D","Barack Obama",2464
+"LAKE",,"President",,"D","Barack Obama",70
+"LAUDERDALE",,"President",,"D","Barack Obama",210
+"LAWRENCE",,"President",,"D","Barack Obama",191
+"LEWIS",,"President",,"D","Barack Obama",76
+"LINCOLN",,"President",,"D","Barack Obama",212
+"LOUDON",,"President",,"D","Barack Obama",285
+"MACON",,"President",,"D","Barack Obama",95
+"MADISON",,"President",,"D","Barack Obama",723
+"MARION",,"President",,"D","Barack Obama",1337
+"MARSHALL",,"President",,"D","Barack Obama",193
+"MAURY",,"President",,"D","Barack Obama",1801
+"MCMINN",,"President",,"D","Barack Obama",265
+"MCNAIRY",,"President",,"D","Barack Obama",173
+"MEIGS",,"President",,"D","Barack Obama",182
+"MONROE",,"President",,"D","Barack Obama",207
+"MONTGOMERY",,"President",,"D","Barack Obama",1326
+"MOORE",,"President",,"D","Barack Obama",34
+"MORGAN",,"President",,"D","Barack Obama",76
+"OBION",,"President",,"D","Barack Obama",169
+"OVERTON",,"President",,"D","Barack Obama",844
+"PERRY",,"President",,"D","Barack Obama",61
+"PICKETT",,"President",,"D","Barack Obama",23
+"POLK",,"President",,"D","Barack Obama",711
+"PUTNAM",,"President",,"D","Barack Obama",1119
+"RHEA",,"President",,"D","Barack Obama",288
+"ROANE",,"President",,"D","Barack Obama",335
+"ROBERTSON",,"President",,"D","Barack Obama",356
+"RUTHERFORD",,"President",,"D","Barack Obama",1753
+"SCOTT",,"President",,"D","Barack Obama",302
+"SEQUATCHIE",,"President",,"D","Barack Obama",141
+"SEVIER",,"President",,"D","Barack Obama",354
+"SHELBY",,"President",,"D","Barack Obama",22827
+"SMITH",,"President",,"D","Barack Obama",176
+"STEWART",,"President",,"D","Barack Obama",290
+"SULLIVAN",,"President",,"D","Barack Obama",442
+"SUMNER",,"President",,"D","Barack Obama",1665
+"TIPTON",,"President",,"D","Barack Obama",237
+"TROUSDALE",,"President",,"D","Barack Obama",140
+"UNICOI",,"President",,"D","Barack Obama",52
+"UNION",,"President",,"D","Barack Obama",66
+"VAN BUREN",,"President",,"D","Barack Obama",346
+"WARREN",,"President",,"D","Barack Obama",2116
+"WASHINGTON",,"President",,"D","Barack Obama",380
+"WAYNE",,"President",,"D","Barack Obama",65
+"WEAKLEY",,"President",,"D","Barack Obama",252
+"WHITE",,"President",,"D","Barack Obama",199
+"WILLIAMSON",,"President",,"D","Barack Obama",559
+"WILSON",,"President",,"D","Barack Obama",695
+"ANDERSON",,"President",,"D","Uncommitted",159
+"BEDFORD",,"President",,"D","Uncommitted",73
+"BENTON",,"President",,"D","Uncommitted",213
+"BLEDSOE",,"President",,"D","Uncommitted",102
+"BLOUNT",,"President",,"D","Uncommitted",56
+"BRADLEY",,"President",,"D","Uncommitted",84
+"CAMPBELL",,"President",,"D","Uncommitted",84
+"CANNON",,"President",,"D","Uncommitted",32
+"CARROLL",,"President",,"D","Uncommitted",38
+"CARTER",,"President",,"D","Uncommitted",25
+"CHEATHAM",,"President",,"D","Uncommitted",29
+"CHESTER",,"President",,"D","Uncommitted",14
+"CLAIBORNE",,"President",,"D","Uncommitted",22
+"CLAY",,"President",,"D","Uncommitted",6
+"COCKE",,"President",,"D","Uncommitted",9
+"COFFEE",,"President",,"D","Uncommitted",105
+"CROCKETT",,"President",,"D","Uncommitted",170
+"CUMBERLAND",,"President",,"D","Uncommitted",132
+"DAVIDSON",,"President",,"D","Uncommitted",937
+"DECATUR",,"President",,"D","Uncommitted",20
+"DEKALB",,"President",,"D","Uncommitted",212
+"DICKSON",,"President",,"D","Uncommitted",47
+"DYER",,"President",,"D","Uncommitted",35
+"FAYETTE",,"President",,"D","Uncommitted",15
+"FENTRESS",,"President",,"D","Uncommitted",18
+"FRANKLIN",,"President",,"D","Uncommitted",225
+"GIBSON",,"President",,"D","Uncommitted",92
+"GILES",,"President",,"D","Uncommitted",32
+"GRAINGER",,"President",,"D","Uncommitted",18
+"GREENE",,"President",,"D","Uncommitted",37
+"GRUNDY",,"President",,"D","Uncommitted",69
+"HAMBLEN",,"President",,"D","Uncommitted",16
+"HAMILTON",,"President",,"D","Uncommitted",214
+"HANCOCK",,"President",,"D","Uncommitted",0
+"HARDEMAN",,"President",,"D","Uncommitted",268
+"HARDIN",,"President",,"D","Uncommitted",23
+"HAWKINS",,"President",,"D","Uncommitted",78
+"HAYWOOD",,"President",,"D","Uncommitted",11
+"HENDERSON",,"President",,"D","Uncommitted",12
+"HENRY",,"President",,"D","Uncommitted",416
+"HICKMAN",,"President",,"D","Uncommitted",29
+"HOUSTON",,"President",,"D","Uncommitted",11
+"HUMPHREYS",,"President",,"D","Uncommitted",30
+"JACKSON",,"President",,"D","Uncommitted",37
+"JEFFERSON",,"President",,"D","Uncommitted",22
+"JOHNSON",,"President",,"D","Uncommitted",12
+"KNOX",,"President",,"D","Uncommitted",237
+"LAKE",,"President",,"D","Uncommitted",10
+"LAUDERDALE",,"President",,"D","Uncommitted",30
+"LAWRENCE",,"President",,"D","Uncommitted",45
+"LEWIS",,"President",,"D","Uncommitted",20
+"LINCOLN",,"President",,"D","Uncommitted",35
+"LOUDON",,"President",,"D","Uncommitted",27
+"MACON",,"President",,"D","Uncommitted",16
+"MADISON",,"President",,"D","Uncommitted",43
+"MARION",,"President",,"D","Uncommitted",768
+"MARSHALL",,"President",,"D","Uncommitted",32
+"MAURY",,"President",,"D","Uncommitted",281
+"MCMINN",,"President",,"D","Uncommitted",42
+"MCNAIRY",,"President",,"D","Uncommitted",34
+"MEIGS",,"President",,"D","Uncommitted",30
+"MONROE",,"President",,"D","Uncommitted",19
+"MONTGOMERY",,"President",,"D","Uncommitted",129
+"MOORE",,"President",,"D","Uncommitted",6
+"MORGAN",,"President",,"D","Uncommitted",20
+"OBION",,"President",,"D","Uncommitted",47
+"OVERTON",,"President",,"D","Uncommitted",270
+"PERRY",,"President",,"D","Uncommitted",9
+"PICKETT",,"President",,"D","Uncommitted",1
+"POLK",,"President",,"D","Uncommitted",300
+"PUTNAM",,"President",,"D","Uncommitted",526
+"RHEA",,"President",,"D","Uncommitted",85
+"ROANE",,"President",,"D","Uncommitted",71
+"ROBERTSON",,"President",,"D","Uncommitted",66
+"RUTHERFORD",,"President",,"D","Uncommitted",248
+"SCOTT",,"President",,"D","Uncommitted",60
+"SEQUATCHIE",,"President",,"D","Uncommitted",33
+"SEVIER",,"President",,"D","Uncommitted",78
+"SHELBY",,"President",,"D","Uncommitted",412
+"SMITH",,"President",,"D","Uncommitted",30
+"STEWART",,"President",,"D","Uncommitted",35
+"SULLIVAN",,"President",,"D","Uncommitted",70
+"SUMNER",,"President",,"D","Uncommitted",263
+"TIPTON",,"President",,"D","Uncommitted",33
+"TROUSDALE",,"President",,"D","Uncommitted",10
+"UNICOI",,"President",,"D","Uncommitted",15
+"UNION",,"President",,"D","Uncommitted",29
+"VAN BUREN",,"President",,"D","Uncommitted",135
+"WARREN",,"President",,"D","Uncommitted",1167
+"WASHINGTON",,"President",,"D","Uncommitted",62
+"WAYNE",,"President",,"D","Uncommitted",8
+"WEAKLEY",,"President",,"D","Uncommitted",81
+"WHITE",,"President",,"D","Uncommitted",64
+"WILLIAMSON",,"President",,"D","Uncommitted",59
+"WILSON",,"President",,"D","Uncommitted",117
+"ANDERSON",,"President",,"D","Write-in - John Wolfe",2
+"BEDFORD",,"President",,"D","Write-in - John Wolfe",0
+"BENTON",,"President",,"D","Write-in - John Wolfe",0
+"BLEDSOE",,"President",,"D","Write-in - John Wolfe",0
+"BLOUNT",,"President",,"D","Write-in - John Wolfe",0
+"BRADLEY",,"President",,"D","Write-in - John Wolfe",0
+"CAMPBELL",,"President",,"D","Write-in - John Wolfe",0
+"CANNON",,"President",,"D","Write-in - John Wolfe",0
+"CARROLL",,"President",,"D","Write-in - John Wolfe",0
+"CARTER",,"President",,"D","Write-in - John Wolfe",0
+"CHEATHAM",,"President",,"D","Write-in - John Wolfe",0
+"CHESTER",,"President",,"D","Write-in - John Wolfe",0
+"CLAIBORNE",,"President",,"D","Write-in - John Wolfe",0
+"CLAY",,"President",,"D","Write-in - John Wolfe",0
+"COCKE",,"President",,"D","Write-in - John Wolfe",0
+"COFFEE",,"President",,"D","Write-in - John Wolfe",0
+"CROCKETT",,"President",,"D","Write-in - John Wolfe",0
+"CUMBERLAND",,"President",,"D","Write-in - John Wolfe",0
+"DAVIDSON",,"President",,"D","Write-in - John Wolfe",0
+"DECATUR",,"President",,"D","Write-in - John Wolfe",0
+"DEKALB",,"President",,"D","Write-in - John Wolfe",0
+"DICKSON",,"President",,"D","Write-in - John Wolfe",0
+"DYER",,"President",,"D","Write-in - John Wolfe",0
+"FAYETTE",,"President",,"D","Write-in - John Wolfe",0
+"FENTRESS",,"President",,"D","Write-in - John Wolfe",0
+"FRANKLIN",,"President",,"D","Write-in - John Wolfe",0
+"GIBSON",,"President",,"D","Write-in - John Wolfe",0
+"GILES",,"President",,"D","Write-in - John Wolfe",0
+"GRAINGER",,"President",,"D","Write-in - John Wolfe",0
+"GREENE",,"President",,"D","Write-in - John Wolfe",0
+"GRUNDY",,"President",,"D","Write-in - John Wolfe",0
+"HAMBLEN",,"President",,"D","Write-in - John Wolfe",0
+"HAMILTON",,"President",,"D","Write-in - John Wolfe",3
+"HANCOCK",,"President",,"D","Write-in - John Wolfe",0
+"HARDEMAN",,"President",,"D","Write-in - John Wolfe",0
+"HARDIN",,"President",,"D","Write-in - John Wolfe",0
+"HAWKINS",,"President",,"D","Write-in - John Wolfe",0
+"HAYWOOD",,"President",,"D","Write-in - John Wolfe",0
+"HENDERSON",,"President",,"D","Write-in - John Wolfe",0
+"HENRY",,"President",,"D","Write-in - John Wolfe",0
+"HICKMAN",,"President",,"D","Write-in - John Wolfe",0
+"HOUSTON",,"President",,"D","Write-in - John Wolfe",0
+"HUMPHREYS",,"President",,"D","Write-in - John Wolfe",0
+"JACKSON",,"President",,"D","Write-in - John Wolfe",0
+"JEFFERSON",,"President",,"D","Write-in - John Wolfe",0
+"JOHNSON",,"President",,"D","Write-in - John Wolfe",0
+"KNOX",,"President",,"D","Write-in - John Wolfe",0
+"LAKE",,"President",,"D","Write-in - John Wolfe",0
+"LAUDERDALE",,"President",,"D","Write-in - John Wolfe",0
+"LAWRENCE",,"President",,"D","Write-in - John Wolfe",0
+"LEWIS",,"President",,"D","Write-in - John Wolfe",0
+"LINCOLN",,"President",,"D","Write-in - John Wolfe",0
+"LOUDON",,"President",,"D","Write-in - John Wolfe",0
+"MACON",,"President",,"D","Write-in - John Wolfe",0
+"MADISON",,"President",,"D","Write-in - John Wolfe",0
+"MARION",,"President",,"D","Write-in - John Wolfe",2
+"MARSHALL",,"President",,"D","Write-in - John Wolfe",0
+"MAURY",,"President",,"D","Write-in - John Wolfe",0
+"MCMINN",,"President",,"D","Write-in - John Wolfe",0
+"MCNAIRY",,"President",,"D","Write-in - John Wolfe",0
+"MEIGS",,"President",,"D","Write-in - John Wolfe",0
+"MONROE",,"President",,"D","Write-in - John Wolfe",0
+"MONTGOMERY",,"President",,"D","Write-in - John Wolfe",0
+"MOORE",,"President",,"D","Write-in - John Wolfe",0
+"MORGAN",,"President",,"D","Write-in - John Wolfe",0
+"OBION",,"President",,"D","Write-in - John Wolfe",0
+"OVERTON",,"President",,"D","Write-in - John Wolfe",0
+"PERRY",,"President",,"D","Write-in - John Wolfe",0
+"PICKETT",,"President",,"D","Write-in - John Wolfe",0
+"POLK",,"President",,"D","Write-in - John Wolfe",0
+"PUTNAM",,"President",,"D","Write-in - John Wolfe",0
+"RHEA",,"President",,"D","Write-in - John Wolfe",0
+"ROANE",,"President",,"D","Write-in - John Wolfe",0
+"ROBERTSON",,"President",,"D","Write-in - John Wolfe",0
+"RUTHERFORD",,"President",,"D","Write-in - John Wolfe",0
+"SCOTT",,"President",,"D","Write-in - John Wolfe",0
+"SEQUATCHIE",,"President",,"D","Write-in - John Wolfe",0
+"SEVIER",,"President",,"D","Write-in - John Wolfe",0
+"SHELBY",,"President",,"D","Write-in - John Wolfe",0
+"SMITH",,"President",,"D","Write-in - John Wolfe",0
+"STEWART",,"President",,"D","Write-in - John Wolfe",0
+"SULLIVAN",,"President",,"D","Write-in - John Wolfe",0
+"SUMNER",,"President",,"D","Write-in - John Wolfe",0
+"TIPTON",,"President",,"D","Write-in - John Wolfe",0
+"TROUSDALE",,"President",,"D","Write-in - John Wolfe",0
+"UNICOI",,"President",,"D","Write-in - John Wolfe",0
+"UNION",,"President",,"D","Write-in - John Wolfe",0
+"VAN BUREN",,"President",,"D","Write-in - John Wolfe",0
+"WARREN",,"President",,"D","Write-in - John Wolfe",0
+"WASHINGTON",,"President",,"D","Write-in - John Wolfe",0
+"WAYNE",,"President",,"D","Write-in - John Wolfe",0
+"WEAKLEY",,"President",,"D","Write-in - John Wolfe",0
+"WHITE",,"President",,"D","Write-in - John Wolfe",0
+"WILLIAMSON",,"President",,"D","Write-in - John Wolfe",0
+"WILSON",,"President",,"D","Write-in - John Wolfe",0
