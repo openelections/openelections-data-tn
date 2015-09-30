@@ -1,0 +1,89 @@
+county,precinct,office,district,party,candidate,votes
+KNOX,13 Fair Garden,State Senate,6,R,Becky Duncan Massey,112
+KNOX,24Q Sequoyah Hills,State Senate,6,R,Becky Duncan Massey,764
+KNOX,25 South Knox,State Senate,6,R,Becky Duncan Massey,169
+KNOX,26 Dogwood,State Senate,6,R,Becky Duncan Massey,349
+KNOX,27 So Knox Optimist,State Senate,6,R,Becky Duncan Massey,268
+KNOX,28 South-Doyle,State Senate,6,R,Becky Duncan Massey,113
+KNOX,29 Anderson,State Senate,6,R,Becky Duncan Massey,158
+KNOX,31 Chilhowee,State Senate,6,R,Becky Duncan Massey,290
+KNOX,32 Spring Hill,State Senate,6,R,Becky Duncan Massey,249
+KNOX,33 Richard Yoakley,State Senate,6,R,Becky Duncan Massey,287
+KNOX,34 Fountain City,State Senate,6,R,Becky Duncan Massey,228
+KNOX,35 Shannondale,State Senate,6,R,Becky Duncan Massey,379
+KNOX,36 Gresham,State Senate,6,R,Becky Duncan Massey,389
+KNOX,37 Inskip,State Senate,6,R,Becky Duncan Massey,284
+KNOX,38 Inskip,State Senate,6,R,Becky Duncan Massey,437
+KNOX,39 Inskip RC,State Senate,6,R,Becky Duncan Massey,177
+KNOX,49 Bearden ES,State Senate,6,R,Becky Duncan Massey,254
+KNOX,51 Deane Hill,State Senate,6,R,Becky Duncan Massey,890
+KNOX,57 Hills,State Senate,6,R,Becky Duncan Massey,37
+KNOX,58 Pedigo,State Senate,6,R,Becky Duncan Massey,101
+KNOX,60 Ft Sumpter,State Senate,6,R,Becky Duncan Massey,76
+KNOX,61 Halls,State Senate,6,R,Becky Duncan Massey,392
+KNOX,65 Concord,State Senate,6,R,Becky Duncan Massey,320
+KNOX,69N A. L. Lotts,State Senate,6,R,Becky Duncan Massey,330
+KNOX,69S Bluegrass,State Senate,6,R,Becky Duncan Massey,386
+KNOX,71 Rocky Hill,State Senate,6,R,Becky Duncan Massey,559
+KNOX,74 Shannondale,State Senate,6,R,Becky Duncan Massey,218
+KNOX,76 Sunnyview,State Senate,6,R,Becky Duncan Massey,96
+KNOX,77 Ramsey,State Senate,6,R,Becky Duncan Massey,51
+KNOX,78 Riverdale,State Senate,6,R,Becky Duncan Massey,46
+KNOX,79 Dora Kennedy,State Senate,6,R,Becky Duncan Massey,55
+KNOX,80 Corryton,State Senate,6,R,Becky Duncan Massey,85
+KNOX,81 Gibbs,State Senate,6,R,Becky Duncan Massey,241
+KNOX,82 Ellistown,State Senate,6,R,Becky Duncan Massey,54
+KNOX,84 Ritta,State Senate,6,R,Becky Duncan Massey,148
+KNOX,85 Skaggston,State Senate,6,R,Becky Duncan Massey,69
+KNOX,86 Carter,State Senate,6,R,Becky Duncan Massey,119
+KNOX,87 Thorngrove,State Senate,6,R,Becky Duncan Massey,96
+KNOX,88 Kings,State Senate,6,R,Becky Duncan Massey,19
+KNOX,89 Mt.Olive,State Senate,6,R,Becky Duncan Massey,279
+KNOX,90 Bonny Kate,State Senate,6,R,Becky Duncan Massey,210
+KNOX,91 Vestal,State Senate,6,R,Becky Duncan Massey,29
+KNOX,92 Gap Creek,State Senate,6,R,Becky Duncan Massey,91
+KNOX,93 Hopewell,State Senate,6,R,Becky Duncan Massey,102
+KNOX,13 Fair Garden,State Senate,6,D,Gloria S. Johnson,300
+KNOX,24Q Sequoyah Hills,State Senate,6,D,Gloria S. Johnson,499
+KNOX,25 South Knox,State Senate,6,D,Gloria S. Johnson,168
+KNOX,26 Dogwood,State Senate,6,D,Gloria S. Johnson,349
+KNOX,27 So Knox Optimist,State Senate,6,D,Gloria S. Johnson,180
+KNOX,28 South-Doyle,State Senate,6,D,Gloria S. Johnson,104
+KNOX,29 Anderson,State Senate,6,D,Gloria S. Johnson,105
+KNOX,31 Chilhowee,State Senate,6,D,Gloria S. Johnson,316
+KNOX,32 Spring Hill,State Senate,6,D,Gloria S. Johnson,177
+KNOX,33 Richard Yoakley,State Senate,6,D,Gloria S. Johnson,178
+KNOX,34 Fountain City,State Senate,6,D,Gloria S. Johnson,141
+KNOX,35 Shannondale,State Senate,6,D,Gloria S. Johnson,232
+KNOX,36 Gresham,State Senate,6,D,Gloria S. Johnson,259
+KNOX,37 Inskip,State Senate,6,D,Gloria S. Johnson,217
+KNOX,38 Inskip,State Senate,6,D,Gloria S. Johnson,219
+KNOX,39 Inskip RC,State Senate,6,D,Gloria S. Johnson,88
+KNOX,49 Bearden ES,State Senate,6,D,Gloria S. Johnson,276
+KNOX,51 Deane Hill,State Senate,6,D,Gloria S. Johnson,266
+KNOX,57 Hills,State Senate,6,D,Gloria S. Johnson,12
+KNOX,58 Pedigo,State Senate,6,D,Gloria S. Johnson,37
+KNOX,60 Ft Sumpter,State Senate,6,D,Gloria S. Johnson,25
+KNOX,61 Halls,State Senate,6,D,Gloria S. Johnson,114
+KNOX,65 Concord,State Senate,6,D,Gloria S. Johnson,141
+KNOX,69N A. L. Lotts,State Senate,6,D,Gloria S. Johnson,151
+KNOX,69S Bluegrass,State Senate,6,D,Gloria S. Johnson,189
+KNOX,71 Rocky Hill,State Senate,6,D,Gloria S. Johnson,234
+KNOX,74 Shannondale,State Senate,6,D,Gloria S. Johnson,87
+KNOX,76 Sunnyview,State Senate,6,D,Gloria S. Johnson,32
+KNOX,77 Ramsey,State Senate,6,D,Gloria S. Johnson,17
+KNOX,78 Riverdale,State Senate,6,D,Gloria S. Johnson,5
+KNOX,79 Dora Kennedy,State Senate,6,D,Gloria S. Johnson,17
+KNOX,80 Corryton,State Senate,6,D,Gloria S. Johnson,24
+KNOX,81 Gibbs,State Senate,6,D,Gloria S. Johnson,53
+KNOX,82 Ellistown,State Senate,6,D,Gloria S. Johnson,38
+KNOX,84 Ritta,State Senate,6,D,Gloria S. Johnson,79
+KNOX,85 Skaggston,State Senate,6,D,Gloria S. Johnson,29
+KNOX,86 Carter,State Senate,6,D,Gloria S. Johnson,34
+KNOX,87 Thorngrove,State Senate,6,D,Gloria S. Johnson,21
+KNOX,88 Kings,State Senate,6,D,Gloria S. Johnson,10
+KNOX,89 Mt.Olive,State Senate,6,D,Gloria S. Johnson,167
+KNOX,90 Bonny Kate,State Senate,6,D,Gloria S. Johnson,64
+KNOX,91 Vestal,State Senate,6,D,Gloria S. Johnson,26
+KNOX,92 Gap Creek,State Senate,6,D,Gloria S. Johnson,10
+KNOX,93 Hopewell,State Senate,6,D,Gloria S. Johnson,47
