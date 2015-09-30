@@ -1,0 +1,141 @@
+county,precinct,office,district,party,candidate,votes
+ROBERTSON,01-1 East Robertson,State Senate,18,R,Kerry Roberts,137
+ROBERTSON,01-2 Orlinda,State Senate,18,R,Kerry Roberts,108
+ROBERTSON,02-1 Grace Park,State Senate,18,R,Kerry Roberts,247
+ROBERTSON,03-1 South Haven,State Senate,18,R,Kerry Roberts,130
+ROBERTSON,03-2 Bethlehem,State Senate,18,R,Kerry Roberts,91
+ROBERTSON,04-1 Ridgetop,State Senate,18,R,Kerry Roberts,237
+ROBERTSON,05-1 Greenbrier,State Senate,18,R,Kerry Roberts,166
+ROBERTSON,06-1 Coopertown,State Senate,18,R,Kerry Roberts,165
+ROBERTSON,06-2 Mt. Sharon,State Senate,18,R,Kerry Roberts,168
+ROBERTSON,07-1 Adams,State Senate,18,R,Kerry Roberts,66
+ROBERTSON,07-2 Cedar Hill,State Senate,18,R,Kerry Roberts,104
+ROBERTSON,07-3 Stroudsville,State Senate,18,R,Kerry Roberts,62
+ROBERTSON,08-1 Krisle,State Senate,18,R,Kerry Roberts,70
+ROBERTSON,08-2 HATS,State Senate,18,R,Kerry Roberts,79
+ROBERTSON,08-3 Owens Chapel,State Senate,18,R,Kerry Roberts,83
+ROBERTSON,09-1 Fair Assoc.,State Senate,18,R,Kerry Roberts,254
+ROBERTSON,10-1 OLOL Catholic,State Senate,18,R,Kerry Roberts,240
+ROBERTSON,11-1 Westside,State Senate,18,R,Kerry Roberts,297
+ROBERTSON,12-1 Bransford,State Senate,18,R,Kerry Roberts,26
+ROBERTSON,Absentee,State Senate,18,R,Kerry Roberts,45
+SUMNER,1A Westmoreland,State Senate,18,R,Kerry Roberts,141
+SUMNER,1B North Sumner,State Senate,18,R,Kerry Roberts,64
+SUMNER,1C Corinth,State Senate,18,R,Kerry Roberts,108
+SUMNER,2A Portland High,State Senate,18,R,Kerry Roberts,254
+SUMNER,2B Wiseman,State Senate,18,R,Kerry Roberts,183
+SUMNER,3A Civic Center,State Senate,18,R,Kerry Roberts,95
+SUMNER,3B Cairo,State Senate,18,R,Kerry Roberts,134
+SUMNER,3C Castalian Spgs,State Senate,18,R,Kerry Roberts,106
+SUMNER,3D Bethpage,State Senate,18,R,Kerry Roberts,55
+SUMNER,3E Bush's Chapel,State Senate,18,R,Kerry Roberts,100
+SUMNER,4A County Admin Bldg,State Senate,18,R,Kerry Roberts,215
+SUMNER,4B Salem,State Senate,18,R,Kerry Roberts,92
+SUMNER,4C Cottontown,State Senate,18,R,Kerry Roberts,113
+SUMNER,4D Union,State Senate,18,R,Kerry Roberts,22
+SUMNER,5A Gallatin,State Senate,18,R,Kerry Roberts,163
+SUMNER,5B South Water,State Senate,18,R,Kerry Roberts,108
+SUMNER,6A Vol State,State Senate,18,R,Kerry Roberts,387
+SUMNER,6B Gallatin Sr,State Senate,18,R,Kerry Roberts,155
+SUMNER,6C Jack Anderson,State Senate,18,R,Kerry Roberts,273
+SUMNER,7A Magnet,State Senate,18,R,Kerry Roberts,147
+SUMNER,7B Saundersville,State Senate,18,R,Kerry Roberts,303
+SUMNER,7C Long Hollow,State Senate,18,R,Kerry Roberts,232
+SUMNER,8A Brown,State Senate,18,R,Kerry Roberts,189
+SUMNER,8B Lakeside,State Senate,18,R,Kerry Roberts,239
+SUMNER,9A Nannie Berry,State Senate,18,R,Kerry Roberts,273
+SUMNER,9B Indian Lake,State Senate,18,R,Kerry Roberts,314
+SUMNER,10A Walton Ferry,State Senate,18,R,Kerry Roberts,165
+SUMNER,10B Trinity,State Senate,18,R,Kerry Roberts,151
+SUMNER,10C Center Point,State Senate,18,R,Kerry Roberts,162
+SUMNER,11A Hunter,State Senate,18,R,Kerry Roberts,158
+SUMNER,11B Madison Creek,State Senate,18,R,Kerry Roberts,300
+SUMNER,11C Millersville,State Senate,18,R,Kerry Roberts,115
+SUMNER,12A Oakmont,State Senate,18,R,Kerry Roberts,184
+SUMNER,12B White House,State Senate,18,R,Kerry Roberts,213
+SUMNER,12C White House MS,State Senate,18,R,Kerry Roberts,139
+ROBERTSON,01-1 East Robertson,State Senate,18,D,Ken Wilber,62
+ROBERTSON,01-2 Orlinda,State Senate,18,D,Ken Wilber,43
+ROBERTSON,02-1 Grace Park,State Senate,18,D,Ken Wilber,70
+ROBERTSON,03-1 South Haven,State Senate,18,D,Ken Wilber,53
+ROBERTSON,03-2 Bethlehem,State Senate,18,D,Ken Wilber,21
+ROBERTSON,04-1 Ridgetop,State Senate,18,D,Ken Wilber,83
+ROBERTSON,05-1 Greenbrier,State Senate,18,D,Ken Wilber,98
+ROBERTSON,06-1 Coopertown,State Senate,18,D,Ken Wilber,62
+ROBERTSON,06-2 Mt. Sharon,State Senate,18,D,Ken Wilber,52
+ROBERTSON,07-1 Adams,State Senate,18,D,Ken Wilber,46
+ROBERTSON,07-2 Cedar Hill,State Senate,18,D,Ken Wilber,40
+ROBERTSON,07-3 Stroudsville,State Senate,18,D,Ken Wilber,18
+ROBERTSON,08-1 Krisle,State Senate,18,D,Ken Wilber,30
+ROBERTSON,08-2 HATS,State Senate,18,D,Ken Wilber,27
+ROBERTSON,08-3 Owens Chapel,State Senate,18,D,Ken Wilber,40
+ROBERTSON,09-1 Fair Assoc.,State Senate,18,D,Ken Wilber,89
+ROBERTSON,10-1 OLOL Catholic,State Senate,18,D,Ken Wilber,89
+ROBERTSON,11-1 Westside,State Senate,18,D,Ken Wilber,83
+ROBERTSON,12-1 Bransford,State Senate,18,D,Ken Wilber,54
+ROBERTSON,Absentee,State Senate,18,D,Ken Wilber,41
+SUMNER,1A Westmoreland,State Senate,18,D,Ken Wilber,134
+SUMNER,1B North Sumner,State Senate,18,D,Ken Wilber,80
+SUMNER,1C Corinth,State Senate,18,D,Ken Wilber,104
+SUMNER,2A Portland High,State Senate,18,D,Ken Wilber,261
+SUMNER,2B Wiseman,State Senate,18,D,Ken Wilber,204
+SUMNER,3A Civic Center,State Senate,18,D,Ken Wilber,58
+SUMNER,3B Cairo,State Senate,18,D,Ken Wilber,91
+SUMNER,3C Castalian Spgs,State Senate,18,D,Ken Wilber,75
+SUMNER,3D Bethpage,State Senate,18,D,Ken Wilber,61
+SUMNER,3E Bush's Chapel,State Senate,18,D,Ken Wilber,80
+SUMNER,4A County Admin Bldg,State Senate,18,D,Ken Wilber,132
+SUMNER,4B Salem,State Senate,18,D,Ken Wilber,41
+SUMNER,4C Cottontown,State Senate,18,D,Ken Wilber,62
+SUMNER,4D Union,State Senate,18,D,Ken Wilber,68
+SUMNER,5A Gallatin,State Senate,18,D,Ken Wilber,132
+SUMNER,5B South Water,State Senate,18,D,Ken Wilber,131
+SUMNER,6A Vol State,State Senate,18,D,Ken Wilber,105
+SUMNER,6B Gallatin Sr,State Senate,18,D,Ken Wilber,109
+SUMNER,6C Jack Anderson,State Senate,18,D,Ken Wilber,90
+SUMNER,7A Magnet,State Senate,18,D,Ken Wilber,76
+SUMNER,7B Saundersville,State Senate,18,D,Ken Wilber,72
+SUMNER,7C Long Hollow,State Senate,18,D,Ken Wilber,55
+SUMNER,8A Brown,State Senate,18,D,Ken Wilber,86
+SUMNER,8B Lakeside,State Senate,18,D,Ken Wilber,96
+SUMNER,9A Nannie Berry,State Senate,18,D,Ken Wilber,112
+SUMNER,9B Indian Lake,State Senate,18,D,Ken Wilber,98
+SUMNER,10A Walton Ferry,State Senate,18,D,Ken Wilber,69
+SUMNER,10B Trinity,State Senate,18,D,Ken Wilber,41
+SUMNER,10C Center Point,State Senate,18,D,Ken Wilber,50
+SUMNER,11A Hunter,State Senate,18,D,Ken Wilber,63
+SUMNER,11B Madison Creek,State Senate,18,D,Ken Wilber,113
+SUMNER,11C Millersville,State Senate,18,D,Ken Wilber,35
+SUMNER,12A Oakmont,State Senate,18,D,Ken Wilber,125
+SUMNER,12B White House,State Senate,18,D,Ken Wilber,72
+SUMNER,12C White House MS,State Senate,18,D,Ken Wilber,34
+SHELBY,Memphis 40-1,State Senate,98,D,Antonio '2 Shay' Parkinson,87
+SHELBY,Memphis 40-2,State Senate,98,D,Antonio '2 Shay' Parkinson,183
+SHELBY,Memphis 41-1,State Senate,98,D,Antonio '2 Shay' Parkinson,193
+SHELBY,Memphis 41-3,State Senate,98,D,Antonio '2 Shay' Parkinson,511
+SHELBY,Memphis 42-1,State Senate,98,D,Antonio '2 Shay' Parkinson,129
+SHELBY,Memphis 43-2,State Senate,98,D,Antonio '2 Shay' Parkinson,186
+SHELBY,Memphis 53-1,State Senate,98,D,Antonio '2 Shay' Parkinson,17
+SHELBY,Memphis 72-7,State Senate,98,D,Antonio '2 Shay' Parkinson,480
+SHELBY,Memphis 83,State Senate,98,D,Antonio '2 Shay' Parkinson,142
+SHELBY,Memphis 84-1,State Senate,98,D,Antonio '2 Shay' Parkinson,198
+SHELBY,Memphis 86,State Senate,98,D,Antonio '2 Shay' Parkinson,627
+SHELBY,Memphis 87-1,State Senate,98,D,Antonio '2 Shay' Parkinson,263
+SHELBY,Memphis 88-4,State Senate,98,D,Antonio '2 Shay' Parkinson,129
+SHELBY,Memphis 90-2,State Senate,98,D,Antonio '2 Shay' Parkinson,398
+SHELBY,Memphis 90-3,State Senate,98,D,Antonio '2 Shay' Parkinson,268
+SHELBY,Memphis 40-1,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 40-2,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 41-1,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 41-3,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 42-1,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 43-2,State Senate,98,,Write-in - Artie Smith,2
+SHELBY,Memphis 53-1,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 72-7,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 83,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 84-1,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 86,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 87-1,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 88-4,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 90-2,State Senate,98,,Write-in - Artie Smith,0
+SHELBY,Memphis 90-3,State Senate,98,,Write-in - Artie Smith,0
