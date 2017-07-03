@@ -1,0 +1,856 @@
+county,precinct,office,district,candidate,party,votes
+ANDERSON,,Governor,,Phil Bredesen,D,16881
+ANDERSON,,Governor,,Jim Bryson,R,6049
+ANDERSON,,Governor,,George Banks,I,80
+ANDERSON,,Governor,,David Gatchell,I,22
+ANDERSON,,Governor,,Marivuana Stout Leinoff,I,20
+ANDERSON,,Governor,,Charles E. Smith,I,26
+ANDERSON,,Governor,,Howard M. Switzer,I,44
+ANDERSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,194
+ANDERSON,,Governor,,Write-in - John Jay Hooker,I,0
+BEDFORD,,Governor,,Phil Bredesen,D,7240
+BEDFORD,,Governor,,Jim Bryson,R,3215
+BEDFORD,,Governor,,George Banks,I,46
+BEDFORD,,Governor,,David Gatchell,I,22
+BEDFORD,,Governor,,Marivuana Stout Leinoff,I,8
+BEDFORD,,Governor,,Charles E. Smith,I,23
+BEDFORD,,Governor,,Howard M. Switzer,I,4
+BEDFORD,,Governor,,"Carl ""Twofeathers"" Whitaker",I,55
+BEDFORD,,Governor,,Write-in - John Jay Hooker,I,0
+BENTON,,Governor,,Phil Bredesen,D,4128
+BENTON,,Governor,,Jim Bryson,R,1273
+BENTON,,Governor,,George Banks,I,49
+BENTON,,Governor,,David Gatchell,I,8
+BENTON,,Governor,,Marivuana Stout Leinoff,I,3
+BENTON,,Governor,,Charles E. Smith,I,15
+BENTON,,Governor,,Howard M. Switzer,I,4
+BENTON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,39
+BENTON,,Governor,,Write-in - John Jay Hooker,I,0
+BLEDSOE,,Governor,,Phil Bredesen,D,2274
+BLEDSOE,,Governor,,Jim Bryson,R,1560
+BLEDSOE,,Governor,,George Banks,I,27
+BLEDSOE,,Governor,,David Gatchell,I,5
+BLEDSOE,,Governor,,Marivuana Stout Leinoff,I,3
+BLEDSOE,,Governor,,Charles E. Smith,I,15
+BLEDSOE,,Governor,,Howard M. Switzer,I,5
+BLEDSOE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,46
+BLEDSOE,,Governor,,Write-in - John Jay Hooker,I,0
+BLOUNT,,Governor,,Phil Bredesen,D,23433
+BLOUNT,,Governor,,Jim Bryson,R,11791
+BLOUNT,,Governor,,George Banks,I,141
+BLOUNT,,Governor,,David Gatchell,I,38
+BLOUNT,,Governor,,Marivuana Stout Leinoff,I,25
+BLOUNT,,Governor,,Charles E. Smith,I,28
+BLOUNT,,Governor,,Howard M. Switzer,I,45
+BLOUNT,,Governor,,"Carl ""Twofeathers"" Whitaker",I,314
+BLOUNT,,Governor,,Write-in - John Jay Hooker,I,0
+BRADLEY,,Governor,,Phil Bredesen,D,14492
+BRADLEY,,Governor,,Jim Bryson,R,11401
+BRADLEY,,Governor,,George Banks,I,110
+BRADLEY,,Governor,,David Gatchell,I,23
+BRADLEY,,Governor,,Marivuana Stout Leinoff,I,27
+BRADLEY,,Governor,,Charles E. Smith,I,41
+BRADLEY,,Governor,,Howard M. Switzer,I,11
+BRADLEY,,Governor,,"Carl ""Twofeathers"" Whitaker",I,154
+BRADLEY,,Governor,,Write-in - John Jay Hooker,I,0
+CAMPBELL,,Governor,,Phil Bredesen,D,6793
+CAMPBELL,,Governor,,Jim Bryson,R,3073
+CAMPBELL,,Governor,,George Banks,I,48
+CAMPBELL,,Governor,,David Gatchell,I,23
+CAMPBELL,,Governor,,Marivuana Stout Leinoff,I,17
+CAMPBELL,,Governor,,Charles E. Smith,I,16
+CAMPBELL,,Governor,,Howard M. Switzer,I,8
+CAMPBELL,,Governor,,"Carl ""Twofeathers"" Whitaker",I,83
+CAMPBELL,,Governor,,Write-in - John Jay Hooker,I,0
+CANNON,,Governor,,Phil Bredesen,D,2978
+CANNON,,Governor,,Jim Bryson,R,1167
+CANNON,,Governor,,George Banks,I,29
+CANNON,,Governor,,David Gatchell,I,10
+CANNON,,Governor,,Marivuana Stout Leinoff,I,3
+CANNON,,Governor,,Charles E. Smith,I,7
+CANNON,,Governor,,Howard M. Switzer,I,7
+CANNON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,29
+CANNON,,Governor,,Write-in - John Jay Hooker,I,0
+CARROLL,,Governor,,Phil Bredesen,D,6379
+CARROLL,,Governor,,Jim Bryson,R,2493
+CARROLL,,Governor,,George Banks,I,73
+CARROLL,,Governor,,David Gatchell,I,14
+CARROLL,,Governor,,Marivuana Stout Leinoff,I,10
+CARROLL,,Governor,,Charles E. Smith,I,23
+CARROLL,,Governor,,Howard M. Switzer,I,7
+CARROLL,,Governor,,"Carl ""Twofeathers"" Whitaker",I,78
+CARROLL,,Governor,,Write-in - John Jay Hooker,I,0
+CARTER,,Governor,,Phil Bredesen,D,9211
+CARTER,,Governor,,Jim Bryson,R,6686
+CARTER,,Governor,,George Banks,I,122
+CARTER,,Governor,,David Gatchell,I,36
+CARTER,,Governor,,Marivuana Stout Leinoff,I,20
+CARTER,,Governor,,Charles E. Smith,I,35
+CARTER,,Governor,,Howard M. Switzer,I,9
+CARTER,,Governor,,"Carl ""Twofeathers"" Whitaker",I,147
+CARTER,,Governor,,Write-in - John Jay Hooker,I,0
+CHEATHAM,,Governor,,Phil Bredesen,D,7506
+CHEATHAM,,Governor,,Jim Bryson,R,3824
+CHEATHAM,,Governor,,George Banks,I,46
+CHEATHAM,,Governor,,David Gatchell,I,12
+CHEATHAM,,Governor,,Marivuana Stout Leinoff,I,7
+CHEATHAM,,Governor,,Charles E. Smith,I,13
+CHEATHAM,,Governor,,Howard M. Switzer,I,15
+CHEATHAM,,Governor,,"Carl ""Twofeathers"" Whitaker",I,76
+CHEATHAM,,Governor,,Write-in - John Jay Hooker,I,0
+CHESTER,,Governor,,Phil Bredesen,D,2730
+CHESTER,,Governor,,Jim Bryson,R,1547
+CHESTER,,Governor,,George Banks,I,15
+CHESTER,,Governor,,David Gatchell,I,9
+CHESTER,,Governor,,Marivuana Stout Leinoff,I,5
+CHESTER,,Governor,,Charles E. Smith,I,10
+CHESTER,,Governor,,Howard M. Switzer,I,3
+CHESTER,,Governor,,"Carl ""Twofeathers"" Whitaker",I,44
+CHESTER,,Governor,,Write-in - John Jay Hooker,I,0
+CLAIBORNE,,Governor,,Phil Bredesen,D,4732
+CLAIBORNE,,Governor,,Jim Bryson,R,2693
+CLAIBORNE,,Governor,,George Banks,I,52
+CLAIBORNE,,Governor,,David Gatchell,I,17
+CLAIBORNE,,Governor,,Marivuana Stout Leinoff,I,10
+CLAIBORNE,,Governor,,Charles E. Smith,I,17
+CLAIBORNE,,Governor,,Howard M. Switzer,I,8
+CLAIBORNE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,97
+CLAIBORNE,,Governor,,Write-in - John Jay Hooker,I,0
+CLAY,,Governor,,Phil Bredesen,D,1717
+CLAY,,Governor,,Jim Bryson,R,685
+CLAY,,Governor,,George Banks,I,28
+CLAY,,Governor,,David Gatchell,I,7
+CLAY,,Governor,,Marivuana Stout Leinoff,I,2
+CLAY,,Governor,,Charles E. Smith,I,13
+CLAY,,Governor,,Howard M. Switzer,I,2
+CLAY,,Governor,,"Carl ""Twofeathers"" Whitaker",I,28
+CLAY,,Governor,,Write-in - John Jay Hooker,I,0
+COCKE,,Governor,,Phil Bredesen,D,5741
+COCKE,,Governor,,Jim Bryson,R,3752
+COCKE,,Governor,,George Banks,I,66
+COCKE,,Governor,,David Gatchell,I,16
+COCKE,,Governor,,Marivuana Stout Leinoff,I,18
+COCKE,,Governor,,Charles E. Smith,I,29
+COCKE,,Governor,,Howard M. Switzer,I,9
+COCKE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,73
+COCKE,,Governor,,Write-in - John Jay Hooker,I,0
+COFFEE,,Governor,,Phil Bredesen,D,10498
+COFFEE,,Governor,,Jim Bryson,R,4534
+COFFEE,,Governor,,George Banks,I,81
+COFFEE,,Governor,,David Gatchell,I,21
+COFFEE,,Governor,,Marivuana Stout Leinoff,I,14
+COFFEE,,Governor,,Charles E. Smith,I,36
+COFFEE,,Governor,,Howard M. Switzer,I,21
+COFFEE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,145
+COFFEE,,Governor,,Write-in - John Jay Hooker,I,0
+CROCKETT,,Governor,,Phil Bredesen,D,3299
+CROCKETT,,Governor,,Jim Bryson,R,1090
+CROCKETT,,Governor,,George Banks,I,19
+CROCKETT,,Governor,,David Gatchell,I,13
+CROCKETT,,Governor,,Marivuana Stout Leinoff,I,5
+CROCKETT,,Governor,,Charles E. Smith,I,12
+CROCKETT,,Governor,,Howard M. Switzer,I,6
+CROCKETT,,Governor,,"Carl ""Twofeathers"" Whitaker",I,16
+CROCKETT,,Governor,,Write-in - John Jay Hooker,I,0
+CUMBERLAND,,Governor,,Phil Bredesen,D,11741
+CUMBERLAND,,Governor,,Jim Bryson,R,7172
+CUMBERLAND,,Governor,,George Banks,I,78
+CUMBERLAND,,Governor,,David Gatchell,I,15
+CUMBERLAND,,Governor,,Marivuana Stout Leinoff,I,24
+CUMBERLAND,,Governor,,Charles E. Smith,I,24
+CUMBERLAND,,Governor,,Howard M. Switzer,I,17
+CUMBERLAND,,Governor,,"Carl ""Twofeathers"" Whitaker",I,95
+CUMBERLAND,,Governor,,Write-in - John Jay Hooker,I,0
+DAVIDSON,,Governor,,Phil Bredesen,D,132712
+DAVIDSON,,Governor,,Jim Bryson,R,38977
+DAVIDSON,,Governor,,George Banks,I,505
+DAVIDSON,,Governor,,David Gatchell,I,186
+DAVIDSON,,Governor,,Marivuana Stout Leinoff,I,246
+DAVIDSON,,Governor,,Charles E. Smith,I,319
+DAVIDSON,,Governor,,Howard M. Switzer,I,612
+DAVIDSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,1174
+DAVIDSON,,Governor,,Write-in - John Jay Hooker,I,5
+DECATUR,,Governor,,Phil Bredesen,D,2791
+DECATUR,,Governor,,Jim Bryson,R,1068
+DECATUR,,Governor,,George Banks,I,36
+DECATUR,,Governor,,David Gatchell,I,4
+DECATUR,,Governor,,Marivuana Stout Leinoff,I,2
+DECATUR,,Governor,,Charles E. Smith,I,9
+DECATUR,,Governor,,Howard M. Switzer,I,5
+DECATUR,,Governor,,"Carl ""Twofeathers"" Whitaker",I,30
+DECATUR,,Governor,,Write-in - John Jay Hooker,I,0
+DEKALB,,Governor,,Phil Bredesen,D,3848
+DEKALB,,Governor,,Jim Bryson,R,1559
+DEKALB,,Governor,,George Banks,I,38
+DEKALB,,Governor,,David Gatchell,I,9
+DEKALB,,Governor,,Marivuana Stout Leinoff,I,10
+DEKALB,,Governor,,Charles E. Smith,I,6
+DEKALB,,Governor,,Howard M. Switzer,I,8
+DEKALB,,Governor,,"Carl ""Twofeathers"" Whitaker",I,33
+DEKALB,,Governor,,Write-in - John Jay Hooker,I,0
+DICKSON,,Governor,,Phil Bredesen,D,10016
+DICKSON,,Governor,,Jim Bryson,R,4164
+DICKSON,,Governor,,George Banks,I,73
+DICKSON,,Governor,,David Gatchell,I,17
+DICKSON,,Governor,,Marivuana Stout Leinoff,I,18
+DICKSON,,Governor,,Charles E. Smith,I,26
+DICKSON,,Governor,,Howard M. Switzer,I,15
+DICKSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,99
+DICKSON,,Governor,,Write-in - John Jay Hooker,I,0
+DYER,,Governor,,Phil Bredesen,D,7642
+DYER,,Governor,,Jim Bryson,R,3130
+DYER,,Governor,,George Banks,I,81
+DYER,,Governor,,David Gatchell,I,28
+DYER,,Governor,,Marivuana Stout Leinoff,I,10
+DYER,,Governor,,Charles E. Smith,I,26
+DYER,,Governor,,Howard M. Switzer,I,22
+DYER,,Governor,,"Carl ""Twofeathers"" Whitaker",I,61
+DYER,,Governor,,Write-in - John Jay Hooker,I,0
+FAYETTE,,Governor,,Phil Bredesen,D,7701
+FAYETTE,,Governor,,Jim Bryson,R,4599
+FAYETTE,,Governor,,George Banks,I,50
+FAYETTE,,Governor,,David Gatchell,I,20
+FAYETTE,,Governor,,Marivuana Stout Leinoff,I,10
+FAYETTE,,Governor,,Charles E. Smith,I,21
+FAYETTE,,Governor,,Howard M. Switzer,I,8
+FAYETTE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,58
+FAYETTE,,Governor,,Write-in - John Jay Hooker,I,0
+FENTRESS,,Governor,,Phil Bredesen,D,2859
+FENTRESS,,Governor,,Jim Bryson,R,2207
+FENTRESS,,Governor,,George Banks,I,30
+FENTRESS,,Governor,,David Gatchell,I,5
+FENTRESS,,Governor,,Marivuana Stout Leinoff,I,7
+FENTRESS,,Governor,,Charles E. Smith,I,13
+FENTRESS,,Governor,,Howard M. Switzer,I,3
+FENTRESS,,Governor,,"Carl ""Twofeathers"" Whitaker",I,33
+FENTRESS,,Governor,,Write-in - John Jay Hooker,I,0
+FRANKLIN,,Governor,,Phil Bredesen,D,9179
+FRANKLIN,,Governor,,Jim Bryson,R,3430
+FRANKLIN,,Governor,,George Banks,I,57
+FRANKLIN,,Governor,,David Gatchell,I,14
+FRANKLIN,,Governor,,Marivuana Stout Leinoff,I,4
+FRANKLIN,,Governor,,Charles E. Smith,I,21
+FRANKLIN,,Governor,,Howard M. Switzer,I,17
+FRANKLIN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,59
+FRANKLIN,,Governor,,Write-in - John Jay Hooker,I,0
+GIBSON,,Governor,,Phil Bredesen,D,11473
+GIBSON,,Governor,,Jim Bryson,R,3890
+GIBSON,,Governor,,George Banks,I,80
+GIBSON,,Governor,,David Gatchell,I,25
+GIBSON,,Governor,,Marivuana Stout Leinoff,I,24
+GIBSON,,Governor,,Charles E. Smith,I,28
+GIBSON,,Governor,,Howard M. Switzer,I,12
+GIBSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,60
+GIBSON,,Governor,,Write-in - John Jay Hooker,I,0
+GILES,,Governor,,Phil Bredesen,D,6135
+GILES,,Governor,,Jim Bryson,R,2243
+GILES,,Governor,,George Banks,I,48
+GILES,,Governor,,David Gatchell,I,8
+GILES,,Governor,,Marivuana Stout Leinoff,I,9
+GILES,,Governor,,Charles E. Smith,I,17
+GILES,,Governor,,Howard M. Switzer,I,16
+GILES,,Governor,,"Carl ""Twofeathers"" Whitaker",I,48
+GILES,,Governor,,Write-in - John Jay Hooker,I,0
+GRAINGER,,Governor,,Phil Bredesen,D,3289
+GRAINGER,,Governor,,Jim Bryson,R,2100
+GRAINGER,,Governor,,George Banks,I,33
+GRAINGER,,Governor,,David Gatchell,I,6
+GRAINGER,,Governor,,Marivuana Stout Leinoff,I,4
+GRAINGER,,Governor,,Charles E. Smith,I,15
+GRAINGER,,Governor,,Howard M. Switzer,I,3
+GRAINGER,,Governor,,"Carl ""Twofeathers"" Whitaker",I,57
+GRAINGER,,Governor,,Write-in - John Jay Hooker,I,0
+GREENE,,Governor,,Phil Bredesen,D,10669
+GREENE,,Governor,,Jim Bryson,R,7376
+GREENE,,Governor,,George Banks,I,88
+GREENE,,Governor,,David Gatchell,I,34
+GREENE,,Governor,,Marivuana Stout Leinoff,I,15
+GREENE,,Governor,,Charles E. Smith,I,40
+GREENE,,Governor,,Howard M. Switzer,I,34
+GREENE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,159
+GREENE,,Governor,,Write-in - John Jay Hooker,I,0
+GRUNDY,,Governor,,Phil Bredesen,D,2692
+GRUNDY,,Governor,,Jim Bryson,R,1024
+GRUNDY,,Governor,,George Banks,I,54
+GRUNDY,,Governor,,David Gatchell,I,15
+GRUNDY,,Governor,,Marivuana Stout Leinoff,I,7
+GRUNDY,,Governor,,Charles E. Smith,I,10
+GRUNDY,,Governor,,Howard M. Switzer,I,5
+GRUNDY,,Governor,,"Carl ""Twofeathers"" Whitaker",I,34
+GRUNDY,,Governor,,Write-in - John Jay Hooker,I,0
+HAMBLEN,,Governor,,Phil Bredesen,D,10377
+HAMBLEN,,Governor,,Jim Bryson,R,6057
+HAMBLEN,,Governor,,George Banks,I,57
+HAMBLEN,,Governor,,David Gatchell,I,17
+HAMBLEN,,Governor,,Marivuana Stout Leinoff,I,7
+HAMBLEN,,Governor,,Charles E. Smith,I,13
+HAMBLEN,,Governor,,Howard M. Switzer,I,12
+HAMBLEN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,116
+HAMBLEN,,Governor,,Write-in - John Jay Hooker,I,0
+HAMILTON,,Governor,,Phil Bredesen,D,75261
+HAMILTON,,Governor,,Jim Bryson,R,30482
+HAMILTON,,Governor,,George Banks,I,277
+HAMILTON,,Governor,,David Gatchell,I,90
+HAMILTON,,Governor,,Marivuana Stout Leinoff,I,89
+HAMILTON,,Governor,,Charles E. Smith,I,127
+HAMILTON,,Governor,,Howard M. Switzer,I,113
+HAMILTON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,674
+HAMILTON,,Governor,,Write-in - John Jay Hooker,I,0
+HANCOCK,,Governor,,Phil Bredesen,D,960
+HANCOCK,,Governor,,Jim Bryson,R,880
+HANCOCK,,Governor,,George Banks,I,12
+HANCOCK,,Governor,,David Gatchell,I,2
+HANCOCK,,Governor,,Marivuana Stout Leinoff,I,3
+HANCOCK,,Governor,,Charles E. Smith,I,3
+HANCOCK,,Governor,,Howard M. Switzer,I,1
+HANCOCK,,Governor,,"Carl ""Twofeathers"" Whitaker",I,29
+HANCOCK,,Governor,,Write-in - John Jay Hooker,I,0
+HARDEMAN,,Governor,,Phil Bredesen,D,5895
+HARDEMAN,,Governor,,Jim Bryson,R,1740
+HARDEMAN,,Governor,,George Banks,I,55
+HARDEMAN,,Governor,,David Gatchell,I,16
+HARDEMAN,,Governor,,Marivuana Stout Leinoff,I,2
+HARDEMAN,,Governor,,Charles E. Smith,I,32
+HARDEMAN,,Governor,,Howard M. Switzer,I,16
+HARDEMAN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,42
+HARDEMAN,,Governor,,Write-in - John Jay Hooker,I,0
+HARDIN,,Governor,,Phil Bredesen,D,4666
+HARDIN,,Governor,,Jim Bryson,R,2516
+HARDIN,,Governor,,George Banks,I,48
+HARDIN,,Governor,,David Gatchell,I,13
+HARDIN,,Governor,,Marivuana Stout Leinoff,I,3
+HARDIN,,Governor,,Charles E. Smith,I,18
+HARDIN,,Governor,,Howard M. Switzer,I,10
+HARDIN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,59
+HARDIN,,Governor,,Write-in - John Jay Hooker,I,0
+HAWKINS,,Governor,,Phil Bredesen,D,8903
+HAWKINS,,Governor,,Jim Bryson,R,5552
+HAWKINS,,Governor,,George Banks,I,63
+HAWKINS,,Governor,,David Gatchell,I,18
+HAWKINS,,Governor,,Marivuana Stout Leinoff,I,15
+HAWKINS,,Governor,,Charles E. Smith,I,26
+HAWKINS,,Governor,,Howard M. Switzer,I,13
+HAWKINS,,Governor,,"Carl ""Twofeathers"" Whitaker",I,163
+HAWKINS,,Governor,,Write-in - John Jay Hooker,I,0
+HAYWOOD,,Governor,,Phil Bredesen,D,4722
+HAYWOOD,,Governor,,Jim Bryson,R,1093
+HAYWOOD,,Governor,,George Banks,I,32
+HAYWOOD,,Governor,,David Gatchell,I,6
+HAYWOOD,,Governor,,Marivuana Stout Leinoff,I,7
+HAYWOOD,,Governor,,Charles E. Smith,I,16
+HAYWOOD,,Governor,,Howard M. Switzer,I,7
+HAYWOOD,,Governor,,"Carl ""Twofeathers"" Whitaker",I,22
+HAYWOOD,,Governor,,Write-in - John Jay Hooker,I,0
+HENDERSON,,Governor,,Phil Bredesen,D,5293
+HENDERSON,,Governor,,Jim Bryson,R,3072
+HENDERSON,,Governor,,George Banks,I,63
+HENDERSON,,Governor,,David Gatchell,I,17
+HENDERSON,,Governor,,Marivuana Stout Leinoff,I,15
+HENDERSON,,Governor,,Charles E. Smith,I,28
+HENDERSON,,Governor,,Howard M. Switzer,I,10
+HENDERSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,75
+HENDERSON,,Governor,,Write-in - John Jay Hooker,I,0
+HENRY,,Governor,,Phil Bredesen,D,7289
+HENRY,,Governor,,Jim Bryson,R,2402
+HENRY,,Governor,,George Banks,I,60
+HENRY,,Governor,,David Gatchell,I,17
+HENRY,,Governor,,Marivuana Stout Leinoff,I,10
+HENRY,,Governor,,Charles E. Smith,I,14
+HENRY,,Governor,,Howard M. Switzer,I,9
+HENRY,,Governor,,"Carl ""Twofeathers"" Whitaker",I,59
+HENRY,,Governor,,Write-in - John Jay Hooker,I,0
+HICKMAN,,Governor,,Phil Bredesen,D,4714
+HICKMAN,,Governor,,Jim Bryson,R,1844
+HICKMAN,,Governor,,George Banks,I,45
+HICKMAN,,Governor,,David Gatchell,I,7
+HICKMAN,,Governor,,Marivuana Stout Leinoff,I,9
+HICKMAN,,Governor,,Charles E. Smith,I,9
+HICKMAN,,Governor,,Howard M. Switzer,I,9
+HICKMAN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,51
+HICKMAN,,Governor,,Write-in - John Jay Hooker,I,0
+HOUSTON,,Governor,,Phil Bredesen,D,2111
+HOUSTON,,Governor,,Jim Bryson,R,567
+HOUSTON,,Governor,,George Banks,I,11
+HOUSTON,,Governor,,David Gatchell,I,6
+HOUSTON,,Governor,,Marivuana Stout Leinoff,I,1
+HOUSTON,,Governor,,Charles E. Smith,I,5
+HOUSTON,,Governor,,Howard M. Switzer,I,0
+HOUSTON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,16
+HOUSTON,,Governor,,Write-in - John Jay Hooker,I,0
+HUMPHREYS,,Governor,,Phil Bredesen,D,4824
+HUMPHREYS,,Governor,,Jim Bryson,R,1354
+HUMPHREYS,,Governor,,George Banks,I,22
+HUMPHREYS,,Governor,,David Gatchell,I,6
+HUMPHREYS,,Governor,,Marivuana Stout Leinoff,I,2
+HUMPHREYS,,Governor,,Charles E. Smith,I,11
+HUMPHREYS,,Governor,,Howard M. Switzer,I,7
+HUMPHREYS,,Governor,,"Carl ""Twofeathers"" Whitaker",I,46
+HUMPHREYS,,Governor,,Write-in - John Jay Hooker,I,0
+JACKSON,,Governor,,Phil Bredesen,D,2895
+JACKSON,,Governor,,Jim Bryson,R,924
+JACKSON,,Governor,,George Banks,I,23
+JACKSON,,Governor,,David Gatchell,I,12
+JACKSON,,Governor,,Marivuana Stout Leinoff,I,11
+JACKSON,,Governor,,Charles E. Smith,I,12
+JACKSON,,Governor,,Howard M. Switzer,I,11
+JACKSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,26
+JACKSON,,Governor,,Write-in - John Jay Hooker,I,0
+JEFFERSON,,Governor,,Phil Bredesen,D,8307
+JEFFERSON,,Governor,,Jim Bryson,R,4782
+JEFFERSON,,Governor,,George Banks,I,60
+JEFFERSON,,Governor,,David Gatchell,I,15
+JEFFERSON,,Governor,,Marivuana Stout Leinoff,I,16
+JEFFERSON,,Governor,,Charles E. Smith,I,13
+JEFFERSON,,Governor,,Howard M. Switzer,I,8
+JEFFERSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,86
+JEFFERSON,,Governor,,Write-in - John Jay Hooker,I,0
+JOHNSON,,Governor,,Phil Bredesen,D,2491
+JOHNSON,,Governor,,Jim Bryson,R,2214
+JOHNSON,,Governor,,George Banks,I,32
+JOHNSON,,Governor,,David Gatchell,I,19
+JOHNSON,,Governor,,Marivuana Stout Leinoff,I,16
+JOHNSON,,Governor,,Charles E. Smith,I,6
+JOHNSON,,Governor,,Howard M. Switzer,I,8
+JOHNSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,41
+JOHNSON,,Governor,,Write-in - John Jay Hooker,I,0
+KNOX,,Governor,,Phil Bredesen,D,87537
+KNOX,,Governor,,Jim Bryson,R,33266
+KNOX,,Governor,,George Banks,I,364
+KNOX,,Governor,,David Gatchell,I,107
+KNOX,,Governor,,Marivuana Stout Leinoff,I,124
+KNOX,,Governor,,Charles E. Smith,I,119
+KNOX,,Governor,,Howard M. Switzer,I,245
+KNOX,,Governor,,"Carl ""Twofeathers"" Whitaker",I,742
+KNOX,,Governor,,Write-in - John Jay Hooker,I,0
+LAKE,,Governor,,Phil Bredesen,D,1252
+LAKE,,Governor,,Jim Bryson,R,257
+LAKE,,Governor,,George Banks,I,10
+LAKE,,Governor,,David Gatchell,I,5
+LAKE,,Governor,,Marivuana Stout Leinoff,I,0
+LAKE,,Governor,,Charles E. Smith,I,1
+LAKE,,Governor,,Howard M. Switzer,I,4
+LAKE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,15
+LAKE,,Governor,,Write-in - John Jay Hooker,I,0
+LAUDERDALE,,Governor,,Phil Bredesen,D,5146
+LAUDERDALE,,Governor,,Jim Bryson,R,1567
+LAUDERDALE,,Governor,,George Banks,I,35
+LAUDERDALE,,Governor,,David Gatchell,I,27
+LAUDERDALE,,Governor,,Marivuana Stout Leinoff,I,8
+LAUDERDALE,,Governor,,Charles E. Smith,I,15
+LAUDERDALE,,Governor,,Howard M. Switzer,I,4
+LAUDERDALE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,57
+LAUDERDALE,,Governor,,Write-in - John Jay Hooker,I,0
+LAWRENCE,,Governor,,Phil Bredesen,D,7843
+LAWRENCE,,Governor,,Jim Bryson,R,4399
+LAWRENCE,,Governor,,George Banks,I,62
+LAWRENCE,,Governor,,David Gatchell,I,22
+LAWRENCE,,Governor,,Marivuana Stout Leinoff,I,18
+LAWRENCE,,Governor,,Charles E. Smith,I,22
+LAWRENCE,,Governor,,Howard M. Switzer,I,22
+LAWRENCE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,70
+LAWRENCE,,Governor,,Write-in - John Jay Hooker,I,0
+LEWIS,,Governor,,Phil Bredesen,D,2506
+LEWIS,,Governor,,Jim Bryson,R,1297
+LEWIS,,Governor,,George Banks,I,30
+LEWIS,,Governor,,David Gatchell,I,11
+LEWIS,,Governor,,Marivuana Stout Leinoff,I,8
+LEWIS,,Governor,,Charles E. Smith,I,8
+LEWIS,,Governor,,Howard M. Switzer,I,59
+LEWIS,,Governor,,"Carl ""Twofeathers"" Whitaker",I,29
+LEWIS,,Governor,,Write-in - John Jay Hooker,I,0
+LINCOLN,,Governor,,Phil Bredesen,D,4890
+LINCOLN,,Governor,,Jim Bryson,R,3059
+LINCOLN,,Governor,,George Banks,I,46
+LINCOLN,,Governor,,David Gatchell,I,16
+LINCOLN,,Governor,,Marivuana Stout Leinoff,I,8
+LINCOLN,,Governor,,Charles E. Smith,I,16
+LINCOLN,,Governor,,Howard M. Switzer,I,11
+LINCOLN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,64
+LINCOLN,,Governor,,Write-in - John Jay Hooker,I,0
+LOUDON,,Governor,,Phil Bredesen,D,10797
+LOUDON,,Governor,,Jim Bryson,R,5257
+LOUDON,,Governor,,George Banks,I,62
+LOUDON,,Governor,,David Gatchell,I,11
+LOUDON,,Governor,,Marivuana Stout Leinoff,I,5
+LOUDON,,Governor,,Charles E. Smith,I,23
+LOUDON,,Governor,,Howard M. Switzer,I,15
+LOUDON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,126
+LOUDON,,Governor,,Write-in - John Jay Hooker,I,0
+MACON,,Governor,,Phil Bredesen,D,3507
+MACON,,Governor,,Jim Bryson,R,1917
+MACON,,Governor,,George Banks,I,35
+MACON,,Governor,,David Gatchell,I,5
+MACON,,Governor,,Marivuana Stout Leinoff,I,4
+MACON,,Governor,,Charles E. Smith,I,12
+MACON,,Governor,,Howard M. Switzer,I,2
+MACON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,27
+MACON,,Governor,,Write-in - John Jay Hooker,I,0
+MADISON,,Governor,,Phil Bredesen,D,21889
+MADISON,,Governor,,Jim Bryson,R,7771
+MADISON,,Governor,,George Banks,I,72
+MADISON,,Governor,,David Gatchell,I,33
+MADISON,,Governor,,Marivuana Stout Leinoff,I,26
+MADISON,,Governor,,Charles E. Smith,I,47
+MADISON,,Governor,,Howard M. Switzer,I,27
+MADISON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,144
+MADISON,,Governor,,Write-in - John Jay Hooker,I,0
+MARION,,Governor,,Phil Bredesen,D,6162
+MARION,,Governor,,Jim Bryson,R,2407
+MARION,,Governor,,George Banks,I,75
+MARION,,Governor,,David Gatchell,I,13
+MARION,,Governor,,Marivuana Stout Leinoff,I,8
+MARION,,Governor,,Charles E. Smith,I,29
+MARION,,Governor,,Howard M. Switzer,I,14
+MARION,,Governor,,"Carl ""Twofeathers"" Whitaker",I,94
+MARION,,Governor,,Write-in - John Jay Hooker,I,0
+MARSHALL,,Governor,,Phil Bredesen,D,6050
+MARSHALL,,Governor,,Jim Bryson,R,2178
+MARSHALL,,Governor,,George Banks,I,46
+MARSHALL,,Governor,,David Gatchell,I,7
+MARSHALL,,Governor,,Marivuana Stout Leinoff,I,11
+MARSHALL,,Governor,,Charles E. Smith,I,12
+MARSHALL,,Governor,,Howard M. Switzer,I,5
+MARSHALL,,Governor,,"Carl ""Twofeathers"" Whitaker",I,50
+MARSHALL,,Governor,,Write-in - John Jay Hooker,I,0
+MAURY,,Governor,,Phil Bredesen,D,16274
+MAURY,,Governor,,Jim Bryson,R,6778
+MAURY,,Governor,,George Banks,I,66
+MAURY,,Governor,,David Gatchell,I,23
+MAURY,,Governor,,Marivuana Stout Leinoff,I,14
+MAURY,,Governor,,Charles E. Smith,I,40
+MAURY,,Governor,,Howard M. Switzer,I,27
+MAURY,,Governor,,"Carl ""Twofeathers"" Whitaker",I,106
+MAURY,,Governor,,Write-in - John Jay Hooker,I,0
+MCMINN,,Governor,,Phil Bredesen,D,8299
+MCMINN,,Governor,,Jim Bryson,R,5195
+MCMINN,,Governor,,George Banks,I,86
+MCMINN,,Governor,,David Gatchell,I,18
+MCMINN,,Governor,,Marivuana Stout Leinoff,I,11
+MCMINN,,Governor,,Charles E. Smith,I,22
+MCMINN,,Governor,,Howard M. Switzer,I,7
+MCMINN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,129
+MCMINN,,Governor,,Write-in - John Jay Hooker,I,0
+MCNAIRY,,Governor,,Phil Bredesen,D,4855
+MCNAIRY,,Governor,,Jim Bryson,R,2708
+MCNAIRY,,Governor,,George Banks,I,48
+MCNAIRY,,Governor,,David Gatchell,I,18
+MCNAIRY,,Governor,,Marivuana Stout Leinoff,I,4
+MCNAIRY,,Governor,,Charles E. Smith,I,42
+MCNAIRY,,Governor,,Howard M. Switzer,I,10
+MCNAIRY,,Governor,,"Carl ""Twofeathers"" Whitaker",I,60
+MCNAIRY,,Governor,,Write-in - John Jay Hooker,I,0
+MEIGS,,Governor,,Phil Bredesen,D,2046
+MEIGS,,Governor,,Jim Bryson,R,1156
+MEIGS,,Governor,,George Banks,I,21
+MEIGS,,Governor,,David Gatchell,I,7
+MEIGS,,Governor,,Marivuana Stout Leinoff,I,2
+MEIGS,,Governor,,Charles E. Smith,I,4
+MEIGS,,Governor,,Howard M. Switzer,I,5
+MEIGS,,Governor,,"Carl ""Twofeathers"" Whitaker",I,25
+MEIGS,,Governor,,Write-in - John Jay Hooker,I,0
+MONROE,,Governor,,Phil Bredesen,D,7484
+MONROE,,Governor,,Jim Bryson,R,4876
+MONROE,,Governor,,George Banks,I,38
+MONROE,,Governor,,David Gatchell,I,14
+MONROE,,Governor,,Marivuana Stout Leinoff,I,11
+MONROE,,Governor,,Charles E. Smith,I,14
+MONROE,,Governor,,Howard M. Switzer,I,8
+MONROE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,78
+MONROE,,Governor,,Write-in - John Jay Hooker,I,0
+MONTGOMERY,,Governor,,Phil Bredesen,D,25465
+MONTGOMERY,,Governor,,Jim Bryson,R,9185
+MONTGOMERY,,Governor,,George Banks,I,188
+MONTGOMERY,,Governor,,David Gatchell,I,43
+MONTGOMERY,,Governor,,Marivuana Stout Leinoff,I,49
+MONTGOMERY,,Governor,,Charles E. Smith,I,684
+MONTGOMERY,,Governor,,Howard M. Switzer,I,37
+MONTGOMERY,,Governor,,"Carl ""Twofeathers"" Whitaker",I,199
+MONTGOMERY,,Governor,,Write-in - John Jay Hooker,I,0
+MOORE,,Governor,,Phil Bredesen,D,1388
+MOORE,,Governor,,Jim Bryson,R,700
+MOORE,,Governor,,George Banks,I,13
+MOORE,,Governor,,David Gatchell,I,5
+MOORE,,Governor,,Marivuana Stout Leinoff,I,3
+MOORE,,Governor,,Charles E. Smith,I,0
+MOORE,,Governor,,Howard M. Switzer,I,0
+MOORE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,22
+MOORE,,Governor,,Write-in - John Jay Hooker,I,0
+MORGAN,,Governor,,Phil Bredesen,D,3454
+MORGAN,,Governor,,Jim Bryson,R,1507
+MORGAN,,Governor,,George Banks,I,25
+MORGAN,,Governor,,David Gatchell,I,7
+MORGAN,,Governor,,Marivuana Stout Leinoff,I,3
+MORGAN,,Governor,,Charles E. Smith,I,15
+MORGAN,,Governor,,Howard M. Switzer,I,2
+MORGAN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,36
+MORGAN,,Governor,,Write-in - John Jay Hooker,I,0
+OBION,,Governor,,Phil Bredesen,D,7539
+OBION,,Governor,,Jim Bryson,R,2049
+OBION,,Governor,,George Banks,I,53
+OBION,,Governor,,David Gatchell,I,8
+OBION,,Governor,,Marivuana Stout Leinoff,I,5
+OBION,,Governor,,Charles E. Smith,I,34
+OBION,,Governor,,Howard M. Switzer,I,15
+OBION,,Governor,,"Carl ""Twofeathers"" Whitaker",I,98
+OBION,,Governor,,Write-in - John Jay Hooker,I,0
+OVERTON,,Governor,,Phil Bredesen,D,4820
+OVERTON,,Governor,,Jim Bryson,R,1645
+OVERTON,,Governor,,George Banks,I,40
+OVERTON,,Governor,,David Gatchell,I,15
+OVERTON,,Governor,,Marivuana Stout Leinoff,I,6
+OVERTON,,Governor,,Charles E. Smith,I,12
+OVERTON,,Governor,,Howard M. Switzer,I,4
+OVERTON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,25
+OVERTON,,Governor,,Write-in - John Jay Hooker,I,0
+PERRY,,Governor,,Phil Bredesen,D,1673
+PERRY,,Governor,,Jim Bryson,R,600
+PERRY,,Governor,,George Banks,I,12
+PERRY,,Governor,,David Gatchell,I,3
+PERRY,,Governor,,Marivuana Stout Leinoff,I,4
+PERRY,,Governor,,Charles E. Smith,I,2
+PERRY,,Governor,,Howard M. Switzer,I,25
+PERRY,,Governor,,"Carl ""Twofeathers"" Whitaker",I,17
+PERRY,,Governor,,Write-in - John Jay Hooker,I,0
+PICKETT,,Governor,,Phil Bredesen,D,1205
+PICKETT,,Governor,,Jim Bryson,R,890
+PICKETT,,Governor,,George Banks,I,6
+PICKETT,,Governor,,David Gatchell,I,2
+PICKETT,,Governor,,Marivuana Stout Leinoff,I,3
+PICKETT,,Governor,,Charles E. Smith,I,3
+PICKETT,,Governor,,Howard M. Switzer,I,1
+PICKETT,,Governor,,"Carl ""Twofeathers"" Whitaker",I,20
+PICKETT,,Governor,,Write-in - John Jay Hooker,I,0
+POLK,,Governor,,Phil Bredesen,D,3218
+POLK,,Governor,,Jim Bryson,R,1772
+POLK,,Governor,,George Banks,I,44
+POLK,,Governor,,David Gatchell,I,5
+POLK,,Governor,,Marivuana Stout Leinoff,I,8
+POLK,,Governor,,Charles E. Smith,I,8
+POLK,,Governor,,Howard M. Switzer,I,2
+POLK,,Governor,,"Carl ""Twofeathers"" Whitaker",I,62
+POLK,,Governor,,Write-in - John Jay Hooker,I,0
+PUTNAM,,Governor,,Phil Bredesen,D,13830
+PUTNAM,,Governor,,Jim Bryson,R,5879
+PUTNAM,,Governor,,George Banks,I,120
+PUTNAM,,Governor,,David Gatchell,I,24
+PUTNAM,,Governor,,Marivuana Stout Leinoff,I,23
+PUTNAM,,Governor,,Charles E. Smith,I,38
+PUTNAM,,Governor,,Howard M. Switzer,I,39
+PUTNAM,,Governor,,"Carl ""Twofeathers"" Whitaker",I,113
+PUTNAM,,Governor,,Write-in - John Jay Hooker,I,2
+RHEA,,Governor,,Phil Bredesen,D,5004
+RHEA,,Governor,,Jim Bryson,R,3297
+RHEA,,Governor,,George Banks,I,41
+RHEA,,Governor,,David Gatchell,I,5
+RHEA,,Governor,,Marivuana Stout Leinoff,I,4
+RHEA,,Governor,,Charles E. Smith,I,20
+RHEA,,Governor,,Howard M. Switzer,I,7
+RHEA,,Governor,,"Carl ""Twofeathers"" Whitaker",I,88
+RHEA,,Governor,,Write-in - John Jay Hooker,I,0
+ROANE,,Governor,,Phil Bredesen,D,12389
+ROANE,,Governor,,Jim Bryson,R,4807
+ROANE,,Governor,,George Banks,I,82
+ROANE,,Governor,,David Gatchell,I,18
+ROANE,,Governor,,Marivuana Stout Leinoff,I,13
+ROANE,,Governor,,Charles E. Smith,I,31
+ROANE,,Governor,,Howard M. Switzer,I,9
+ROANE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,162
+ROANE,,Governor,,Write-in - John Jay Hooker,I,0
+ROBERTSON,,Governor,,Phil Bredesen,D,12664
+ROBERTSON,,Governor,,Jim Bryson,R,5995
+ROBERTSON,,Governor,,George Banks,I,67
+ROBERTSON,,Governor,,David Gatchell,I,27
+ROBERTSON,,Governor,,Marivuana Stout Leinoff,I,15
+ROBERTSON,,Governor,,Charles E. Smith,I,22
+ROBERTSON,,Governor,,Howard M. Switzer,I,14
+ROBERTSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,57
+ROBERTSON,,Governor,,Write-in - John Jay Hooker,I,0
+RUTHERFORD,,Governor,,Phil Bredesen,D,40034
+RUTHERFORD,,Governor,,Jim Bryson,R,20535
+RUTHERFORD,,Governor,,George Banks,I,224
+RUTHERFORD,,Governor,,David Gatchell,I,75
+RUTHERFORD,,Governor,,Marivuana Stout Leinoff,I,73
+RUTHERFORD,,Governor,,Charles E. Smith,I,70
+RUTHERFORD,,Governor,,Howard M. Switzer,I,108
+RUTHERFORD,,Governor,,"Carl ""Twofeathers"" Whitaker",I,252
+RUTHERFORD,,Governor,,Write-in - John Jay Hooker,I,0
+SCOTT,,Governor,,Phil Bredesen,D,3230
+SCOTT,,Governor,,Jim Bryson,R,1931
+SCOTT,,Governor,,George Banks,I,47
+SCOTT,,Governor,,David Gatchell,I,14
+SCOTT,,Governor,,Marivuana Stout Leinoff,I,10
+SCOTT,,Governor,,Charles E. Smith,I,15
+SCOTT,,Governor,,Howard M. Switzer,I,2
+SCOTT,,Governor,,"Carl ""Twofeathers"" Whitaker",I,35
+SCOTT,,Governor,,Write-in - John Jay Hooker,I,0
+SEQUATCHIE,,Governor,,Phil Bredesen,D,2761
+SEQUATCHIE,,Governor,,Jim Bryson,R,1351
+SEQUATCHIE,,Governor,,George Banks,I,32
+SEQUATCHIE,,Governor,,David Gatchell,I,12
+SEQUATCHIE,,Governor,,Marivuana Stout Leinoff,I,4
+SEQUATCHIE,,Governor,,Charles E. Smith,I,9
+SEQUATCHIE,,Governor,,Howard M. Switzer,I,7
+SEQUATCHIE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,39
+SEQUATCHIE,,Governor,,Write-in - John Jay Hooker,I,0
+SEVIER,,Governor,,Phil Bredesen,D,13355
+SEVIER,,Governor,,Jim Bryson,R,9023
+SEVIER,,Governor,,George Banks,I,83
+SEVIER,,Governor,,David Gatchell,I,31
+SEVIER,,Governor,,Marivuana Stout Leinoff,I,23
+SEVIER,,Governor,,Charles E. Smith,I,40
+SEVIER,,Governor,,Howard M. Switzer,I,33
+SEVIER,,Governor,,"Carl ""Twofeathers"" Whitaker",I,241
+SEVIER,,Governor,,Write-in - John Jay Hooker,I,0
+SHELBY,,Governor,,Phil Bredesen,D,210470
+SHELBY,,Governor,,Jim Bryson,R,64593
+SHELBY,,Governor,,George Banks,I,1147
+SHELBY,,Governor,,David Gatchell,I,437
+SHELBY,,Governor,,Marivuana Stout Leinoff,I,542
+SHELBY,,Governor,,Charles E. Smith,I,828
+SHELBY,,Governor,,Howard M. Switzer,I,426
+SHELBY,,Governor,,"Carl ""Twofeathers"" Whitaker",I,1223
+SHELBY,,Governor,,Write-in - John Jay Hooker,I,0
+SMITH,,Governor,,Phil Bredesen,D,4719
+SMITH,,Governor,,Jim Bryson,R,1531
+SMITH,,Governor,,George Banks,I,28
+SMITH,,Governor,,David Gatchell,I,8
+SMITH,,Governor,,Marivuana Stout Leinoff,I,10
+SMITH,,Governor,,Charles E. Smith,I,10
+SMITH,,Governor,,Howard M. Switzer,I,2
+SMITH,,Governor,,"Carl ""Twofeathers"" Whitaker",I,29
+SMITH,,Governor,,Write-in - John Jay Hooker,I,0
+STEWART,,Governor,,Phil Bredesen,D,3314
+STEWART,,Governor,,Jim Bryson,R,952
+STEWART,,Governor,,George Banks,I,31
+STEWART,,Governor,,David Gatchell,I,17
+STEWART,,Governor,,Marivuana Stout Leinoff,I,7
+STEWART,,Governor,,Charles E. Smith,I,15
+STEWART,,Governor,,Howard M. Switzer,I,9
+STEWART,,Governor,,"Carl ""Twofeathers"" Whitaker",I,49
+STEWART,,Governor,,Write-in - John Jay Hooker,I,0
+SULLIVAN,,Governor,,Phil Bredesen,D,27024
+SULLIVAN,,Governor,,Jim Bryson,R,17479
+SULLIVAN,,Governor,,George Banks,I,210
+SULLIVAN,,Governor,,David Gatchell,I,69
+SULLIVAN,,Governor,,Marivuana Stout Leinoff,I,40
+SULLIVAN,,Governor,,Charles E. Smith,I,72
+SULLIVAN,,Governor,,Howard M. Switzer,I,43
+SULLIVAN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,344
+SULLIVAN,,Governor,,Write-in - John Jay Hooker,I,0
+SUMNER,,Governor,,Phil Bredesen,D,29713
+SUMNER,,Governor,,Jim Bryson,R,15938
+SUMNER,,Governor,,George Banks,I,139
+SUMNER,,Governor,,David Gatchell,I,49
+SUMNER,,Governor,,Marivuana Stout Leinoff,I,35
+SUMNER,,Governor,,Charles E. Smith,I,49
+SUMNER,,Governor,,Howard M. Switzer,I,26
+SUMNER,,Governor,,"Carl ""Twofeathers"" Whitaker",I,197
+SUMNER,,Governor,,Write-in - John Jay Hooker,I,0
+TIPTON,,Governor,,Phil Bredesen,D,10433
+TIPTON,,Governor,,Jim Bryson,R,5843
+TIPTON,,Governor,,George Banks,I,78
+TIPTON,,Governor,,David Gatchell,I,22
+TIPTON,,Governor,,Marivuana Stout Leinoff,I,10
+TIPTON,,Governor,,Charles E. Smith,I,31
+TIPTON,,Governor,,Howard M. Switzer,I,20
+TIPTON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,112
+TIPTON,,Governor,,Write-in - John Jay Hooker,I,0
+TROUSDALE,,Governor,,Phil Bredesen,D,2000
+TROUSDALE,,Governor,,Jim Bryson,R,557
+TROUSDALE,,Governor,,George Banks,I,13
+TROUSDALE,,Governor,,David Gatchell,I,5
+TROUSDALE,,Governor,,Marivuana Stout Leinoff,I,2
+TROUSDALE,,Governor,,Charles E. Smith,I,14
+TROUSDALE,,Governor,,Howard M. Switzer,I,2
+TROUSDALE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,17
+TROUSDALE,,Governor,,Write-in - John Jay Hooker,I,0
+UNICOI,,Governor,,Phil Bredesen,D,3298
+UNICOI,,Governor,,Jim Bryson,R,2095
+UNICOI,,Governor,,George Banks,I,34
+UNICOI,,Governor,,David Gatchell,I,21
+UNICOI,,Governor,,Marivuana Stout Leinoff,I,11
+UNICOI,,Governor,,Charles E. Smith,I,9
+UNICOI,,Governor,,Howard M. Switzer,I,7
+UNICOI,,Governor,,"Carl ""Twofeathers"" Whitaker",I,48
+UNICOI,,Governor,,Write-in - John Jay Hooker,I,0
+UNION,,Governor,,Phil Bredesen,D,2743
+UNION,,Governor,,Jim Bryson,R,1653
+UNION,,Governor,,George Banks,I,20
+UNION,,Governor,,David Gatchell,I,3
+UNION,,Governor,,Marivuana Stout Leinoff,I,5
+UNION,,Governor,,Charles E. Smith,I,3
+UNION,,Governor,,Howard M. Switzer,I,0
+UNION,,Governor,,"Carl ""Twofeathers"" Whitaker",I,29
+UNION,,Governor,,Write-in - John Jay Hooker,I,0
+VAN BUREN,,Governor,,Phil Bredesen,D,1347
+VAN BUREN,,Governor,,Jim Bryson,R,533
+VAN BUREN,,Governor,,George Banks,I,10
+VAN BUREN,,Governor,,David Gatchell,I,4
+VAN BUREN,,Governor,,Marivuana Stout Leinoff,I,3
+VAN BUREN,,Governor,,Charles E. Smith,I,5
+VAN BUREN,,Governor,,Howard M. Switzer,I,0
+VAN BUREN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,14
+VAN BUREN,,Governor,,Write-in - John Jay Hooker,I,0
+WARREN,,Governor,,Phil Bredesen,D,8324
+WARREN,,Governor,,Jim Bryson,R,2848
+WARREN,,Governor,,George Banks,I,67
+WARREN,,Governor,,David Gatchell,I,9
+WARREN,,Governor,,Marivuana Stout Leinoff,I,11
+WARREN,,Governor,,Charles E. Smith,I,50
+WARREN,,Governor,,Howard M. Switzer,I,5
+WARREN,,Governor,,"Carl ""Twofeathers"" Whitaker",I,60
+WARREN,,Governor,,Write-in - John Jay Hooker,I,0
+WASHINGTON,,Governor,,Phil Bredesen,D,21092
+WASHINGTON,,Governor,,Jim Bryson,R,12360
+WASHINGTON,,Governor,,George Banks,I,130
+WASHINGTON,,Governor,,David Gatchell,I,64
+WASHINGTON,,Governor,,Marivuana Stout Leinoff,I,46
+WASHINGTON,,Governor,,Charles E. Smith,I,71
+WASHINGTON,,Governor,,Howard M. Switzer,I,45
+WASHINGTON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,220
+WASHINGTON,,Governor,,Write-in - John Jay Hooker,I,0
+WAYNE,,Governor,,Phil Bredesen,D,2232
+WAYNE,,Governor,,Jim Bryson,R,1831
+WAYNE,,Governor,,George Banks,I,26
+WAYNE,,Governor,,David Gatchell,I,5
+WAYNE,,Governor,,Marivuana Stout Leinoff,I,3
+WAYNE,,Governor,,Charles E. Smith,I,8
+WAYNE,,Governor,,Howard M. Switzer,I,9
+WAYNE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,20
+WAYNE,,Governor,,Write-in - John Jay Hooker,I,0
+WEAKLEY,,Governor,,Phil Bredesen,D,7233
+WEAKLEY,,Governor,,Jim Bryson,R,2621
+WEAKLEY,,Governor,,George Banks,I,68
+WEAKLEY,,Governor,,David Gatchell,I,13
+WEAKLEY,,Governor,,Marivuana Stout Leinoff,I,10
+WEAKLEY,,Governor,,Charles E. Smith,I,74
+WEAKLEY,,Governor,,Howard M. Switzer,I,16
+WEAKLEY,,Governor,,"Carl ""Twofeathers"" Whitaker",I,87
+WEAKLEY,,Governor,,Write-in - John Jay Hooker,I,0
+WHITE,,Governor,,Phil Bredesen,D,5231
+WHITE,,Governor,,Jim Bryson,R,2140
+WHITE,,Governor,,George Banks,I,58
+WHITE,,Governor,,David Gatchell,I,10
+WHITE,,Governor,,Marivuana Stout Leinoff,I,4
+WHITE,,Governor,,Charles E. Smith,I,65
+WHITE,,Governor,,Howard M. Switzer,I,7
+WHITE,,Governor,,"Carl ""Twofeathers"" Whitaker",I,75
+WHITE,,Governor,,Write-in - John Jay Hooker,I,0
+WILLIAMSON,,Governor,,Phil Bredesen,D,35058
+WILLIAMSON,,Governor,,Jim Bryson,R,25384
+WILLIAMSON,,Governor,,George Banks,I,63
+WILLIAMSON,,Governor,,David Gatchell,I,44
+WILLIAMSON,,Governor,,Marivuana Stout Leinoff,I,41
+WILLIAMSON,,Governor,,Charles E. Smith,I,34
+WILLIAMSON,,Governor,,Howard M. Switzer,I,66
+WILLIAMSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,214
+WILLIAMSON,,Governor,,Write-in - John Jay Hooker,I,0
+WILSON,,Governor,,Phil Bredesen,D,23207
+WILSON,,Governor,,Jim Bryson,R,11990
+WILSON,,Governor,,George Banks,I,93
+WILSON,,Governor,,David Gatchell,I,31
+WILSON,,Governor,,Marivuana Stout Leinoff,I,33
+WILSON,,Governor,,Charles E. Smith,I,49
+WILSON,,Governor,,Howard M. Switzer,I,39
+WILSON,,Governor,,"Carl ""Twofeathers"" Whitaker",I,231
+WILSON,,Governor,,Write-in - John Jay Hooker,I,0
