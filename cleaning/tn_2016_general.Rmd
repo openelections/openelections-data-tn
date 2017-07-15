@@ -1,0 +1,56 @@
+---
+title: "openelections TN 2016 cleaning"
+output: html_notebook
+---
+
+```{r packages}
+library(tidyverse)
+```
+also called: rio
+
+```{r read}
+tn <- rio::import('http://sos-tn-gov-files.s3.amazonaws.com/StateGeneralbyPrecinctNov2016.xlsx')
+tn <- tbl_df(tn)
+```
+
+```{r clean}
+tn_long <- tn %>% 
+    gather(variable, value, COL1HDG:PVTALLY10) %>% 
+    mutate(index = parse_number(variable), 
+           variable = sub('\\d+(HDG)?$', '', variable)) %>% 
+    spread(variable, value)
+
+tn_clean <- tn_long %>% 
+    set_names(tolower) %>% 
+    separate(officename, c('office', 'district'), sep = ' District ', fill = 'right') %>% 
+    type_convert() %>% 
+    select(county, precinct, office, district, party, candidate = rname, votes = pvtally) %>% 
+    # chop out rows with no candidate or where write-ins didn't get any votes in a precinct
+    drop_na(candidate) %>% 
+    filter(!(grepl('Write-In', candidate) & votes == 0))
+```
+
+```{r aggregate-counties}
+tn_counties <- tn_clean %>% 
+    group_by(county, office, district, party, candidate) %>% 
+    summarise(votes = sum(votes))
+```
+
+```{r write}
+election_date <- as.Date(tn$ELECTDATE[1])
+
+dir.create(file.path('..', format(election_date, '%Y')), showWarnings = FALSE)
+
+write_csv(tn_clean, 
+          file.path('..', 
+                    format(election_date, '%Y'), 
+                    paste0(format(election_date, '%Y%m%d'),
+                           '__tn__general__precinct.csv')))
+
+write_csv(tn_counties, 
+          file.path('..', 
+                    format(election_date, '%Y'), 
+                    paste0(format(election_date, '%Y%m%d'),
+                           '__tn__general__county.csv')))
+```
+
