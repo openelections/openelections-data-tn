@@ -2,8 +2,24 @@
 
 This repository contains pre-processed election results from Tennessee, formatted to be ingested into the OpenElections [processing pipeline](http://docs.openelections.net/guide/). It contains mostly CSV files converted from PDF tables. Interested in contributing? We have a bunch of [easy tasks](https://github.com/openelections/openelections-data-tn/labels/easy%20task) for you to tackle.
 
-Here is what a [finished CSV file (from Ohio)](https://github.com/openelections/openelections-data-oh/blob/master/2000/20001107__oh__general__president.csv) looks like. Note that each row represents a single result for a single candidate,even if the data has multiple candidates in a single row. Also, vote totals do not contain commas or other formatting.
+## Precinct Results
 
-For extracting text from PDF tables, we recommend [Tabula](http://tabula.technology/) or [xPDF](http://www.foolabs.com/xpdf/download.html), both of which can be installed and run locally on OSX, Windows or Linux platforms.
+| year  | general  | primary  |
+|---|---|---|
+| 2016  | [done](https://github.com/openelections/openelections-data-tn/blob/master/2016/20161108__tn__general__precinct.csv)  |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2016/20160804__tn__primary__precinct.csv) |
+| 2014 |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2014/20141104__tn__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-tn/blob/master/2014/20140807__tn__primary__precinct.csv)  |
+| 2012  |  not started | not started |
+| 2010  |  not started | not started |
+| 2008  |  not started | not started |
 
-If you're familiar with git and Github, clone this repository and get started. If not, you can still help: leave a comment on a task you'd like to work on, or just convert any of the files into CSV and send the result to openelections@gmail.com.
+## County Results
+
+| year  | general  | primary  |
+|---|---|---|
+| 2016  | [done](https://github.com/openelections/openelections-data-tn/blob/master/2016/20161108__tn__general__county.csv)  |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2016/20160804__tn__primary__county.csv) |
+| 2014 |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2014/20141104__tn__general__county.csv) | [done](https://github.com/openelections/openelections-data-tn/blob/master/2014/20140807__tn__primary__county.csv)  |
+| 2012  |  not started | not started |
+| 2010  |  not started | not started |
+| 2008  |  not started | not started |
+
+To contribute, email openelections@gmail.com or [find us on Twitter](https://twitter.com/openelex) and let us know what counties/elections you'd like to work on. You also can leave a comment on one of the [issues](https://github.com/openelections/openelections-data-tn/issues) in this repository. Volunteers can do as much or as little as they like - one county or all of them. If you're familiar with git and Github, clone this repository and get started. If not, you can still help: leave a comment on a task you'd like to work on, or just convert any of the files into CSV and send the result to openelections@gmail.com.
