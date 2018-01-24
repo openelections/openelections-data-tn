@@ -12,6 +12,7 @@ This repository contains pre-processed election results from Tennessee, formatte
 | 2010  |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2010/20101102__tn__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-tn/blob/master/2010/20100805__tn__primary__precinct.csv) |
 | 2008  |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2008/20081104__tn__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-tn/blob/master/2008/20080807__tn__primary__precinct.csv) |
 | 2006  |  [working](https://github.com/openelections/openelections-data-tn/issues/12) | not started |
+| 2004  |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2004/20041102__tn__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-tn/blob/master/2004/20040508__tn__primary__precinct.csv) |
 
 ## County Results
 
