@@ -8,9 +8,10 @@ This repository contains pre-processed election results from Tennessee, formatte
 |---|---|---|
 | 2016  | [done](https://github.com/openelections/openelections-data-tn/blob/master/2016/20161108__tn__general__precinct.csv)  |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2016/20160804__tn__primary__precinct.csv) |
 | 2014 |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2014/20141104__tn__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-tn/blob/master/2014/20140807__tn__primary__precinct.csv)  |
-| 2012  |  not started | not started |
-| 2010  |  not started | not started |
-| 2008  |  not started | not started |
+| 2012  |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2012/20121106__tn__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-tn/blob/master/2012/20120802__tn__primary__precinct.csv) |
+| 2010  |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2010/20101102__tn__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-tn/blob/master/2010/20100805__tn__primary__precinct.csv) |
+| 2008  |  [done](https://github.com/openelections/openelections-data-tn/blob/master/2008/20081104__tn__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-tn/blob/master/2008/20080807__tn__primary__precinct.csv) |
+| 2006  |  [working](https://github.com/openelections/openelections-data-tn/issues/12) | not started |
 
 ## County Results
 
@@ -21,5 +22,6 @@ This repository contains pre-processed election results from Tennessee, formatte
 | 2012  |  not started | not started |
 | 2010  |  not started | not started |
 | 2008  |  not started | not started |
+| 2006  |  not started | not started |
 
 To contribute, email openelections@gmail.com or [find us on Twitter](https://twitter.com/openelex) and let us know what counties/elections you'd like to work on. You also can leave a comment on one of the [issues](https://github.com/openelections/openelections-data-tn/issues) in this repository. Volunteers can do as much or as little as they like - one county or all of them. If you're familiar with git and Github, clone this repository and get started. If not, you can still help: leave a comment on a task you'd like to work on, or just convert any of the files into CSV and send the result to openelections@gmail.com.
