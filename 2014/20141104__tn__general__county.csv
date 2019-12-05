@@ -14,13 +14,13 @@ Anderson,Governor,NA,Independent,Daniel T. Lewis,94
 Anderson,Governor,NA,Independent,John Jay Hooker,385
 Anderson,Governor,NA,Independent,Steven Damon Coburn,100
 Anderson,Governor,NA,Republican,Bill Haslam,13367
-Anderson,Tennessee House of Representatives,33,Republican,John D. Ragan,11783
-Anderson,Tennessee House of Representatives,36,Democratic,James Virgil Kidwell,579
-Anderson,Tennessee House of Representatives,36,Republican,Dennis H. Powers,1593
-Anderson,Tennessee Senate,5,Republican,Randy McNally,14608
-Anderson,United States House of Representatives,3,Democratic,Mary M. Headrick,6179
-Anderson,United States House of Representatives,3,Independent,Cassandra J Mitchell,627
-Anderson,United States House of Representatives,3,Republican,Chuck Fleischmann,11231
+Anderson,State House,33,Republican,John D. Ragan,11783
+Anderson,State House,36,Democratic,James Virgil Kidwell,579
+Anderson,State House,36,Republican,Dennis H. Powers,1593
+Anderson,State Senate,5,Republican,Randy McNally,14608
+Anderson,U.S. House,3,Democratic,Mary M. Headrick,6179
+Anderson,U.S. House,3,Independent,Cassandra J Mitchell,627
+Anderson,U.S. House,3,Republican,Chuck Fleischmann,11231
 Anderson,United States Senate,NA,Constitution,Joe Wilmoth,398
 Anderson,United States Senate,NA,Democratic,Gordon Ball,5262
 Anderson,United States Senate,NA,Green,Martin Pleasant,216
@@ -48,10 +48,10 @@ Bedford,Governor,NA,Independent,Daniel T. Lewis,54
 Bedford,Governor,NA,Independent,John Jay Hooker,212
 Bedford,Governor,NA,Independent,Steven Damon Coburn,56
 Bedford,Governor,NA,Republican,Bill Haslam,5653
-Bedford,Tennessee House of Representatives,62,Republican,Pat Marsh,6445
-Bedford,United States House of Representatives,4,Democratic,Lenda Sherrell,2423
-Bedford,United States House of Representatives,4,Independent,Robert Rankin Doggart,405
-Bedford,United States House of Representatives,4,Republican,Scott DesJarlais,4782
+Bedford,State House,62,Republican,Pat Marsh,6445
+Bedford,U.S. House,4,Democratic,Lenda Sherrell,2423
+Bedford,U.S. House,4,Independent,Robert Rankin Doggart,405
+Bedford,U.S. House,4,Republican,Scott DesJarlais,4782
 Bedford,United States Senate,NA,Constitution,Joe Wilmoth,237
 Bedford,United States Senate,NA,Democratic,Gordon Ball,1995
 Bedford,United States Senate,NA,Green,Martin Pleasant,42
@@ -79,16 +79,16 @@ Benton,Governor,NA,Independent,Daniel T. Lewis,24
 Benton,Governor,NA,Independent,John Jay Hooker,79
 Benton,Governor,NA,Independent,Steven Damon Coburn,29
 Benton,Governor,NA,Republican,Bill Haslam,2415
-Benton,Tennessee House of Representatives,75,Democratic,Randy Patton,1623
-Benton,Tennessee House of Representatives,75,Independent,James Hart,149
-Benton,Tennessee House of Representatives,75,Republican,Tim Wirgau,2028
-Benton,United States House of Representatives,7,Democratic,Daniel Cramer,1276
-Benton,United States House of Representatives,7,Independent,Leonard D. Ladner,117
-Benton,United States House of Representatives,7,Republican,Marsha Blackburn,2292
-Benton,United States House of Representatives,8,Constitution,Mark Rawles,0
-Benton,United States House of Representatives,8,Democratic,Wes Bradley,8
-Benton,United States House of Representatives,8,Independent,James Hart,4
-Benton,United States House of Representatives,8,Republican,Stephen Lee Fincher,11
+Benton,State House,75,Democratic,Randy Patton,1623
+Benton,State House,75,Independent,James Hart,149
+Benton,State House,75,Republican,Tim Wirgau,2028
+Benton,U.S. House,7,Democratic,Daniel Cramer,1276
+Benton,U.S. House,7,Independent,Leonard D. Ladner,117
+Benton,U.S. House,7,Republican,Marsha Blackburn,2292
+Benton,U.S. House,8,Constitution,Mark Rawles,0
+Benton,U.S. House,8,Democratic,Wes Bradley,8
+Benton,U.S. House,8,Independent,James Hart,4
+Benton,U.S. House,8,Republican,Stephen Lee Fincher,11
 Benton,United States Senate,NA,Constitution,Joe Wilmoth,117
 Benton,United States Senate,NA,Democratic,Gordon Ball,1293
 Benton,United States Senate,NA,Green,Martin Pleasant,7
@@ -116,13 +116,13 @@ Bledsoe,Governor,NA,Independent,Daniel T. Lewis,18
 Bledsoe,Governor,NA,Independent,John Jay Hooker,51
 Bledsoe,Governor,NA,Independent,Steven Damon Coburn,17
 Bledsoe,Governor,NA,Republican,Bill Haslam,1786
-Bledsoe,Tennessee House of Representatives,31,Republican,Ron Travis,2245
-Bledsoe,Tennessee Senate,15,Democratic,Betty Vaudt,641
-Bledsoe,Tennessee Senate,15,Independent,William L. Draper,67
-Bledsoe,Tennessee Senate,15,Republican,Paul Bailey,1884
-Bledsoe,United States House of Representatives,4,Democratic,Lenda Sherrell,804
-Bledsoe,United States House of Representatives,4,Independent,Robert Rankin Doggart,167
-Bledsoe,United States House of Representatives,4,Republican,Scott DesJarlais,1638
+Bledsoe,State House,31,Republican,Ron Travis,2245
+Bledsoe,State Senate,15,Democratic,Betty Vaudt,641
+Bledsoe,State Senate,15,Independent,William L. Draper,67
+Bledsoe,State Senate,15,Republican,Paul Bailey,1884
+Bledsoe,U.S. House,4,Democratic,Lenda Sherrell,804
+Bledsoe,U.S. House,4,Independent,Robert Rankin Doggart,167
+Bledsoe,U.S. House,4,Republican,Scott DesJarlais,1638
 Bledsoe,United States Senate,NA,Constitution,Joe Wilmoth,75
 Bledsoe,United States Senate,NA,Democratic,Gordon Ball,635
 Bledsoe,United States Senate,NA,Green,Martin Pleasant,11
@@ -150,13 +150,13 @@ Blount,Governor,NA,Independent,Daniel T. Lewis,197
 Blount,Governor,NA,Independent,John Jay Hooker,472
 Blount,Governor,NA,Independent,Steven Damon Coburn,164
 Blount,Governor,NA,Republican,Bill Haslam,23653
-Blount,Tennessee House of Representatives,8,Republican,Art Swann,12816
-Blount,Tennessee House of Representatives,20,Democratic,John Ross Conley,3201
-Blount,Tennessee House of Representatives,20,Republican,Bob Ramsey,11511
-Blount,United States House of Representatives,2,Democratic,Bob Scott,5586
-Blount,United States House of Representatives,2,Green,Norris Dryer,544
-Blount,United States House of Representatives,2,Independent,Casey Adam Gouge,888
-Blount,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",22955
+Blount,State House,8,Republican,Art Swann,12816
+Blount,State House,20,Democratic,John Ross Conley,3201
+Blount,State House,20,Republican,Bob Ramsey,11511
+Blount,U.S. House,2,Democratic,Bob Scott,5586
+Blount,U.S. House,2,Green,Norris Dryer,544
+Blount,U.S. House,2,Independent,Casey Adam Gouge,888
+Blount,U.S. House,2,Republican,"John J. Duncan, Jr.",22955
 Blount,United States Senate,NA,Constitution,Joe Wilmoth,875
 Blount,United States Senate,NA,Democratic,Gordon Ball,7160
 Blount,United States Senate,NA,Green,Martin Pleasant,311
@@ -184,15 +184,15 @@ Bradley,Governor,NA,Independent,Daniel T. Lewis,126
 Bradley,Governor,NA,Independent,John Jay Hooker,204
 Bradley,Governor,NA,Independent,Steven Damon Coburn,86
 Bradley,Governor,NA,Republican,Bill Haslam,16709
-Bradley,Tennessee House of Representatives,22,Republican,Dan Howell,7048
-Bradley,Tennessee House of Representatives,24,Republican,Kevin D. Brooks,10896
-Bradley,Tennessee Senate,9,Republican,Mike Bell,10723
-Bradley,United States House of Representatives,3,Democratic,Mary M. Headrick,979
-Bradley,United States House of Representatives,3,Independent,Cassandra J Mitchell,193
-Bradley,United States House of Representatives,3,Republican,Chuck Fleischmann,4281
-Bradley,United States House of Representatives,4,Democratic,Lenda Sherrell,4162
-Bradley,United States House of Representatives,4,Independent,Robert Rankin Doggart,1134
-Bradley,United States House of Representatives,4,Republican,Scott DesJarlais,9210
+Bradley,State House,22,Republican,Dan Howell,7048
+Bradley,State House,24,Republican,Kevin D. Brooks,10896
+Bradley,State Senate,9,Republican,Mike Bell,10723
+Bradley,U.S. House,3,Democratic,Mary M. Headrick,979
+Bradley,U.S. House,3,Independent,Cassandra J Mitchell,193
+Bradley,U.S. House,3,Republican,Chuck Fleischmann,4281
+Bradley,U.S. House,4,Democratic,Lenda Sherrell,4162
+Bradley,U.S. House,4,Independent,Robert Rankin Doggart,1134
+Bradley,U.S. House,4,Republican,Scott DesJarlais,9210
 Bradley,United States Senate,NA,Constitution,Joe Wilmoth,420
 Bradley,United States Senate,NA,Democratic,Gordon Ball,3277
 Bradley,United States Senate,NA,Green,Martin Pleasant,133
@@ -220,15 +220,15 @@ Campbell,Governor,NA,Independent,Daniel T. Lewis,39
 Campbell,Governor,NA,Independent,John Jay Hooker,135
 Campbell,Governor,NA,Independent,Steven Damon Coburn,25
 Campbell,Governor,NA,Republican,Bill Haslam,4981
-Campbell,Tennessee House of Representatives,36,Democratic,James Virgil Kidwell,1409
-Campbell,Tennessee House of Representatives,36,Republican,Dennis H. Powers,4903
-Campbell,United States House of Representatives,2,Democratic,Bob Scott,235
-Campbell,United States House of Representatives,2,Green,Norris Dryer,20
-Campbell,United States House of Representatives,2,Independent,Casey Adam Gouge,15
-Campbell,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",741
-Campbell,United States House of Representatives,3,Democratic,Mary M. Headrick,1378
-Campbell,United States House of Representatives,3,Independent,Cassandra J Mitchell,190
-Campbell,United States House of Representatives,3,Republican,Chuck Fleischmann,3791
+Campbell,State House,36,Democratic,James Virgil Kidwell,1409
+Campbell,State House,36,Republican,Dennis H. Powers,4903
+Campbell,U.S. House,2,Democratic,Bob Scott,235
+Campbell,U.S. House,2,Green,Norris Dryer,20
+Campbell,U.S. House,2,Independent,Casey Adam Gouge,15
+Campbell,U.S. House,2,Republican,"John J. Duncan, Jr.",741
+Campbell,U.S. House,3,Democratic,Mary M. Headrick,1378
+Campbell,U.S. House,3,Independent,Cassandra J Mitchell,190
+Campbell,U.S. House,3,Republican,Chuck Fleischmann,3791
 Campbell,United States Senate,NA,Constitution,Joe Wilmoth,128
 Campbell,United States Senate,NA,Democratic,Gordon Ball,1549
 Campbell,United States Senate,NA,Green,Martin Pleasant,32
@@ -256,12 +256,12 @@ Cannon,Governor,NA,Independent,Daniel T. Lewis,45
 Cannon,Governor,NA,Independent,John Jay Hooker,98
 Cannon,Governor,NA,Independent,Steven Damon Coburn,14
 Cannon,Governor,NA,Republican,Bill Haslam,1977
-Cannon,Tennessee House of Representatives,46,Democratic,Candace Reed,969
-Cannon,Tennessee House of Representatives,46,Republican,Mark A Pody,1946
-Cannon,Tennessee Senate,17,Republican,Mae Beavers,2110
-Cannon,United States House of Representatives,6,Democratic,Amos Scott Powers,648
-Cannon,United States House of Representatives,6,Independent,Mike Winton,222
-Cannon,United States House of Representatives,6,Republican,Diane Black,2006
+Cannon,State House,46,Democratic,Candace Reed,969
+Cannon,State House,46,Republican,Mark A Pody,1946
+Cannon,State Senate,17,Republican,Mae Beavers,2110
+Cannon,U.S. House,6,Democratic,Amos Scott Powers,648
+Cannon,U.S. House,6,Independent,Mike Winton,222
+Cannon,U.S. House,6,Republican,Diane Black,2006
 Cannon,United States Senate,NA,Constitution,Joe Wilmoth,113
 Cannon,United States Senate,NA,Democratic,Gordon Ball,826
 Cannon,United States Senate,NA,Green,Martin Pleasant,22
@@ -289,14 +289,14 @@ Carroll,Governor,NA,Independent,Daniel T. Lewis,30
 Carroll,Governor,NA,Independent,John Jay Hooker,118
 Carroll,Governor,NA,Independent,Steven Damon Coburn,44
 Carroll,Governor,NA,Republican,Bill Haslam,4313
-Carroll,Tennessee House of Representatives,76,Democratic,Joyce Washington,920
-Carroll,Tennessee House of Representatives,76,Republican,Andy Holt,2232
-Carroll,Tennessee House of Representatives,79,Democratic,Bobby Barnett,775
-Carroll,Tennessee House of Representatives,79,Republican,Curtis Halford,2291
-Carroll,United States House of Representatives,8,Constitution,Mark Rawles,219
-Carroll,United States House of Representatives,8,Democratic,Wes Bradley,1533
-Carroll,United States House of Representatives,8,Independent,James Hart,131
-Carroll,United States House of Representatives,8,Republican,Stephen Lee Fincher,4334
+Carroll,State House,76,Democratic,Joyce Washington,920
+Carroll,State House,76,Republican,Andy Holt,2232
+Carroll,State House,79,Democratic,Bobby Barnett,775
+Carroll,State House,79,Republican,Curtis Halford,2291
+Carroll,U.S. House,8,Constitution,Mark Rawles,219
+Carroll,U.S. House,8,Democratic,Wes Bradley,1533
+Carroll,U.S. House,8,Independent,James Hart,131
+Carroll,U.S. House,8,Republican,Stephen Lee Fincher,4334
 Carroll,United States Senate,NA,Constitution,Joe Wilmoth,262
 Carroll,United States Senate,NA,Democratic,Gordon Ball,1677
 Carroll,United States Senate,NA,Green,Martin Pleasant,30
@@ -324,14 +324,14 @@ Carter,Governor,NA,Independent,Daniel T. Lewis,172
 Carter,Governor,NA,Independent,John Jay Hooker,182
 Carter,Governor,NA,Independent,Steven Damon Coburn,91
 Carter,Governor,NA,Republican,Bill Haslam,8376
-Carter,Tennessee House of Representatives,3,Republican,Timothy Hill,1658
-Carter,Tennessee House of Representatives,4,Democratic,Rob Martin,1475
-Carter,Tennessee House of Representatives,4,Republican,"John B. Holsclaw, Jr.",7556
-Carter,Tennessee Senate,3,Republican,Rusty Crowe,7314
-Carter,United States House of Representatives,1,Green,Robert N. Smith,694
-Carter,United States House of Representatives,1,Independent,Michael D. Salyer,291
-Carter,United States House of Representatives,1,Independent,Robert D. Franklin,887
-Carter,United States House of Representatives,1,Republican,Phil Roe,8930
+Carter,State House,3,Republican,Timothy Hill,1658
+Carter,State House,4,Democratic,Rob Martin,1475
+Carter,State House,4,Republican,"John B. Holsclaw, Jr.",7556
+Carter,State Senate,3,Republican,Rusty Crowe,7314
+Carter,U.S. House,1,Green,Robert N. Smith,694
+Carter,U.S. House,1,Independent,Michael D. Salyer,291
+Carter,U.S. House,1,Independent,Robert D. Franklin,887
+Carter,U.S. House,1,Republican,Phil Roe,8930
 Carter,United States Senate,NA,Constitution,Joe Wilmoth,321
 Carter,United States Senate,NA,Democratic,Gordon Ball,2053
 Carter,United States Senate,NA,Green,Martin Pleasant,94
@@ -359,16 +359,16 @@ Cheatham,Governor,NA,Independent,Daniel T. Lewis,54
 Cheatham,Governor,NA,Independent,John Jay Hooker,331
 Cheatham,Governor,NA,Independent,Steven Damon Coburn,49
 Cheatham,Governor,NA,Republican,Bill Haslam,6191
-Cheatham,Tennessee House of Representatives,78,Democratic,Jane R. Crisp,2578
-Cheatham,Tennessee House of Representatives,78,Republican,Mary Littleton,6139
-Cheatham,Tennessee Senate,25,Democratic,Tony Gross,2592
-Cheatham,Tennessee Senate,25,Republican,Kerry Roberts,6111
-Cheatham,United States House of Representatives,5,Democratic,Jim Cooper,2584
-Cheatham,United States House of Representatives,5,Independent,Paul Deakin,139
-Cheatham,United States House of Representatives,5,Republican,Bob Ries,3745
-Cheatham,United States House of Representatives,6,Democratic,Amos Scott Powers,471
-Cheatham,United States House of Representatives,6,Independent,Mike Winton,87
-Cheatham,United States House of Representatives,6,Republican,Diane Black,1735
+Cheatham,State House,78,Democratic,Jane R. Crisp,2578
+Cheatham,State House,78,Republican,Mary Littleton,6139
+Cheatham,State Senate,25,Democratic,Tony Gross,2592
+Cheatham,State Senate,25,Republican,Kerry Roberts,6111
+Cheatham,U.S. House,5,Democratic,Jim Cooper,2584
+Cheatham,U.S. House,5,Independent,Paul Deakin,139
+Cheatham,U.S. House,5,Republican,Bob Ries,3745
+Cheatham,U.S. House,6,Democratic,Amos Scott Powers,471
+Cheatham,U.S. House,6,Independent,Mike Winton,87
+Cheatham,U.S. House,6,Republican,Diane Black,1735
 Cheatham,United States Senate,NA,Constitution,Joe Wilmoth,324
 Cheatham,United States Senate,NA,Democratic,Gordon Ball,2366
 Cheatham,United States Senate,NA,Green,Martin Pleasant,77
@@ -396,10 +396,10 @@ Chester,Governor,NA,Independent,Daniel T. Lewis,24
 Chester,Governor,NA,Independent,John Jay Hooker,44
 Chester,Governor,NA,Independent,Steven Damon Coburn,33
 Chester,Governor,NA,Republican,Bill Haslam,2659
-Chester,Tennessee House of Representatives,72,Republican,Steve K. McDaniel,2965
-Chester,United States House of Representatives,7,Democratic,Daniel Cramer,596
-Chester,United States House of Representatives,7,Independent,Leonard D. Ladner,114
-Chester,United States House of Representatives,7,Republican,Marsha Blackburn,2687
+Chester,State House,72,Republican,Steve K. McDaniel,2965
+Chester,U.S. House,7,Democratic,Daniel Cramer,596
+Chester,U.S. House,7,Independent,Leonard D. Ladner,114
+Chester,U.S. House,7,Republican,Marsha Blackburn,2687
 Chester,United States Senate,NA,Constitution,Joe Wilmoth,181
 Chester,United States Senate,NA,Democratic,Gordon Ball,646
 Chester,United States Senate,NA,Green,Martin Pleasant,19
@@ -427,11 +427,11 @@ Claiborne,Governor,NA,Independent,Daniel T. Lewis,41
 Claiborne,Governor,NA,Independent,John Jay Hooker,121
 Claiborne,Governor,NA,Independent,Steven Damon Coburn,37
 Claiborne,Governor,NA,Republican,Bill Haslam,4015
-Claiborne,Tennessee House of Representatives,35,Republican,Jerry Sexton,4358
-Claiborne,United States House of Representatives,2,Democratic,Bob Scott,1042
-Claiborne,United States House of Representatives,2,Green,Norris Dryer,35
-Claiborne,United States House of Representatives,2,Independent,Casey Adam Gouge,110
-Claiborne,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",4123
+Claiborne,State House,35,Republican,Jerry Sexton,4358
+Claiborne,U.S. House,2,Democratic,Bob Scott,1042
+Claiborne,U.S. House,2,Green,Norris Dryer,35
+Claiborne,U.S. House,2,Independent,Casey Adam Gouge,110
+Claiborne,U.S. House,2,Republican,"John J. Duncan, Jr.",4123
 Claiborne,United States Senate,NA,Constitution,Joe Wilmoth,128
 Claiborne,United States Senate,NA,Democratic,Gordon Ball,1326
 Claiborne,United States Senate,NA,Green,Martin Pleasant,19
@@ -459,11 +459,11 @@ Clay,Governor,NA,Independent,Daniel T. Lewis,12
 Clay,Governor,NA,Independent,John Jay Hooker,43
 Clay,Governor,NA,Independent,Steven Damon Coburn,17
 Clay,Governor,NA,Republican,Bill Haslam,963
-Clay,Tennessee House of Representatives,38,Republican,Kelly T. Keisling,1136
-Clay,Tennessee Senate,17,Republican,Mae Beavers,1010
-Clay,United States House of Representatives,6,Democratic,Amos Scott Powers,385
-Clay,United States House of Representatives,6,Independent,Mike Winton,118
-Clay,United States House of Representatives,6,Republican,Diane Black,962
+Clay,State House,38,Republican,Kelly T. Keisling,1136
+Clay,State Senate,17,Republican,Mae Beavers,1010
+Clay,U.S. House,6,Democratic,Amos Scott Powers,385
+Clay,U.S. House,6,Independent,Mike Winton,118
+Clay,U.S. House,6,Republican,Diane Black,962
 Clay,United States Senate,NA,Constitution,Joe Wilmoth,37
 Clay,United States Senate,NA,Democratic,Gordon Ball,468
 Clay,United States Senate,NA,Green,Martin Pleasant,10
@@ -491,14 +491,14 @@ Cocke,Governor,NA,Independent,Daniel T. Lewis,69
 Cocke,Governor,NA,Independent,John Jay Hooker,185
 Cocke,Governor,NA,Independent,Steven Damon Coburn,61
 Cocke,Governor,NA,Republican,Bill Haslam,5615
-Cocke,Tennessee House of Representatives,11,Democratic,Marjorie J. Ramsey,1370
-Cocke,Tennessee House of Representatives,11,Independent,Roland A. Dykes III,1256
-Cocke,Tennessee House of Representatives,11,Republican,Jeremy Faison,4749
-Cocke,Tennessee Senate,1,Republican,Steve Southerland,5452
-Cocke,United States House of Representatives,1,Green,Robert N. Smith,467
-Cocke,United States House of Representatives,1,Independent,Michael D. Salyer,230
-Cocke,United States House of Representatives,1,Independent,Robert D. Franklin,496
-Cocke,United States House of Representatives,1,Republican,Phil Roe,5694
+Cocke,State House,11,Democratic,Marjorie J. Ramsey,1370
+Cocke,State House,11,Independent,Roland A. Dykes III,1256
+Cocke,State House,11,Republican,Jeremy Faison,4749
+Cocke,State Senate,1,Republican,Steve Southerland,5452
+Cocke,U.S. House,1,Green,Robert N. Smith,467
+Cocke,U.S. House,1,Independent,Michael D. Salyer,230
+Cocke,U.S. House,1,Independent,Robert D. Franklin,496
+Cocke,U.S. House,1,Republican,Phil Roe,5694
 Cocke,United States Senate,NA,Constitution,Joe Wilmoth,149
 Cocke,United States Senate,NA,Democratic,Gordon Ball,2499
 Cocke,United States Senate,NA,Green,Martin Pleasant,53
@@ -527,10 +527,10 @@ Coffee,Governor,NA,Independent,John Jay Hooker,365
 Coffee,Governor,NA,Independent,Steven Damon Coburn,103
 Coffee,Governor,NA,Independent,Write-In - BeLinda Jo Ivins,9
 Coffee,Governor,NA,Republican,Bill Haslam,7986
-Coffee,Tennessee House of Representatives,47,Republican,Judd Matheny,9249
-Coffee,United States House of Representatives,6,Democratic,Amos Scott Powers,2441
-Coffee,United States House of Representatives,6,Independent,Mike Winton,1305
-Coffee,United States House of Representatives,6,Republican,Diane Black,7694
+Coffee,State House,47,Republican,Judd Matheny,9249
+Coffee,U.S. House,6,Democratic,Amos Scott Powers,2441
+Coffee,U.S. House,6,Independent,Mike Winton,1305
+Coffee,U.S. House,6,Republican,Diane Black,7694
 Coffee,United States Senate,NA,Constitution,Joe Wilmoth,354
 Coffee,United States Senate,NA,Democratic,Gordon Ball,3037
 Coffee,United States Senate,NA,Green,Martin Pleasant,94
@@ -559,15 +559,15 @@ Crockett,Governor,NA,Independent,Daniel T. Lewis,16
 Crockett,Governor,NA,Independent,John Jay Hooker,49
 Crockett,Governor,NA,Independent,Steven Damon Coburn,16
 Crockett,Governor,NA,Republican,Bill Haslam,2222
-Crockett,Tennessee House of Representatives,82,Democratic,Craig Fitzhugh,1938
-Crockett,Tennessee Senate,27,Constitution,Tim York,111
-Crockett,Tennessee Senate,27,Democratic,Randy Lamb,1174
-Crockett,Tennessee Senate,27,Independent,James A. Baxter,35
-Crockett,Tennessee Senate,27,Republican,Ed Jackson,1714
-Crockett,United States House of Representatives,8,Constitution,Mark Rawles,64
-Crockett,United States House of Representatives,8,Democratic,Wes Bradley,594
-Crockett,United States House of Representatives,8,Independent,James Hart,57
-Crockett,United States House of Representatives,8,Republican,Stephen Lee Fincher,2296
+Crockett,State House,82,Democratic,Craig Fitzhugh,1938
+Crockett,State Senate,27,Constitution,Tim York,111
+Crockett,State Senate,27,Democratic,Randy Lamb,1174
+Crockett,State Senate,27,Independent,James A. Baxter,35
+Crockett,State Senate,27,Republican,Ed Jackson,1714
+Crockett,U.S. House,8,Constitution,Mark Rawles,64
+Crockett,U.S. House,8,Democratic,Wes Bradley,594
+Crockett,U.S. House,8,Independent,James Hart,57
+Crockett,U.S. House,8,Republican,Stephen Lee Fincher,2296
 Crockett,United States Senate,NA,Constitution,Joe Wilmoth,97
 Crockett,United States Senate,NA,Democratic,Gordon Ball,737
 Crockett,United States Senate,NA,Green,Martin Pleasant,15
@@ -595,14 +595,14 @@ Cumberland,Governor,NA,Independent,Daniel T. Lewis,103
 Cumberland,Governor,NA,Independent,John Jay Hooker,220
 Cumberland,Governor,NA,Independent,Steven Damon Coburn,120
 Cumberland,Governor,NA,Republican,Bill Haslam,12978
-Cumberland,Tennessee House of Representatives,25,Democratic,Judy Barnett,3516
-Cumberland,Tennessee House of Representatives,25,Republican,Cameron Sexton,13051
-Cumberland,Tennessee Senate,15,Democratic,Betty Vaudt,3291
-Cumberland,Tennessee Senate,15,Independent,William L. Draper,607
-Cumberland,Tennessee Senate,15,Republican,Paul Bailey,12223
-Cumberland,United States House of Representatives,6,Democratic,Amos Scott Powers,3297
-Cumberland,United States House of Representatives,6,Independent,Mike Winton,908
-Cumberland,United States House of Representatives,6,Republican,Diane Black,12131
+Cumberland,State House,25,Democratic,Judy Barnett,3516
+Cumberland,State House,25,Republican,Cameron Sexton,13051
+Cumberland,State Senate,15,Democratic,Betty Vaudt,3291
+Cumberland,State Senate,15,Independent,William L. Draper,607
+Cumberland,State Senate,15,Republican,Paul Bailey,12223
+Cumberland,U.S. House,6,Democratic,Amos Scott Powers,3297
+Cumberland,U.S. House,6,Independent,Mike Winton,908
+Cumberland,U.S. House,6,Republican,Diane Black,12131
 Cumberland,United States Senate,NA,Constitution,Joe Wilmoth,509
 Cumberland,United States Senate,NA,Democratic,Gordon Ball,3737
 Cumberland,United States Senate,NA,Green,Martin Pleasant,116
@@ -631,32 +631,32 @@ Davidson,Governor,NA,Independent,John Jay Hooker,7166
 Davidson,Governor,NA,Independent,Steven Damon Coburn,731
 Davidson,Governor,NA,Independent,Write-In - Mark Pearson,2
 Davidson,Governor,NA,Republican,Bill Haslam,71661
-Davidson,Tennessee House of Representatives,50,Democratic,Bo Mitchell,9109
-Davidson,Tennessee House of Representatives,50,Republican,Troy Brewer,8680
-Davidson,Tennessee House of Representatives,51,Democratic,Bill Beck,9188
-Davidson,Tennessee House of Representatives,51,Republican,Brian L. Mason,3601
-Davidson,Tennessee House of Representatives,52,Democratic,Mike Stewart,7551
-Davidson,Tennessee House of Representatives,53,Democratic,Jason Powell,6098
-Davidson,Tennessee House of Representatives,53,Independent,Tonya Miller,417
-Davidson,Tennessee House of Representatives,53,Republican,John Wang,4927
-Davidson,Tennessee House of Representatives,54,Democratic,Brenda Gilmore,11761
-Davidson,Tennessee House of Representatives,54,Green,Martin Holsinger,1206
-Davidson,Tennessee House of Representatives,55,Democratic,John Ray Clemmons,10543
-Davidson,Tennessee House of Representatives,56,Democratic,Chris Moth,8601
-Davidson,Tennessee House of Representatives,56,Republican,Beth Harwell,14839
-Davidson,Tennessee House of Representatives,58,Democratic,Harold M. Love,7733
-Davidson,Tennessee House of Representatives,59,Democratic,Sherry Jones,6670
-Davidson,Tennessee House of Representatives,60,Democratic,Darren Jernigan,8415
-Davidson,Tennessee House of Representatives,60,Republican,Jim Gotto,7339
-Davidson,Tennessee Senate,19,Democratic,Thelma M. Harper,23235
-Davidson,Tennessee Senate,19,Independent,George Thomas,2899
-Davidson,Tennessee Senate,19,Independent,Write-In - Rueben (Dock) Dockery,38
-Davidson,Tennessee Senate,19,Republican,Sterlina Inez Brady,4701
-Davidson,Tennessee Senate,21,Democratic,Jeff Yarbro,25402
-Davidson,Tennessee Senate,21,Republican,Diana Cuellar,12714
-Davidson,United States House of Representatives,5,Democratic,Jim Cooper,89238
-Davidson,United States House of Representatives,5,Independent,Paul Deakin,2670
-Davidson,United States House of Representatives,5,Republican,Bob Ries,45509
+Davidson,State House,50,Democratic,Bo Mitchell,9109
+Davidson,State House,50,Republican,Troy Brewer,8680
+Davidson,State House,51,Democratic,Bill Beck,9188
+Davidson,State House,51,Republican,Brian L. Mason,3601
+Davidson,State House,52,Democratic,Mike Stewart,7551
+Davidson,State House,53,Democratic,Jason Powell,6098
+Davidson,State House,53,Independent,Tonya Miller,417
+Davidson,State House,53,Republican,John Wang,4927
+Davidson,State House,54,Democratic,Brenda Gilmore,11761
+Davidson,State House,54,Green,Martin Holsinger,1206
+Davidson,State House,55,Democratic,John Ray Clemmons,10543
+Davidson,State House,56,Democratic,Chris Moth,8601
+Davidson,State House,56,Republican,Beth Harwell,14839
+Davidson,State House,58,Democratic,Harold M. Love,7733
+Davidson,State House,59,Democratic,Sherry Jones,6670
+Davidson,State House,60,Democratic,Darren Jernigan,8415
+Davidson,State House,60,Republican,Jim Gotto,7339
+Davidson,State Senate,19,Democratic,Thelma M. Harper,23235
+Davidson,State Senate,19,Independent,George Thomas,2899
+Davidson,State Senate,19,Independent,Write-In - Rueben (Dock) Dockery,38
+Davidson,State Senate,19,Republican,Sterlina Inez Brady,4701
+Davidson,State Senate,21,Democratic,Jeff Yarbro,25402
+Davidson,State Senate,21,Republican,Diana Cuellar,12714
+Davidson,U.S. House,5,Democratic,Jim Cooper,89238
+Davidson,U.S. House,5,Independent,Paul Deakin,2670
+Davidson,U.S. House,5,Republican,Bob Ries,45509
 Davidson,United States Senate,NA,Constitution,Joe Wilmoth,2238
 Davidson,United States Senate,NA,Democratic,Gordon Ball,69665
 Davidson,United States Senate,NA,Green,Martin Pleasant,2129
@@ -684,10 +684,10 @@ Decatur,Governor,NA,Independent,Daniel T. Lewis,27
 Decatur,Governor,NA,Independent,John Jay Hooker,63
 Decatur,Governor,NA,Independent,Steven Damon Coburn,15
 Decatur,Governor,NA,Republican,Bill Haslam,1634
-Decatur,Tennessee House of Representatives,72,Republican,Steve K. McDaniel,1953
-Decatur,United States House of Representatives,7,Democratic,Daniel Cramer,637
-Decatur,United States House of Representatives,7,Independent,Leonard D. Ladner,80
-Decatur,United States House of Representatives,7,Republican,Marsha Blackburn,1581
+Decatur,State House,72,Republican,Steve K. McDaniel,1953
+Decatur,U.S. House,7,Democratic,Daniel Cramer,637
+Decatur,U.S. House,7,Independent,Leonard D. Ladner,80
+Decatur,U.S. House,7,Republican,Marsha Blackburn,1581
 Decatur,United States Senate,NA,Constitution,Joe Wilmoth,57
 Decatur,United States Senate,NA,Democratic,Gordon Ball,693
 Decatur,United States Senate,NA,Green,Martin Pleasant,9
@@ -715,14 +715,14 @@ Dekalb,Governor,NA,Independent,Daniel T. Lewis,32
 Dekalb,Governor,NA,Independent,John Jay Hooker,119
 Dekalb,Governor,NA,Independent,Steven Damon Coburn,42
 Dekalb,Governor,NA,Republican,Bill Haslam,2423
-Dekalb,Tennessee House of Representatives,40,Democratic,Sarah Marie Smith,973
-Dekalb,Tennessee House of Representatives,40,Republican,Terri Lynn Weaver,1884
-Dekalb,Tennessee House of Representatives,46,Democratic,Candace Reed,356
-Dekalb,Tennessee House of Representatives,46,Republican,Mark A Pody,554
-Dekalb,Tennessee Senate,17,Republican,Mae Beavers,2623
-Dekalb,United States House of Representatives,6,Democratic,Amos Scott Powers,1033
-Dekalb,United States House of Representatives,6,Independent,Mike Winton,192
-Dekalb,United States House of Representatives,6,Republican,Diane Black,2361
+Dekalb,State House,40,Democratic,Sarah Marie Smith,973
+Dekalb,State House,40,Republican,Terri Lynn Weaver,1884
+Dekalb,State House,46,Democratic,Candace Reed,356
+Dekalb,State House,46,Republican,Mark A Pody,554
+Dekalb,State Senate,17,Republican,Mae Beavers,2623
+Dekalb,U.S. House,6,Democratic,Amos Scott Powers,1033
+Dekalb,U.S. House,6,Independent,Mike Winton,192
+Dekalb,U.S. House,6,Republican,Diane Black,2361
 Dekalb,United States Senate,NA,Constitution,Joe Wilmoth,120
 Dekalb,United States Senate,NA,Democratic,Gordon Ball,1191
 Dekalb,United States Senate,NA,Green,Martin Pleasant,28
@@ -750,15 +750,15 @@ Dickson,Governor,NA,Independent,Daniel T. Lewis,61
 Dickson,Governor,NA,Independent,John Jay Hooker,326
 Dickson,Governor,NA,Independent,Steven Damon Coburn,49
 Dickson,Governor,NA,Republican,Bill Haslam,6830
-Dickson,Tennessee House of Representatives,69,Democratic,David A. Shepard,2430
-Dickson,Tennessee House of Representatives,69,Republican,Michael Curcio,2270
-Dickson,Tennessee House of Representatives,78,Democratic,Jane R. Crisp,1661
-Dickson,Tennessee House of Representatives,78,Republican,Mary Littleton,4101
-Dickson,Tennessee Senate,25,Democratic,Tony Gross,3349
-Dickson,Tennessee Senate,25,Republican,Kerry Roberts,6898
-Dickson,United States House of Representatives,5,Democratic,Jim Cooper,4326
-Dickson,United States House of Representatives,5,Independent,Paul Deakin,241
-Dickson,United States House of Representatives,5,Republican,Bob Ries,5824
+Dickson,State House,69,Democratic,David A. Shepard,2430
+Dickson,State House,69,Republican,Michael Curcio,2270
+Dickson,State House,78,Democratic,Jane R. Crisp,1661
+Dickson,State House,78,Republican,Mary Littleton,4101
+Dickson,State Senate,25,Democratic,Tony Gross,3349
+Dickson,State Senate,25,Republican,Kerry Roberts,6898
+Dickson,U.S. House,5,Democratic,Jim Cooper,4326
+Dickson,U.S. House,5,Independent,Paul Deakin,241
+Dickson,U.S. House,5,Republican,Bob Ries,5824
 Dickson,United States Senate,NA,Constitution,Joe Wilmoth,313
 Dickson,United States Senate,NA,Democratic,Gordon Ball,3175
 Dickson,United States Senate,NA,Green,Martin Pleasant,80
@@ -786,15 +786,15 @@ Dyer,Governor,NA,Independent,Daniel T. Lewis,36
 Dyer,Governor,NA,Independent,John Jay Hooker,124
 Dyer,Governor,NA,Independent,Steven Damon Coburn,46
 Dyer,Governor,NA,Republican,Bill Haslam,5710
-Dyer,Tennessee House of Representatives,77,Republican,Bill Sanderson,6401
-Dyer,Tennessee Senate,27,Constitution,Tim York,263
-Dyer,Tennessee Senate,27,Democratic,Randy Lamb,1803
-Dyer,Tennessee Senate,27,Independent,James A. Baxter,125
-Dyer,Tennessee Senate,27,Republican,Ed Jackson,5195
-Dyer,United States House of Representatives,8,Constitution,Mark Rawles,254
-Dyer,United States House of Representatives,8,Democratic,Wes Bradley,1313
-Dyer,United States House of Representatives,8,Independent,James Hart,160
-Dyer,United States House of Representatives,8,Republican,Stephen Lee Fincher,5607
+Dyer,State House,77,Republican,Bill Sanderson,6401
+Dyer,State Senate,27,Constitution,Tim York,263
+Dyer,State Senate,27,Democratic,Randy Lamb,1803
+Dyer,State Senate,27,Independent,James A. Baxter,125
+Dyer,State Senate,27,Republican,Ed Jackson,5195
+Dyer,U.S. House,8,Constitution,Mark Rawles,254
+Dyer,U.S. House,8,Democratic,Wes Bradley,1313
+Dyer,U.S. House,8,Independent,James Hart,160
+Dyer,U.S. House,8,Republican,Stephen Lee Fincher,5607
 Dyer,United States Senate,NA,Constitution,Joe Wilmoth,374
 Dyer,United States Senate,NA,Democratic,Gordon Ball,1574
 Dyer,United States Senate,NA,Green,Martin Pleasant,28
@@ -822,11 +822,11 @@ Fayette,Governor,NA,Independent,Daniel T. Lewis,42
 Fayette,Governor,NA,Independent,John Jay Hooker,84
 Fayette,Governor,NA,Independent,Steven Damon Coburn,47
 Fayette,Governor,NA,Republican,Bill Haslam,8141
-Fayette,Tennessee House of Representatives,94,Republican,Leigh Rosser Wilburn,8249
-Fayette,United States House of Representatives,8,Constitution,Mark Rawles,256
-Fayette,United States House of Representatives,8,Democratic,Wes Bradley,2456
-Fayette,United States House of Representatives,8,Independent,James Hart,162
-Fayette,United States House of Representatives,8,Republican,Stephen Lee Fincher,7465
+Fayette,State House,94,Republican,Leigh Rosser Wilburn,8249
+Fayette,U.S. House,8,Constitution,Mark Rawles,256
+Fayette,U.S. House,8,Democratic,Wes Bradley,2456
+Fayette,U.S. House,8,Independent,James Hart,162
+Fayette,U.S. House,8,Republican,Stephen Lee Fincher,7465
 Fayette,United States Senate,NA,Constitution,Joe Wilmoth,329
 Fayette,United States Senate,NA,Democratic,Gordon Ball,2517
 Fayette,United States Senate,NA,Green,Martin Pleasant,68
@@ -854,11 +854,11 @@ Fentress,Governor,NA,Independent,Daniel T. Lewis,26
 Fentress,Governor,NA,Independent,John Jay Hooker,77
 Fentress,Governor,NA,Independent,Steven Damon Coburn,34
 Fentress,Governor,NA,Republican,Bill Haslam,2371
-Fentress,Tennessee House of Representatives,38,Republican,Kelly T. Keisling,1381
-Fentress,Tennessee House of Representatives,41,Democratic,John Mark Windle,1241
-Fentress,United States House of Representatives,6,Democratic,Amos Scott Powers,607
-Fentress,United States House of Representatives,6,Independent,Mike Winton,187
-Fentress,United States House of Representatives,6,Republican,Diane Black,2461
+Fentress,State House,38,Republican,Kelly T. Keisling,1381
+Fentress,State House,41,Democratic,John Mark Windle,1241
+Fentress,U.S. House,6,Democratic,Amos Scott Powers,607
+Fentress,U.S. House,6,Independent,Mike Winton,187
+Fentress,U.S. House,6,Republican,Diane Black,2461
 Fentress,United States Senate,NA,Constitution,Joe Wilmoth,112
 Fentress,United States Senate,NA,Democratic,Gordon Ball,744
 Fentress,United States Senate,NA,Green,Martin Pleasant,19
@@ -887,13 +887,13 @@ Franklin,Governor,NA,Independent,John Jay Hooker,239
 Franklin,Governor,NA,Independent,Steven Damon Coburn,52
 Franklin,Governor,NA,Independent,Write-In - BeLinda Jo Ivins,1
 Franklin,Governor,NA,Republican,Bill Haslam,6595
-Franklin,Tennessee House of Representatives,39,Democratic,Matthew Huffer,3006
-Franklin,Tennessee House of Representatives,39,Republican,David Alexander,6405
-Franklin,Tennessee House of Representatives,92,Democratic,Vicki Cain,37
-Franklin,Tennessee House of Representatives,92,Republican,Billy Spivey,102
-Franklin,United States House of Representatives,4,Democratic,Lenda Sherrell,3422
-Franklin,United States House of Representatives,4,Independent,Robert Rankin Doggart,358
-Franklin,United States House of Representatives,4,Republican,Scott DesJarlais,5842
+Franklin,State House,39,Democratic,Matthew Huffer,3006
+Franklin,State House,39,Republican,David Alexander,6405
+Franklin,State House,92,Democratic,Vicki Cain,37
+Franklin,State House,92,Republican,Billy Spivey,102
+Franklin,U.S. House,4,Democratic,Lenda Sherrell,3422
+Franklin,U.S. House,4,Independent,Robert Rankin Doggart,358
+Franklin,U.S. House,4,Republican,Scott DesJarlais,5842
 Franklin,United States Senate,NA,Constitution,Joe Wilmoth,260
 Franklin,United States Senate,NA,Democratic,Gordon Ball,2998
 Franklin,United States Senate,NA,Green,Martin Pleasant,72
@@ -921,12 +921,12 @@ Gibson,Governor,NA,Independent,Daniel T. Lewis,50
 Gibson,Governor,NA,Independent,John Jay Hooker,176
 Gibson,Governor,NA,Independent,Steven Damon Coburn,70
 Gibson,Governor,NA,Republican,Bill Haslam,7819
-Gibson,Tennessee House of Representatives,79,Democratic,Bobby Barnett,2408
-Gibson,Tennessee House of Representatives,79,Republican,Curtis Halford,8586
-Gibson,United States House of Representatives,8,Constitution,Mark Rawles,695
-Gibson,United States House of Representatives,8,Democratic,Wes Bradley,2498
-Gibson,United States House of Representatives,8,Independent,James Hart,227
-Gibson,United States House of Representatives,8,Republican,Stephen Lee Fincher,7750
+Gibson,State House,79,Democratic,Bobby Barnett,2408
+Gibson,State House,79,Republican,Curtis Halford,8586
+Gibson,U.S. House,8,Constitution,Mark Rawles,695
+Gibson,U.S. House,8,Democratic,Wes Bradley,2498
+Gibson,U.S. House,8,Independent,James Hart,227
+Gibson,U.S. House,8,Republican,Stephen Lee Fincher,7750
 Gibson,United States Senate,NA,Constitution,Joe Wilmoth,760
 Gibson,United States Senate,NA,Democratic,Gordon Ball,2825
 Gibson,United States Senate,NA,Green,Martin Pleasant,43
@@ -955,10 +955,10 @@ Giles,Governor,NA,Independent,John Jay Hooker,144
 Giles,Governor,NA,Independent,Steven Damon Coburn,28
 Giles,Governor,NA,Independent,Write-In - Mark Pearson,8
 Giles,Governor,NA,Republican,Bill Haslam,3922
-Giles,Tennessee House of Representatives,70,Republican,Barry Doss,4228
-Giles,United States House of Representatives,7,Democratic,Daniel Cramer,1583
-Giles,United States House of Representatives,7,Independent,Leonard D. Ladner,183
-Giles,United States House of Representatives,7,Republican,Marsha Blackburn,3798
+Giles,State House,70,Republican,Barry Doss,4228
+Giles,U.S. House,7,Democratic,Daniel Cramer,1583
+Giles,U.S. House,7,Independent,Leonard D. Ladner,183
+Giles,U.S. House,7,Republican,Marsha Blackburn,3798
 Giles,United States Senate,NA,Constitution,Joe Wilmoth,177
 Giles,United States Senate,NA,Democratic,Gordon Ball,1710
 Giles,United States Senate,NA,Green,Martin Pleasant,22
@@ -986,11 +986,11 @@ Grainger,Governor,NA,Independent,Daniel T. Lewis,25
 Grainger,Governor,NA,Independent,John Jay Hooker,90
 Grainger,Governor,NA,Independent,Steven Damon Coburn,29
 Grainger,Governor,NA,Republican,Bill Haslam,3274
-Grainger,Tennessee House of Representatives,35,Republican,Jerry Sexton,3136
-Grainger,United States House of Representatives,2,Democratic,Bob Scott,730
-Grainger,United States House of Representatives,2,Green,Norris Dryer,61
-Grainger,United States House of Representatives,2,Independent,Casey Adam Gouge,109
-Grainger,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",3226
+Grainger,State House,35,Republican,Jerry Sexton,3136
+Grainger,U.S. House,2,Democratic,Bob Scott,730
+Grainger,U.S. House,2,Green,Norris Dryer,61
+Grainger,U.S. House,2,Independent,Casey Adam Gouge,109
+Grainger,U.S. House,2,Republican,"John J. Duncan, Jr.",3226
 Grainger,United States Senate,NA,Constitution,Joe Wilmoth,89
 Grainger,United States Senate,NA,Democratic,Gordon Ball,987
 Grainger,United States Senate,NA,Green,Martin Pleasant,34
@@ -1019,16 +1019,16 @@ Greene,Governor,NA,Independent,John Jay Hooker,255
 Greene,Governor,NA,Independent,Steven Damon Coburn,117
 Greene,Governor,NA,Independent,Write-In - Mark Pearson,1
 Greene,Governor,NA,Republican,Bill Haslam,10146
-Greene,Tennessee House of Representatives,5,Independent,Kermit E. Steck,2798
-Greene,Tennessee House of Representatives,5,Republican,David B. Hawk,8396
-Greene,Tennessee House of Representatives,11,Democratic,Marjorie J. Ramsey,298
-Greene,Tennessee House of Representatives,11,Independent,Roland A. Dykes III,82
-Greene,Tennessee House of Representatives,11,Republican,Jeremy Faison,1046
-Greene,Tennessee Senate,1,Republican,Steve Southerland,10983
-Greene,United States House of Representatives,1,Green,Robert N. Smith,864
-Greene,United States House of Representatives,1,Independent,Michael D. Salyer,458
-Greene,United States House of Representatives,1,Independent,Robert D. Franklin,862
-Greene,United States House of Representatives,1,Republican,Phil Roe,11103
+Greene,State House,5,Independent,Kermit E. Steck,2798
+Greene,State House,5,Republican,David B. Hawk,8396
+Greene,State House,11,Democratic,Marjorie J. Ramsey,298
+Greene,State House,11,Independent,Roland A. Dykes III,82
+Greene,State House,11,Republican,Jeremy Faison,1046
+Greene,State Senate,1,Republican,Steve Southerland,10983
+Greene,U.S. House,1,Green,Robert N. Smith,864
+Greene,U.S. House,1,Independent,Michael D. Salyer,458
+Greene,U.S. House,1,Independent,Robert D. Franklin,862
+Greene,U.S. House,1,Republican,Phil Roe,11103
 Greene,United States Senate,NA,Constitution,Joe Wilmoth,434
 Greene,United States Senate,NA,Democratic,Gordon Ball,2775
 Greene,United States Senate,NA,Green,Martin Pleasant,132
@@ -1057,12 +1057,12 @@ Grundy,Governor,NA,Independent,John Jay Hooker,68
 Grundy,Governor,NA,Independent,Steven Damon Coburn,13
 Grundy,Governor,NA,Independent,Write-In - BeLinda Jo Ivins,2
 Grundy,Governor,NA,Republican,Bill Haslam,1556
-Grundy,Tennessee House of Representatives,43,Democratic,Kevin Dunlap,1184
-Grundy,Tennessee House of Representatives,43,Independent,Edward Leon Buck,73
-Grundy,Tennessee House of Representatives,43,Republican,Robert F. Dunham,1161
-Grundy,United States House of Representatives,4,Democratic,Lenda Sherrell,1016
-Grundy,United States House of Representatives,4,Independent,Robert Rankin Doggart,106
-Grundy,United States House of Representatives,4,Republican,Scott DesJarlais,1325
+Grundy,State House,43,Democratic,Kevin Dunlap,1184
+Grundy,State House,43,Independent,Edward Leon Buck,73
+Grundy,State House,43,Republican,Robert F. Dunham,1161
+Grundy,U.S. House,4,Democratic,Lenda Sherrell,1016
+Grundy,U.S. House,4,Independent,Robert Rankin Doggart,106
+Grundy,U.S. House,4,Republican,Scott DesJarlais,1325
 Grundy,United States Senate,NA,Constitution,Joe Wilmoth,84
 Grundy,United States Senate,NA,Democratic,Gordon Ball,817
 Grundy,United States Senate,NA,Green,Martin Pleasant,23
@@ -1090,12 +1090,12 @@ Hamblen,Governor,NA,Independent,Daniel T. Lewis,75
 Hamblen,Governor,NA,Independent,John Jay Hooker,224
 Hamblen,Governor,NA,Independent,Steven Damon Coburn,51
 Hamblen,Governor,NA,Republican,Bill Haslam,8978
-Hamblen,Tennessee House of Representatives,10,Republican,Tilman Goins,9504
-Hamblen,Tennessee Senate,1,Republican,Steve Southerland,9749
-Hamblen,United States House of Representatives,1,Green,Robert N. Smith,693
-Hamblen,United States House of Representatives,1,Independent,Michael D. Salyer,235
-Hamblen,United States House of Representatives,1,Independent,Robert D. Franklin,693
-Hamblen,United States House of Representatives,1,Republican,Phil Roe,9219
+Hamblen,State House,10,Republican,Tilman Goins,9504
+Hamblen,State Senate,1,Republican,Steve Southerland,9749
+Hamblen,U.S. House,1,Green,Robert N. Smith,693
+Hamblen,U.S. House,1,Independent,Michael D. Salyer,235
+Hamblen,U.S. House,1,Independent,Robert D. Franklin,693
+Hamblen,U.S. House,1,Republican,Phil Roe,9219
 Hamblen,United States Senate,NA,Constitution,Joe Wilmoth,263
 Hamblen,United States Senate,NA,Democratic,Gordon Ball,2484
 Hamblen,United States Senate,NA,Green,Martin Pleasant,84
@@ -1123,16 +1123,16 @@ Hamilton,Governor,NA,Independent,Daniel T. Lewis,365
 Hamilton,Governor,NA,Independent,John Jay Hooker,869
 Hamilton,Governor,NA,Independent,Steven Damon Coburn,278
 Hamilton,Governor,NA,Republican,Bill Haslam,56750
-Hamilton,Tennessee House of Representatives,26,Republican,Gerald McCormick,14751
-Hamilton,Tennessee House of Representatives,27,Democratic,Eric McRoy,4505
-Hamilton,Tennessee House of Representatives,27,Republican,Patsy Hazlewood,13337
-Hamilton,Tennessee House of Representatives,28,Democratic,JoAnne Favors,9562
-Hamilton,Tennessee House of Representatives,29,Republican,Mike Carter,12397
-Hamilton,Tennessee House of Representatives,30,Republican,Marc Gravitt,11575
-Hamilton,Tennessee Senate,11,Republican,Bo Watson,37386
-Hamilton,United States House of Representatives,3,Democratic,Mary M. Headrick,32435
-Hamilton,United States House of Representatives,3,Independent,Cassandra J Mitchell,2193
-Hamilton,United States House of Representatives,3,Republican,Chuck Fleischmann,45232
+Hamilton,State House,26,Republican,Gerald McCormick,14751
+Hamilton,State House,27,Democratic,Eric McRoy,4505
+Hamilton,State House,27,Republican,Patsy Hazlewood,13337
+Hamilton,State House,28,Democratic,JoAnne Favors,9562
+Hamilton,State House,29,Republican,Mike Carter,12397
+Hamilton,State House,30,Republican,Marc Gravitt,11575
+Hamilton,State Senate,11,Republican,Bo Watson,37386
+Hamilton,U.S. House,3,Democratic,Mary M. Headrick,32435
+Hamilton,U.S. House,3,Independent,Cassandra J Mitchell,2193
+Hamilton,U.S. House,3,Republican,Chuck Fleischmann,45232
 Hamilton,United States Senate,NA,Constitution,Joe Wilmoth,1137
 Hamilton,United States Senate,NA,Democratic,Gordon Ball,25373
 Hamilton,United States Senate,NA,Green,Martin Pleasant,713
@@ -1160,11 +1160,11 @@ Hancock,Governor,NA,Independent,Daniel T. Lewis,10
 Hancock,Governor,NA,Independent,John Jay Hooker,27
 Hancock,Governor,NA,Independent,Steven Damon Coburn,4
 Hancock,Governor,NA,Republican,Bill Haslam,676
-Hancock,Tennessee House of Representatives,9,Republican,Mike Harrison,786
-Hancock,United States House of Representatives,1,Green,Robert N. Smith,64
-Hancock,United States House of Representatives,1,Independent,Michael D. Salyer,21
-Hancock,United States House of Representatives,1,Independent,Robert D. Franklin,64
-Hancock,United States House of Representatives,1,Republican,Phil Roe,755
+Hancock,State House,9,Republican,Mike Harrison,786
+Hancock,U.S. House,1,Green,Robert N. Smith,64
+Hancock,U.S. House,1,Independent,Michael D. Salyer,21
+Hancock,U.S. House,1,Independent,Robert D. Franklin,64
+Hancock,U.S. House,1,Republican,Phil Roe,755
 Hancock,United States Senate,NA,Constitution,Joe Wilmoth,32
 Hancock,United States Senate,NA,Democratic,Gordon Ball,231
 Hancock,United States Senate,NA,Green,Martin Pleasant,8
@@ -1192,11 +1192,11 @@ Hardeman,Governor,NA,Independent,Daniel T. Lewis,19
 Hardeman,Governor,NA,Independent,John Jay Hooker,59
 Hardeman,Governor,NA,Independent,Steven Damon Coburn,25
 Hardeman,Governor,NA,Republican,Bill Haslam,2891
-Hardeman,Tennessee House of Representatives,80,Democratic,Johnny W. Shaw,3194
-Hardeman,Tennessee House of Representatives,94,Republican,Leigh Rosser Wilburn,479
-Hardeman,United States House of Representatives,7,Democratic,Daniel Cramer,1944
-Hardeman,United States House of Representatives,7,Independent,Leonard D. Ladner,104
-Hardeman,United States House of Representatives,7,Republican,Marsha Blackburn,2744
+Hardeman,State House,80,Democratic,Johnny W. Shaw,3194
+Hardeman,State House,94,Republican,Leigh Rosser Wilburn,479
+Hardeman,U.S. House,7,Democratic,Daniel Cramer,1944
+Hardeman,U.S. House,7,Independent,Leonard D. Ladner,104
+Hardeman,U.S. House,7,Republican,Marsha Blackburn,2744
 Hardeman,United States Senate,NA,Constitution,Joe Wilmoth,96
 Hardeman,United States Senate,NA,Democratic,Gordon Ball,1993
 Hardeman,United States Senate,NA,Green,Martin Pleasant,18
@@ -1224,10 +1224,10 @@ Hardin,Governor,NA,Independent,Daniel T. Lewis,30
 Hardin,Governor,NA,Independent,John Jay Hooker,101
 Hardin,Governor,NA,Independent,Steven Damon Coburn,40
 Hardin,Governor,NA,Republican,Bill Haslam,4046
-Hardin,Tennessee House of Representatives,71,Republican,"David ""Coach"" Byrd",4032
-Hardin,United States House of Representatives,7,Democratic,Daniel Cramer,983
-Hardin,United States House of Representatives,7,Independent,Leonard D. Ladner,124
-Hardin,United States House of Representatives,7,Republican,Marsha Blackburn,4016
+Hardin,State House,71,Republican,"David ""Coach"" Byrd",4032
+Hardin,U.S. House,7,Democratic,Daniel Cramer,983
+Hardin,U.S. House,7,Independent,Leonard D. Ladner,124
+Hardin,U.S. House,7,Republican,Marsha Blackburn,4016
 Hardin,United States Senate,NA,Constitution,Joe Wilmoth,102
 Hardin,United States Senate,NA,Democratic,Gordon Ball,1057
 Hardin,United States Senate,NA,Green,Martin Pleasant,30
@@ -1255,11 +1255,11 @@ Hawkins,Governor,NA,Independent,Daniel T. Lewis,105
 Hawkins,Governor,NA,Independent,John Jay Hooker,184
 Hawkins,Governor,NA,Independent,Steven Damon Coburn,87
 Hawkins,Governor,NA,Republican,Bill Haslam,8730
-Hawkins,Tennessee House of Representatives,9,Republican,Mike Harrison,8332
-Hawkins,United States House of Representatives,1,Green,Robert N. Smith,584
-Hawkins,United States House of Representatives,1,Independent,Michael D. Salyer,397
-Hawkins,United States House of Representatives,1,Independent,Robert D. Franklin,796
-Hawkins,United States House of Representatives,1,Republican,Phil Roe,9062
+Hawkins,State House,9,Republican,Mike Harrison,8332
+Hawkins,U.S. House,1,Green,Robert N. Smith,584
+Hawkins,U.S. House,1,Independent,Michael D. Salyer,397
+Hawkins,U.S. House,1,Independent,Robert D. Franklin,796
+Hawkins,U.S. House,1,Republican,Phil Roe,9062
 Hawkins,United States Senate,NA,Constitution,Joe Wilmoth,295
 Hawkins,United States Senate,NA,Democratic,Gordon Ball,2288
 Hawkins,United States Senate,NA,Green,Martin Pleasant,74
@@ -1287,11 +1287,11 @@ Haywood,Governor,NA,Independent,Daniel T. Lewis,9
 Haywood,Governor,NA,Independent,John Jay Hooker,25
 Haywood,Governor,NA,Independent,Steven Damon Coburn,12
 Haywood,Governor,NA,Republican,Bill Haslam,1940
-Haywood,Tennessee House of Representatives,82,Democratic,Craig Fitzhugh,2746
-Haywood,United States House of Representatives,8,Constitution,Mark Rawles,69
-Haywood,United States House of Representatives,8,Democratic,Wes Bradley,1483
-Haywood,United States House of Representatives,8,Independent,James Hart,41
-Haywood,United States House of Representatives,8,Republican,Stephen Lee Fincher,1809
+Haywood,State House,82,Democratic,Craig Fitzhugh,2746
+Haywood,U.S. House,8,Constitution,Mark Rawles,69
+Haywood,U.S. House,8,Democratic,Wes Bradley,1483
+Haywood,U.S. House,8,Independent,James Hart,41
+Haywood,U.S. House,8,Republican,Stephen Lee Fincher,1809
 Haywood,United States Senate,NA,Constitution,Joe Wilmoth,63
 Haywood,United States Senate,NA,Democratic,Gordon Ball,1544
 Haywood,United States Senate,NA,Green,Martin Pleasant,21
@@ -1319,10 +1319,10 @@ Henderson,Governor,NA,Independent,Daniel T. Lewis,46
 Henderson,Governor,NA,Independent,John Jay Hooker,86
 Henderson,Governor,NA,Independent,Steven Damon Coburn,46
 Henderson,Governor,NA,Republican,Bill Haslam,3836
-Henderson,Tennessee House of Representatives,72,Republican,Steve K. McDaniel,4516
-Henderson,United States House of Representatives,7,Democratic,Daniel Cramer,889
-Henderson,United States House of Representatives,7,Independent,Leonard D. Ladner,171
-Henderson,United States House of Representatives,7,Republican,Marsha Blackburn,4005
+Henderson,State House,72,Republican,Steve K. McDaniel,4516
+Henderson,U.S. House,7,Democratic,Daniel Cramer,889
+Henderson,U.S. House,7,Independent,Leonard D. Ladner,171
+Henderson,U.S. House,7,Republican,Marsha Blackburn,4005
 Henderson,United States Senate,NA,Constitution,Joe Wilmoth,228
 Henderson,United States Senate,NA,Democratic,Gordon Ball,962
 Henderson,United States Senate,NA,Green,Martin Pleasant,26
@@ -1350,13 +1350,13 @@ Henry,Governor,NA,Independent,Daniel T. Lewis,36
 Henry,Governor,NA,Independent,John Jay Hooker,142
 Henry,Governor,NA,Independent,Steven Damon Coburn,44
 Henry,Governor,NA,Republican,Bill Haslam,5297
-Henry,Tennessee House of Representatives,75,Democratic,Randy Patton,2007
-Henry,Tennessee House of Representatives,75,Independent,James Hart,309
-Henry,Tennessee House of Representatives,75,Republican,Tim Wirgau,4912
-Henry,United States House of Representatives,8,Constitution,Mark Rawles,202
-Henry,United States House of Representatives,8,Democratic,Wes Bradley,2187
-Henry,United States House of Representatives,8,Independent,James Hart,389
-Henry,United States House of Representatives,8,Republican,Stephen Lee Fincher,4349
+Henry,State House,75,Democratic,Randy Patton,2007
+Henry,State House,75,Independent,James Hart,309
+Henry,State House,75,Republican,Tim Wirgau,4912
+Henry,U.S. House,8,Constitution,Mark Rawles,202
+Henry,U.S. House,8,Democratic,Wes Bradley,2187
+Henry,U.S. House,8,Independent,James Hart,389
+Henry,U.S. House,8,Republican,Stephen Lee Fincher,4349
 Henry,United States Senate,NA,Constitution,Joe Wilmoth,186
 Henry,United States Senate,NA,Democratic,Gordon Ball,1968
 Henry,United States Senate,NA,Green,Martin Pleasant,33
@@ -1384,13 +1384,13 @@ Hickman,Governor,NA,Independent,Daniel T. Lewis,40
 Hickman,Governor,NA,Independent,John Jay Hooker,118
 Hickman,Governor,NA,Independent,Steven Damon Coburn,32
 Hickman,Governor,NA,Republican,Bill Haslam,2956
-Hickman,Tennessee House of Representatives,69,Democratic,David A. Shepard,2079
-Hickman,Tennessee House of Representatives,69,Republican,Michael Curcio,2445
-Hickman,Tennessee Senate,25,Democratic,Tony Gross,1437
-Hickman,Tennessee Senate,25,Republican,Kerry Roberts,2962
-Hickman,United States House of Representatives,7,Democratic,Daniel Cramer,1309
-Hickman,United States House of Representatives,7,Independent,Leonard D. Ladner,161
-Hickman,United States House of Representatives,7,Republican,Marsha Blackburn,2983
+Hickman,State House,69,Democratic,David A. Shepard,2079
+Hickman,State House,69,Republican,Michael Curcio,2445
+Hickman,State Senate,25,Democratic,Tony Gross,1437
+Hickman,State Senate,25,Republican,Kerry Roberts,2962
+Hickman,U.S. House,7,Democratic,Daniel Cramer,1309
+Hickman,U.S. House,7,Independent,Leonard D. Ladner,161
+Hickman,U.S. House,7,Republican,Marsha Blackburn,2983
 Hickman,United States Senate,NA,Constitution,Joe Wilmoth,200
 Hickman,United States Senate,NA,Democratic,Gordon Ball,1387
 Hickman,United States Senate,NA,Green,Martin Pleasant,25
@@ -1418,11 +1418,11 @@ Houston,Governor,NA,Independent,Daniel T. Lewis,12
 Houston,Governor,NA,Independent,John Jay Hooker,44
 Houston,Governor,NA,Independent,Steven Damon Coburn,15
 Houston,Governor,NA,Republican,Bill Haslam,1005
-Houston,Tennessee House of Representatives,74,Democratic,John C. Tidwell,849
-Houston,Tennessee House of Representatives,74,Republican,Jay D. Reedy,965
-Houston,United States House of Representatives,7,Democratic,Daniel Cramer,701
-Houston,United States House of Representatives,7,Independent,Leonard D. Ladner,45
-Houston,United States House of Representatives,7,Republican,Marsha Blackburn,1030
+Houston,State House,74,Democratic,John C. Tidwell,849
+Houston,State House,74,Republican,Jay D. Reedy,965
+Houston,U.S. House,7,Democratic,Daniel Cramer,701
+Houston,U.S. House,7,Independent,Leonard D. Ladner,45
+Houston,U.S. House,7,Republican,Marsha Blackburn,1030
 Houston,United States Senate,NA,Constitution,Joe Wilmoth,48
 Houston,United States Senate,NA,Democratic,Gordon Ball,735
 Houston,United States Senate,NA,Green,Martin Pleasant,4
@@ -1450,13 +1450,13 @@ Humphreys,Governor,NA,Independent,Daniel T. Lewis,23
 Humphreys,Governor,NA,Independent,John Jay Hooker,121
 Humphreys,Governor,NA,Independent,Steven Damon Coburn,13
 Humphreys,Governor,NA,Republican,Bill Haslam,2512
-Humphreys,Tennessee House of Representatives,74,Democratic,John C. Tidwell,2357
-Humphreys,Tennessee House of Representatives,74,Republican,Jay D. Reedy,1871
-Humphreys,Tennessee Senate,25,Democratic,Tony Gross,1598
-Humphreys,Tennessee Senate,25,Republican,Kerry Roberts,2496
-Humphreys,United States House of Representatives,7,Democratic,Daniel Cramer,1568
-Humphreys,United States House of Representatives,7,Independent,Leonard D. Ladner,161
-Humphreys,United States House of Representatives,7,Republican,Marsha Blackburn,2423
+Humphreys,State House,74,Democratic,John C. Tidwell,2357
+Humphreys,State House,74,Republican,Jay D. Reedy,1871
+Humphreys,State Senate,25,Democratic,Tony Gross,1598
+Humphreys,State Senate,25,Republican,Kerry Roberts,2496
+Humphreys,U.S. House,7,Democratic,Daniel Cramer,1568
+Humphreys,U.S. House,7,Independent,Leonard D. Ladner,161
+Humphreys,U.S. House,7,Republican,Marsha Blackburn,2423
 Humphreys,United States Senate,NA,Constitution,Joe Wilmoth,260
 Humphreys,United States Senate,NA,Democratic,Gordon Ball,1561
 Humphreys,United States Senate,NA,Green,Martin Pleasant,13
@@ -1484,13 +1484,13 @@ Jackson,Governor,NA,Independent,Daniel T. Lewis,20
 Jackson,Governor,NA,Independent,John Jay Hooker,80
 Jackson,Governor,NA,Independent,Steven Damon Coburn,22
 Jackson,Governor,NA,Republican,Bill Haslam,1451
-Jackson,Tennessee House of Representatives,41,Democratic,John Mark Windle,1680
-Jackson,Tennessee Senate,15,Democratic,Betty Vaudt,627
-Jackson,Tennessee Senate,15,Independent,William L. Draper,296
-Jackson,Tennessee Senate,15,Republican,Paul Bailey,1485
-Jackson,United States House of Representatives,6,Democratic,Amos Scott Powers,692
-Jackson,United States House of Representatives,6,Independent,Mike Winton,176
-Jackson,United States House of Representatives,6,Republican,Diane Black,1563
+Jackson,State House,41,Democratic,John Mark Windle,1680
+Jackson,State Senate,15,Democratic,Betty Vaudt,627
+Jackson,State Senate,15,Independent,William L. Draper,296
+Jackson,State Senate,15,Republican,Paul Bailey,1485
+Jackson,U.S. House,6,Democratic,Amos Scott Powers,692
+Jackson,U.S. House,6,Independent,Mike Winton,176
+Jackson,U.S. House,6,Republican,Diane Black,1563
 Jackson,United States Senate,NA,Constitution,Joe Wilmoth,154
 Jackson,United States Senate,NA,Democratic,Gordon Ball,838
 Jackson,United States Senate,NA,Green,Martin Pleasant,34
@@ -1518,18 +1518,18 @@ Jefferson,Governor,NA,Independent,Daniel T. Lewis,84
 Jefferson,Governor,NA,Independent,John Jay Hooker,222
 Jefferson,Governor,NA,Independent,Steven Damon Coburn,76
 Jefferson,Governor,NA,Republican,Bill Haslam,8423
-Jefferson,Tennessee House of Representatives,11,Democratic,Marjorie J. Ramsey,674
-Jefferson,Tennessee House of Representatives,11,Independent,Roland A. Dykes III,211
-Jefferson,Tennessee House of Representatives,11,Republican,Jeremy Faison,2494
-Jefferson,Tennessee House of Representatives,17,Republican,Andrew E. Farmer,5542
-Jefferson,United States House of Representatives,1,Green,Robert N. Smith,100
-Jefferson,United States House of Representatives,1,Independent,Michael D. Salyer,43
-Jefferson,United States House of Representatives,1,Independent,Robert D. Franklin,172
-Jefferson,United States House of Representatives,1,Republican,Phil Roe,1679
-Jefferson,United States House of Representatives,2,Democratic,Bob Scott,1551
-Jefferson,United States House of Representatives,2,Green,Norris Dryer,128
-Jefferson,United States House of Representatives,2,Independent,Casey Adam Gouge,222
-Jefferson,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",6520
+Jefferson,State House,11,Democratic,Marjorie J. Ramsey,674
+Jefferson,State House,11,Independent,Roland A. Dykes III,211
+Jefferson,State House,11,Republican,Jeremy Faison,2494
+Jefferson,State House,17,Republican,Andrew E. Farmer,5542
+Jefferson,U.S. House,1,Green,Robert N. Smith,100
+Jefferson,U.S. House,1,Independent,Michael D. Salyer,43
+Jefferson,U.S. House,1,Independent,Robert D. Franklin,172
+Jefferson,U.S. House,1,Republican,Phil Roe,1679
+Jefferson,U.S. House,2,Democratic,Bob Scott,1551
+Jefferson,U.S. House,2,Green,Norris Dryer,128
+Jefferson,U.S. House,2,Independent,Casey Adam Gouge,222
+Jefferson,U.S. House,2,Republican,"John J. Duncan, Jr.",6520
 Jefferson,United States Senate,NA,Constitution,Joe Wilmoth,265
 Jefferson,United States Senate,NA,Democratic,Gordon Ball,2448
 Jefferson,United States Senate,NA,Green,Martin Pleasant,92
@@ -1557,11 +1557,11 @@ Johnson,Governor,NA,Independent,Daniel T. Lewis,26
 Johnson,Governor,NA,Independent,John Jay Hooker,53
 Johnson,Governor,NA,Independent,Steven Damon Coburn,33
 Johnson,Governor,NA,Republican,Bill Haslam,2547
-Johnson,Tennessee House of Representatives,3,Republican,Timothy Hill,2841
-Johnson,United States House of Representatives,1,Green,Robert N. Smith,203
-Johnson,United States House of Representatives,1,Independent,Michael D. Salyer,94
-Johnson,United States House of Representatives,1,Independent,Robert D. Franklin,197
-Johnson,United States House of Representatives,1,Republican,Phil Roe,2684
+Johnson,State House,3,Republican,Timothy Hill,2841
+Johnson,U.S. House,1,Green,Robert N. Smith,203
+Johnson,U.S. House,1,Independent,Michael D. Salyer,94
+Johnson,U.S. House,1,Independent,Robert D. Franklin,197
+Johnson,U.S. House,1,Republican,Phil Roe,2684
 Johnson,United States Senate,NA,Constitution,Joe Wilmoth,103
 Johnson,United States Senate,NA,Democratic,Gordon Ball,595
 Johnson,United States Senate,NA,Green,Martin Pleasant,28
@@ -1589,22 +1589,22 @@ Knox,Governor,NA,Independent,Daniel T. Lewis,522
 Knox,Governor,NA,Independent,John Jay Hooker,2214
 Knox,Governor,NA,Independent,Steven Damon Coburn,487
 Knox,Governor,NA,Republican,Bill Haslam,78571
-Knox,Tennessee House of Representatives,13,Democratic,Gloria Johnson,6548
-Knox,Tennessee House of Representatives,13,Republican,Eddie Smith,6730
-Knox,Tennessee House of Representatives,14,Republican,Ryan A Haynes,17664
-Knox,Tennessee House of Representatives,15,Democratic,"Joseph ""Joe"" Armstrong",5464
-Knox,Tennessee House of Representatives,15,Independent,Pete Drew,1726
-Knox,Tennessee House of Representatives,16,Republican,Bill Dunn,12660
-Knox,Tennessee House of Representatives,18,Republican,Martin Daniel,11970
-Knox,Tennessee House of Representatives,19,Republican,Harry Brooks,11280
-Knox,Tennessee House of Representatives,89,Republican,Roger Kane,12958
-Knox,Tennessee Senate,5,Republican,Randy McNally,10370
-Knox,Tennessee Senate,7,Democratic,Cheri K. Siler,14880
-Knox,Tennessee Senate,7,Republican,Richard Briggs,27942
-Knox,United States House of Representatives,2,Democratic,Bob Scott,25837
-Knox,United States House of Representatives,2,Green,Norris Dryer,3057
-Knox,United States House of Representatives,2,Independent,Casey Adam Gouge,2451
-Knox,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",71955
+Knox,State House,13,Democratic,Gloria Johnson,6548
+Knox,State House,13,Republican,Eddie Smith,6730
+Knox,State House,14,Republican,Ryan A Haynes,17664
+Knox,State House,15,Democratic,"Joseph ""Joe"" Armstrong",5464
+Knox,State House,15,Independent,Pete Drew,1726
+Knox,State House,16,Republican,Bill Dunn,12660
+Knox,State House,18,Republican,Martin Daniel,11970
+Knox,State House,19,Republican,Harry Brooks,11280
+Knox,State House,89,Republican,Roger Kane,12958
+Knox,State Senate,5,Republican,Randy McNally,10370
+Knox,State Senate,7,Democratic,Cheri K. Siler,14880
+Knox,State Senate,7,Republican,Richard Briggs,27942
+Knox,U.S. House,2,Democratic,Bob Scott,25837
+Knox,U.S. House,2,Green,Norris Dryer,3057
+Knox,U.S. House,2,Independent,Casey Adam Gouge,2451
+Knox,U.S. House,2,Republican,"John J. Duncan, Jr.",71955
 Knox,United States Senate,NA,Constitution,Joe Wilmoth,2436
 Knox,United States Senate,NA,Democratic,Gordon Ball,30802
 Knox,United States Senate,NA,Green,Martin Pleasant,1742
@@ -1632,15 +1632,15 @@ Lake,Governor,NA,Independent,Daniel T. Lewis,19
 Lake,Governor,NA,Independent,John Jay Hooker,51
 Lake,Governor,NA,Independent,Steven Damon Coburn,17
 Lake,Governor,NA,Republican,Bill Haslam,629
-Lake,Tennessee House of Representatives,77,Republican,Bill Sanderson,789
-Lake,Tennessee Senate,27,Constitution,Tim York,33
-Lake,Tennessee Senate,27,Democratic,Randy Lamb,557
-Lake,Tennessee Senate,27,Independent,James A. Baxter,31
-Lake,Tennessee Senate,27,Republican,Ed Jackson,521
-Lake,United States House of Representatives,8,Constitution,Mark Rawles,33
-Lake,United States House of Representatives,8,Democratic,Wes Bradley,388
-Lake,United States House of Representatives,8,Independent,James Hart,47
-Lake,United States House of Representatives,8,Republican,Stephen Lee Fincher,668
+Lake,State House,77,Republican,Bill Sanderson,789
+Lake,State Senate,27,Constitution,Tim York,33
+Lake,State Senate,27,Democratic,Randy Lamb,557
+Lake,State Senate,27,Independent,James A. Baxter,31
+Lake,State Senate,27,Republican,Ed Jackson,521
+Lake,U.S. House,8,Constitution,Mark Rawles,33
+Lake,U.S. House,8,Democratic,Wes Bradley,388
+Lake,U.S. House,8,Independent,James Hart,47
+Lake,U.S. House,8,Republican,Stephen Lee Fincher,668
 Lake,United States Senate,NA,Constitution,Joe Wilmoth,46
 Lake,United States Senate,NA,Democratic,Gordon Ball,418
 Lake,United States Senate,NA,Green,Martin Pleasant,6
@@ -1669,15 +1669,15 @@ Lauderdale,Governor,NA,Independent,John Jay Hooker,87
 Lauderdale,Governor,NA,Independent,Steven Damon Coburn,34
 Lauderdale,Governor,NA,Independent,Write-In - A. Darryl Haas,1
 Lauderdale,Governor,NA,Republican,Bill Haslam,2652
-Lauderdale,Tennessee House of Representatives,82,Democratic,Craig Fitzhugh,3146
-Lauderdale,Tennessee Senate,27,Constitution,Tim York,63
-Lauderdale,Tennessee Senate,27,Democratic,Randy Lamb,1593
-Lauderdale,Tennessee Senate,27,Independent,James A. Baxter,61
-Lauderdale,Tennessee Senate,27,Republican,Ed Jackson,2307
-Lauderdale,United States House of Representatives,8,Constitution,Mark Rawles,74
-Lauderdale,United States House of Representatives,8,Democratic,Wes Bradley,1217
-Lauderdale,United States House of Representatives,8,Independent,James Hart,64
-Lauderdale,United States House of Representatives,8,Republican,Stephen Lee Fincher,2713
+Lauderdale,State House,82,Democratic,Craig Fitzhugh,3146
+Lauderdale,State Senate,27,Constitution,Tim York,63
+Lauderdale,State Senate,27,Democratic,Randy Lamb,1593
+Lauderdale,State Senate,27,Independent,James A. Baxter,61
+Lauderdale,State Senate,27,Republican,Ed Jackson,2307
+Lauderdale,U.S. House,8,Constitution,Mark Rawles,74
+Lauderdale,U.S. House,8,Democratic,Wes Bradley,1217
+Lauderdale,U.S. House,8,Independent,James Hart,64
+Lauderdale,U.S. House,8,Republican,Stephen Lee Fincher,2713
 Lauderdale,United States Senate,NA,Constitution,Joe Wilmoth,92
 Lauderdale,United States Senate,NA,Democratic,Gordon Ball,1393
 Lauderdale,United States Senate,NA,Green,Martin Pleasant,14
@@ -1705,11 +1705,11 @@ Lawrence,Governor,NA,Independent,Daniel T. Lewis,66
 Lawrence,Governor,NA,Independent,John Jay Hooker,205
 Lawrence,Governor,NA,Independent,Steven Damon Coburn,56
 Lawrence,Governor,NA,Republican,Bill Haslam,6264
-Lawrence,Tennessee House of Representatives,70,Republican,Barry Doss,6136
-Lawrence,Tennessee House of Representatives,71,Republican,"David ""Coach"" Byrd",1016
-Lawrence,United States House of Representatives,7,Democratic,Daniel Cramer,2037
-Lawrence,United States House of Representatives,7,Independent,Leonard D. Ladner,287
-Lawrence,United States House of Representatives,7,Republican,Marsha Blackburn,6268
+Lawrence,State House,70,Republican,Barry Doss,6136
+Lawrence,State House,71,Republican,"David ""Coach"" Byrd",1016
+Lawrence,U.S. House,7,Democratic,Daniel Cramer,2037
+Lawrence,U.S. House,7,Independent,Leonard D. Ladner,287
+Lawrence,U.S. House,7,Republican,Marsha Blackburn,6268
 Lawrence,United States Senate,NA,Constitution,Joe Wilmoth,223
 Lawrence,United States Senate,NA,Democratic,Gordon Ball,2306
 Lawrence,United States Senate,NA,Green,Martin Pleasant,40
@@ -1737,10 +1737,10 @@ Lewis,Governor,NA,Independent,Daniel T. Lewis,27
 Lewis,Governor,NA,Independent,John Jay Hooker,48
 Lewis,Governor,NA,Independent,Steven Damon Coburn,17
 Lewis,Governor,NA,Republican,Bill Haslam,1857
-Lewis,Tennessee House of Representatives,71,Republican,"David ""Coach"" Byrd",2110
-Lewis,United States House of Representatives,7,Democratic,Daniel Cramer,689
-Lewis,United States House of Representatives,7,Independent,Leonard D. Ladner,144
-Lewis,United States House of Representatives,7,Republican,Marsha Blackburn,1873
+Lewis,State House,71,Republican,"David ""Coach"" Byrd",2110
+Lewis,U.S. House,7,Democratic,Daniel Cramer,689
+Lewis,U.S. House,7,Independent,Leonard D. Ladner,144
+Lewis,U.S. House,7,Republican,Marsha Blackburn,1873
 Lewis,United States Senate,NA,Constitution,Joe Wilmoth,121
 Lewis,United States Senate,NA,Democratic,Gordon Ball,736
 Lewis,United States Senate,NA,Green,Martin Pleasant,36
@@ -1768,12 +1768,12 @@ Lincoln,Governor,NA,Independent,Daniel T. Lewis,54
 Lincoln,Governor,NA,Independent,John Jay Hooker,127
 Lincoln,Governor,NA,Independent,Steven Damon Coburn,54
 Lincoln,Governor,NA,Republican,Bill Haslam,4720
-Lincoln,Tennessee House of Representatives,62,Republican,Pat Marsh,2651
-Lincoln,Tennessee House of Representatives,92,Democratic,Vicki Cain,523
-Lincoln,Tennessee House of Representatives,92,Republican,Billy Spivey,2375
-Lincoln,United States House of Representatives,4,Democratic,Lenda Sherrell,1507
-Lincoln,United States House of Representatives,4,Independent,Robert Rankin Doggart,236
-Lincoln,United States House of Representatives,4,Republican,Scott DesJarlais,4641
+Lincoln,State House,62,Republican,Pat Marsh,2651
+Lincoln,State House,92,Democratic,Vicki Cain,523
+Lincoln,State House,92,Republican,Billy Spivey,2375
+Lincoln,U.S. House,4,Democratic,Lenda Sherrell,1507
+Lincoln,U.S. House,4,Independent,Robert Rankin Doggart,236
+Lincoln,U.S. House,4,Republican,Scott DesJarlais,4641
 Lincoln,United States Senate,NA,Constitution,Joe Wilmoth,208
 Lincoln,United States Senate,NA,Democratic,Gordon Ball,1239
 Lincoln,United States Senate,NA,Green,Martin Pleasant,49
@@ -1801,15 +1801,15 @@ Loudon,Governor,NA,Independent,Daniel T. Lewis,73
 Loudon,Governor,NA,Independent,John Jay Hooker,218
 Loudon,Governor,NA,Independent,Steven Damon Coburn,74
 Loudon,Governor,NA,Republican,Bill Haslam,12015
-Loudon,Tennessee House of Representatives,21,Democratic,Pamela O. Weston,2004
-Loudon,Tennessee House of Representatives,21,Republican,Jimmy Matlock,8800
-Loudon,Tennessee House of Representatives,32,Democratic,Joe Kneiser,734
-Loudon,Tennessee House of Representatives,32,Republican,Kent Calfee,2920
-Loudon,Tennessee Senate,5,Republican,Randy McNally,12324
-Loudon,United States House of Representatives,2,Democratic,Bob Scott,2631
-Loudon,United States House of Representatives,2,Green,Norris Dryer,188
-Loudon,United States House of Representatives,2,Independent,Casey Adam Gouge,428
-Loudon,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",11363
+Loudon,State House,21,Democratic,Pamela O. Weston,2004
+Loudon,State House,21,Republican,Jimmy Matlock,8800
+Loudon,State House,32,Democratic,Joe Kneiser,734
+Loudon,State House,32,Republican,Kent Calfee,2920
+Loudon,State Senate,5,Republican,Randy McNally,12324
+Loudon,U.S. House,2,Democratic,Bob Scott,2631
+Loudon,U.S. House,2,Green,Norris Dryer,188
+Loudon,U.S. House,2,Independent,Casey Adam Gouge,428
+Loudon,U.S. House,2,Republican,"John J. Duncan, Jr.",11363
 Loudon,United States Senate,NA,Constitution,Joe Wilmoth,317
 Loudon,United States Senate,NA,Democratic,Gordon Ball,3031
 Loudon,United States Senate,NA,Green,Martin Pleasant,134
@@ -1837,11 +1837,11 @@ Macon,Governor,NA,Independent,Daniel T. Lewis,32
 Macon,Governor,NA,Independent,John Jay Hooker,94
 Macon,Governor,NA,Independent,Steven Damon Coburn,31
 Macon,Governor,NA,Republican,Bill Haslam,2436
-Macon,Tennessee House of Representatives,38,Republican,Kelly T. Keisling,2827
-Macon,Tennessee Senate,17,Republican,Mae Beavers,2590
-Macon,United States House of Representatives,6,Democratic,Amos Scott Powers,559
-Macon,United States House of Representatives,6,Independent,Mike Winton,194
-Macon,United States House of Representatives,6,Republican,Diane Black,2553
+Macon,State House,38,Republican,Kelly T. Keisling,2827
+Macon,State Senate,17,Republican,Mae Beavers,2590
+Macon,U.S. House,6,Democratic,Amos Scott Powers,559
+Macon,U.S. House,6,Independent,Mike Winton,194
+Macon,U.S. House,6,Republican,Diane Black,2553
 Macon,United States Senate,NA,Constitution,Joe Wilmoth,104
 Macon,United States Senate,NA,Democratic,Gordon Ball,725
 Macon,United States Senate,NA,Green,Martin Pleasant,22
@@ -1869,17 +1869,17 @@ Madison,Governor,NA,Independent,Daniel T. Lewis,94
 Madison,Governor,NA,Independent,John Jay Hooker,317
 Madison,Governor,NA,Independent,Steven Damon Coburn,100
 Madison,Governor,NA,Republican,Bill Haslam,14563
-Madison,Tennessee House of Representatives,73,Democratic,Shelia L Godwin,3921
-Madison,Tennessee House of Representatives,73,Republican,Jimmy Eldridge,13116
-Madison,Tennessee House of Representatives,80,Democratic,Johnny W. Shaw,4668
-Madison,Tennessee Senate,27,Constitution,Tim York,669
-Madison,Tennessee Senate,27,Democratic,Randy Lamb,8388
-Madison,Tennessee Senate,27,Independent,James A. Baxter,527
-Madison,Tennessee Senate,27,Republican,Ed Jackson,13594
-Madison,United States House of Representatives,8,Constitution,Mark Rawles,898
-Madison,United States House of Representatives,8,Democratic,Wes Bradley,7659
-Madison,United States House of Representatives,8,Independent,James Hart,389
-Madison,United States House of Representatives,8,Republican,Stephen Lee Fincher,13902
+Madison,State House,73,Democratic,Shelia L Godwin,3921
+Madison,State House,73,Republican,Jimmy Eldridge,13116
+Madison,State House,80,Democratic,Johnny W. Shaw,4668
+Madison,State Senate,27,Constitution,Tim York,669
+Madison,State Senate,27,Democratic,Randy Lamb,8388
+Madison,State Senate,27,Independent,James A. Baxter,527
+Madison,State Senate,27,Republican,Ed Jackson,13594
+Madison,U.S. House,8,Constitution,Mark Rawles,898
+Madison,U.S. House,8,Democratic,Wes Bradley,7659
+Madison,U.S. House,8,Independent,James Hart,389
+Madison,U.S. House,8,Republican,Stephen Lee Fincher,13902
 Madison,United States Senate,NA,Constitution,Joe Wilmoth,1053
 Madison,United States Senate,NA,Democratic,Gordon Ball,7871
 Madison,United States Senate,NA,Green,Martin Pleasant,83
@@ -1908,13 +1908,13 @@ Marion,Governor,NA,Independent,John Jay Hooker,88
 Marion,Governor,NA,Independent,Steven Damon Coburn,23
 Marion,Governor,NA,Independent,Write-In - BeLinda Jo Ivins,1
 Marion,Governor,NA,Republican,Bill Haslam,4233
-Marion,Tennessee House of Representatives,39,Democratic,Matthew Huffer,1035
-Marion,Tennessee House of Representatives,39,Republican,David Alexander,2109
-Marion,Tennessee House of Representatives,92,Democratic,Vicki Cain,1248
-Marion,Tennessee House of Representatives,92,Republican,Billy Spivey,1822
-Marion,United States House of Representatives,4,Democratic,Lenda Sherrell,2327
-Marion,United States House of Representatives,4,Independent,Robert Rankin Doggart,242
-Marion,United States House of Representatives,4,Republican,Scott DesJarlais,3732
+Marion,State House,39,Democratic,Matthew Huffer,1035
+Marion,State House,39,Republican,David Alexander,2109
+Marion,State House,92,Democratic,Vicki Cain,1248
+Marion,State House,92,Republican,Billy Spivey,1822
+Marion,U.S. House,4,Democratic,Lenda Sherrell,2327
+Marion,U.S. House,4,Independent,Robert Rankin Doggart,242
+Marion,U.S. House,4,Republican,Scott DesJarlais,3732
 Marion,United States Senate,NA,Constitution,Joe Wilmoth,101
 Marion,United States Senate,NA,Democratic,Gordon Ball,1968
 Marion,United States Senate,NA,Green,Martin Pleasant,28
@@ -1942,11 +1942,11 @@ Marshall,Governor,NA,Independent,Daniel T. Lewis,40
 Marshall,Governor,NA,Independent,John Jay Hooker,185
 Marshall,Governor,NA,Independent,Steven Damon Coburn,32
 Marshall,Governor,NA,Republican,Bill Haslam,4279
-Marshall,Tennessee House of Representatives,92,Democratic,Vicki Cain,2295
-Marshall,Tennessee House of Representatives,92,Republican,Billy Spivey,3790
-Marshall,United States House of Representatives,4,Democratic,Lenda Sherrell,2268
-Marshall,United States House of Representatives,4,Independent,Robert Rankin Doggart,365
-Marshall,United States House of Representatives,4,Republican,Scott DesJarlais,3280
+Marshall,State House,92,Democratic,Vicki Cain,2295
+Marshall,State House,92,Republican,Billy Spivey,3790
+Marshall,U.S. House,4,Democratic,Lenda Sherrell,2268
+Marshall,U.S. House,4,Independent,Robert Rankin Doggart,365
+Marshall,U.S. House,4,Republican,Scott DesJarlais,3280
 Marshall,United States Senate,NA,Constitution,Joe Wilmoth,187
 Marshall,United States Senate,NA,Democratic,Gordon Ball,1898
 Marshall,United States Senate,NA,Green,Martin Pleasant,34
@@ -1974,16 +1974,16 @@ Maury,Governor,NA,Independent,Daniel T. Lewis,130
 Maury,Governor,NA,Independent,John Jay Hooker,337
 Maury,Governor,NA,Independent,Steven Damon Coburn,131
 Maury,Governor,NA,Republican,Bill Haslam,12790
-Maury,Tennessee House of Representatives,64,Independent,James Gray,3760
-Maury,Tennessee House of Representatives,64,Republican,Sheila Butt,11213
-Maury,Tennessee House of Representatives,69,Democratic,David A. Shepard,1737
-Maury,Tennessee House of Representatives,69,Republican,Michael Curcio,1516
-Maury,United States House of Representatives,4,Democratic,Lenda Sherrell,4983
-Maury,United States House of Representatives,4,Independent,Robert Rankin Doggart,903
-Maury,United States House of Representatives,4,Republican,Scott DesJarlais,8119
-Maury,United States House of Representatives,7,Democratic,Daniel Cramer,1495
-Maury,United States House of Representatives,7,Independent,Leonard D. Ladner,155
-Maury,United States House of Representatives,7,Republican,Marsha Blackburn,3163
+Maury,State House,64,Independent,James Gray,3760
+Maury,State House,64,Republican,Sheila Butt,11213
+Maury,State House,69,Democratic,David A. Shepard,1737
+Maury,State House,69,Republican,Michael Curcio,1516
+Maury,U.S. House,4,Democratic,Lenda Sherrell,4983
+Maury,U.S. House,4,Independent,Robert Rankin Doggart,903
+Maury,U.S. House,4,Republican,Scott DesJarlais,8119
+Maury,U.S. House,7,Democratic,Daniel Cramer,1495
+Maury,U.S. House,7,Independent,Leonard D. Ladner,155
+Maury,U.S. House,7,Republican,Marsha Blackburn,3163
 Maury,United States Senate,NA,Constitution,Joe Wilmoth,727
 Maury,United States Senate,NA,Democratic,Gordon Ball,5831
 Maury,United States Senate,NA,Green,Martin Pleasant,138
@@ -2012,11 +2012,11 @@ McMinn,Governor,NA,Independent,John Jay Hooker,168
 McMinn,Governor,NA,Independent,Steven Damon Coburn,65
 McMinn,Governor,NA,Independent,Write-In - A. Darryl Haas,1
 McMinn,Governor,NA,Republican,Bill Haslam,8120
-McMinn,Tennessee House of Representatives,23,Republican,John W. Forgety,9380
-McMinn,Tennessee Senate,9,Republican,Mike Bell,8888
-McMinn,United States House of Representatives,3,Democratic,Mary M. Headrick,2730
-McMinn,United States House of Representatives,3,Independent,Cassandra J Mitchell,338
-McMinn,United States House of Representatives,3,Republican,Chuck Fleischmann,7579
+McMinn,State House,23,Republican,John W. Forgety,9380
+McMinn,State Senate,9,Republican,Mike Bell,8888
+McMinn,U.S. House,3,Democratic,Mary M. Headrick,2730
+McMinn,U.S. House,3,Independent,Cassandra J Mitchell,338
+McMinn,U.S. House,3,Republican,Chuck Fleischmann,7579
 McMinn,United States Senate,NA,Constitution,Joe Wilmoth,256
 McMinn,United States Senate,NA,Democratic,Gordon Ball,2177
 McMinn,United States Senate,NA,Green,Martin Pleasant,68
@@ -2044,10 +2044,10 @@ McNairy,Governor,NA,Independent,Daniel T. Lewis,34
 McNairy,Governor,NA,Independent,John Jay Hooker,97
 McNairy,Governor,NA,Independent,Steven Damon Coburn,41
 McNairy,Governor,NA,Republican,Bill Haslam,4019
-McNairy,Tennessee House of Representatives,94,Republican,Leigh Rosser Wilburn,3671
-McNairy,United States House of Representatives,7,Democratic,Daniel Cramer,1263
-McNairy,United States House of Representatives,7,Independent,Leonard D. Ladner,129
-McNairy,United States House of Representatives,7,Republican,Marsha Blackburn,3992
+McNairy,State House,94,Republican,Leigh Rosser Wilburn,3671
+McNairy,U.S. House,7,Democratic,Daniel Cramer,1263
+McNairy,U.S. House,7,Independent,Leonard D. Ladner,129
+McNairy,U.S. House,7,Republican,Marsha Blackburn,3992
 McNairy,United States Senate,NA,Constitution,Joe Wilmoth,159
 McNairy,United States Senate,NA,Democratic,Gordon Ball,1343
 McNairy,United States Senate,NA,Green,Martin Pleasant,22
@@ -2075,11 +2075,11 @@ Meigs,Governor,NA,Independent,Daniel T. Lewis,17
 Meigs,Governor,NA,Independent,John Jay Hooker,54
 Meigs,Governor,NA,Independent,Steven Damon Coburn,12
 Meigs,Governor,NA,Republican,Bill Haslam,1683
-Meigs,Tennessee House of Representatives,22,Republican,Dan Howell,1820
-Meigs,Tennessee Senate,9,Republican,Mike Bell,1691
-Meigs,United States House of Representatives,4,Democratic,Lenda Sherrell,748
-Meigs,United States House of Representatives,4,Independent,Robert Rankin Doggart,206
-Meigs,United States House of Representatives,4,Republican,Scott DesJarlais,1256
+Meigs,State House,22,Republican,Dan Howell,1820
+Meigs,State Senate,9,Republican,Mike Bell,1691
+Meigs,U.S. House,4,Democratic,Lenda Sherrell,748
+Meigs,U.S. House,4,Independent,Robert Rankin Doggart,206
+Meigs,U.S. House,4,Republican,Scott DesJarlais,1256
 Meigs,United States Senate,NA,Constitution,Joe Wilmoth,50
 Meigs,United States Senate,NA,Democratic,Gordon Ball,550
 Meigs,United States Senate,NA,Green,Martin Pleasant,16
@@ -2107,13 +2107,13 @@ Monroe,Governor,NA,Independent,Daniel T. Lewis,44
 Monroe,Governor,NA,Independent,John Jay Hooker,147
 Monroe,Governor,NA,Independent,Steven Damon Coburn,50
 Monroe,Governor,NA,Republican,Bill Haslam,7567
-Monroe,Tennessee House of Representatives,21,Democratic,Pamela O. Weston,1742
-Monroe,Tennessee House of Representatives,21,Republican,Jimmy Matlock,4992
-Monroe,Tennessee House of Representatives,23,Republican,John W. Forgety,2672
-Monroe,Tennessee Senate,9,Republican,Mike Bell,7933
-Monroe,United States House of Representatives,3,Democratic,Mary M. Headrick,2636
-Monroe,United States House of Representatives,3,Independent,Cassandra J Mitchell,295
-Monroe,United States House of Representatives,3,Republican,Chuck Fleischmann,7038
+Monroe,State House,21,Democratic,Pamela O. Weston,1742
+Monroe,State House,21,Republican,Jimmy Matlock,4992
+Monroe,State House,23,Republican,John W. Forgety,2672
+Monroe,State Senate,9,Republican,Mike Bell,7933
+Monroe,U.S. House,3,Democratic,Mary M. Headrick,2636
+Monroe,U.S. House,3,Independent,Cassandra J Mitchell,295
+Monroe,U.S. House,3,Republican,Chuck Fleischmann,7038
 Monroe,United States Senate,NA,Constitution,Joe Wilmoth,243
 Monroe,United States Senate,NA,Democratic,Gordon Ball,2516
 Monroe,United States Senate,NA,Green,Martin Pleasant,44
@@ -2141,14 +2141,14 @@ Montgomery,Governor,NA,Independent,Daniel T. Lewis,209
 Montgomery,Governor,NA,Independent,John Jay Hooker,456
 Montgomery,Governor,NA,Independent,Steven Damon Coburn,181
 Montgomery,Governor,NA,Republican,Bill Haslam,20185
-Montgomery,Tennessee House of Representatives,67,Constitution,Mike Warner,2638
-Montgomery,Tennessee House of Representatives,67,Democratic,Joe Pitts,6154
-Montgomery,Tennessee House of Representatives,68,Republican,Curtis Johnson,12872
-Montgomery,Tennessee House of Representatives,74,Democratic,John C. Tidwell,1781
-Montgomery,Tennessee House of Representatives,74,Republican,Jay D. Reedy,2565
-Montgomery,United States House of Representatives,7,Democratic,Daniel Cramer,9850
-Montgomery,United States House of Representatives,7,Independent,Leonard D. Ladner,1083
-Montgomery,United States House of Representatives,7,Republican,Marsha Blackburn,18188
+Montgomery,State House,67,Constitution,Mike Warner,2638
+Montgomery,State House,67,Democratic,Joe Pitts,6154
+Montgomery,State House,68,Republican,Curtis Johnson,12872
+Montgomery,State House,74,Democratic,John C. Tidwell,1781
+Montgomery,State House,74,Republican,Jay D. Reedy,2565
+Montgomery,U.S. House,7,Democratic,Daniel Cramer,9850
+Montgomery,U.S. House,7,Independent,Leonard D. Ladner,1083
+Montgomery,U.S. House,7,Republican,Marsha Blackburn,18188
 Montgomery,United States Senate,NA,Constitution,Joe Wilmoth,730
 Montgomery,United States Senate,NA,Democratic,Gordon Ball,9721
 Montgomery,United States Senate,NA,Green,Martin Pleasant,253
@@ -2176,11 +2176,11 @@ Moore,Governor,NA,Independent,Daniel T. Lewis,13
 Moore,Governor,NA,Independent,John Jay Hooker,41
 Moore,Governor,NA,Independent,Steven Damon Coburn,15
 Moore,Governor,NA,Republican,Bill Haslam,1145
-Moore,Tennessee House of Representatives,39,Democratic,Matthew Huffer,586
-Moore,Tennessee House of Representatives,39,Republican,David Alexander,1105
-Moore,United States House of Representatives,4,Democratic,Lenda Sherrell,551
-Moore,United States House of Representatives,4,Independent,Robert Rankin Doggart,67
-Moore,United States House of Representatives,4,Republican,Scott DesJarlais,1118
+Moore,State House,39,Democratic,Matthew Huffer,586
+Moore,State House,39,Republican,David Alexander,1105
+Moore,U.S. House,4,Democratic,Lenda Sherrell,551
+Moore,U.S. House,4,Independent,Robert Rankin Doggart,67
+Moore,U.S. House,4,Republican,Scott DesJarlais,1118
 Moore,United States Senate,NA,Constitution,Joe Wilmoth,48
 Moore,United States Senate,NA,Democratic,Gordon Ball,445
 Moore,United States Senate,NA,Green,Martin Pleasant,6
@@ -2208,10 +2208,10 @@ Morgan,Governor,NA,Independent,Daniel T. Lewis,21
 Morgan,Governor,NA,Independent,John Jay Hooker,88
 Morgan,Governor,NA,Independent,Steven Damon Coburn,18
 Morgan,Governor,NA,Republican,Bill Haslam,2453
-Morgan,Tennessee House of Representatives,41,Democratic,John Mark Windle,2904
-Morgan,United States House of Representatives,3,Democratic,Mary M. Headrick,1015
-Morgan,United States House of Representatives,3,Independent,Cassandra J Mitchell,128
-Morgan,United States House of Representatives,3,Republican,Chuck Fleischmann,2507
+Morgan,State House,41,Democratic,John Mark Windle,2904
+Morgan,U.S. House,3,Democratic,Mary M. Headrick,1015
+Morgan,U.S. House,3,Independent,Cassandra J Mitchell,128
+Morgan,U.S. House,3,Republican,Chuck Fleischmann,2507
 Morgan,United States Senate,NA,Constitution,Joe Wilmoth,115
 Morgan,United States Senate,NA,Democratic,Gordon Ball,982
 Morgan,United States Senate,NA,Green,Martin Pleasant,18
@@ -2239,13 +2239,13 @@ Obion,Governor,NA,Independent,Daniel T. Lewis,53
 Obion,Governor,NA,Independent,John Jay Hooker,128
 Obion,Governor,NA,Independent,Steven Damon Coburn,88
 Obion,Governor,NA,Republican,Bill Haslam,4428
-Obion,Tennessee House of Representatives,76,Democratic,Joyce Washington,803
-Obion,Tennessee House of Representatives,76,Republican,Andy Holt,1539
-Obion,Tennessee House of Representatives,77,Republican,Bill Sanderson,3396
-Obion,United States House of Representatives,8,Constitution,Mark Rawles,249
-Obion,United States House of Representatives,8,Democratic,Wes Bradley,1506
-Obion,United States House of Representatives,8,Independent,James Hart,193
-Obion,United States House of Representatives,8,Republican,Stephen Lee Fincher,4742
+Obion,State House,76,Democratic,Joyce Washington,803
+Obion,State House,76,Republican,Andy Holt,1539
+Obion,State House,77,Republican,Bill Sanderson,3396
+Obion,U.S. House,8,Constitution,Mark Rawles,249
+Obion,U.S. House,8,Democratic,Wes Bradley,1506
+Obion,U.S. House,8,Independent,James Hart,193
+Obion,U.S. House,8,Republican,Stephen Lee Fincher,4742
 Obion,United States Senate,NA,Constitution,Joe Wilmoth,373
 Obion,United States Senate,NA,Democratic,Gordon Ball,1500
 Obion,United States Senate,NA,Green,Martin Pleasant,29
@@ -2273,13 +2273,13 @@ Overton,Governor,NA,Independent,Daniel T. Lewis,29
 Overton,Governor,NA,Independent,John Jay Hooker,121
 Overton,Governor,NA,Independent,Steven Damon Coburn,66
 Overton,Governor,NA,Republican,Bill Haslam,2613
-Overton,Tennessee House of Representatives,41,Democratic,John Mark Windle,3412
-Overton,Tennessee Senate,15,Democratic,Betty Vaudt,1106
-Overton,Tennessee Senate,15,Independent,William L. Draper,172
-Overton,Tennessee Senate,15,Republican,Paul Bailey,2629
-Overton,United States House of Representatives,6,Democratic,Amos Scott Powers,1123
-Overton,United States House of Representatives,6,Independent,Mike Winton,270
-Overton,United States House of Representatives,6,Republican,Diane Black,2625
+Overton,State House,41,Democratic,John Mark Windle,3412
+Overton,State Senate,15,Democratic,Betty Vaudt,1106
+Overton,State Senate,15,Independent,William L. Draper,172
+Overton,State Senate,15,Republican,Paul Bailey,2629
+Overton,U.S. House,6,Democratic,Amos Scott Powers,1123
+Overton,U.S. House,6,Independent,Mike Winton,270
+Overton,U.S. House,6,Republican,Diane Black,2625
 Overton,United States Senate,NA,Constitution,Joe Wilmoth,214
 Overton,United States Senate,NA,Democratic,Gordon Ball,1321
 Overton,United States Senate,NA,Green,Martin Pleasant,17
@@ -2307,10 +2307,10 @@ Perry,Governor,NA,Independent,Daniel T. Lewis,12
 Perry,Governor,NA,Independent,John Jay Hooker,32
 Perry,Governor,NA,Independent,Steven Damon Coburn,9
 Perry,Governor,NA,Republican,Bill Haslam,945
-Perry,Tennessee House of Representatives,72,Republican,Steve K. McDaniel,1114
-Perry,United States House of Representatives,7,Democratic,Daniel Cramer,409
-Perry,United States House of Representatives,7,Independent,Leonard D. Ladner,60
-Perry,United States House of Representatives,7,Republican,Marsha Blackburn,941
+Perry,State House,72,Republican,Steve K. McDaniel,1114
+Perry,U.S. House,7,Democratic,Daniel Cramer,409
+Perry,U.S. House,7,Independent,Leonard D. Ladner,60
+Perry,U.S. House,7,Republican,Marsha Blackburn,941
 Perry,United States Senate,NA,Constitution,Joe Wilmoth,59
 Perry,United States Senate,NA,Democratic,Gordon Ball,447
 Perry,United States Senate,NA,Green,Martin Pleasant,25
@@ -2338,10 +2338,10 @@ Pickett,Governor,NA,Independent,Daniel T. Lewis,14
 Pickett,Governor,NA,Independent,John Jay Hooker,37
 Pickett,Governor,NA,Independent,Steven Damon Coburn,54
 Pickett,Governor,NA,Republican,Bill Haslam,1154
-Pickett,Tennessee House of Representatives,38,Republican,Kelly T. Keisling,1275
-Pickett,United States House of Representatives,6,Democratic,Amos Scott Powers,372
-Pickett,United States House of Representatives,6,Independent,Mike Winton,103
-Pickett,United States House of Representatives,6,Republican,Diane Black,1120
+Pickett,State House,38,Republican,Kelly T. Keisling,1275
+Pickett,U.S. House,6,Democratic,Amos Scott Powers,372
+Pickett,U.S. House,6,Independent,Mike Winton,103
+Pickett,U.S. House,6,Republican,Diane Black,1120
 Pickett,United States Senate,NA,Constitution,Joe Wilmoth,55
 Pickett,United States Senate,NA,Democratic,Gordon Ball,426
 Pickett,United States Senate,NA,Green,Martin Pleasant,9
@@ -2369,11 +2369,11 @@ Polk,Governor,NA,Independent,Daniel T. Lewis,23
 Polk,Governor,NA,Independent,John Jay Hooker,44
 Polk,Governor,NA,Independent,Steven Damon Coburn,18
 Polk,Governor,NA,Republican,Bill Haslam,2505
-Polk,Tennessee House of Representatives,22,Republican,Dan Howell,2468
-Polk,Tennessee Senate,9,Republican,Mike Bell,2513
-Polk,United States House of Representatives,3,Democratic,Mary M. Headrick,1166
-Polk,United States House of Representatives,3,Independent,Cassandra J Mitchell,116
-Polk,United States House of Representatives,3,Republican,Chuck Fleischmann,2299
+Polk,State House,22,Republican,Dan Howell,2468
+Polk,State Senate,9,Republican,Mike Bell,2513
+Polk,U.S. House,3,Democratic,Mary M. Headrick,1166
+Polk,U.S. House,3,Independent,Cassandra J Mitchell,116
+Polk,U.S. House,3,Republican,Chuck Fleischmann,2299
 Polk,United States Senate,NA,Constitution,Joe Wilmoth,85
 Polk,United States Senate,NA,Democratic,Gordon Ball,958
 Polk,United States Senate,NA,Green,Martin Pleasant,24
@@ -2401,16 +2401,16 @@ Putnam,Governor,NA,Independent,Daniel T. Lewis,104
 Putnam,Governor,NA,Independent,John Jay Hooker,363
 Putnam,Governor,NA,Independent,Steven Damon Coburn,217
 Putnam,Governor,NA,Republican,Bill Haslam,10425
-Putnam,Tennessee House of Representatives,25,Democratic,Judy Barnett,315
-Putnam,Tennessee House of Representatives,25,Republican,Cameron Sexton,707
-Putnam,Tennessee House of Representatives,42,Democratic,Mike Walsh,3947
-Putnam,Tennessee House of Representatives,42,Republican,Ryan Williams,10054
-Putnam,Tennessee Senate,15,Democratic,Betty Vaudt,3439
-Putnam,Tennessee Senate,15,Independent,William L. Draper,664
-Putnam,Tennessee Senate,15,Republican,Paul Bailey,10687
-Putnam,United States House of Representatives,6,Democratic,Amos Scott Powers,3608
-Putnam,United States House of Representatives,6,Independent,Mike Winton,837
-Putnam,United States House of Representatives,6,Republican,Diane Black,10504
+Putnam,State House,25,Democratic,Judy Barnett,315
+Putnam,State House,25,Republican,Cameron Sexton,707
+Putnam,State House,42,Democratic,Mike Walsh,3947
+Putnam,State House,42,Republican,Ryan Williams,10054
+Putnam,State Senate,15,Democratic,Betty Vaudt,3439
+Putnam,State Senate,15,Independent,William L. Draper,664
+Putnam,State Senate,15,Republican,Paul Bailey,10687
+Putnam,U.S. House,6,Democratic,Amos Scott Powers,3608
+Putnam,U.S. House,6,Independent,Mike Winton,837
+Putnam,U.S. House,6,Republican,Diane Black,10504
 Putnam,United States Senate,NA,Constitution,Joe Wilmoth,1346
 Putnam,United States Senate,NA,Democratic,Gordon Ball,3892
 Putnam,United States Senate,NA,Green,Martin Pleasant,120
@@ -2438,10 +2438,10 @@ Rhea,Governor,NA,Independent,Daniel T. Lewis,28
 Rhea,Governor,NA,Independent,John Jay Hooker,61
 Rhea,Governor,NA,Independent,Steven Damon Coburn,29
 Rhea,Governor,NA,Republican,Bill Haslam,4792
-Rhea,Tennessee House of Representatives,31,Republican,Ron Travis,5327
-Rhea,United States House of Representatives,4,Democratic,Lenda Sherrell,1590
-Rhea,United States House of Representatives,4,Independent,Robert Rankin Doggart,388
-Rhea,United States House of Representatives,4,Republican,Scott DesJarlais,3834
+Rhea,State House,31,Republican,Ron Travis,5327
+Rhea,U.S. House,4,Democratic,Lenda Sherrell,1590
+Rhea,U.S. House,4,Independent,Robert Rankin Doggart,388
+Rhea,U.S. House,4,Republican,Scott DesJarlais,3834
 Rhea,United States Senate,NA,Constitution,Joe Wilmoth,121
 Rhea,United States Senate,NA,Democratic,Gordon Ball,1071
 Rhea,United States Senate,NA,Green,Martin Pleasant,33
@@ -2469,12 +2469,12 @@ Roane,Governor,NA,Independent,Daniel T. Lewis,69
 Roane,Governor,NA,Independent,John Jay Hooker,370
 Roane,Governor,NA,Independent,Steven Damon Coburn,72
 Roane,Governor,NA,Republican,Bill Haslam,10310
-Roane,Tennessee House of Representatives,31,Republican,Ron Travis,1127
-Roane,Tennessee House of Representatives,32,Democratic,Joe Kneiser,2877
-Roane,Tennessee House of Representatives,32,Republican,Kent Calfee,9001
-Roane,United States House of Representatives,3,Democratic,Mary M. Headrick,3922
-Roane,United States House of Representatives,3,Independent,Cassandra J Mitchell,484
-Roane,United States House of Representatives,3,Republican,Chuck Fleischmann,9106
+Roane,State House,31,Republican,Ron Travis,1127
+Roane,State House,32,Democratic,Joe Kneiser,2877
+Roane,State House,32,Republican,Kent Calfee,9001
+Roane,U.S. House,3,Democratic,Mary M. Headrick,3922
+Roane,U.S. House,3,Independent,Cassandra J Mitchell,484
+Roane,U.S. House,3,Republican,Chuck Fleischmann,9106
 Roane,United States Senate,NA,Constitution,Joe Wilmoth,303
 Roane,United States Senate,NA,Democratic,Gordon Ball,3477
 Roane,United States Senate,NA,Green,Martin Pleasant,99
@@ -2502,12 +2502,12 @@ Robertson,Governor,NA,Independent,Daniel T. Lewis,115
 Robertson,Governor,NA,Independent,John Jay Hooker,416
 Robertson,Governor,NA,Independent,Steven Damon Coburn,96
 Robertson,Governor,NA,Republican,Bill Haslam,10177
-Robertson,Tennessee House of Representatives,66,Republican,Sabi (Doc) Kumar,11181
-Robertson,Tennessee Senate,25,Democratic,Tony Gross,3340
-Robertson,Tennessee Senate,25,Republican,Kerry Roberts,10870
-Robertson,United States House of Representatives,6,Democratic,Amos Scott Powers,3288
-Robertson,United States House of Representatives,6,Independent,Mike Winton,915
-Robertson,United States House of Representatives,6,Republican,Diane Black,9821
+Robertson,State House,66,Republican,Sabi (Doc) Kumar,11181
+Robertson,State Senate,25,Democratic,Tony Gross,3340
+Robertson,State Senate,25,Republican,Kerry Roberts,10870
+Robertson,U.S. House,6,Democratic,Amos Scott Powers,3288
+Robertson,U.S. House,6,Independent,Mike Winton,915
+Robertson,U.S. House,6,Republican,Diane Black,9821
 Robertson,United States Senate,NA,Constitution,Joe Wilmoth,490
 Robertson,United States Senate,NA,Democratic,Gordon Ball,3751
 Robertson,United States Senate,NA,Green,Martin Pleasant,96
@@ -2537,16 +2537,16 @@ Rutherford,Governor,NA,Independent,Steven Damon Coburn,325
 Rutherford,Governor,NA,Independent,Write-In - BeLinda Jo Ivins,1
 Rutherford,Governor,NA,Independent,Write-In - Mark Pearson,4
 Rutherford,Governor,NA,Republican,Bill Haslam,36467
-Rutherford,Tennessee House of Representatives,34,Republican,Rick Womick,12284
-Rutherford,Tennessee House of Representatives,37,Republican,Dawn White,10909
-Rutherford,Tennessee House of Representatives,48,Democratic,William Bill Campbell,4486
-Rutherford,Tennessee House of Representatives,48,Republican,Bryan Terry,9067
-Rutherford,Tennessee House of Representatives,49,Democratic,Mike Williams,4708
-Rutherford,Tennessee House of Representatives,49,Republican,Mike Sparks,7959
-Rutherford,Tennessee Senate,13,Republican,Bill Ketron,29489
-Rutherford,United States House of Representatives,4,Democratic,Lenda Sherrell,20893
-Rutherford,United States House of Representatives,4,Independent,Robert Rankin Doggart,3811
-Rutherford,United States House of Representatives,4,Republican,Scott DesJarlais,29568
+Rutherford,State House,34,Republican,Rick Womick,12284
+Rutherford,State House,37,Republican,Dawn White,10909
+Rutherford,State House,48,Democratic,William Bill Campbell,4486
+Rutherford,State House,48,Republican,Bryan Terry,9067
+Rutherford,State House,49,Democratic,Mike Williams,4708
+Rutherford,State House,49,Republican,Mike Sparks,7959
+Rutherford,State Senate,13,Republican,Bill Ketron,29489
+Rutherford,U.S. House,4,Democratic,Lenda Sherrell,20893
+Rutherford,U.S. House,4,Independent,Robert Rankin Doggart,3811
+Rutherford,U.S. House,4,Republican,Scott DesJarlais,29568
 Rutherford,United States Senate,NA,Constitution,Joe Wilmoth,1674
 Rutherford,United States Senate,NA,Democratic,Gordon Ball,16761
 Rutherford,United States Senate,NA,Green,Martin Pleasant,532
@@ -2574,10 +2574,10 @@ Scott,Governor,NA,Independent,Daniel T. Lewis,17
 Scott,Governor,NA,Independent,John Jay Hooker,64
 Scott,Governor,NA,Independent,Steven Damon Coburn,19
 Scott,Governor,NA,Republican,Bill Haslam,2318
-Scott,Tennessee House of Representatives,38,Republican,Kelly T. Keisling,2450
-Scott,United States House of Representatives,3,Democratic,Mary M. Headrick,708
-Scott,United States House of Representatives,3,Independent,Cassandra J Mitchell,114
-Scott,United States House of Representatives,3,Republican,Chuck Fleischmann,2204
+Scott,State House,38,Republican,Kelly T. Keisling,2450
+Scott,U.S. House,3,Democratic,Mary M. Headrick,708
+Scott,U.S. House,3,Independent,Cassandra J Mitchell,114
+Scott,U.S. House,3,Republican,Chuck Fleischmann,2204
 Scott,United States Senate,NA,Constitution,Joe Wilmoth,57
 Scott,United States Senate,NA,Democratic,Gordon Ball,755
 Scott,United States Senate,NA,Green,Martin Pleasant,13
@@ -2605,10 +2605,10 @@ Sequatchie,Governor,NA,Independent,Daniel T. Lewis,26
 Sequatchie,Governor,NA,Independent,John Jay Hooker,36
 Sequatchie,Governor,NA,Independent,Steven Damon Coburn,17
 Sequatchie,Governor,NA,Republican,Bill Haslam,2418
-Sequatchie,Tennessee House of Representatives,31,Republican,Ron Travis,2622
-Sequatchie,United States House of Representatives,4,Democratic,Lenda Sherrell,945
-Sequatchie,United States House of Representatives,4,Independent,Robert Rankin Doggart,208
-Sequatchie,United States House of Representatives,4,Republican,Scott DesJarlais,1947
+Sequatchie,State House,31,Republican,Ron Travis,2622
+Sequatchie,U.S. House,4,Democratic,Lenda Sherrell,945
+Sequatchie,U.S. House,4,Independent,Robert Rankin Doggart,208
+Sequatchie,U.S. House,4,Republican,Scott DesJarlais,1947
 Sequatchie,United States Senate,NA,Constitution,Joe Wilmoth,64
 Sequatchie,United States Senate,NA,Democratic,Gordon Ball,652
 Sequatchie,United States Senate,NA,Green,Martin Pleasant,28
@@ -2636,13 +2636,13 @@ Sevier,Governor,NA,Independent,Daniel T. Lewis,129
 Sevier,Governor,NA,Independent,John Jay Hooker,306
 Sevier,Governor,NA,Independent,Steven Damon Coburn,139
 Sevier,Governor,NA,Republican,Bill Haslam,15400
-Sevier,Tennessee House of Representatives,12,Republican,Dale Carr,10869
-Sevier,Tennessee House of Representatives,17,Republican,Andrew E. Farmer,4447
-Sevier,Tennessee Senate,1,Republican,Steve Southerland,3514
-Sevier,United States House of Representatives,1,Green,Robert N. Smith,1268
-Sevier,United States House of Representatives,1,Independent,Michael D. Salyer,438
-Sevier,United States House of Representatives,1,Independent,Robert D. Franklin,1254
-Sevier,United States House of Representatives,1,Republican,Phil Roe,15413
+Sevier,State House,12,Republican,Dale Carr,10869
+Sevier,State House,17,Republican,Andrew E. Farmer,4447
+Sevier,State Senate,1,Republican,Steve Southerland,3514
+Sevier,U.S. House,1,Green,Robert N. Smith,1268
+Sevier,U.S. House,1,Independent,Michael D. Salyer,438
+Sevier,U.S. House,1,Independent,Robert D. Franklin,1254
+Sevier,U.S. House,1,Republican,Phil Roe,15413
 Sevier,United States Senate,NA,Constitution,Joe Wilmoth,477
 Sevier,United States Senate,NA,Democratic,Gordon Ball,3627
 Sevier,United States Senate,NA,Green,Martin Pleasant,189
@@ -2672,42 +2672,42 @@ Shelby,Governor,NA,Independent,John Jay Hooker,2711
 Shelby,Governor,NA,Independent,Steven Damon Coburn,1487
 Shelby,Governor,NA,Independent,Write-In - A. Darryl Haas,1
 Shelby,Governor,NA,Republican,Bill Haslam,107089
-Shelby,Tennessee House of Representatives,83,Republican,Mark White,14699
-Shelby,Tennessee House of Representatives,84,Democratic,"Joe Towns, Jr.",9000
-Shelby,Tennessee House of Representatives,85,Democratic,Johnnie R. Turner,10712
-Shelby,Tennessee House of Representatives,86,Democratic,Barbara Cooper,7595
-Shelby,Tennessee House of Representatives,86,Republican,"George T. Edwards, III",3115
-Shelby,Tennessee House of Representatives,87,Democratic,Karen Camper,8791
-Shelby,Tennessee House of Representatives,88,Democratic,Larry J. Miller,7297
-Shelby,Tennessee House of Representatives,88,Republican,Harry Barber,3134
-Shelby,Tennessee House of Representatives,90,Democratic,"John J. DeBerry, Jr.",9237
-Shelby,Tennessee House of Representatives,91,Democratic,Raumesh A. Akbari,8053
-Shelby,Tennessee House of Representatives,91,Republican,Samuel A. Arthur Watkins,1777
-Shelby,Tennessee House of Representatives,93,Democratic,"G.A. Hardaway, Sr.",6996
-Shelby,Tennessee House of Representatives,93,Republican,Colonel G. Billingsley,2507
-Shelby,Tennessee House of Representatives,95,Republican,Curry Todd,18039
-Shelby,Tennessee House of Representatives,96,Democratic,Dwayne Thompson,6123
-Shelby,Tennessee House of Representatives,96,Republican,Steve McManus,9990
-Shelby,Tennessee House of Representatives,97,Republican,Jim Coley,11637
-Shelby,Tennessee House of Representatives,98,Democratic,Antonio Parkinson,6930
-Shelby,Tennessee House of Representatives,99,Republican,Ron Lollar,14131
-Shelby,Tennessee Senate,29,Democratic,Lee Harris,27707
-Shelby,Tennessee Senate,29,Republican,"James R. ""Jim"" Finney",6123
-Shelby,Tennessee Senate,30,Democratic,Sara Kyle,18377
-Shelby,Tennessee Senate,30,Independent,David W. Vinciarelli,858
-Shelby,Tennessee Senate,30,Republican,George Shea Flinn,7044
-Shelby,Tennessee Senate,31,Republican,Brian Kelsey,39646
-Shelby,Tennessee Senate,33,Democratic,Reginald Tate,24839
-Shelby,United States House of Representatives,8,Constitution,Mark Rawles,936
-Shelby,United States House of Representatives,8,Democratic,Wes Bradley,15168
-Shelby,United States House of Representatives,8,Independent,James Hart,1128
-Shelby,United States House of Representatives,8,Independent,Write-In - Dana Matheny,4
-Shelby,United States House of Representatives,8,Republican,Stephen Lee Fincher,52384
-Shelby,United States House of Representatives,9,Democratic,Steve Cohen,87376
-Shelby,United States House of Representatives,9,Independent,Floyd Wayne Alberson,766
-Shelby,United States House of Representatives,9,Independent,Herbert Bass,483
-Shelby,United States House of Representatives,9,Independent,Paul Cook,752
-Shelby,United States House of Representatives,9,Republican,Charlotte Bergmann,27173
+Shelby,State House,83,Republican,Mark White,14699
+Shelby,State House,84,Democratic,"Joe Towns, Jr.",9000
+Shelby,State House,85,Democratic,Johnnie R. Turner,10712
+Shelby,State House,86,Democratic,Barbara Cooper,7595
+Shelby,State House,86,Republican,"George T. Edwards, III",3115
+Shelby,State House,87,Democratic,Karen Camper,8791
+Shelby,State House,88,Democratic,Larry J. Miller,7297
+Shelby,State House,88,Republican,Harry Barber,3134
+Shelby,State House,90,Democratic,"John J. DeBerry, Jr.",9237
+Shelby,State House,91,Democratic,Raumesh A. Akbari,8053
+Shelby,State House,91,Republican,Samuel A. Arthur Watkins,1777
+Shelby,State House,93,Democratic,"G.A. Hardaway, Sr.",6996
+Shelby,State House,93,Republican,Colonel G. Billingsley,2507
+Shelby,State House,95,Republican,Curry Todd,18039
+Shelby,State House,96,Democratic,Dwayne Thompson,6123
+Shelby,State House,96,Republican,Steve McManus,9990
+Shelby,State House,97,Republican,Jim Coley,11637
+Shelby,State House,98,Democratic,Antonio Parkinson,6930
+Shelby,State House,99,Republican,Ron Lollar,14131
+Shelby,State Senate,29,Democratic,Lee Harris,27707
+Shelby,State Senate,29,Republican,"James R. ""Jim"" Finney",6123
+Shelby,State Senate,30,Democratic,Sara Kyle,18377
+Shelby,State Senate,30,Independent,David W. Vinciarelli,858
+Shelby,State Senate,30,Republican,George Shea Flinn,7044
+Shelby,State Senate,31,Republican,Brian Kelsey,39646
+Shelby,State Senate,33,Democratic,Reginald Tate,24839
+Shelby,U.S. House,8,Constitution,Mark Rawles,936
+Shelby,U.S. House,8,Democratic,Wes Bradley,15168
+Shelby,U.S. House,8,Independent,James Hart,1128
+Shelby,U.S. House,8,Independent,Write-In - Dana Matheny,4
+Shelby,U.S. House,8,Republican,Stephen Lee Fincher,52384
+Shelby,U.S. House,9,Democratic,Steve Cohen,87376
+Shelby,U.S. House,9,Independent,Floyd Wayne Alberson,766
+Shelby,U.S. House,9,Independent,Herbert Bass,483
+Shelby,U.S. House,9,Independent,Paul Cook,752
+Shelby,U.S. House,9,Republican,Charlotte Bergmann,27173
 Shelby,United States Senate,NA,Constitution,Joe Wilmoth,2638
 Shelby,United States Senate,NA,Democratic,Gordon Ball,88921
 Shelby,United States Senate,NA,Green,Martin Pleasant,1544
@@ -2736,12 +2736,12 @@ Smith,Governor,NA,Independent,Daniel T. Lewis,33
 Smith,Governor,NA,Independent,John Jay Hooker,167
 Smith,Governor,NA,Independent,Steven Damon Coburn,30
 Smith,Governor,NA,Republican,Bill Haslam,2720
-Smith,Tennessee House of Representatives,40,Democratic,Sarah Marie Smith,1838
-Smith,Tennessee House of Representatives,40,Republican,Terri Lynn Weaver,2660
-Smith,Tennessee Senate,17,Republican,Mae Beavers,3138
-Smith,United States House of Representatives,6,Democratic,Amos Scott Powers,1147
-Smith,United States House of Representatives,6,Independent,Mike Winton,246
-Smith,United States House of Representatives,6,Republican,Diane Black,2858
+Smith,State House,40,Democratic,Sarah Marie Smith,1838
+Smith,State House,40,Republican,Terri Lynn Weaver,2660
+Smith,State Senate,17,Republican,Mae Beavers,3138
+Smith,U.S. House,6,Democratic,Amos Scott Powers,1147
+Smith,U.S. House,6,Independent,Mike Winton,246
+Smith,U.S. House,6,Republican,Diane Black,2858
 Smith,United States Senate,NA,Constitution,Joe Wilmoth,147
 Smith,United States Senate,NA,Democratic,Gordon Ball,1427
 Smith,United States Senate,NA,Green,Martin Pleasant,27
@@ -2769,12 +2769,12 @@ Stewart,Governor,NA,Independent,Daniel T. Lewis,28
 Stewart,Governor,NA,Independent,John Jay Hooker,67
 Stewart,Governor,NA,Independent,Steven Damon Coburn,26
 Stewart,Governor,NA,Republican,Bill Haslam,1999
-Stewart,Tennessee House of Representatives,75,Democratic,Randy Patton,998
-Stewart,Tennessee House of Representatives,75,Independent,James Hart,215
-Stewart,Tennessee House of Representatives,75,Republican,Tim Wirgau,1779
-Stewart,United States House of Representatives,7,Democratic,Daniel Cramer,954
-Stewart,United States House of Representatives,7,Independent,Leonard D. Ladner,112
-Stewart,United States House of Representatives,7,Republican,Marsha Blackburn,1886
+Stewart,State House,75,Democratic,Randy Patton,998
+Stewart,State House,75,Independent,James Hart,215
+Stewart,State House,75,Republican,Tim Wirgau,1779
+Stewart,U.S. House,7,Democratic,Daniel Cramer,954
+Stewart,U.S. House,7,Independent,Leonard D. Ladner,112
+Stewart,U.S. House,7,Republican,Marsha Blackburn,1886
 Stewart,United States Senate,NA,Constitution,Joe Wilmoth,73
 Stewart,United States Senate,NA,Democratic,Gordon Ball,968
 Stewart,United States Senate,NA,Green,Martin Pleasant,18
@@ -2802,16 +2802,16 @@ Sullivan,Governor,NA,Independent,Daniel T. Lewis,182
 Sullivan,Governor,NA,Independent,John Jay Hooker,353
 Sullivan,Governor,NA,Independent,Steven Damon Coburn,142
 Sullivan,Governor,NA,Republican,Bill Haslam,26837
-Sullivan,Tennessee House of Representatives,1,Independent,Write-In - Harold Wayne Tucker,1
-Sullivan,Tennessee House of Representatives,1,Republican,Jon C. Lundberg,9460
-Sullivan,Tennessee House of Representatives,2,Independent,J. R. Enfield,2302
-Sullivan,Tennessee House of Representatives,2,Republican,Bud Hulsey,12249
-Sullivan,Tennessee House of Representatives,3,Independent,Write-In - Vance A. Carrier,4
-Sullivan,Tennessee House of Representatives,3,Republican,Timothy Hill,6210
-Sullivan,United States House of Representatives,1,Green,Robert N. Smith,2083
-Sullivan,United States House of Representatives,1,Independent,Michael D. Salyer,911
-Sullivan,United States House of Representatives,1,Independent,Robert D. Franklin,2180
-Sullivan,United States House of Representatives,1,Republican,Phil Roe,27371
+Sullivan,State House,1,Independent,Write-In - Harold Wayne Tucker,1
+Sullivan,State House,1,Republican,Jon C. Lundberg,9460
+Sullivan,State House,2,Independent,J. R. Enfield,2302
+Sullivan,State House,2,Republican,Bud Hulsey,12249
+Sullivan,State House,3,Independent,Write-In - Vance A. Carrier,4
+Sullivan,State House,3,Republican,Timothy Hill,6210
+Sullivan,U.S. House,1,Green,Robert N. Smith,2083
+Sullivan,U.S. House,1,Independent,Michael D. Salyer,911
+Sullivan,U.S. House,1,Independent,Robert D. Franklin,2180
+Sullivan,U.S. House,1,Republican,Phil Roe,27371
 Sullivan,United States Senate,NA,Constitution,Joe Wilmoth,1032
 Sullivan,United States Senate,NA,Democratic,Gordon Ball,6243
 Sullivan,United States Senate,NA,Green,Martin Pleasant,233
@@ -2839,14 +2839,14 @@ Sumner,Governor,NA,Independent,Daniel T. Lewis,235
 Sumner,Governor,NA,Independent,John Jay Hooker,901
 Sumner,Governor,NA,Independent,Steven Damon Coburn,233
 Sumner,Governor,NA,Republican,Bill Haslam,28090
-Sumner,Tennessee House of Representatives,40,Democratic,Sarah Marie Smith,2287
-Sumner,Tennessee House of Representatives,40,Republican,Terri Lynn Weaver,5875
-Sumner,Tennessee House of Representatives,44,Republican,William Lamberth,10840
-Sumner,Tennessee House of Representatives,45,Democratic,"Steven D. Puckett, Jr.",3958
-Sumner,Tennessee House of Representatives,45,Republican,Courtney L. Rogers,12185
-Sumner,United States House of Representatives,6,Democratic,Amos Scott Powers,8457
-Sumner,United States House of Representatives,6,Independent,Mike Winton,1867
-Sumner,United States House of Representatives,6,Republican,Diane Black,27557
+Sumner,State House,40,Democratic,Sarah Marie Smith,2287
+Sumner,State House,40,Republican,Terri Lynn Weaver,5875
+Sumner,State House,44,Republican,William Lamberth,10840
+Sumner,State House,45,Democratic,"Steven D. Puckett, Jr.",3958
+Sumner,State House,45,Republican,Courtney L. Rogers,12185
+Sumner,U.S. House,6,Democratic,Amos Scott Powers,8457
+Sumner,U.S. House,6,Independent,Mike Winton,1867
+Sumner,U.S. House,6,Republican,Diane Black,27557
 Sumner,United States Senate,NA,Constitution,Joe Wilmoth,1068
 Sumner,United States Senate,NA,Democratic,Gordon Ball,9292
 Sumner,United States Senate,NA,Green,Martin Pleasant,250
@@ -2875,11 +2875,11 @@ Tipton,Governor,NA,Independent,Daniel T. Lewis,105
 Tipton,Governor,NA,Independent,John Jay Hooker,149
 Tipton,Governor,NA,Independent,Steven Damon Coburn,80
 Tipton,Governor,NA,Republican,Bill Haslam,9636
-Tipton,Tennessee House of Representatives,81,Republican,Debra F. Moody,10249
-Tipton,United States House of Representatives,8,Constitution,Mark Rawles,293
-Tipton,United States House of Representatives,8,Democratic,Wes Bradley,2595
-Tipton,United States House of Representatives,8,Independent,James Hart,273
-Tipton,United States House of Representatives,8,Republican,Stephen Lee Fincher,8987
+Tipton,State House,81,Republican,Debra F. Moody,10249
+Tipton,U.S. House,8,Constitution,Mark Rawles,293
+Tipton,U.S. House,8,Democratic,Wes Bradley,2595
+Tipton,U.S. House,8,Independent,James Hart,273
+Tipton,U.S. House,8,Republican,Stephen Lee Fincher,8987
 Tipton,United States Senate,NA,Constitution,Joe Wilmoth,366
 Tipton,United States Senate,NA,Democratic,Gordon Ball,2825
 Tipton,United States Senate,NA,Green,Martin Pleasant,55
@@ -2907,11 +2907,11 @@ Trousdale,Governor,NA,Independent,Daniel T. Lewis,9
 Trousdale,Governor,NA,Independent,John Jay Hooker,56
 Trousdale,Governor,NA,Independent,Steven Damon Coburn,11
 Trousdale,Governor,NA,Republican,Bill Haslam,965
-Trousdale,Tennessee House of Representatives,40,Democratic,Sarah Marie Smith,598
-Trousdale,Tennessee House of Representatives,40,Republican,Terri Lynn Weaver,937
-Trousdale,United States House of Representatives,6,Democratic,Amos Scott Powers,457
-Trousdale,United States House of Representatives,6,Independent,Mike Winton,96
-Trousdale,United States House of Representatives,6,Republican,Diane Black,997
+Trousdale,State House,40,Democratic,Sarah Marie Smith,598
+Trousdale,State House,40,Republican,Terri Lynn Weaver,937
+Trousdale,U.S. House,6,Democratic,Amos Scott Powers,457
+Trousdale,U.S. House,6,Independent,Mike Winton,96
+Trousdale,U.S. House,6,Republican,Diane Black,997
 Trousdale,United States Senate,NA,Constitution,Joe Wilmoth,53
 Trousdale,United States Senate,NA,Democratic,Gordon Ball,554
 Trousdale,United States Senate,NA,Green,Martin Pleasant,14
@@ -2939,13 +2939,13 @@ Unicoi,Governor,NA,Independent,Daniel T. Lewis,59
 Unicoi,Governor,NA,Independent,John Jay Hooker,77
 Unicoi,Governor,NA,Independent,Steven Damon Coburn,37
 Unicoi,Governor,NA,Republican,Bill Haslam,2999
-Unicoi,Tennessee House of Representatives,4,Democratic,Rob Martin,854
-Unicoi,Tennessee House of Representatives,4,Republican,"John B. Holsclaw, Jr.",3034
-Unicoi,Tennessee Senate,3,Republican,Rusty Crowe,3362
-Unicoi,United States House of Representatives,1,Green,Robert N. Smith,312
-Unicoi,United States House of Representatives,1,Independent,Michael D. Salyer,140
-Unicoi,United States House of Representatives,1,Independent,Robert D. Franklin,294
-Unicoi,United States House of Representatives,1,Republican,Phil Roe,3121
+Unicoi,State House,4,Democratic,Rob Martin,854
+Unicoi,State House,4,Republican,"John B. Holsclaw, Jr.",3034
+Unicoi,State Senate,3,Republican,Rusty Crowe,3362
+Unicoi,U.S. House,1,Green,Robert N. Smith,312
+Unicoi,U.S. House,1,Independent,Michael D. Salyer,140
+Unicoi,U.S. House,1,Independent,Robert D. Franklin,294
+Unicoi,U.S. House,1,Republican,Phil Roe,3121
 Unicoi,United States Senate,NA,Constitution,Joe Wilmoth,114
 Unicoi,United States Senate,NA,Democratic,Gordon Ball,759
 Unicoi,United States Senate,NA,Green,Martin Pleasant,45
@@ -2973,12 +2973,12 @@ Union,Governor,NA,Independent,Daniel T. Lewis,18
 Union,Governor,NA,Independent,John Jay Hooker,71
 Union,Governor,NA,Independent,Steven Damon Coburn,13
 Union,Governor,NA,Republican,Bill Haslam,2311
-Union,Tennessee House of Representatives,35,Republican,Jerry Sexton,799
-Union,Tennessee House of Representatives,36,Democratic,James Virgil Kidwell,467
-Union,Tennessee House of Representatives,36,Republican,Dennis H. Powers,1470
-Union,United States House of Representatives,3,Democratic,Mary M. Headrick,835
-Union,United States House of Representatives,3,Independent,Cassandra J Mitchell,92
-Union,United States House of Representatives,3,Republican,Chuck Fleischmann,2076
+Union,State House,35,Republican,Jerry Sexton,799
+Union,State House,36,Democratic,James Virgil Kidwell,467
+Union,State House,36,Republican,Dennis H. Powers,1470
+Union,U.S. House,3,Democratic,Mary M. Headrick,835
+Union,U.S. House,3,Independent,Cassandra J Mitchell,92
+Union,U.S. House,3,Republican,Chuck Fleischmann,2076
 Union,United States Senate,NA,Constitution,Joe Wilmoth,84
 Union,United States Senate,NA,Democratic,Gordon Ball,794
 Union,United States Senate,NA,Green,Martin Pleasant,15
@@ -3006,14 +3006,14 @@ Van Buren,Governor,NA,Independent,Daniel T. Lewis,16
 Van Buren,Governor,NA,Independent,John Jay Hooker,48
 Van Buren,Governor,NA,Independent,Steven Damon Coburn,20
 Van Buren,Governor,NA,Republican,Bill Haslam,903
-Van Buren,Tennessee House of Representatives,25,Democratic,Judy Barnett,604
-Van Buren,Tennessee House of Representatives,25,Republican,Cameron Sexton,835
-Van Buren,United States House of Representatives,4,Democratic,Lenda Sherrell,533
-Van Buren,United States House of Representatives,4,Independent,Robert Rankin Doggart,84
-Van Buren,United States House of Representatives,4,Republican,Scott DesJarlais,739
-Van Buren,United States House of Representatives,6,Democratic,Amos Scott Powers,60
-Van Buren,United States House of Representatives,6,Independent,Mike Winton,10
-Van Buren,United States House of Representatives,6,Republican,Diane Black,85
+Van Buren,State House,25,Democratic,Judy Barnett,604
+Van Buren,State House,25,Republican,Cameron Sexton,835
+Van Buren,U.S. House,4,Democratic,Lenda Sherrell,533
+Van Buren,U.S. House,4,Independent,Robert Rankin Doggart,84
+Van Buren,U.S. House,4,Republican,Scott DesJarlais,739
+Van Buren,U.S. House,6,Democratic,Amos Scott Powers,60
+Van Buren,U.S. House,6,Independent,Mike Winton,10
+Van Buren,U.S. House,6,Republican,Diane Black,85
 Van Buren,United States Senate,NA,Constitution,Joe Wilmoth,41
 Van Buren,United States Senate,NA,Democratic,Gordon Ball,531
 Van Buren,United States Senate,NA,Green,Martin Pleasant,8
@@ -3041,13 +3041,13 @@ Warren,Governor,NA,Independent,Daniel T. Lewis,65
 Warren,Governor,NA,Independent,John Jay Hooker,297
 Warren,Governor,NA,Independent,Steven Damon Coburn,47
 Warren,Governor,NA,Republican,Bill Haslam,5285
-Warren,Tennessee House of Representatives,43,Democratic,Kevin Dunlap,3107
-Warren,Tennessee House of Representatives,43,Independent,Edward Leon Buck,126
-Warren,Tennessee House of Representatives,43,Republican,Robert F. Dunham,1724
-Warren,Tennessee House of Representatives,47,Republican,Judd Matheny,2292
-Warren,United States House of Representatives,4,Democratic,Lenda Sherrell,3185
-Warren,United States House of Representatives,4,Independent,Robert Rankin Doggart,566
-Warren,United States House of Representatives,4,Republican,Scott DesJarlais,3784
+Warren,State House,43,Democratic,Kevin Dunlap,3107
+Warren,State House,43,Independent,Edward Leon Buck,126
+Warren,State House,43,Republican,Robert F. Dunham,1724
+Warren,State House,47,Republican,Judd Matheny,2292
+Warren,U.S. House,4,Democratic,Lenda Sherrell,3185
+Warren,U.S. House,4,Independent,Robert Rankin Doggart,566
+Warren,U.S. House,4,Republican,Scott DesJarlais,3784
 Warren,United States Senate,NA,Constitution,Joe Wilmoth,205
 Warren,United States Senate,NA,Democratic,Gordon Ball,2352
 Warren,United States Senate,NA,Green,Martin Pleasant,40
@@ -3075,14 +3075,14 @@ Washington,Governor,NA,Independent,Daniel T. Lewis,252
 Washington,Governor,NA,Independent,John Jay Hooker,349
 Washington,Governor,NA,Independent,Steven Damon Coburn,162
 Washington,Governor,NA,Republican,Bill Haslam,19707
-Washington,Tennessee House of Representatives,6,Republican,James (Micah) Van Huss,11416
-Washington,Tennessee House of Representatives,7,Republican,Matthew Hill,9487
-Washington,Tennessee Senate,3,Republican,Rusty Crowe,21832
-Washington,United States House of Representatives,1,Green,Robert N. Smith,2537
-Washington,United States House of Representatives,1,Independent,Michael D. Salyer,890
-Washington,United States House of Representatives,1,Independent,Robert D. Franklin,2011
-Washington,United States House of Representatives,1,Independent,Write-In - Scott Kudialis,14
-Washington,United States House of Representatives,1,Republican,Phil Roe,20502
+Washington,State House,6,Republican,James (Micah) Van Huss,11416
+Washington,State House,7,Republican,Matthew Hill,9487
+Washington,State Senate,3,Republican,Rusty Crowe,21832
+Washington,U.S. House,1,Green,Robert N. Smith,2537
+Washington,U.S. House,1,Independent,Michael D. Salyer,890
+Washington,U.S. House,1,Independent,Robert D. Franklin,2011
+Washington,U.S. House,1,Independent,Write-In - Scott Kudialis,14
+Washington,U.S. House,1,Republican,Phil Roe,20502
 Washington,United States Senate,NA,Constitution,Joe Wilmoth,824
 Washington,United States Senate,NA,Democratic,Gordon Ball,6286
 Washington,United States Senate,NA,Green,Martin Pleasant,334
@@ -3110,10 +3110,10 @@ Wayne,Governor,NA,Independent,Daniel T. Lewis,15
 Wayne,Governor,NA,Independent,John Jay Hooker,56
 Wayne,Governor,NA,Independent,Steven Damon Coburn,27
 Wayne,Governor,NA,Republican,Bill Haslam,2122
-Wayne,Tennessee House of Representatives,71,Republican,"David ""Coach"" Byrd",2307
-Wayne,United States House of Representatives,7,Democratic,Daniel Cramer,452
-Wayne,United States House of Representatives,7,Independent,Leonard D. Ladner,104
-Wayne,United States House of Representatives,7,Republican,Marsha Blackburn,2205
+Wayne,State House,71,Republican,"David ""Coach"" Byrd",2307
+Wayne,U.S. House,7,Democratic,Daniel Cramer,452
+Wayne,U.S. House,7,Independent,Leonard D. Ladner,104
+Wayne,U.S. House,7,Republican,Marsha Blackburn,2205
 Wayne,United States Senate,NA,Constitution,Joe Wilmoth,73
 Wayne,United States Senate,NA,Democratic,Gordon Ball,535
 Wayne,United States Senate,NA,Green,Martin Pleasant,12
@@ -3142,12 +3142,12 @@ Weakley,Governor,NA,Independent,John Jay Hooker,145
 Weakley,Governor,NA,Independent,Steven Damon Coburn,69
 Weakley,Governor,NA,Independent,Write-In - A. Darryl Haas,1
 Weakley,Governor,NA,Republican,Bill Haslam,5082
-Weakley,Tennessee House of Representatives,76,Democratic,Joyce Washington,2210
-Weakley,Tennessee House of Representatives,76,Republican,Andy Holt,5188
-Weakley,United States House of Representatives,8,Constitution,Mark Rawles,209
-Weakley,United States House of Representatives,8,Democratic,Wes Bradley,1828
-Weakley,United States House of Representatives,8,Independent,James Hart,187
-Weakley,United States House of Representatives,8,Republican,Stephen Lee Fincher,5238
+Weakley,State House,76,Democratic,Joyce Washington,2210
+Weakley,State House,76,Republican,Andy Holt,5188
+Weakley,U.S. House,8,Constitution,Mark Rawles,209
+Weakley,U.S. House,8,Democratic,Wes Bradley,1828
+Weakley,U.S. House,8,Independent,James Hart,187
+Weakley,U.S. House,8,Republican,Stephen Lee Fincher,5238
 Weakley,United States Senate,NA,Constitution,Joe Wilmoth,296
 Weakley,United States Senate,NA,Democratic,Gordon Ball,1852
 Weakley,United States Senate,NA,Green,Martin Pleasant,49
@@ -3175,15 +3175,15 @@ White,Governor,NA,Independent,Daniel T. Lewis,48
 White,Governor,NA,Independent,John Jay Hooker,146
 White,Governor,NA,Independent,Steven Damon Coburn,70
 White,Governor,NA,Republican,Bill Haslam,4030
-White,Tennessee House of Representatives,43,Democratic,Kevin Dunlap,2270
-White,Tennessee House of Representatives,43,Independent,Edward Leon Buck,210
-White,Tennessee House of Representatives,43,Republican,Robert F. Dunham,3622
-White,Tennessee Senate,15,Democratic,Betty Vaudt,1159
-White,Tennessee Senate,15,Independent,William L. Draper,216
-White,Tennessee Senate,15,Republican,Paul Bailey,4766
-White,United States House of Representatives,6,Democratic,Amos Scott Powers,1471
-White,United States House of Representatives,6,Independent,Mike Winton,466
-White,United States House of Representatives,6,Republican,Diane Black,4049
+White,State House,43,Democratic,Kevin Dunlap,2270
+White,State House,43,Independent,Edward Leon Buck,210
+White,State House,43,Republican,Robert F. Dunham,3622
+White,State Senate,15,Democratic,Betty Vaudt,1159
+White,State Senate,15,Independent,William L. Draper,216
+White,State Senate,15,Republican,Paul Bailey,4766
+White,U.S. House,6,Democratic,Amos Scott Powers,1471
+White,U.S. House,6,Independent,Mike Winton,466
+White,U.S. House,6,Republican,Diane Black,4049
 White,United States Senate,NA,Constitution,Joe Wilmoth,309
 White,United States Senate,NA,Democratic,Gordon Ball,1678
 White,United States Senate,NA,Green,Martin Pleasant,31
@@ -3211,15 +3211,15 @@ Williamson,Governor,NA,Independent,Daniel T. Lewis,267
 Williamson,Governor,NA,Independent,John Jay Hooker,1182
 Williamson,Governor,NA,Independent,Steven Damon Coburn,280
 Williamson,Governor,NA,Republican,Bill Haslam,45329
-Williamson,Tennessee House of Representatives,61,Republican,Charles M. Sargent Jr.,17802
-Williamson,Tennessee House of Representatives,63,Republican,Glen Casada,17468
-Williamson,Tennessee House of Representatives,65,Democratic,Bill Peach,4386
-Williamson,Tennessee House of Representatives,65,Republican,Jeremy Durham,12089
-Williamson,Tennessee Senate,23,Green,Amy H. Balderrama,9366
-Williamson,Tennessee Senate,23,Republican,Jack Johnson,45732
-Williamson,United States House of Representatives,7,Democratic,Daniel Cramer,13645
-Williamson,United States House of Representatives,7,Independent,Leonard D. Ladner,1759
-Williamson,United States House of Representatives,7,Republican,Marsha Blackburn,44459
+Williamson,State House,61,Republican,Charles M. Sargent Jr.,17802
+Williamson,State House,63,Republican,Glen Casada,17468
+Williamson,State House,65,Democratic,Bill Peach,4386
+Williamson,State House,65,Republican,Jeremy Durham,12089
+Williamson,State Senate,23,Green,Amy H. Balderrama,9366
+Williamson,State Senate,23,Republican,Jack Johnson,45732
+Williamson,U.S. House,7,Democratic,Daniel Cramer,13645
+Williamson,U.S. House,7,Independent,Leonard D. Ladner,1759
+Williamson,U.S. House,7,Republican,Marsha Blackburn,44459
 Williamson,United States Senate,NA,Constitution,Joe Wilmoth,1816
 Williamson,United States Senate,NA,Democratic,Gordon Ball,12660
 Williamson,United States Senate,NA,Green,Martin Pleasant,527
@@ -3248,14 +3248,14 @@ Wilson,Governor,NA,Independent,Daniel T. Lewis,173
 Wilson,Governor,NA,Independent,John Jay Hooker,893
 Wilson,Governor,NA,Independent,Steven Damon Coburn,178
 Wilson,Governor,NA,Republican,Bill Haslam,22580
-Wilson,Tennessee House of Representatives,46,Democratic,Candace Reed,3452
-Wilson,Tennessee House of Representatives,46,Republican,Mark A Pody,7396
-Wilson,Tennessee House of Representatives,57,Democratic,Jesse McLevain,4533
-Wilson,Tennessee House of Representatives,57,Republican,Susan M Lynn,14917
-Wilson,Tennessee Senate,17,Republican,Mae Beavers,23983
-Wilson,United States House of Representatives,6,Democratic,Amos Scott Powers,7116
-Wilson,United States House of Representatives,6,Independent,Mike Winton,1435
-Wilson,United States House of Representatives,6,Republican,Diane Black,22149
+Wilson,State House,46,Democratic,Candace Reed,3452
+Wilson,State House,46,Republican,Mark A Pody,7396
+Wilson,State House,57,Democratic,Jesse McLevain,4533
+Wilson,State House,57,Republican,Susan M Lynn,14917
+Wilson,State Senate,17,Republican,Mae Beavers,23983
+Wilson,U.S. House,6,Democratic,Amos Scott Powers,7116
+Wilson,U.S. House,6,Independent,Mike Winton,1435
+Wilson,U.S. House,6,Republican,Diane Black,22149
 Wilson,United States Senate,NA,Constitution,Joe Wilmoth,911
 Wilson,United States Senate,NA,Democratic,Gordon Ball,7903
 Wilson,United States Senate,NA,Green,Martin Pleasant,210

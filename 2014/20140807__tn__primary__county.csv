@@ -13,18 +13,18 @@ Anderson,State Executive Committeeman,5,Republican,Scott David Smith,3804
 Anderson,State Executive Committeewoman,5,Democratic,Dixie L. Damm,709
 Anderson,State Executive Committeewoman,5,Democratic,Mary Beth Hickman,1810
 Anderson,State Executive Committeewoman,5,Republican,Julia C Hurley,6639
-Anderson,Tennessee House of Representatives,33,Democratic,Misty Neergaard,1938
-Anderson,Tennessee House of Representatives,33,Democratic,Write-In - Leslie Agron,169
-Anderson,Tennessee House of Representatives,33,Republican,Caitlin Nolan,3727
-Anderson,Tennessee House of Representatives,33,Republican,John D. Ragan,4497
-Anderson,Tennessee House of Representatives,36,Democratic,James Virgil Kidwell,252
-Anderson,Tennessee House of Representatives,36,Republican,Dennis H. Powers,1041
-Anderson,Tennessee Senate,5,Democratic,No Candidate Qualified,0
-Anderson,Tennessee Senate,5,Republican,Randy McNally,8249
-Anderson,United States House of Representatives,3,Democratic,Mary M. Headrick,2816
-Anderson,United States House of Representatives,3,Republican,Chuck Fleischmann,5215
-Anderson,United States House of Representatives,3,Republican,Weston Wamp,4823
-Anderson,United States House of Representatives,3,Republican,Write-In - Harry Lane,2
+Anderson,State House,33,Democratic,Misty Neergaard,1938
+Anderson,State House,33,Democratic,Write-In - Leslie Agron,169
+Anderson,State House,33,Republican,Caitlin Nolan,3727
+Anderson,State House,33,Republican,John D. Ragan,4497
+Anderson,State House,36,Democratic,James Virgil Kidwell,252
+Anderson,State House,36,Republican,Dennis H. Powers,1041
+Anderson,State Senate,5,Democratic,No Candidate Qualified,0
+Anderson,State Senate,5,Republican,Randy McNally,8249
+Anderson,U.S. House,3,Democratic,Mary M. Headrick,2816
+Anderson,U.S. House,3,Republican,Chuck Fleischmann,5215
+Anderson,U.S. House,3,Republican,Weston Wamp,4823
+Anderson,U.S. House,3,Republican,Write-In - Harry Lane,2
 Anderson,United States Senate,NA,Democratic,Gary Gene Davis,606
 Anderson,United States Senate,NA,Democratic,Gordon Ball,801
 Anderson,United States Senate,NA,Democratic,Larry Crim,157
@@ -51,16 +51,16 @@ Bedford,State Executive Committeewoman,14,Democratic,Brenda Ables,829
 Bedford,State Executive Committeewoman,14,Democratic,Joan G. Hill,719
 Bedford,State Executive Committeewoman,14,Republican,Joanne Skidmore,1086
 Bedford,State Executive Committeewoman,14,Republican,Lynne Davis,2690
-Bedford,Tennessee House of Representatives,62,Democratic,No Candidate Qualified,0
-Bedford,Tennessee House of Representatives,62,Republican,Pat Marsh,5242
-Bedford,United States House of Representatives,4,Democratic,Lenda Sherrell,1551
-Bedford,United States House of Representatives,4,Republican,David R. Tate,20
-Bedford,United States House of Representatives,4,Republican,Jim Tracy,3375
-Bedford,United States House of Representatives,4,Republican,John Anderson,384
-Bedford,United States House of Representatives,4,Republican,Michael S. Warden,19
-Bedford,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",3
-Bedford,United States House of Representatives,4,Republican,Scott DesJarlais,2052
-Bedford,United States House of Representatives,4,Republican,Steve Lane,25
+Bedford,State House,62,Democratic,No Candidate Qualified,0
+Bedford,State House,62,Republican,Pat Marsh,5242
+Bedford,U.S. House,4,Democratic,Lenda Sherrell,1551
+Bedford,U.S. House,4,Republican,David R. Tate,20
+Bedford,U.S. House,4,Republican,Jim Tracy,3375
+Bedford,U.S. House,4,Republican,John Anderson,384
+Bedford,U.S. House,4,Republican,Michael S. Warden,19
+Bedford,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",3
+Bedford,U.S. House,4,Republican,Scott DesJarlais,2052
+Bedford,U.S. House,4,Republican,Steve Lane,25
 Bedford,United States Senate,NA,Democratic,Gary Gene Davis,369
 Bedford,United States Senate,NA,Democratic,Gordon Ball,585
 Bedford,United States Senate,NA,Democratic,Larry Crim,201
@@ -87,20 +87,20 @@ Benton,State Executive Committeeman,24,Republican,Joey Mehlhorn,307
 Benton,State Executive Committeewoman,24,Democratic,Angela Callis,1527
 Benton,State Executive Committeewoman,24,Republican,Christi Cross,951
 Benton,State Executive Committeewoman,24,Republican,Marilucile Counce,307
-Benton,Tennessee House of Representatives,75,Democratic,Charles W. Cooper,646
-Benton,Tennessee House of Representatives,75,Democratic,Randy Patton,1542
-Benton,Tennessee House of Representatives,75,Republican,Tim Wirgau,1617
-Benton,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,183
-Benton,United States House of Representatives,7,Democratic,Daniel Cramer,1363
-Benton,United States House of Representatives,7,Republican,Jacob Brimm,244
-Benton,United States House of Representatives,7,Republican,Marsha Blackburn,1473
-Benton,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,4
-Benton,United States House of Representatives,8,Democratic,Rickey Hobson,13
-Benton,United States House of Representatives,8,Democratic,Tom Reasons,17
-Benton,United States House of Representatives,8,Democratic,Wes Bradley,29
-Benton,United States House of Representatives,8,Republican,Dana Matheny,1
-Benton,United States House of Representatives,8,Republican,John Mills,0
-Benton,United States House of Representatives,8,Republican,Stephen Lee Fincher,4
+Benton,State House,75,Democratic,Charles W. Cooper,646
+Benton,State House,75,Democratic,Randy Patton,1542
+Benton,State House,75,Republican,Tim Wirgau,1617
+Benton,U.S. House,7,Democratic,Credo Comlan Amouzouvik,183
+Benton,U.S. House,7,Democratic,Daniel Cramer,1363
+Benton,U.S. House,7,Republican,Jacob Brimm,244
+Benton,U.S. House,7,Republican,Marsha Blackburn,1473
+Benton,U.S. House,8,Democratic,Lawrence A. Pivnick,4
+Benton,U.S. House,8,Democratic,Rickey Hobson,13
+Benton,U.S. House,8,Democratic,Tom Reasons,17
+Benton,U.S. House,8,Democratic,Wes Bradley,29
+Benton,U.S. House,8,Republican,Dana Matheny,1
+Benton,U.S. House,8,Republican,John Mills,0
+Benton,U.S. House,8,Republican,Stephen Lee Fincher,4
 Benton,United States Senate,NA,Democratic,Gary Gene Davis,251
 Benton,United States Senate,NA,Democratic,Gordon Ball,534
 Benton,United States Senate,NA,Democratic,Larry Crim,183
@@ -131,21 +131,21 @@ Bledsoe,State Executive Committeewoman,15,Democratic,Geeta W. McMillan,562
 Bledsoe,State Executive Committeewoman,15,Republican,Cindy Beckwith,703
 Bledsoe,State Executive Committeewoman,15,Republican,Hannah Horseman,328
 Bledsoe,State Executive Committeewoman,15,Republican,Patty M. Dycus,358
-Bledsoe,Tennessee House of Representatives,31,Democratic,No Candidate Qualified,0
-Bledsoe,Tennessee House of Representatives,31,Republican,Jim Cobb,782
-Bledsoe,Tennessee House of Representatives,31,Republican,Ron Travis,1369
-Bledsoe,Tennessee Senate,15,Democratic,Betty Vaudt,617
-Bledsoe,Tennessee Senate,15,Republican,Gary Steakley,99
-Bledsoe,Tennessee Senate,15,Republican,Matt Swallows,788
-Bledsoe,Tennessee Senate,15,Republican,Paul Bailey,1053
-Bledsoe,United States House of Representatives,4,Democratic,Lenda Sherrell,615
-Bledsoe,United States House of Representatives,4,Republican,David R. Tate,52
-Bledsoe,United States House of Representatives,4,Republican,Jim Tracy,683
-Bledsoe,United States House of Representatives,4,Republican,John Anderson,183
-Bledsoe,United States House of Representatives,4,Republican,Michael S. Warden,37
-Bledsoe,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",7
-Bledsoe,United States House of Representatives,4,Republican,Scott DesJarlais,1046
-Bledsoe,United States House of Representatives,4,Republican,Steve Lane,38
+Bledsoe,State House,31,Democratic,No Candidate Qualified,0
+Bledsoe,State House,31,Republican,Jim Cobb,782
+Bledsoe,State House,31,Republican,Ron Travis,1369
+Bledsoe,State Senate,15,Democratic,Betty Vaudt,617
+Bledsoe,State Senate,15,Republican,Gary Steakley,99
+Bledsoe,State Senate,15,Republican,Matt Swallows,788
+Bledsoe,State Senate,15,Republican,Paul Bailey,1053
+Bledsoe,U.S. House,4,Democratic,Lenda Sherrell,615
+Bledsoe,U.S. House,4,Republican,David R. Tate,52
+Bledsoe,U.S. House,4,Republican,Jim Tracy,683
+Bledsoe,U.S. House,4,Republican,John Anderson,183
+Bledsoe,U.S. House,4,Republican,Michael S. Warden,37
+Bledsoe,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",7
+Bledsoe,U.S. House,4,Republican,Scott DesJarlais,1046
+Bledsoe,U.S. House,4,Republican,Steve Lane,38
 Bledsoe,United States Senate,NA,Democratic,Gary Gene Davis,244
 Bledsoe,United States Senate,NA,Democratic,Gordon Ball,117
 Bledsoe,United States Senate,NA,Democratic,Larry Crim,31
@@ -172,13 +172,13 @@ Blount,State Executive Committeeman,2,Republican,Rob Ailey,4714
 Blount,State Executive Committeewoman,2,Democratic,Barbara Wagner,1062
 Blount,State Executive Committeewoman,2,Democratic,Marte Lawrence,330
 Blount,State Executive Committeewoman,2,Republican,Susan S. Mills,10320
-Blount,Tennessee House of Representatives,20,Democratic,John Ross Conley,710
-Blount,Tennessee House of Representatives,20,Republican,Bob Ramsey,6026
-Blount,Tennessee House of Representatives,8,Democratic,No Candidate Qualified,0
-Blount,Tennessee House of Representatives,8,Republican,Art Swann,6213
-Blount,United States House of Representatives,2,Democratic,Bob Scott,1400
-Blount,United States House of Representatives,2,Republican,Jason Zachary,5654
-Blount,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",9459
+Blount,State House,20,Democratic,John Ross Conley,710
+Blount,State House,20,Republican,Bob Ramsey,6026
+Blount,State House,8,Democratic,No Candidate Qualified,0
+Blount,State House,8,Republican,Art Swann,6213
+Blount,U.S. House,2,Democratic,Bob Scott,1400
+Blount,U.S. House,2,Republican,Jason Zachary,5654
+Blount,U.S. House,2,Republican,"John J. Duncan, Jr.",9459
 Blount,United States Senate,NA,Democratic,Gary Gene Davis,282
 Blount,United States Senate,NA,Democratic,Gordon Ball,439
 Blount,United States Senate,NA,Democratic,Larry Crim,101
@@ -212,24 +212,24 @@ Bradley,State Executive Committeewoman,10,Democratic,Sylvia Cintron,104
 Bradley,State Executive Committeewoman,10,Republican,Emily G. Beaty,3715
 Bradley,State Executive Committeewoman,9,Democratic,Sally Love,660
 Bradley,State Executive Committeewoman,9,Republican,June Richesin Landrum,5331
-Bradley,Tennessee House of Representatives,22,Democratic,No Candidate Qualified,0
-Bradley,Tennessee House of Representatives,22,Republican,Dan Howell,2719
-Bradley,Tennessee House of Representatives,22,Republican,J. Adam Lowe,2017
-Bradley,Tennessee House of Representatives,24,Democratic,No Candidate Qualified,0
-Bradley,Tennessee House of Representatives,24,Republican,Kevin D. Brooks,6246
-Bradley,Tennessee Senate,9,Democratic,No Candidate Qualified,0
-Bradley,Tennessee Senate,9,Republican,Mike Bell,6006
-Bradley,United States House of Representatives,3,Democratic,Mary M. Headrick,231
-Bradley,United States House of Representatives,3,Republican,Chuck Fleischmann,1997
-Bradley,United States House of Representatives,3,Republican,Weston Wamp,1426
-Bradley,United States House of Representatives,4,Democratic,Lenda Sherrell,737
-Bradley,United States House of Representatives,4,Republican,David R. Tate,123
-Bradley,United States House of Representatives,4,Republican,Jim Tracy,4685
-Bradley,United States House of Representatives,4,Republican,John Anderson,677
-Bradley,United States House of Representatives,4,Republican,Michael S. Warden,98
-Bradley,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",51
-Bradley,United States House of Representatives,4,Republican,Scott DesJarlais,2396
-Bradley,United States House of Representatives,4,Republican,Steve Lane,189
+Bradley,State House,22,Democratic,No Candidate Qualified,0
+Bradley,State House,22,Republican,Dan Howell,2719
+Bradley,State House,22,Republican,J. Adam Lowe,2017
+Bradley,State House,24,Democratic,No Candidate Qualified,0
+Bradley,State House,24,Republican,Kevin D. Brooks,6246
+Bradley,State Senate,9,Democratic,No Candidate Qualified,0
+Bradley,State Senate,9,Republican,Mike Bell,6006
+Bradley,U.S. House,3,Democratic,Mary M. Headrick,231
+Bradley,U.S. House,3,Republican,Chuck Fleischmann,1997
+Bradley,U.S. House,3,Republican,Weston Wamp,1426
+Bradley,U.S. House,4,Democratic,Lenda Sherrell,737
+Bradley,U.S. House,4,Republican,David R. Tate,123
+Bradley,U.S. House,4,Republican,Jim Tracy,4685
+Bradley,U.S. House,4,Republican,John Anderson,677
+Bradley,U.S. House,4,Republican,Michael S. Warden,98
+Bradley,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",51
+Bradley,U.S. House,4,Republican,Scott DesJarlais,2396
+Bradley,U.S. House,4,Republican,Steve Lane,189
 Bradley,United States Senate,NA,Democratic,Gary Gene Davis,418
 Bradley,United States Senate,NA,Democratic,Gordon Ball,164
 Bradley,United States Senate,NA,Democratic,Larry Crim,58
@@ -255,14 +255,14 @@ Campbell,State Executive Committeeman,12,Republican,Mickey Barger,1465
 Campbell,State Executive Committeewoman,12,Democratic,Martha Beaty Wiley,1577
 Campbell,State Executive Committeewoman,12,Republican,"Elizabeth ""Liz"" Holiway",2047
 Campbell,State Executive Committeewoman,12,Republican,Judy Bowman Cooley,1584
-Campbell,Tennessee House of Representatives,36,Democratic,James Virgil Kidwell,1591
-Campbell,Tennessee House of Representatives,36,Republican,Dennis H. Powers,4723
-Campbell,United States House of Representatives,2,Democratic,Bob Scott,285
-Campbell,United States House of Representatives,2,Republican,Jason Zachary,156
-Campbell,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",519
-Campbell,United States House of Representatives,3,Democratic,Mary M. Headrick,1424
-Campbell,United States House of Representatives,3,Republican,Chuck Fleischmann,2358
-Campbell,United States House of Representatives,3,Republican,Weston Wamp,2464
+Campbell,State House,36,Democratic,James Virgil Kidwell,1591
+Campbell,State House,36,Republican,Dennis H. Powers,4723
+Campbell,U.S. House,2,Democratic,Bob Scott,285
+Campbell,U.S. House,2,Republican,Jason Zachary,156
+Campbell,U.S. House,2,Republican,"John J. Duncan, Jr.",519
+Campbell,U.S. House,3,Democratic,Mary M. Headrick,1424
+Campbell,U.S. House,3,Republican,Chuck Fleischmann,2358
+Campbell,U.S. House,3,Republican,Weston Wamp,2464
 Campbell,United States Senate,NA,Democratic,Gary Gene Davis,599
 Campbell,United States Senate,NA,Democratic,Gordon Ball,451
 Campbell,United States Senate,NA,Democratic,Larry Crim,172
@@ -290,14 +290,14 @@ Cannon,State Executive Committeewoman,17,Democratic,Rachel Givens,628
 Cannon,State Executive Committeewoman,17,Republican,Jennifer Franklin Winfree,450
 Cannon,State Executive Committeewoman,17,Republican,Pat Fields,532
 Cannon,State Executive Committeewoman,17,Republican,Yvonne G. Hunter,295
-Cannon,Tennessee House of Representatives,46,Democratic,Candace Reed,627
-Cannon,Tennessee House of Representatives,46,Republican,Mark A. Pody,1692
-Cannon,Tennessee Senate,17,Democratic,No Candidate Qualified,0
-Cannon,Tennessee Senate,17,Republican,Clark Boyd,803
-Cannon,Tennessee Senate,17,Republican,Mae Beavers,1203
-Cannon,United States House of Representatives,6,Democratic,Amos Scott Powers,622
-Cannon,United States House of Representatives,6,Republican,Diane Black,1430
-Cannon,United States House of Representatives,6,Republican,Jerry Lowery,543
+Cannon,State House,46,Democratic,Candace Reed,627
+Cannon,State House,46,Republican,Mark A. Pody,1692
+Cannon,State Senate,17,Democratic,No Candidate Qualified,0
+Cannon,State Senate,17,Republican,Clark Boyd,803
+Cannon,State Senate,17,Republican,Mae Beavers,1203
+Cannon,U.S. House,6,Democratic,Amos Scott Powers,622
+Cannon,U.S. House,6,Republican,Diane Black,1430
+Cannon,U.S. House,6,Republican,Jerry Lowery,543
 Cannon,United States Senate,NA,Democratic,Gary Gene Davis,133
 Cannon,United States Senate,NA,Democratic,Gordon Ball,302
 Cannon,United States Senate,NA,Democratic,Larry Crim,64
@@ -324,17 +324,17 @@ Carroll,State Executive Committeeman,24,Republican,Joey Mehlhorn,550
 Carroll,State Executive Committeewoman,24,Democratic,Angela Callis,1044
 Carroll,State Executive Committeewoman,24,Republican,Christi Cross,1597
 Carroll,State Executive Committeewoman,24,Republican,Marilucile Counce,443
-Carroll,Tennessee House of Representatives,76,Democratic,Joyce Washington,512
-Carroll,Tennessee House of Representatives,76,Republican,Andy Holt,1158
-Carroll,Tennessee House of Representatives,79,Democratic,Bobby Barnett,516
-Carroll,Tennessee House of Representatives,79,Republican,Curtis Halford,1386
-Carroll,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,141
-Carroll,United States House of Representatives,8,Democratic,Rickey Hobson,221
-Carroll,United States House of Representatives,8,Democratic,Tom Reasons,266
-Carroll,United States House of Representatives,8,Democratic,Wes Bradley,502
-Carroll,United States House of Representatives,8,Republican,Dana Matheny,372
-Carroll,United States House of Representatives,8,Republican,John Mills,192
-Carroll,United States House of Representatives,8,Republican,Stephen Lee Fincher,2456
+Carroll,State House,76,Democratic,Joyce Washington,512
+Carroll,State House,76,Republican,Andy Holt,1158
+Carroll,State House,79,Democratic,Bobby Barnett,516
+Carroll,State House,79,Republican,Curtis Halford,1386
+Carroll,U.S. House,8,Democratic,Lawrence A. Pivnick,141
+Carroll,U.S. House,8,Democratic,Rickey Hobson,221
+Carroll,U.S. House,8,Democratic,Tom Reasons,266
+Carroll,U.S. House,8,Democratic,Wes Bradley,502
+Carroll,U.S. House,8,Republican,Dana Matheny,372
+Carroll,U.S. House,8,Republican,John Mills,192
+Carroll,U.S. House,8,Republican,Stephen Lee Fincher,2456
 Carroll,United States Senate,NA,Democratic,Gary Gene Davis,210
 Carroll,United States Senate,NA,Democratic,Gordon Ball,381
 Carroll,United States Senate,NA,Democratic,Larry Crim,116
@@ -367,18 +367,18 @@ Carter,State Executive Committeewoman,3,Republican,Sara Whitehead Sellers,6478
 Carter,State Executive Committeewoman,4,Democratic,Lori Love,174
 Carter,State Executive Committeewoman,4,Republican,Gail D. Patton,393
 Carter,State Executive Committeewoman,4,Republican,Linda D. Buckles,1364
-Carter,Tennessee House of Representatives,3,Democratic,No Candidate Qualified,0
-Carter,Tennessee House of Representatives,3,Republican,Kevin Dwayne Parsons,276
-Carter,Tennessee House of Representatives,3,Republican,Timothy Hill,1839
-Carter,Tennessee House of Representatives,4,Democratic,Rob Martin,591
-Carter,Tennessee House of Representatives,4,Republican,"John B. Holsclaw, Jr.",5836
-Carter,Tennessee House of Representatives,4,Republican,Judy R. Veeneman,3039
-Carter,Tennessee Senate,3,Democratic,No Candidate Qualified,0
-Carter,Tennessee Senate,3,Republican,Rusty Crowe,7522
-Carter,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Carter,United States House of Representatives,1,Republican,Daniel J. Hartley,921
-Carter,United States House of Representatives,1,Republican,John Paul Rader,546
-Carter,United States House of Representatives,1,Republican,Phil Roe,9283
+Carter,State House,3,Democratic,No Candidate Qualified,0
+Carter,State House,3,Republican,Kevin Dwayne Parsons,276
+Carter,State House,3,Republican,Timothy Hill,1839
+Carter,State House,4,Democratic,Rob Martin,591
+Carter,State House,4,Republican,"John B. Holsclaw, Jr.",5836
+Carter,State House,4,Republican,Judy R. Veeneman,3039
+Carter,State Senate,3,Democratic,No Candidate Qualified,0
+Carter,State Senate,3,Republican,Rusty Crowe,7522
+Carter,U.S. House,1,Democratic,No Candidate Qualified,0
+Carter,U.S. House,1,Republican,Daniel J. Hartley,921
+Carter,U.S. House,1,Republican,John Paul Rader,546
+Carter,U.S. House,1,Republican,Phil Roe,9283
 Carter,United States Senate,NA,Democratic,Gary Gene Davis,221
 Carter,United States Senate,NA,Democratic,Gordon Ball,181
 Carter,United States Senate,NA,Democratic,Larry Crim,74
@@ -405,21 +405,21 @@ Cheatham,State Executive Committeeman,25,Republican,Michael S. Petty,1815
 Cheatham,State Executive Committeewoman,25,Democratic,Martha Shepard,1727
 Cheatham,State Executive Committeewoman,25,Republican,Jodie Hardin,1741
 Cheatham,State Executive Committeewoman,25,Republican,Mary Ann Parks,2200
-Cheatham,Tennessee House of Representatives,78,Democratic,Jane R. Crisp,1807
-Cheatham,Tennessee House of Representatives,78,Republican,Mary Littleton,4545
-Cheatham,Tennessee Senate,25,Democratic,Tony Gross,1809
-Cheatham,Tennessee Senate,25,Republican,Jim Summerville,592
-Cheatham,Tennessee Senate,25,Republican,Joshua G. Evans,2129
-Cheatham,Tennessee Senate,25,Republican,Kerry Roberts,1962
-Cheatham,Tennessee Senate,25,Republican,Wayne White,176
-Cheatham,United States House of Representatives,5,Democratic,Jim Cooper,1685
-Cheatham,United States House of Representatives,5,Republican,Bob Ries,1046
-Cheatham,United States House of Representatives,5,Republican,Chris Carter,862
-Cheatham,United States House of Representatives,5,Republican,"John ""Big John"" Smith",866
-Cheatham,United States House of Representatives,5,Republican,Ronnie Holden,599
-Cheatham,United States House of Representatives,6,Democratic,Amos Scott Powers,328
-Cheatham,United States House of Representatives,6,Republican,Diane Black,1095
-Cheatham,United States House of Representatives,6,Republican,Jerry Lowery,266
+Cheatham,State House,78,Democratic,Jane R. Crisp,1807
+Cheatham,State House,78,Republican,Mary Littleton,4545
+Cheatham,State Senate,25,Democratic,Tony Gross,1809
+Cheatham,State Senate,25,Republican,Jim Summerville,592
+Cheatham,State Senate,25,Republican,Joshua G. Evans,2129
+Cheatham,State Senate,25,Republican,Kerry Roberts,1962
+Cheatham,State Senate,25,Republican,Wayne White,176
+Cheatham,U.S. House,5,Democratic,Jim Cooper,1685
+Cheatham,U.S. House,5,Republican,Bob Ries,1046
+Cheatham,U.S. House,5,Republican,Chris Carter,862
+Cheatham,U.S. House,5,Republican,"John ""Big John"" Smith",866
+Cheatham,U.S. House,5,Republican,Ronnie Holden,599
+Cheatham,U.S. House,6,Democratic,Amos Scott Powers,328
+Cheatham,U.S. House,6,Republican,Diane Black,1095
+Cheatham,U.S. House,6,Republican,Jerry Lowery,266
 Cheatham,United States Senate,NA,Democratic,Gary Gene Davis,491
 Cheatham,United States Senate,NA,Democratic,Gordon Ball,622
 Cheatham,United States Senate,NA,Democratic,Larry Crim,184
@@ -446,12 +446,12 @@ Chester,State Executive Committeewoman,26,Democratic,Meryl Rice,376
 Chester,State Executive Committeewoman,26,Democratic,Varand Sevier-Pride,106
 Chester,State Executive Committeewoman,26,Republican,Kathryn Bryson,817
 Chester,State Executive Committeewoman,26,Republican,Rosemary D. Hamilton,522
-Chester,Tennessee House of Representatives,72,Democratic,No Candidate Qualified,0
-Chester,Tennessee House of Representatives,72,Republican,Steve K. McDaniel,1914
-Chester,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,52
-Chester,United States House of Representatives,7,Democratic,Daniel Cramer,403
-Chester,United States House of Representatives,7,Republican,Jacob Brimm,351
-Chester,United States House of Representatives,7,Republican,Marsha Blackburn,1813
+Chester,State House,72,Democratic,No Candidate Qualified,0
+Chester,State House,72,Republican,Steve K. McDaniel,1914
+Chester,U.S. House,7,Democratic,Credo Comlan Amouzouvik,52
+Chester,U.S. House,7,Democratic,Daniel Cramer,403
+Chester,U.S. House,7,Republican,Jacob Brimm,351
+Chester,U.S. House,7,Republican,Marsha Blackburn,1813
 Chester,United States Senate,NA,Democratic,Gary Gene Davis,111
 Chester,United States Senate,NA,Democratic,Gordon Ball,161
 Chester,United States Senate,NA,Democratic,Larry Crim,53
@@ -478,12 +478,12 @@ Claiborne,State Executive Committeewoman,8,Democratic,Lindsey Cole Cadle,1084
 Claiborne,State Executive Committeewoman,8,Democratic,Vonda Mallicoat Laughlin,306
 Claiborne,State Executive Committeewoman,8,Republican,Betty Fain,1708
 Claiborne,State Executive Committeewoman,8,Republican,Jennifer Inman Little,1478
-Claiborne,Tennessee House of Representatives,35,Democratic,No Candidate Qualified,0
-Claiborne,Tennessee House of Representatives,35,Republican,"Dennis ""Coach"" Roach",1785
-Claiborne,Tennessee House of Representatives,35,Republican,Jerry Sexton,2574
-Claiborne,United States House of Representatives,2,Democratic,Bob Scott,1150
-Claiborne,United States House of Representatives,2,Republican,Jason Zachary,1282
-Claiborne,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",3096
+Claiborne,State House,35,Democratic,No Candidate Qualified,0
+Claiborne,State House,35,Republican,"Dennis ""Coach"" Roach",1785
+Claiborne,State House,35,Republican,Jerry Sexton,2574
+Claiborne,U.S. House,2,Democratic,Bob Scott,1150
+Claiborne,U.S. House,2,Republican,Jason Zachary,1282
+Claiborne,U.S. House,2,Republican,"John J. Duncan, Jr.",3096
 Claiborne,United States Senate,NA,Democratic,Gary Gene Davis,332
 Claiborne,United States Senate,NA,Democratic,Gordon Ball,363
 Claiborne,United States Senate,NA,Democratic,Larry Crim,84
@@ -511,14 +511,14 @@ Clay,State Executive Committeewoman,17,Democratic,Rachel Givens,343
 Clay,State Executive Committeewoman,17,Republican,Jennifer Franklin Winfree,197
 Clay,State Executive Committeewoman,17,Republican,Pat Fields,333
 Clay,State Executive Committeewoman,17,Republican,Yvonne G. Hunter,158
-Clay,Tennessee House of Representatives,38,Democratic,No Candidate Qualified,0
-Clay,Tennessee House of Representatives,38,Republican,Kelly T. Keisling,940
-Clay,Tennessee Senate,17,Democratic,No Candidate Qualified,0
-Clay,Tennessee Senate,17,Republican,Clark Boyd,406
-Clay,Tennessee Senate,17,Republican,Mae Beavers,693
-Clay,United States House of Representatives,6,Democratic,Amos Scott Powers,359
-Clay,United States House of Representatives,6,Republican,Diane Black,852
-Clay,United States House of Representatives,6,Republican,Jerry Lowery,215
+Clay,State House,38,Democratic,No Candidate Qualified,0
+Clay,State House,38,Republican,Kelly T. Keisling,940
+Clay,State Senate,17,Democratic,No Candidate Qualified,0
+Clay,State Senate,17,Republican,Clark Boyd,406
+Clay,State Senate,17,Republican,Mae Beavers,693
+Clay,U.S. House,6,Democratic,Amos Scott Powers,359
+Clay,U.S. House,6,Republican,Diane Black,852
+Clay,U.S. House,6,Republican,Jerry Lowery,215
 Clay,United States Senate,NA,Democratic,Gary Gene Davis,114
 Clay,United States Senate,NA,Democratic,Gordon Ball,174
 Clay,United States Senate,NA,Democratic,Larry Crim,31
@@ -542,14 +542,14 @@ Cocke,State Executive Committeeman,1,Democratic,John Litz,436
 Cocke,State Executive Committeeman,1,Republican,Paul Chapman,3333
 Cocke,State Executive Committeewoman,1,Democratic,Marjorie J. Ramsey,648
 Cocke,State Executive Committeewoman,1,Republican,Nancy W. Wilson,3427
-Cocke,Tennessee House of Representatives,11,Democratic,Marjorie J. Ramsey,663
-Cocke,Tennessee House of Representatives,11,Republican,Jeremy Faison,4572
-Cocke,Tennessee Senate,1,Democratic,No Candidate Qualified,0
-Cocke,Tennessee Senate,1,Republican,Steve Southerland,4638
-Cocke,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Cocke,United States House of Representatives,1,Republican,Daniel J. Hartley,372
-Cocke,United States House of Representatives,1,Republican,John Paul Rader,665
-Cocke,United States House of Representatives,1,Republican,Phil Roe,4305
+Cocke,State House,11,Democratic,Marjorie J. Ramsey,663
+Cocke,State House,11,Republican,Jeremy Faison,4572
+Cocke,State Senate,1,Democratic,No Candidate Qualified,0
+Cocke,State Senate,1,Republican,Steve Southerland,4638
+Cocke,U.S. House,1,Democratic,No Candidate Qualified,0
+Cocke,U.S. House,1,Republican,Daniel J. Hartley,372
+Cocke,U.S. House,1,Republican,John Paul Rader,665
+Cocke,U.S. House,1,Republican,Phil Roe,4305
 Cocke,United States Senate,NA,Democratic,Gary Gene Davis,56
 Cocke,United States Senate,NA,Democratic,Gordon Ball,612
 Cocke,United States Senate,NA,Democratic,Larry Crim,19
@@ -576,11 +576,11 @@ Coffee,State Executive Committeeman,16,Republican,Sam T. Harper,2277
 Coffee,State Executive Committeewoman,16,Democratic,Betty (Newman) Fraley,2264
 Coffee,State Executive Committeewoman,16,Republican,Frances Arthur,2968
 Coffee,State Executive Committeewoman,16,Republican,Iris Rudder,1525
-Coffee,Tennessee House of Representatives,47,Democratic,No Candidate Qualified,0
-Coffee,Tennessee House of Representatives,47,Republican,Judd Matheny,5691
-Coffee,United States House of Representatives,6,Democratic,Amos Scott Powers,2136
-Coffee,United States House of Representatives,6,Republican,Diane Black,4983
-Coffee,United States House of Representatives,6,Republican,Jerry Lowery,1332
+Coffee,State House,47,Democratic,No Candidate Qualified,0
+Coffee,State House,47,Republican,Judd Matheny,5691
+Coffee,U.S. House,6,Democratic,Amos Scott Powers,2136
+Coffee,U.S. House,6,Republican,Diane Black,4983
+Coffee,U.S. House,6,Republican,Jerry Lowery,1332
 Coffee,United States Senate,NA,Democratic,Gary Gene Davis,607
 Coffee,United States Senate,NA,Democratic,Gordon Ball,830
 Coffee,United States Senate,NA,Democratic,Larry Crim,305
@@ -608,18 +608,18 @@ Crockett,State Executive Committeewoman,27,Democratic,Gladys Crain,235
 Crockett,State Executive Committeewoman,27,Democratic,Patsy R. Johnson,248
 Crockett,State Executive Committeewoman,27,Republican,Jewell G. Horner,309
 Crockett,State Executive Committeewoman,27,Republican,Shannon Slayton Haynes,1028
-Crockett,Tennessee House of Representatives,82,Democratic,Craig Fitzhugh,642
-Crockett,Tennessee House of Representatives,82,Republican,No Candidate Qualified,0
-Crockett,Tennessee Senate,27,Democratic,Randy Lamb,643
-Crockett,Tennessee Senate,27,Republican,Brandon Dodds,648
-Crockett,Tennessee Senate,27,Republican,Ed Jackson,788
-Crockett,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,32
-Crockett,United States House of Representatives,8,Democratic,Rickey Hobson,56
-Crockett,United States House of Representatives,8,Democratic,Tom Reasons,224
-Crockett,United States House of Representatives,8,Democratic,Wes Bradley,159
-Crockett,United States House of Representatives,8,Republican,Dana Matheny,92
-Crockett,United States House of Representatives,8,Republican,John Mills,51
-Crockett,United States House of Representatives,8,Republican,Stephen Lee Fincher,1707
+Crockett,State House,82,Democratic,Craig Fitzhugh,642
+Crockett,State House,82,Republican,No Candidate Qualified,0
+Crockett,State Senate,27,Democratic,Randy Lamb,643
+Crockett,State Senate,27,Republican,Brandon Dodds,648
+Crockett,State Senate,27,Republican,Ed Jackson,788
+Crockett,U.S. House,8,Democratic,Lawrence A. Pivnick,32
+Crockett,U.S. House,8,Democratic,Rickey Hobson,56
+Crockett,U.S. House,8,Democratic,Tom Reasons,224
+Crockett,U.S. House,8,Democratic,Wes Bradley,159
+Crockett,U.S. House,8,Republican,Dana Matheny,92
+Crockett,U.S. House,8,Republican,John Mills,51
+Crockett,U.S. House,8,Republican,Stephen Lee Fincher,1707
 Crockett,United States Senate,NA,Democratic,Gary Gene Davis,115
 Crockett,United States Senate,NA,Democratic,Gordon Ball,144
 Crockett,United States Senate,NA,Democratic,Larry Crim,57
@@ -650,15 +650,15 @@ Cumberland,State Executive Committeewoman,15,Democratic,Geeta W. McMillan,1658
 Cumberland,State Executive Committeewoman,15,Republican,Cindy Beckwith,3173
 Cumberland,State Executive Committeewoman,15,Republican,Hannah Horseman,1577
 Cumberland,State Executive Committeewoman,15,Republican,Patty M. Dycus,1937
-Cumberland,Tennessee House of Representatives,25,Democratic,Judy Barnett,1734
-Cumberland,Tennessee House of Representatives,25,Republican,Cameron Sexton,8252
-Cumberland,Tennessee Senate,15,Democratic,Betty Vaudt,1587
-Cumberland,Tennessee Senate,15,Republican,Gary Steakley,490
-Cumberland,Tennessee Senate,15,Republican,Matt Swallows,3817
-Cumberland,Tennessee Senate,15,Republican,Paul Bailey,4576
-Cumberland,United States House of Representatives,6,Democratic,Amos Scott Powers,1678
-Cumberland,United States House of Representatives,6,Republican,Diane Black,6831
-Cumberland,United States House of Representatives,6,Republican,Jerry Lowery,2056
+Cumberland,State House,25,Democratic,Judy Barnett,1734
+Cumberland,State House,25,Republican,Cameron Sexton,8252
+Cumberland,State Senate,15,Democratic,Betty Vaudt,1587
+Cumberland,State Senate,15,Republican,Gary Steakley,490
+Cumberland,State Senate,15,Republican,Matt Swallows,3817
+Cumberland,State Senate,15,Republican,Paul Bailey,4576
+Cumberland,U.S. House,6,Democratic,Amos Scott Powers,1678
+Cumberland,U.S. House,6,Republican,Diane Black,6831
+Cumberland,U.S. House,6,Republican,Jerry Lowery,2056
 Cumberland,United States Senate,NA,Democratic,Gary Gene Davis,476
 Cumberland,United States Senate,NA,Democratic,Gordon Ball,387
 Cumberland,United States Senate,NA,Democratic,Larry Crim,163
@@ -703,43 +703,43 @@ Davidson,State Executive Committeewoman,20,Democratic,Nancy Potts,4996
 Davidson,State Executive Committeewoman,20,Republican,Beth Campbell,11410
 Davidson,State Executive Committeewoman,21,Democratic,Doris Medlin,9557
 Davidson,State Executive Committeewoman,21,Republican,Beverly B. Knight,4199
-Davidson,Tennessee House of Representatives,50,Democratic,Bo Mitchell,2963
-Davidson,Tennessee House of Representatives,50,Republican,Troy Brewer,3320
-Davidson,Tennessee House of Representatives,51,Democratic,Bill Beck,1906
-Davidson,Tennessee House of Representatives,51,Democratic,Jennifer Buck Wallace,1601
-Davidson,Tennessee House of Representatives,51,Democratic,Stephen Fotopulos,1125
-Davidson,Tennessee House of Representatives,51,Republican,Brian L. Mason,909
-Davidson,Tennessee House of Representatives,51,Republican,Joshua Rawlings,648
-Davidson,Tennessee House of Representatives,52,Democratic,Mike Stewart,2508
-Davidson,Tennessee House of Representatives,52,Republican,No Candidate Qualified,0
-Davidson,Tennessee House of Representatives,53,Democratic,Jason Powell,2295
-Davidson,Tennessee House of Representatives,53,Republican,John Wang,1656
-Davidson,Tennessee House of Representatives,54,Democratic,Brenda Gilmore,5962
-Davidson,Tennessee House of Representatives,54,Republican,No Candidate Qualified,0
-Davidson,Tennessee House of Representatives,55,Democratic,Gary Odom,2074
-Davidson,Tennessee House of Representatives,55,Democratic,John Ray Clemmons,2401
-Davidson,Tennessee House of Representatives,55,Republican,No Candidate Qualified,0
-Davidson,Tennessee House of Representatives,56,Democratic,Chris Moth,3615
-Davidson,Tennessee House of Representatives,56,Republican,Beth Harwell,7120
-Davidson,Tennessee House of Representatives,58,Democratic,Harold M. Love,3255
-Davidson,Tennessee House of Representatives,58,Republican,No Candidate Qualified,0
-Davidson,Tennessee House of Representatives,59,Democratic,Sherry Jones,2195
-Davidson,Tennessee House of Representatives,59,Republican,No Candidate Qualified,0
-Davidson,Tennessee House of Representatives,60,Democratic,Darren Jernigan,2620
-Davidson,Tennessee House of Representatives,60,Republican,Jim Gotto,3445
-Davidson,Tennessee Senate,19,Democratic,Brandon J. Puttbrese,1685
-Davidson,Tennessee Senate,19,Democratic,Thelma M. Harper,10502
-Davidson,Tennessee Senate,19,Republican,Sterlina Inez Brady,1564
-Davidson,Tennessee Senate,21,Democratic,Jeff Yarbro,6830
-Davidson,Tennessee Senate,21,Democratic,Mary Mancini,5217
-Davidson,Tennessee Senate,21,Republican,Diana Cuellar,2960
-Davidson,Tennessee Senate,21,Republican,Mwafaq Aljabbary,346
-Davidson,Tennessee Senate,21,Republican,Quincy McKnight,1523
-Davidson,United States House of Representatives,5,Democratic,Jim Cooper,36074
-Davidson,United States House of Representatives,5,Republican,Bob Ries,8165
-Davidson,United States House of Representatives,5,Republican,Chris Carter,6917
-Davidson,United States House of Representatives,5,Republican,"John ""Big John"" Smith",3343
-Davidson,United States House of Representatives,5,Republican,Ronnie Holden,3175
+Davidson,State House,50,Democratic,Bo Mitchell,2963
+Davidson,State House,50,Republican,Troy Brewer,3320
+Davidson,State House,51,Democratic,Bill Beck,1906
+Davidson,State House,51,Democratic,Jennifer Buck Wallace,1601
+Davidson,State House,51,Democratic,Stephen Fotopulos,1125
+Davidson,State House,51,Republican,Brian L. Mason,909
+Davidson,State House,51,Republican,Joshua Rawlings,648
+Davidson,State House,52,Democratic,Mike Stewart,2508
+Davidson,State House,52,Republican,No Candidate Qualified,0
+Davidson,State House,53,Democratic,Jason Powell,2295
+Davidson,State House,53,Republican,John Wang,1656
+Davidson,State House,54,Democratic,Brenda Gilmore,5962
+Davidson,State House,54,Republican,No Candidate Qualified,0
+Davidson,State House,55,Democratic,Gary Odom,2074
+Davidson,State House,55,Democratic,John Ray Clemmons,2401
+Davidson,State House,55,Republican,No Candidate Qualified,0
+Davidson,State House,56,Democratic,Chris Moth,3615
+Davidson,State House,56,Republican,Beth Harwell,7120
+Davidson,State House,58,Democratic,Harold M. Love,3255
+Davidson,State House,58,Republican,No Candidate Qualified,0
+Davidson,State House,59,Democratic,Sherry Jones,2195
+Davidson,State House,59,Republican,No Candidate Qualified,0
+Davidson,State House,60,Democratic,Darren Jernigan,2620
+Davidson,State House,60,Republican,Jim Gotto,3445
+Davidson,State Senate,19,Democratic,Brandon J. Puttbrese,1685
+Davidson,State Senate,19,Democratic,Thelma M. Harper,10502
+Davidson,State Senate,19,Republican,Sterlina Inez Brady,1564
+Davidson,State Senate,21,Democratic,Jeff Yarbro,6830
+Davidson,State Senate,21,Democratic,Mary Mancini,5217
+Davidson,State Senate,21,Republican,Diana Cuellar,2960
+Davidson,State Senate,21,Republican,Mwafaq Aljabbary,346
+Davidson,State Senate,21,Republican,Quincy McKnight,1523
+Davidson,U.S. House,5,Democratic,Jim Cooper,36074
+Davidson,U.S. House,5,Republican,Bob Ries,8165
+Davidson,U.S. House,5,Republican,Chris Carter,6917
+Davidson,U.S. House,5,Republican,"John ""Big John"" Smith",3343
+Davidson,U.S. House,5,Republican,Ronnie Holden,3175
 Davidson,United States Senate,NA,Democratic,Gary Gene Davis,2986
 Davidson,United States Senate,NA,Democratic,Gordon Ball,13174
 Davidson,United States Senate,NA,Democratic,Larry Crim,4799
@@ -766,12 +766,12 @@ Decatur,State Executive Committeewoman,26,Democratic,Meryl Rice,718
 Decatur,State Executive Committeewoman,26,Democratic,Varand Sevier-Pride,111
 Decatur,State Executive Committeewoman,26,Republican,Kathryn Bryson,414
 Decatur,State Executive Committeewoman,26,Republican,Rosemary D. Hamilton,927
-Decatur,Tennessee House of Representatives,72,Democratic,No Candidate Qualified,0
-Decatur,Tennessee House of Representatives,72,Republican,Steve K. McDaniel,1462
-Decatur,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,82
-Decatur,United States House of Representatives,7,Democratic,Daniel Cramer,660
-Decatur,United States House of Representatives,7,Republican,Jacob Brimm,213
-Decatur,United States House of Representatives,7,Republican,Marsha Blackburn,1424
+Decatur,State House,72,Democratic,No Candidate Qualified,0
+Decatur,State House,72,Republican,Steve K. McDaniel,1462
+Decatur,U.S. House,7,Democratic,Credo Comlan Amouzouvik,82
+Decatur,U.S. House,7,Democratic,Daniel Cramer,660
+Decatur,U.S. House,7,Republican,Jacob Brimm,213
+Decatur,U.S. House,7,Republican,Marsha Blackburn,1424
 Decatur,United States Senate,NA,Democratic,Gary Gene Davis,177
 Decatur,United States Senate,NA,Democratic,Gordon Ball,294
 Decatur,United States Senate,NA,Democratic,Larry Crim,80
@@ -799,16 +799,16 @@ DeKalb,State Executive Committeewoman,17,Democratic,Rachel Givens,831
 DeKalb,State Executive Committeewoman,17,Republican,Jennifer Franklin Winfree,510
 DeKalb,State Executive Committeewoman,17,Republican,Pat Fields,429
 DeKalb,State Executive Committeewoman,17,Republican,Yvonne G. Hunter,246
-DeKalb,Tennessee House of Representatives,40,Democratic,Sarah Marie Smith,713
-DeKalb,Tennessee House of Representatives,40,Republican,Terri Lynn Weaver,1322
-DeKalb,Tennessee House of Representatives,46,Democratic,Candace Reed,245
-DeKalb,Tennessee House of Representatives,46,Republican,Mark A. Pody,337
-DeKalb,Tennessee Senate,17,Democratic,No Candidate Qualified,0
-DeKalb,Tennessee Senate,17,Republican,Clark Boyd,563
-DeKalb,Tennessee Senate,17,Republican,Mae Beavers,1345
-DeKalb,United States House of Representatives,6,Democratic,Amos Scott Powers,807
-DeKalb,United States House of Representatives,6,Republican,Diane Black,1403
-DeKalb,United States House of Representatives,6,Republican,Jerry Lowery,432
+DeKalb,State House,40,Democratic,Sarah Marie Smith,713
+DeKalb,State House,40,Republican,Terri Lynn Weaver,1322
+DeKalb,State House,46,Democratic,Candace Reed,245
+DeKalb,State House,46,Republican,Mark A. Pody,337
+DeKalb,State Senate,17,Democratic,No Candidate Qualified,0
+DeKalb,State Senate,17,Republican,Clark Boyd,563
+DeKalb,State Senate,17,Republican,Mae Beavers,1345
+DeKalb,U.S. House,6,Democratic,Amos Scott Powers,807
+DeKalb,U.S. House,6,Republican,Diane Black,1403
+DeKalb,U.S. House,6,Republican,Jerry Lowery,432
 DeKalb,United States Senate,NA,Democratic,Gary Gene Davis,181
 DeKalb,United States Senate,NA,Democratic,Gordon Ball,336
 DeKalb,United States Senate,NA,Democratic,Larry Crim,94
@@ -835,20 +835,20 @@ Dickson,State Executive Committeeman,25,Republican,Michael S. Petty,3011
 Dickson,State Executive Committeewoman,25,Democratic,Martha Shepard,3036
 Dickson,State Executive Committeewoman,25,Republican,Jodie Hardin,2184
 Dickson,State Executive Committeewoman,25,Republican,Mary Ann Parks,2445
-Dickson,Tennessee House of Representatives,69,Democratic,David A. Shepard,1665
-Dickson,Tennessee House of Representatives,69,Republican,Michael Curcio,2148
-Dickson,Tennessee House of Representatives,78,Democratic,Jane R. Crisp,1211
-Dickson,Tennessee House of Representatives,78,Republican,Mary Littleton,2955
-Dickson,Tennessee Senate,25,Democratic,Tony Gross,2635
-Dickson,Tennessee Senate,25,Republican,Jim Summerville,1820
-Dickson,Tennessee Senate,25,Republican,Joshua G. Evans,1690
-Dickson,Tennessee Senate,25,Republican,Kerry Roberts,1837
-Dickson,Tennessee Senate,25,Republican,Wayne White,450
-Dickson,United States House of Representatives,5,Democratic,Jim Cooper,3072
-Dickson,United States House of Representatives,5,Republican,Bob Ries,2204
-Dickson,United States House of Representatives,5,Republican,Chris Carter,1225
-Dickson,United States House of Representatives,5,Republican,"John ""Big John"" Smith",1121
-Dickson,United States House of Representatives,5,Republican,Ronnie Holden,660
+Dickson,State House,69,Democratic,David A. Shepard,1665
+Dickson,State House,69,Republican,Michael Curcio,2148
+Dickson,State House,78,Democratic,Jane R. Crisp,1211
+Dickson,State House,78,Republican,Mary Littleton,2955
+Dickson,State Senate,25,Democratic,Tony Gross,2635
+Dickson,State Senate,25,Republican,Jim Summerville,1820
+Dickson,State Senate,25,Republican,Joshua G. Evans,1690
+Dickson,State Senate,25,Republican,Kerry Roberts,1837
+Dickson,State Senate,25,Republican,Wayne White,450
+Dickson,U.S. House,5,Democratic,Jim Cooper,3072
+Dickson,U.S. House,5,Republican,Bob Ries,2204
+Dickson,U.S. House,5,Republican,Chris Carter,1225
+Dickson,U.S. House,5,Republican,"John ""Big John"" Smith",1121
+Dickson,U.S. House,5,Republican,Ronnie Holden,660
 Dickson,United States Senate,NA,Democratic,Gary Gene Davis,715
 Dickson,United States Senate,NA,Democratic,Gordon Ball,852
 Dickson,United States Senate,NA,Democratic,Larry Crim,180
@@ -876,18 +876,18 @@ Dyer,State Executive Committeewoman,27,Democratic,Gladys Crain,472
 Dyer,State Executive Committeewoman,27,Democratic,Patsy R. Johnson,804
 Dyer,State Executive Committeewoman,27,Republican,Jewell G. Horner,2588
 Dyer,State Executive Committeewoman,27,Republican,Shannon Slayton Haynes,1826
-Dyer,Tennessee House of Representatives,77,Democratic,No Candidate Qualified,0
-Dyer,Tennessee House of Representatives,77,Republican,Bill Sanderson,4653
-Dyer,Tennessee Senate,27,Democratic,Randy Lamb,1173
-Dyer,Tennessee Senate,27,Republican,Brandon Dodds,3244
-Dyer,Tennessee Senate,27,Republican,Ed Jackson,1406
-Dyer,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,85
-Dyer,United States House of Representatives,8,Democratic,Rickey Hobson,262
-Dyer,United States House of Representatives,8,Democratic,Tom Reasons,688
-Dyer,United States House of Representatives,8,Democratic,Wes Bradley,311
-Dyer,United States House of Representatives,8,Republican,Dana Matheny,406
-Dyer,United States House of Representatives,8,Republican,John Mills,228
-Dyer,United States House of Representatives,8,Republican,Stephen Lee Fincher,4330
+Dyer,State House,77,Democratic,No Candidate Qualified,0
+Dyer,State House,77,Republican,Bill Sanderson,4653
+Dyer,State Senate,27,Democratic,Randy Lamb,1173
+Dyer,State Senate,27,Republican,Brandon Dodds,3244
+Dyer,State Senate,27,Republican,Ed Jackson,1406
+Dyer,U.S. House,8,Democratic,Lawrence A. Pivnick,85
+Dyer,U.S. House,8,Democratic,Rickey Hobson,262
+Dyer,U.S. House,8,Democratic,Tom Reasons,688
+Dyer,U.S. House,8,Democratic,Wes Bradley,311
+Dyer,U.S. House,8,Republican,Dana Matheny,406
+Dyer,U.S. House,8,Republican,John Mills,228
+Dyer,U.S. House,8,Republican,Stephen Lee Fincher,4330
 Dyer,United States Senate,NA,Democratic,Gary Gene Davis,259
 Dyer,United States Senate,NA,Democratic,Gordon Ball,355
 Dyer,United States Senate,NA,Democratic,Larry Crim,99
@@ -914,17 +914,17 @@ Fayette,State Executive Committeewoman,26,Democratic,Meryl Rice,1626
 Fayette,State Executive Committeewoman,26,Democratic,Varand Sevier-Pride,203
 Fayette,State Executive Committeewoman,26,Republican,Kathryn Bryson,3338
 Fayette,State Executive Committeewoman,26,Republican,Rosemary D. Hamilton,1124
-Fayette,Tennessee House of Representatives,94,Democratic,Write-In - George H. Mitchell,1
-Fayette,Tennessee House of Representatives,94,Republican,Hal Rounds,2041
-Fayette,Tennessee House of Representatives,94,Republican,Leigh Rosser Wilburn,3074
-Fayette,Tennessee House of Representatives,94,Republican,Stephen L. Hale,860
-Fayette,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,100
-Fayette,United States House of Representatives,8,Democratic,Rickey Hobson,1348
-Fayette,United States House of Representatives,8,Democratic,Tom Reasons,138
-Fayette,United States House of Representatives,8,Democratic,Wes Bradley,324
-Fayette,United States House of Representatives,8,Republican,Dana Matheny,1071
-Fayette,United States House of Representatives,8,Republican,John Mills,488
-Fayette,United States House of Representatives,8,Republican,Stephen Lee Fincher,4036
+Fayette,State House,94,Democratic,Write-In - George H. Mitchell,1
+Fayette,State House,94,Republican,Hal Rounds,2041
+Fayette,State House,94,Republican,Leigh Rosser Wilburn,3074
+Fayette,State House,94,Republican,Stephen L. Hale,860
+Fayette,U.S. House,8,Democratic,Lawrence A. Pivnick,100
+Fayette,U.S. House,8,Democratic,Rickey Hobson,1348
+Fayette,U.S. House,8,Democratic,Tom Reasons,138
+Fayette,U.S. House,8,Democratic,Wes Bradley,324
+Fayette,U.S. House,8,Republican,Dana Matheny,1071
+Fayette,U.S. House,8,Republican,John Mills,488
+Fayette,U.S. House,8,Republican,Stephen Lee Fincher,4036
 Fayette,United States Senate,NA,Democratic,Gary Gene Davis,360
 Fayette,United States Senate,NA,Democratic,Gordon Ball,495
 Fayette,United States Senate,NA,Democratic,Larry Crim,174
@@ -950,13 +950,13 @@ Fentress,State Executive Committeeman,12,Republican,Mickey Barger,699
 Fentress,State Executive Committeewoman,12,Democratic,Martha Beaty Wiley,902
 Fentress,State Executive Committeewoman,12,Republican,"Elizabeth ""Liz"" Holiway",1184
 Fentress,State Executive Committeewoman,12,Republican,Judy Bowman Cooley,929
-Fentress,Tennessee House of Representatives,38,Democratic,No Candidate Qualified,0
-Fentress,Tennessee House of Representatives,38,Republican,Kelly T. Keisling,1286
-Fentress,Tennessee House of Representatives,41,Democratic,John Mark Windle,528
-Fentress,Tennessee House of Representatives,41,Republican,No Candidate Qualified,0
-Fentress,United States House of Representatives,6,Democratic,Amos Scott Powers,759
-Fentress,United States House of Representatives,6,Republican,Diane Black,2286
-Fentress,United States House of Representatives,6,Republican,Jerry Lowery,597
+Fentress,State House,38,Democratic,No Candidate Qualified,0
+Fentress,State House,38,Republican,Kelly T. Keisling,1286
+Fentress,State House,41,Democratic,John Mark Windle,528
+Fentress,State House,41,Republican,No Candidate Qualified,0
+Fentress,U.S. House,6,Democratic,Amos Scott Powers,759
+Fentress,U.S. House,6,Republican,Diane Black,2286
+Fentress,U.S. House,6,Republican,Jerry Lowery,597
 Fentress,United States Senate,NA,Democratic,Gary Gene Davis,290
 Fentress,United States Senate,NA,Democratic,Gordon Ball,197
 Fentress,United States Senate,NA,Democratic,Larry Crim,69
@@ -983,19 +983,19 @@ Franklin,State Executive Committeeman,16,Republican,Sam T. Harper,819
 Franklin,State Executive Committeewoman,16,Democratic,Betty (Newman) Fraley,2375
 Franklin,State Executive Committeewoman,16,Republican,Frances Arthur,1219
 Franklin,State Executive Committeewoman,16,Republican,Iris Rudder,2680
-Franklin,Tennessee House of Representatives,39,Democratic,Matthew Huffer,1947
-Franklin,Tennessee House of Representatives,39,Republican,David Alexander,3426
-Franklin,Tennessee House of Representatives,39,Republican,Jack R. Daniel,1121
-Franklin,Tennessee House of Representatives,92,Democratic,Vicki Cain,25
-Franklin,Tennessee House of Representatives,92,Republican,Billy Spivey,55
-Franklin,United States House of Representatives,4,Democratic,Lenda Sherrell,2018
-Franklin,United States House of Representatives,4,Republican,David R. Tate,35
-Franklin,United States House of Representatives,4,Republican,Jim Tracy,794
-Franklin,United States House of Representatives,4,Republican,John Anderson,292
-Franklin,United States House of Representatives,4,Republican,Michael S. Warden,18
-Franklin,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",13
-Franklin,United States House of Representatives,4,Republican,Scott DesJarlais,3402
-Franklin,United States House of Representatives,4,Republican,Steve Lane,77
+Franklin,State House,39,Democratic,Matthew Huffer,1947
+Franklin,State House,39,Republican,David Alexander,3426
+Franklin,State House,39,Republican,Jack R. Daniel,1121
+Franklin,State House,92,Democratic,Vicki Cain,25
+Franklin,State House,92,Republican,Billy Spivey,55
+Franklin,U.S. House,4,Democratic,Lenda Sherrell,2018
+Franklin,U.S. House,4,Republican,David R. Tate,35
+Franklin,U.S. House,4,Republican,Jim Tracy,794
+Franklin,U.S. House,4,Republican,John Anderson,292
+Franklin,U.S. House,4,Republican,Michael S. Warden,18
+Franklin,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",13
+Franklin,U.S. House,4,Republican,Scott DesJarlais,3402
+Franklin,U.S. House,4,Republican,Steve Lane,77
 Franklin,United States Senate,NA,Democratic,Gary Gene Davis,454
 Franklin,United States Senate,NA,Democratic,Gordon Ball,691
 Franklin,United States Senate,NA,Democratic,Larry Crim,155
@@ -1022,15 +1022,15 @@ Gibson,State Executive Committeeman,24,Republican,Joey Mehlhorn,1011
 Gibson,State Executive Committeewoman,24,Democratic,Angela Callis,1516
 Gibson,State Executive Committeewoman,24,Republican,Christi Cross,2646
 Gibson,State Executive Committeewoman,24,Republican,Marilucile Counce,753
-Gibson,Tennessee House of Representatives,79,Democratic,Bobby Barnett,1529
-Gibson,Tennessee House of Representatives,79,Republican,Curtis Halford,4775
-Gibson,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,88
-Gibson,United States House of Representatives,8,Democratic,Rickey Hobson,301
-Gibson,United States House of Representatives,8,Democratic,Tom Reasons,536
-Gibson,United States House of Representatives,8,Democratic,Wes Bradley,675
-Gibson,United States House of Representatives,8,Republican,Dana Matheny,778
-Gibson,United States House of Representatives,8,Republican,John Mills,246
-Gibson,United States House of Representatives,8,Republican,Stephen Lee Fincher,4102
+Gibson,State House,79,Democratic,Bobby Barnett,1529
+Gibson,State House,79,Republican,Curtis Halford,4775
+Gibson,U.S. House,8,Democratic,Lawrence A. Pivnick,88
+Gibson,U.S. House,8,Democratic,Rickey Hobson,301
+Gibson,U.S. House,8,Democratic,Tom Reasons,536
+Gibson,U.S. House,8,Democratic,Wes Bradley,675
+Gibson,U.S. House,8,Republican,Dana Matheny,778
+Gibson,U.S. House,8,Republican,John Mills,246
+Gibson,U.S. House,8,Republican,Stephen Lee Fincher,4102
 Gibson,United States Senate,NA,Democratic,Gary Gene Davis,295
 Gibson,United States Senate,NA,Democratic,Gordon Ball,466
 Gibson,United States Senate,NA,Democratic,Larry Crim,211
@@ -1056,12 +1056,12 @@ Giles,State Executive Committeewoman,28,Democratic,Cheri Thomas,299
 Giles,State Executive Committeewoman,28,Democratic,Nancy Dunavant,1136
 Giles,State Executive Committeewoman,28,Republican,Angie McClanahan,1467
 Giles,State Executive Committeewoman,28,Republican,Joanne M. Pogue,792
-Giles,Tennessee House of Representatives,70,Democratic,No Candidate Qualified,0
-Giles,Tennessee House of Representatives,70,Republican,Barry Doss,2819
-Giles,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,200
-Giles,United States House of Representatives,7,Democratic,Daniel Cramer,1092
-Giles,United States House of Representatives,7,Republican,Jacob Brimm,444
-Giles,United States House of Representatives,7,Republican,Marsha Blackburn,2723
+Giles,State House,70,Democratic,No Candidate Qualified,0
+Giles,State House,70,Republican,Barry Doss,2819
+Giles,U.S. House,7,Democratic,Credo Comlan Amouzouvik,200
+Giles,U.S. House,7,Democratic,Daniel Cramer,1092
+Giles,U.S. House,7,Republican,Jacob Brimm,444
+Giles,U.S. House,7,Republican,Marsha Blackburn,2723
 Giles,United States Senate,NA,Democratic,Gary Gene Davis,272
 Giles,United States Senate,NA,Democratic,Gordon Ball,477
 Giles,United States Senate,NA,Democratic,Larry Crim,94
@@ -1088,12 +1088,12 @@ Grainger,State Executive Committeewoman,8,Democratic,Lindsey Cole Cadle,138
 Grainger,State Executive Committeewoman,8,Democratic,Vonda Mallicoat Laughlin,147
 Grainger,State Executive Committeewoman,8,Republican,Betty Fain,1014
 Grainger,State Executive Committeewoman,8,Republican,Jennifer Inman Little,1157
-Grainger,Tennessee House of Representatives,35,Democratic,No Candidate Qualified,0
-Grainger,Tennessee House of Representatives,35,Republican,"Dennis ""Coach"" Roach",1622
-Grainger,Tennessee House of Representatives,35,Republican,Jerry Sexton,1378
-Grainger,United States House of Representatives,2,Democratic,Bob Scott,288
-Grainger,United States House of Representatives,2,Republican,Jason Zachary,958
-Grainger,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",1891
+Grainger,State House,35,Democratic,No Candidate Qualified,0
+Grainger,State House,35,Republican,"Dennis ""Coach"" Roach",1622
+Grainger,State House,35,Republican,Jerry Sexton,1378
+Grainger,U.S. House,2,Democratic,Bob Scott,288
+Grainger,U.S. House,2,Republican,Jason Zachary,958
+Grainger,U.S. House,2,Republican,"John J. Duncan, Jr.",1891
 Grainger,United States Senate,NA,Democratic,Gary Gene Davis,69
 Grainger,United States Senate,NA,Democratic,Gordon Ball,134
 Grainger,United States Senate,NA,Democratic,Larry Crim,22
@@ -1117,17 +1117,17 @@ Greene,State Executive Committeeman,1,Democratic,John Litz,1158
 Greene,State Executive Committeeman,1,Republican,Paul Chapman,7517
 Greene,State Executive Committeewoman,1,Democratic,Marjorie J. Ramsey,1302
 Greene,State Executive Committeewoman,1,Republican,Nancy W. Wilson,7843
-Greene,Tennessee House of Representatives,11,Democratic,Marjorie J. Ramsey,178
-Greene,Tennessee House of Representatives,11,Republican,Jeremy Faison,986
-Greene,Tennessee House of Representatives,5,Democratic,No Candidate Qualified,0
-Greene,Tennessee House of Representatives,5,Republican,David B. Hawk,5935
-Greene,Tennessee House of Representatives,5,Republican,Ted Hensley,3936
-Greene,Tennessee Senate,1,Democratic,No Candidate Qualified,0
-Greene,Tennessee Senate,1,Republican,Steve Southerland,9058
-Greene,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Greene,United States House of Representatives,1,Republican,Daniel J. Hartley,618
-Greene,United States House of Representatives,1,Republican,John Paul Rader,1076
-Greene,United States House of Representatives,1,Republican,Phil Roe,9079
+Greene,State House,11,Democratic,Marjorie J. Ramsey,178
+Greene,State House,11,Republican,Jeremy Faison,986
+Greene,State House,5,Democratic,No Candidate Qualified,0
+Greene,State House,5,Republican,David B. Hawk,5935
+Greene,State House,5,Republican,Ted Hensley,3936
+Greene,State Senate,1,Democratic,No Candidate Qualified,0
+Greene,State Senate,1,Republican,Steve Southerland,9058
+Greene,U.S. House,1,Democratic,No Candidate Qualified,0
+Greene,U.S. House,1,Republican,Daniel J. Hartley,618
+Greene,U.S. House,1,Republican,John Paul Rader,1076
+Greene,U.S. House,1,Republican,Phil Roe,9079
 Greene,United States Senate,NA,Democratic,Gary Gene Davis,392
 Greene,United States Senate,NA,Democratic,Gordon Ball,378
 Greene,United States Senate,NA,Democratic,Larry Crim,239
@@ -1154,18 +1154,18 @@ Grundy,State Executive Committeeman,16,Republican,Sam T. Harper,386
 Grundy,State Executive Committeewoman,16,Democratic,Betty (Newman) Fraley,1262
 Grundy,State Executive Committeewoman,16,Republican,Frances Arthur,433
 Grundy,State Executive Committeewoman,16,Republican,Iris Rudder,295
-Grundy,Tennessee House of Representatives,43,Democratic,James Thomas Jacobs,289
-Grundy,Tennessee House of Representatives,43,Democratic,Kevin Dunlap,826
-Grundy,Tennessee House of Representatives,43,Democratic,Kristopher Gore,354
-Grundy,Tennessee House of Representatives,43,Republican,Robert F. Dunham,810
-Grundy,United States House of Representatives,4,Democratic,Lenda Sherrell,1330
-Grundy,United States House of Representatives,4,Republican,David R. Tate,16
-Grundy,United States House of Representatives,4,Republican,Jim Tracy,197
-Grundy,United States House of Representatives,4,Republican,John Anderson,103
-Grundy,United States House of Representatives,4,Republican,Michael S. Warden,6
-Grundy,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",5
-Grundy,United States House of Representatives,4,Republican,Scott DesJarlais,736
-Grundy,United States House of Representatives,4,Republican,Steve Lane,23
+Grundy,State House,43,Democratic,James Thomas Jacobs,289
+Grundy,State House,43,Democratic,Kevin Dunlap,826
+Grundy,State House,43,Democratic,Kristopher Gore,354
+Grundy,State House,43,Republican,Robert F. Dunham,810
+Grundy,U.S. House,4,Democratic,Lenda Sherrell,1330
+Grundy,U.S. House,4,Republican,David R. Tate,16
+Grundy,U.S. House,4,Republican,Jim Tracy,197
+Grundy,U.S. House,4,Republican,John Anderson,103
+Grundy,U.S. House,4,Republican,Michael S. Warden,6
+Grundy,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",5
+Grundy,U.S. House,4,Republican,Scott DesJarlais,736
+Grundy,U.S. House,4,Republican,Steve Lane,23
 Grundy,United States Senate,NA,Democratic,Gary Gene Davis,557
 Grundy,United States Senate,NA,Democratic,Gordon Ball,235
 Grundy,United States Senate,NA,Democratic,Larry Crim,108
@@ -1189,14 +1189,14 @@ Hamblen,State Executive Committeeman,1,Democratic,John Litz,604
 Hamblen,State Executive Committeeman,1,Republican,Paul Chapman,3873
 Hamblen,State Executive Committeewoman,1,Democratic,Marjorie J. Ramsey,575
 Hamblen,State Executive Committeewoman,1,Republican,Nancy W. Wilson,3802
-Hamblen,Tennessee House of Representatives,10,Democratic,No Candidate Qualified,0
-Hamblen,Tennessee House of Representatives,10,Republican,Tilman Goins,4569
-Hamblen,Tennessee Senate,1,Democratic,No Candidate Qualified,0
-Hamblen,Tennessee Senate,1,Republican,Steve Southerland,4700
-Hamblen,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Hamblen,United States House of Representatives,1,Republican,Daniel J. Hartley,330
-Hamblen,United States House of Representatives,1,Republican,John Paul Rader,328
-Hamblen,United States House of Representatives,1,Republican,Phil Roe,4454
+Hamblen,State House,10,Democratic,No Candidate Qualified,0
+Hamblen,State House,10,Republican,Tilman Goins,4569
+Hamblen,State Senate,1,Democratic,No Candidate Qualified,0
+Hamblen,State Senate,1,Republican,Steve Southerland,4700
+Hamblen,U.S. House,1,Democratic,No Candidate Qualified,0
+Hamblen,U.S. House,1,Republican,Daniel J. Hartley,330
+Hamblen,U.S. House,1,Republican,John Paul Rader,328
+Hamblen,U.S. House,1,Republican,Phil Roe,4454
 Hamblen,United States Senate,NA,Democratic,Gary Gene Davis,103
 Hamblen,United States Senate,NA,Democratic,Gordon Ball,312
 Hamblen,United States Senate,NA,Democratic,Larry Crim,38
@@ -1229,23 +1229,23 @@ Hamilton,State Executive Committeewoman,10,Republican,Emily G. Beaty,9502
 Hamilton,State Executive Committeewoman,11,Democratic,Rita Fehring,1368
 Hamilton,State Executive Committeewoman,11,Democratic,Sandra Lusk,3257
 Hamilton,State Executive Committeewoman,11,Republican,Tina J. Benkiser,18418
-Hamilton,Tennessee House of Representatives,26,Democratic,No Candidate Qualified,0
-Hamilton,Tennessee House of Representatives,26,Republican,Gerald McCormick,8584
-Hamilton,Tennessee House of Representatives,27,Democratic,Eric McRoy,1340
-Hamilton,Tennessee House of Representatives,27,Republican,Charlie White,350
-Hamilton,Tennessee House of Representatives,27,Republican,Patsy Hazlewood,5573
-Hamilton,Tennessee House of Representatives,27,Republican,Tommy Crangle,4148
-Hamilton,Tennessee House of Representatives,28,Democratic,JoAnne Favors,4938
-Hamilton,Tennessee House of Representatives,28,Republican,No Candidate Qualified,0
-Hamilton,Tennessee House of Representatives,29,Democratic,No Candidate Qualified,0
-Hamilton,Tennessee House of Representatives,29,Republican,Mike Carter,6502
-Hamilton,Tennessee House of Representatives,30,Democratic,No Candidate Qualified,0
-Hamilton,Tennessee House of Representatives,30,Republican,Marc Gravitt,6217
-Hamilton,Tennessee Senate,11,Democratic,No Candidate Qualified,0
-Hamilton,Tennessee Senate,11,Republican,Bo Watson,21336
-Hamilton,United States House of Representatives,3,Democratic,Mary M. Headrick,10446
-Hamilton,United States House of Representatives,3,Republican,Chuck Fleischmann,19657
-Hamilton,United States House of Representatives,3,Republican,Weston Wamp,19574
+Hamilton,State House,26,Democratic,No Candidate Qualified,0
+Hamilton,State House,26,Republican,Gerald McCormick,8584
+Hamilton,State House,27,Democratic,Eric McRoy,1340
+Hamilton,State House,27,Republican,Charlie White,350
+Hamilton,State House,27,Republican,Patsy Hazlewood,5573
+Hamilton,State House,27,Republican,Tommy Crangle,4148
+Hamilton,State House,28,Democratic,JoAnne Favors,4938
+Hamilton,State House,28,Republican,No Candidate Qualified,0
+Hamilton,State House,29,Democratic,No Candidate Qualified,0
+Hamilton,State House,29,Republican,Mike Carter,6502
+Hamilton,State House,30,Democratic,No Candidate Qualified,0
+Hamilton,State House,30,Republican,Marc Gravitt,6217
+Hamilton,State Senate,11,Democratic,No Candidate Qualified,0
+Hamilton,State Senate,11,Republican,Bo Watson,21336
+Hamilton,U.S. House,3,Democratic,Mary M. Headrick,10446
+Hamilton,U.S. House,3,Republican,Chuck Fleischmann,19657
+Hamilton,U.S. House,3,Republican,Weston Wamp,19574
 Hamilton,United States Senate,NA,Democratic,Gary Gene Davis,2641
 Hamilton,United States Senate,NA,Democratic,Gordon Ball,2637
 Hamilton,United States Senate,NA,Democratic,Larry Crim,986
@@ -1272,12 +1272,12 @@ Hancock,State Executive Committeewoman,8,Democratic,Lindsey Cole Cadle,82
 Hancock,State Executive Committeewoman,8,Democratic,Vonda Mallicoat Laughlin,44
 Hancock,State Executive Committeewoman,8,Republican,Betty Fain,241
 Hancock,State Executive Committeewoman,8,Republican,Jennifer Inman Little,430
-Hancock,Tennessee House of Representatives,9,Democratic,No Candidate Qualified,0
-Hancock,Tennessee House of Representatives,9,Republican,Mike Harrison,1001
-Hancock,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Hancock,United States House of Representatives,1,Republican,Daniel J. Hartley,91
-Hancock,United States House of Representatives,1,Republican,John Paul Rader,75
-Hancock,United States House of Representatives,1,Republican,Phil Roe,924
+Hancock,State House,9,Democratic,No Candidate Qualified,0
+Hancock,State House,9,Republican,Mike Harrison,1001
+Hancock,U.S. House,1,Democratic,No Candidate Qualified,0
+Hancock,U.S. House,1,Republican,Daniel J. Hartley,91
+Hancock,U.S. House,1,Republican,John Paul Rader,75
+Hancock,U.S. House,1,Republican,Phil Roe,924
 Hancock,United States Senate,NA,Democratic,Gary Gene Davis,50
 Hancock,United States Senate,NA,Democratic,Gordon Ball,54
 Hancock,United States Senate,NA,Democratic,Larry Crim,12
@@ -1304,15 +1304,15 @@ Hardeman,State Executive Committeewoman,26,Democratic,Meryl Rice,1664
 Hardeman,State Executive Committeewoman,26,Democratic,Varand Sevier-Pride,188
 Hardeman,State Executive Committeewoman,26,Republican,Kathryn Bryson,741
 Hardeman,State Executive Committeewoman,26,Republican,Rosemary D. Hamilton,424
-Hardeman,Tennessee House of Representatives,80,Democratic,Johnny W. Shaw,1908
-Hardeman,Tennessee House of Representatives,80,Republican,No Candidate Qualified,0
-Hardeman,Tennessee House of Representatives,94,Republican,Hal Rounds,39
-Hardeman,Tennessee House of Representatives,94,Republican,Leigh Rosser Wilburn,117
-Hardeman,Tennessee House of Representatives,94,Republican,Stephen L. Hale,101
-Hardeman,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,371
-Hardeman,United States House of Representatives,7,Democratic,Daniel Cramer,1094
-Hardeman,United States House of Representatives,7,Republican,Jacob Brimm,252
-Hardeman,United States House of Representatives,7,Republican,Marsha Blackburn,1611
+Hardeman,State House,80,Democratic,Johnny W. Shaw,1908
+Hardeman,State House,80,Republican,No Candidate Qualified,0
+Hardeman,State House,94,Republican,Hal Rounds,39
+Hardeman,State House,94,Republican,Leigh Rosser Wilburn,117
+Hardeman,State House,94,Republican,Stephen L. Hale,101
+Hardeman,U.S. House,7,Democratic,Credo Comlan Amouzouvik,371
+Hardeman,U.S. House,7,Democratic,Daniel Cramer,1094
+Hardeman,U.S. House,7,Republican,Jacob Brimm,252
+Hardeman,U.S. House,7,Republican,Marsha Blackburn,1611
 Hardeman,United States Senate,NA,Democratic,Gary Gene Davis,365
 Hardeman,United States Senate,NA,Democratic,Gordon Ball,490
 Hardeman,United States Senate,NA,Democratic,Larry Crim,196
@@ -1339,13 +1339,13 @@ Hardin,State Executive Committeewoman,26,Democratic,Meryl Rice,485
 Hardin,State Executive Committeewoman,26,Democratic,Varand Sevier-Pride,355
 Hardin,State Executive Committeewoman,26,Republican,Kathryn Bryson,1604
 Hardin,State Executive Committeewoman,26,Republican,Rosemary D. Hamilton,1320
-Hardin,Tennessee House of Representatives,71,Democratic,No Candidate Qualified,0
-Hardin,Tennessee House of Representatives,71,Republican,"David ""Coach"" Byrd",1598
-Hardin,Tennessee House of Representatives,71,Republican,Vance Dennis,2857
-Hardin,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,94
-Hardin,United States House of Representatives,7,Democratic,Daniel Cramer,663
-Hardin,United States House of Representatives,7,Republican,Jacob Brimm,601
-Hardin,United States House of Representatives,7,Republican,Marsha Blackburn,3670
+Hardin,State House,71,Democratic,No Candidate Qualified,0
+Hardin,State House,71,Republican,"David ""Coach"" Byrd",1598
+Hardin,State House,71,Republican,Vance Dennis,2857
+Hardin,U.S. House,7,Democratic,Credo Comlan Amouzouvik,94
+Hardin,U.S. House,7,Democratic,Daniel Cramer,663
+Hardin,U.S. House,7,Republican,Jacob Brimm,601
+Hardin,U.S. House,7,Republican,Marsha Blackburn,3670
 Hardin,United States Senate,NA,Democratic,Gary Gene Davis,137
 Hardin,United States Senate,NA,Democratic,Gordon Ball,240
 Hardin,United States Senate,NA,Democratic,Larry Crim,70
@@ -1372,12 +1372,12 @@ Hawkins,State Executive Committeewoman,8,Democratic,Lindsey Cole Cadle,430
 Hawkins,State Executive Committeewoman,8,Democratic,Vonda Mallicoat Laughlin,363
 Hawkins,State Executive Committeewoman,8,Republican,Betty Fain,2209
 Hawkins,State Executive Committeewoman,8,Republican,Jennifer Inman Little,2368
-Hawkins,Tennessee House of Representatives,9,Democratic,No Candidate Qualified,0
-Hawkins,Tennessee House of Representatives,9,Republican,Mike Harrison,5716
-Hawkins,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Hawkins,United States House of Representatives,1,Republican,Daniel J. Hartley,547
-Hawkins,United States House of Representatives,1,Republican,John Paul Rader,301
-Hawkins,United States House of Representatives,1,Republican,Phil Roe,5451
+Hawkins,State House,9,Democratic,No Candidate Qualified,0
+Hawkins,State House,9,Republican,Mike Harrison,5716
+Hawkins,U.S. House,1,Democratic,No Candidate Qualified,0
+Hawkins,U.S. House,1,Republican,Daniel J. Hartley,547
+Hawkins,U.S. House,1,Republican,John Paul Rader,301
+Hawkins,U.S. House,1,Republican,Phil Roe,5451
 Hawkins,United States Senate,NA,Democratic,Gary Gene Davis,212
 Hawkins,United States Senate,NA,Democratic,Gordon Ball,224
 Hawkins,United States Senate,NA,Democratic,Larry Crim,93
@@ -1404,15 +1404,15 @@ Haywood,State Executive Committeewoman,26,Democratic,Meryl Rice,1363
 Haywood,State Executive Committeewoman,26,Democratic,Varand Sevier-Pride,224
 Haywood,State Executive Committeewoman,26,Republican,Kathryn Bryson,625
 Haywood,State Executive Committeewoman,26,Republican,Rosemary D. Hamilton,344
-Haywood,Tennessee House of Representatives,82,Democratic,Craig Fitzhugh,1577
-Haywood,Tennessee House of Representatives,82,Republican,No Candidate Qualified,0
-Haywood,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,152
-Haywood,United States House of Representatives,8,Democratic,Rickey Hobson,588
-Haywood,United States House of Representatives,8,Democratic,Tom Reasons,236
-Haywood,United States House of Representatives,8,Democratic,Wes Bradley,450
-Haywood,United States House of Representatives,8,Republican,Dana Matheny,68
-Haywood,United States House of Representatives,8,Republican,John Mills,54
-Haywood,United States House of Representatives,8,Republican,Stephen Lee Fincher,1457
+Haywood,State House,82,Democratic,Craig Fitzhugh,1577
+Haywood,State House,82,Republican,No Candidate Qualified,0
+Haywood,U.S. House,8,Democratic,Lawrence A. Pivnick,152
+Haywood,U.S. House,8,Democratic,Rickey Hobson,588
+Haywood,U.S. House,8,Democratic,Tom Reasons,236
+Haywood,U.S. House,8,Democratic,Wes Bradley,450
+Haywood,U.S. House,8,Republican,Dana Matheny,68
+Haywood,U.S. House,8,Republican,John Mills,54
+Haywood,U.S. House,8,Republican,Stephen Lee Fincher,1457
 Haywood,United States Senate,NA,Democratic,Gary Gene Davis,331
 Haywood,United States Senate,NA,Democratic,Gordon Ball,517
 Haywood,United States Senate,NA,Democratic,Larry Crim,181
@@ -1439,12 +1439,12 @@ Henderson,State Executive Committeewoman,26,Democratic,Meryl Rice,220
 Henderson,State Executive Committeewoman,26,Democratic,Varand Sevier-Pride,61
 Henderson,State Executive Committeewoman,26,Republican,Kathryn Bryson,844
 Henderson,State Executive Committeewoman,26,Republican,Rosemary D. Hamilton,746
-Henderson,Tennessee House of Representatives,72,Democratic,No Candidate Qualified,0
-Henderson,Tennessee House of Representatives,72,Republican,Steve K. McDaniel,2126
-Henderson,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,46
-Henderson,United States House of Representatives,7,Democratic,Daniel Cramer,246
-Henderson,United States House of Representatives,7,Republican,Jacob Brimm,398
-Henderson,United States House of Representatives,7,Republican,Marsha Blackburn,2055
+Henderson,State House,72,Democratic,No Candidate Qualified,0
+Henderson,State House,72,Republican,Steve K. McDaniel,2126
+Henderson,U.S. House,7,Democratic,Credo Comlan Amouzouvik,46
+Henderson,U.S. House,7,Democratic,Daniel Cramer,246
+Henderson,U.S. House,7,Republican,Jacob Brimm,398
+Henderson,U.S. House,7,Republican,Marsha Blackburn,2055
 Henderson,United States Senate,NA,Democratic,Gary Gene Davis,64
 Henderson,United States Senate,NA,Democratic,Gordon Ball,123
 Henderson,United States Senate,NA,Democratic,Larry Crim,22
@@ -1471,16 +1471,16 @@ Henry,State Executive Committeeman,24,Republican,Joey Mehlhorn,540
 Henry,State Executive Committeewoman,24,Democratic,Angela Callis,1347
 Henry,State Executive Committeewoman,24,Republican,Christi Cross,1457
 Henry,State Executive Committeewoman,24,Republican,Marilucile Counce,713
-Henry,Tennessee House of Representatives,75,Democratic,Charles W. Cooper,517
-Henry,Tennessee House of Representatives,75,Democratic,Randy Patton,1081
-Henry,Tennessee House of Representatives,75,Republican,Tim Wirgau,2683
-Henry,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,71
-Henry,United States House of Representatives,8,Democratic,Rickey Hobson,168
-Henry,United States House of Representatives,8,Democratic,Tom Reasons,201
-Henry,United States House of Representatives,8,Democratic,Wes Bradley,1153
-Henry,United States House of Representatives,8,Republican,Dana Matheny,420
-Henry,United States House of Representatives,8,Republican,John Mills,218
-Henry,United States House of Representatives,8,Republican,Stephen Lee Fincher,2048
+Henry,State House,75,Democratic,Charles W. Cooper,517
+Henry,State House,75,Democratic,Randy Patton,1081
+Henry,State House,75,Republican,Tim Wirgau,2683
+Henry,U.S. House,8,Democratic,Lawrence A. Pivnick,71
+Henry,U.S. House,8,Democratic,Rickey Hobson,168
+Henry,U.S. House,8,Democratic,Tom Reasons,201
+Henry,U.S. House,8,Democratic,Wes Bradley,1153
+Henry,U.S. House,8,Republican,Dana Matheny,420
+Henry,U.S. House,8,Republican,John Mills,218
+Henry,U.S. House,8,Republican,Stephen Lee Fincher,2048
 Henry,United States Senate,NA,Democratic,Gary Gene Davis,190
 Henry,United States Senate,NA,Democratic,Gordon Ball,473
 Henry,United States Senate,NA,Democratic,Larry Crim,248
@@ -1507,17 +1507,17 @@ Hickman,State Executive Committeeman,25,Republican,Michael S. Petty,892
 Hickman,State Executive Committeewoman,25,Democratic,Martha Shepard,1438
 Hickman,State Executive Committeewoman,25,Republican,Jodie Hardin,898
 Hickman,State Executive Committeewoman,25,Republican,Mary Ann Parks,1075
-Hickman,Tennessee House of Representatives,69,Democratic,David A. Shepard,1536
-Hickman,Tennessee House of Representatives,69,Republican,Michael Curcio,1981
-Hickman,Tennessee Senate,25,Democratic,Tony Gross,1315
-Hickman,Tennessee Senate,25,Republican,Jim Summerville,559
-Hickman,Tennessee Senate,25,Republican,Joshua G. Evans,894
-Hickman,Tennessee Senate,25,Republican,Kerry Roberts,883
-Hickman,Tennessee Senate,25,Republican,Wayne White,168
-Hickman,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,160
-Hickman,United States House of Representatives,7,Democratic,Daniel Cramer,1202
-Hickman,United States House of Representatives,7,Republican,Jacob Brimm,497
-Hickman,United States House of Representatives,7,Republican,Marsha Blackburn,2153
+Hickman,State House,69,Democratic,David A. Shepard,1536
+Hickman,State House,69,Republican,Michael Curcio,1981
+Hickman,State Senate,25,Democratic,Tony Gross,1315
+Hickman,State Senate,25,Republican,Jim Summerville,559
+Hickman,State Senate,25,Republican,Joshua G. Evans,894
+Hickman,State Senate,25,Republican,Kerry Roberts,883
+Hickman,State Senate,25,Republican,Wayne White,168
+Hickman,U.S. House,7,Democratic,Credo Comlan Amouzouvik,160
+Hickman,U.S. House,7,Democratic,Daniel Cramer,1202
+Hickman,U.S. House,7,Republican,Jacob Brimm,497
+Hickman,U.S. House,7,Republican,Marsha Blackburn,2153
 Hickman,United States Senate,NA,Democratic,Gary Gene Davis,364
 Hickman,United States Senate,NA,Democratic,Gordon Ball,457
 Hickman,United States Senate,NA,Democratic,Larry Crim,91
@@ -1541,13 +1541,13 @@ Houston,State Executive Committeeman,22,Democratic,Keith Jackson,967
 Houston,State Executive Committeeman,22,Republican,R. Wayne Oldham,889
 Houston,State Executive Committeewoman,22,Democratic,Linda Adams Barnes,997
 Houston,State Executive Committeewoman,22,Republican,"Patricia ""Pat"" Allen",874
-Houston,Tennessee House of Representatives,74,Democratic,John C. Tidwell,1157
-Houston,Tennessee House of Representatives,74,Republican,Jay D. Reedy,935
-Houston,Tennessee House of Representatives,74,Republican,Keith Svadba,149
-Houston,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,106
-Houston,United States House of Representatives,7,Democratic,Daniel Cramer,881
-Houston,United States House of Representatives,7,Republican,Jacob Brimm,205
-Houston,United States House of Representatives,7,Republican,Marsha Blackburn,885
+Houston,State House,74,Democratic,John C. Tidwell,1157
+Houston,State House,74,Republican,Jay D. Reedy,935
+Houston,State House,74,Republican,Keith Svadba,149
+Houston,U.S. House,7,Democratic,Credo Comlan Amouzouvik,106
+Houston,U.S. House,7,Democratic,Daniel Cramer,881
+Houston,U.S. House,7,Republican,Jacob Brimm,205
+Houston,U.S. House,7,Republican,Marsha Blackburn,885
 Houston,United States Senate,NA,Democratic,Gary Gene Davis,201
 Houston,United States Senate,NA,Democratic,Gordon Ball,367
 Houston,United States Senate,NA,Democratic,Larry Crim,89
@@ -1574,18 +1574,18 @@ Humphreys,State Executive Committeeman,25,Republican,Michael S. Petty,748
 Humphreys,State Executive Committeewoman,25,Democratic,Martha Shepard,1644
 Humphreys,State Executive Committeewoman,25,Republican,Jodie Hardin,745
 Humphreys,State Executive Committeewoman,25,Republican,Mary Ann Parks,813
-Humphreys,Tennessee House of Representatives,74,Democratic,John C. Tidwell,2021
-Humphreys,Tennessee House of Representatives,74,Republican,Jay D. Reedy,1277
-Humphreys,Tennessee House of Representatives,74,Republican,Keith Svadba,484
-Humphreys,Tennessee Senate,25,Democratic,Tony Gross,1611
-Humphreys,Tennessee Senate,25,Republican,Jim Summerville,462
-Humphreys,Tennessee Senate,25,Republican,Joshua G. Evans,672
-Humphreys,Tennessee Senate,25,Republican,Kerry Roberts,701
-Humphreys,Tennessee Senate,25,Republican,Wayne White,106
-Humphreys,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,150
-Humphreys,United States House of Representatives,7,Democratic,Daniel Cramer,1503
-Humphreys,United States House of Representatives,7,Republican,Jacob Brimm,389
-Humphreys,United States House of Representatives,7,Republican,Marsha Blackburn,1647
+Humphreys,State House,74,Democratic,John C. Tidwell,2021
+Humphreys,State House,74,Republican,Jay D. Reedy,1277
+Humphreys,State House,74,Republican,Keith Svadba,484
+Humphreys,State Senate,25,Democratic,Tony Gross,1611
+Humphreys,State Senate,25,Republican,Jim Summerville,462
+Humphreys,State Senate,25,Republican,Joshua G. Evans,672
+Humphreys,State Senate,25,Republican,Kerry Roberts,701
+Humphreys,State Senate,25,Republican,Wayne White,106
+Humphreys,U.S. House,7,Democratic,Credo Comlan Amouzouvik,150
+Humphreys,U.S. House,7,Democratic,Daniel Cramer,1503
+Humphreys,U.S. House,7,Republican,Jacob Brimm,389
+Humphreys,U.S. House,7,Republican,Marsha Blackburn,1647
 Humphreys,United States Senate,NA,Democratic,Gary Gene Davis,375
 Humphreys,United States Senate,NA,Democratic,Gordon Ball,561
 Humphreys,United States Senate,NA,Democratic,Larry Crim,159
@@ -1616,15 +1616,15 @@ Jackson,State Executive Committeewoman,15,Democratic,Geeta W. McMillan,843
 Jackson,State Executive Committeewoman,15,Republican,Cindy Beckwith,283
 Jackson,State Executive Committeewoman,15,Republican,Hannah Horseman,385
 Jackson,State Executive Committeewoman,15,Republican,Patty M. Dycus,387
-Jackson,Tennessee House of Representatives,41,Democratic,John Mark Windle,1104
-Jackson,Tennessee House of Representatives,41,Republican,No Candidate Qualified,0
-Jackson,Tennessee Senate,15,Democratic,Betty Vaudt,791
-Jackson,Tennessee Senate,15,Republican,Gary Steakley,94
-Jackson,Tennessee Senate,15,Republican,Matt Swallows,565
-Jackson,Tennessee Senate,15,Republican,Paul Bailey,642
-Jackson,United States House of Representatives,6,Democratic,Amos Scott Powers,840
-Jackson,United States House of Representatives,6,Republican,Diane Black,1016
-Jackson,United States House of Representatives,6,Republican,Jerry Lowery,322
+Jackson,State House,41,Democratic,John Mark Windle,1104
+Jackson,State House,41,Republican,No Candidate Qualified,0
+Jackson,State Senate,15,Democratic,Betty Vaudt,791
+Jackson,State Senate,15,Republican,Gary Steakley,94
+Jackson,State Senate,15,Republican,Matt Swallows,565
+Jackson,State Senate,15,Republican,Paul Bailey,642
+Jackson,U.S. House,6,Democratic,Amos Scott Powers,840
+Jackson,U.S. House,6,Republican,Diane Black,1016
+Jackson,U.S. House,6,Republican,Jerry Lowery,322
 Jackson,United States Senate,NA,Democratic,Gary Gene Davis,249
 Jackson,United States Senate,NA,Democratic,Gordon Ball,327
 Jackson,United States Senate,NA,Democratic,Larry Crim,93
@@ -1651,17 +1651,17 @@ Jefferson,State Executive Committeewoman,8,Democratic,Lindsey Cole Cadle,246
 Jefferson,State Executive Committeewoman,8,Democratic,Vonda Mallicoat Laughlin,263
 Jefferson,State Executive Committeewoman,8,Republican,Betty Fain,2751
 Jefferson,State Executive Committeewoman,8,Republican,Jennifer Inman Little,1731
-Jefferson,Tennessee House of Representatives,11,Democratic,Marjorie J. Ramsey,177
-Jefferson,Tennessee House of Representatives,11,Republican,Jeremy Faison,1403
-Jefferson,Tennessee House of Representatives,17,Democratic,No Candidate Qualified,0
-Jefferson,Tennessee House of Representatives,17,Republican,Andrew E. Farmer,3238
-Jefferson,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Jefferson,United States House of Representatives,1,Republican,Daniel J. Hartley,85
-Jefferson,United States House of Representatives,1,Republican,John Paul Rader,51
-Jefferson,United States House of Representatives,1,Republican,Phil Roe,827
-Jefferson,United States House of Representatives,2,Democratic,Bob Scott,422
-Jefferson,United States House of Representatives,2,Republican,Jason Zachary,1509
-Jefferson,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",3087
+Jefferson,State House,11,Democratic,Marjorie J. Ramsey,177
+Jefferson,State House,11,Republican,Jeremy Faison,1403
+Jefferson,State House,17,Democratic,No Candidate Qualified,0
+Jefferson,State House,17,Republican,Andrew E. Farmer,3238
+Jefferson,U.S. House,1,Democratic,No Candidate Qualified,0
+Jefferson,U.S. House,1,Republican,Daniel J. Hartley,85
+Jefferson,U.S. House,1,Republican,John Paul Rader,51
+Jefferson,U.S. House,1,Republican,Phil Roe,827
+Jefferson,U.S. House,2,Democratic,Bob Scott,422
+Jefferson,U.S. House,2,Republican,Jason Zachary,1509
+Jefferson,U.S. House,2,Republican,"John J. Duncan, Jr.",3087
 Jefferson,United States Senate,NA,Democratic,Gary Gene Davis,78
 Jefferson,United States Senate,NA,Democratic,Gordon Ball,266
 Jefferson,United States Senate,NA,Democratic,Larry Crim,37
@@ -1688,13 +1688,13 @@ Johnson,State Executive Committeeman,4,Republican,Mack Patton,1415
 Johnson,State Executive Committeewoman,4,Democratic,Lori Love,470
 Johnson,State Executive Committeewoman,4,Republican,Gail D. Patton,920
 Johnson,State Executive Committeewoman,4,Republican,Linda D. Buckles,1926
-Johnson,Tennessee House of Representatives,3,Democratic,No Candidate Qualified,0
-Johnson,Tennessee House of Representatives,3,Republican,Kevin Dwayne Parsons,1069
-Johnson,Tennessee House of Representatives,3,Republican,Timothy Hill,3100
-Johnson,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Johnson,United States House of Representatives,1,Republican,Daniel J. Hartley,358
-Johnson,United States House of Representatives,1,Republican,John Paul Rader,193
-Johnson,United States House of Representatives,1,Republican,Phil Roe,3408
+Johnson,State House,3,Democratic,No Candidate Qualified,0
+Johnson,State House,3,Republican,Kevin Dwayne Parsons,1069
+Johnson,State House,3,Republican,Timothy Hill,3100
+Johnson,U.S. House,1,Democratic,No Candidate Qualified,0
+Johnson,U.S. House,1,Republican,Daniel J. Hartley,358
+Johnson,U.S. House,1,Republican,John Paul Rader,193
+Johnson,U.S. House,1,Republican,Phil Roe,3408
 Johnson,United States Senate,NA,Democratic,Gary Gene Davis,145
 Johnson,United States Senate,NA,Democratic,Gordon Ball,105
 Johnson,United States Senate,NA,Democratic,Larry Crim,65
@@ -1730,31 +1730,31 @@ Knox,State Executive Committeewoman,6,Democratic,Sylvia Woods,4308
 Knox,State Executive Committeewoman,6,Republican,Jane Gamble Chedester,15690
 Knox,State Executive Committeewoman,7,Democratic,Kim Webber,3464
 Knox,State Executive Committeewoman,7,Republican,Karen J Brown,15718
-Knox,Tennessee House of Representatives,13,Democratic,Gloria Johnson,1798
-Knox,Tennessee House of Representatives,13,Republican,Eddie Smith,2334
-Knox,Tennessee House of Representatives,13,Republican,Jason Emert,2306
-Knox,Tennessee House of Representatives,14,Democratic,No Candidate Qualified,0
-Knox,Tennessee House of Representatives,14,Republican,Ryan A Haynes,9414
-Knox,Tennessee House of Representatives,15,Democratic,"Joseph ""Joe"" Armstrong",1987
-Knox,Tennessee House of Representatives,15,Republican,No Candidate Qualified,0
-Knox,Tennessee House of Representatives,16,Democratic,No Candidate Qualified,0
-Knox,Tennessee House of Representatives,16,Republican,Bill Dunn,6425
-Knox,Tennessee House of Representatives,18,Democratic,No Candidate Qualified,0
-Knox,Tennessee House of Representatives,18,Republican,Martin Daniel,3921
-Knox,Tennessee House of Representatives,18,Republican,Steve Hall,3756
-Knox,Tennessee House of Representatives,19,Democratic,No Candidate Qualified,0
-Knox,Tennessee House of Representatives,19,Republican,Harry Brooks,5431
-Knox,Tennessee House of Representatives,89,Democratic,No Candidate Qualified,0
-Knox,Tennessee House of Representatives,89,Republican,Roger Kane,6201
-Knox,Tennessee Senate,5,Democratic,No Candidate Qualified,0
-Knox,Tennessee Senate,5,Republican,Randy McNally,4749
-Knox,Tennessee Senate,7,Democratic,Cheri K. Siler,3620
-Knox,Tennessee Senate,7,Republican,Mike Alford,1204
-Knox,Tennessee Senate,7,Republican,Richard Briggs,14056
-Knox,Tennessee Senate,7,Republican,Stacey Campfield,5864
-Knox,United States House of Representatives,2,Democratic,Bob Scott,8520
-Knox,United States House of Representatives,2,Republican,Jason Zachary,19314
-Knox,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",28662
+Knox,State House,13,Democratic,Gloria Johnson,1798
+Knox,State House,13,Republican,Eddie Smith,2334
+Knox,State House,13,Republican,Jason Emert,2306
+Knox,State House,14,Democratic,No Candidate Qualified,0
+Knox,State House,14,Republican,Ryan A Haynes,9414
+Knox,State House,15,Democratic,"Joseph ""Joe"" Armstrong",1987
+Knox,State House,15,Republican,No Candidate Qualified,0
+Knox,State House,16,Democratic,No Candidate Qualified,0
+Knox,State House,16,Republican,Bill Dunn,6425
+Knox,State House,18,Democratic,No Candidate Qualified,0
+Knox,State House,18,Republican,Martin Daniel,3921
+Knox,State House,18,Republican,Steve Hall,3756
+Knox,State House,19,Democratic,No Candidate Qualified,0
+Knox,State House,19,Republican,Harry Brooks,5431
+Knox,State House,89,Democratic,No Candidate Qualified,0
+Knox,State House,89,Republican,Roger Kane,6201
+Knox,State Senate,5,Democratic,No Candidate Qualified,0
+Knox,State Senate,5,Republican,Randy McNally,4749
+Knox,State Senate,7,Democratic,Cheri K. Siler,3620
+Knox,State Senate,7,Republican,Mike Alford,1204
+Knox,State Senate,7,Republican,Richard Briggs,14056
+Knox,State Senate,7,Republican,Stacey Campfield,5864
+Knox,U.S. House,2,Democratic,Bob Scott,8520
+Knox,U.S. House,2,Republican,Jason Zachary,19314
+Knox,U.S. House,2,Republican,"John J. Duncan, Jr.",28662
 Knox,United States Senate,NA,Democratic,Gary Gene Davis,1233
 Knox,United States Senate,NA,Democratic,Gordon Ball,3514
 Knox,United States Senate,NA,Democratic,Larry Crim,475
@@ -1782,18 +1782,18 @@ Lake,State Executive Committeewoman,27,Democratic,Gladys Crain,188
 Lake,State Executive Committeewoman,27,Democratic,Patsy R. Johnson,252
 Lake,State Executive Committeewoman,27,Republican,Jewell G. Horner,215
 Lake,State Executive Committeewoman,27,Republican,Shannon Slayton Haynes,209
-Lake,Tennessee House of Representatives,77,Democratic,No Candidate Qualified,0
-Lake,Tennessee House of Representatives,77,Republican,Bill Sanderson,532
-Lake,Tennessee Senate,27,Democratic,Randy Lamb,517
-Lake,Tennessee Senate,27,Republican,Brandon Dodds,275
-Lake,Tennessee Senate,27,Republican,Ed Jackson,195
-Lake,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,59
-Lake,United States House of Representatives,8,Democratic,Rickey Hobson,84
-Lake,United States House of Representatives,8,Democratic,Tom Reasons,144
-Lake,United States House of Representatives,8,Democratic,Wes Bradley,165
-Lake,United States House of Representatives,8,Republican,Dana Matheny,65
-Lake,United States House of Representatives,8,Republican,John Mills,56
-Lake,United States House of Representatives,8,Republican,Stephen Lee Fincher,435
+Lake,State House,77,Democratic,No Candidate Qualified,0
+Lake,State House,77,Republican,Bill Sanderson,532
+Lake,State Senate,27,Democratic,Randy Lamb,517
+Lake,State Senate,27,Republican,Brandon Dodds,275
+Lake,State Senate,27,Republican,Ed Jackson,195
+Lake,U.S. House,8,Democratic,Lawrence A. Pivnick,59
+Lake,U.S. House,8,Democratic,Rickey Hobson,84
+Lake,U.S. House,8,Democratic,Tom Reasons,144
+Lake,U.S. House,8,Democratic,Wes Bradley,165
+Lake,U.S. House,8,Republican,Dana Matheny,65
+Lake,U.S. House,8,Republican,John Mills,56
+Lake,U.S. House,8,Republican,Stephen Lee Fincher,435
 Lake,United States Senate,NA,Democratic,Gary Gene Davis,113
 Lake,United States Senate,NA,Democratic,Gordon Ball,89
 Lake,United States Senate,NA,Democratic,Larry Crim,59
@@ -1821,18 +1821,18 @@ Lauderdale,State Executive Committeewoman,27,Democratic,Gladys Crain,1359
 Lauderdale,State Executive Committeewoman,27,Democratic,Patsy R. Johnson,456
 Lauderdale,State Executive Committeewoman,27,Republican,Jewell G. Horner,519
 Lauderdale,State Executive Committeewoman,27,Republican,Shannon Slayton Haynes,800
-Lauderdale,Tennessee House of Representatives,82,Democratic,Craig Fitzhugh,1867
-Lauderdale,Tennessee House of Representatives,82,Republican,No Candidate Qualified,0
-Lauderdale,Tennessee Senate,27,Democratic,Randy Lamb,1272
-Lauderdale,Tennessee Senate,27,Republican,Brandon Dodds,805
-Lauderdale,Tennessee Senate,27,Republican,Ed Jackson,911
-Lauderdale,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,131
-Lauderdale,United States House of Representatives,8,Democratic,Rickey Hobson,374
-Lauderdale,United States House of Representatives,8,Democratic,Tom Reasons,363
-Lauderdale,United States House of Representatives,8,Democratic,Wes Bradley,523
-Lauderdale,United States House of Representatives,8,Republican,Dana Matheny,117
-Lauderdale,United States House of Representatives,8,Republican,John Mills,94
-Lauderdale,United States House of Representatives,8,Republican,Stephen Lee Fincher,2012
+Lauderdale,State House,82,Democratic,Craig Fitzhugh,1867
+Lauderdale,State House,82,Republican,No Candidate Qualified,0
+Lauderdale,State Senate,27,Democratic,Randy Lamb,1272
+Lauderdale,State Senate,27,Republican,Brandon Dodds,805
+Lauderdale,State Senate,27,Republican,Ed Jackson,911
+Lauderdale,U.S. House,8,Democratic,Lawrence A. Pivnick,131
+Lauderdale,U.S. House,8,Democratic,Rickey Hobson,374
+Lauderdale,U.S. House,8,Democratic,Tom Reasons,363
+Lauderdale,U.S. House,8,Democratic,Wes Bradley,523
+Lauderdale,U.S. House,8,Republican,Dana Matheny,117
+Lauderdale,U.S. House,8,Republican,John Mills,94
+Lauderdale,U.S. House,8,Republican,Stephen Lee Fincher,2012
 Lauderdale,United States Senate,NA,Democratic,Gary Gene Davis,326
 Lauderdale,United States Senate,NA,Democratic,Gordon Ball,515
 Lauderdale,United States Senate,NA,Democratic,Larry Crim,109
@@ -1858,15 +1858,15 @@ Lawrence,State Executive Committeewoman,28,Democratic,Cheri Thomas,647
 Lawrence,State Executive Committeewoman,28,Democratic,Nancy Dunavant,1265
 Lawrence,State Executive Committeewoman,28,Republican,Angie McClanahan,2251
 Lawrence,State Executive Committeewoman,28,Republican,Joanne M. Pogue,1350
-Lawrence,Tennessee House of Representatives,70,Democratic,No Candidate Qualified,0
-Lawrence,Tennessee House of Representatives,70,Republican,Barry Doss,4217
-Lawrence,Tennessee House of Representatives,71,Democratic,No Candidate Qualified,0
-Lawrence,Tennessee House of Representatives,71,Republican,"David ""Coach"" Byrd",461
-Lawrence,Tennessee House of Representatives,71,Republican,Vance Dennis,357
-Lawrence,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,231
-Lawrence,United States House of Representatives,7,Democratic,Daniel Cramer,1637
-Lawrence,United States House of Representatives,7,Republican,Jacob Brimm,735
-Lawrence,United States House of Representatives,7,Republican,Marsha Blackburn,4491
+Lawrence,State House,70,Democratic,No Candidate Qualified,0
+Lawrence,State House,70,Republican,Barry Doss,4217
+Lawrence,State House,71,Democratic,No Candidate Qualified,0
+Lawrence,State House,71,Republican,"David ""Coach"" Byrd",461
+Lawrence,State House,71,Republican,Vance Dennis,357
+Lawrence,U.S. House,7,Democratic,Credo Comlan Amouzouvik,231
+Lawrence,U.S. House,7,Democratic,Daniel Cramer,1637
+Lawrence,U.S. House,7,Republican,Jacob Brimm,735
+Lawrence,U.S. House,7,Republican,Marsha Blackburn,4491
 Lawrence,United States Senate,NA,Democratic,Gary Gene Davis,467
 Lawrence,United States Senate,NA,Democratic,Gordon Ball,761
 Lawrence,United States Senate,NA,Democratic,Larry Crim,136
@@ -1892,13 +1892,13 @@ Lewis,State Executive Committeewoman,28,Democratic,Cheri Thomas,233
 Lewis,State Executive Committeewoman,28,Democratic,Nancy Dunavant,345
 Lewis,State Executive Committeewoman,28,Republican,Angie McClanahan,882
 Lewis,State Executive Committeewoman,28,Republican,Joanne M. Pogue,564
-Lewis,Tennessee House of Representatives,71,Democratic,No Candidate Qualified,0
-Lewis,Tennessee House of Representatives,71,Republican,"David ""Coach"" Byrd",1166
-Lewis,Tennessee House of Representatives,71,Republican,Vance Dennis,868
-Lewis,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,86
-Lewis,United States House of Representatives,7,Democratic,Daniel Cramer,524
-Lewis,United States House of Representatives,7,Republican,Jacob Brimm,336
-Lewis,United States House of Representatives,7,Republican,Marsha Blackburn,1625
+Lewis,State House,71,Democratic,No Candidate Qualified,0
+Lewis,State House,71,Republican,"David ""Coach"" Byrd",1166
+Lewis,State House,71,Republican,Vance Dennis,868
+Lewis,U.S. House,7,Democratic,Credo Comlan Amouzouvik,86
+Lewis,U.S. House,7,Democratic,Daniel Cramer,524
+Lewis,U.S. House,7,Republican,Jacob Brimm,336
+Lewis,U.S. House,7,Republican,Marsha Blackburn,1625
 Lewis,United States Senate,NA,Democratic,Gary Gene Davis,157
 Lewis,United States Senate,NA,Democratic,Gordon Ball,218
 Lewis,United States Senate,NA,Democratic,Larry Crim,33
@@ -1925,18 +1925,18 @@ Lincoln,State Executive Committeewoman,14,Democratic,Brenda Ables,1047
 Lincoln,State Executive Committeewoman,14,Democratic,Joan G. Hill,305
 Lincoln,State Executive Committeewoman,14,Republican,Joanne Skidmore,1068
 Lincoln,State Executive Committeewoman,14,Republican,Lynne Davis,2258
-Lincoln,Tennessee House of Representatives,62,Democratic,No Candidate Qualified,0
-Lincoln,Tennessee House of Representatives,62,Republican,Pat Marsh,2416
-Lincoln,Tennessee House of Representatives,92,Democratic,Vicki Cain,458
-Lincoln,Tennessee House of Representatives,92,Republican,Billy Spivey,2011
-Lincoln,United States House of Representatives,4,Democratic,Lenda Sherrell,1048
-Lincoln,United States House of Representatives,4,Republican,David R. Tate,89
-Lincoln,United States House of Representatives,4,Republican,Jim Tracy,1661
-Lincoln,United States House of Representatives,4,Republican,John Anderson,266
-Lincoln,United States House of Representatives,4,Republican,Michael S. Warden,89
-Lincoln,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",10
-Lincoln,United States House of Representatives,4,Republican,Scott DesJarlais,2787
-Lincoln,United States House of Representatives,4,Republican,Steve Lane,107
+Lincoln,State House,62,Democratic,No Candidate Qualified,0
+Lincoln,State House,62,Republican,Pat Marsh,2416
+Lincoln,State House,92,Democratic,Vicki Cain,458
+Lincoln,State House,92,Republican,Billy Spivey,2011
+Lincoln,U.S. House,4,Democratic,Lenda Sherrell,1048
+Lincoln,U.S. House,4,Republican,David R. Tate,89
+Lincoln,U.S. House,4,Republican,Jim Tracy,1661
+Lincoln,U.S. House,4,Republican,John Anderson,266
+Lincoln,U.S. House,4,Republican,Michael S. Warden,89
+Lincoln,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",10
+Lincoln,U.S. House,4,Republican,Scott DesJarlais,2787
+Lincoln,U.S. House,4,Republican,Steve Lane,107
 Lincoln,United States Senate,NA,Democratic,Gary Gene Davis,343
 Lincoln,United States Senate,NA,Democratic,Gordon Ball,242
 Lincoln,United States Senate,NA,Democratic,Larry Crim,186
@@ -1962,15 +1962,15 @@ Loudon,State Executive Committeeman,5,Republican,Scott David Smith,2963
 Loudon,State Executive Committeewoman,5,Democratic,Dixie L. Damm,357
 Loudon,State Executive Committeewoman,5,Democratic,Mary Beth Hickman,309
 Loudon,State Executive Committeewoman,5,Republican,Julia C Hurley,5670
-Loudon,Tennessee House of Representatives,21,Democratic,Pamela O. Weston,436
-Loudon,Tennessee House of Representatives,21,Republican,Jimmy Matlock,5189
-Loudon,Tennessee House of Representatives,32,Democratic,Joe Kneiser,159
-Loudon,Tennessee House of Representatives,32,Republican,Kent Calfee,1604
-Loudon,Tennessee Senate,5,Democratic,No Candidate Qualified,0
-Loudon,Tennessee Senate,5,Republican,Randy McNally,6395
-Loudon,United States House of Representatives,2,Democratic,Bob Scott,650
-Loudon,United States House of Representatives,2,Republican,Jason Zachary,4181
-Loudon,United States House of Representatives,2,Republican,"John J. Duncan, Jr.",3818
+Loudon,State House,21,Democratic,Pamela O. Weston,436
+Loudon,State House,21,Republican,Jimmy Matlock,5189
+Loudon,State House,32,Democratic,Joe Kneiser,159
+Loudon,State House,32,Republican,Kent Calfee,1604
+Loudon,State Senate,5,Democratic,No Candidate Qualified,0
+Loudon,State Senate,5,Republican,Randy McNally,6395
+Loudon,U.S. House,2,Democratic,Bob Scott,650
+Loudon,U.S. House,2,Republican,Jason Zachary,4181
+Loudon,U.S. House,2,Republican,"John J. Duncan, Jr.",3818
 Loudon,United States Senate,NA,Democratic,Gary Gene Davis,115
 Loudon,United States Senate,NA,Democratic,Gordon Ball,239
 Loudon,United States Senate,NA,Democratic,Larry Crim,38
@@ -1998,14 +1998,14 @@ Macon,State Executive Committeewoman,17,Democratic,Rachel Givens,421
 Macon,State Executive Committeewoman,17,Republican,Jennifer Franklin Winfree,800
 Macon,State Executive Committeewoman,17,Republican,Pat Fields,927
 Macon,State Executive Committeewoman,17,Republican,Yvonne G. Hunter,335
-Macon,Tennessee House of Representatives,38,Democratic,No Candidate Qualified,0
-Macon,Tennessee House of Representatives,38,Republican,Kelly T. Keisling,2470
-Macon,Tennessee Senate,17,Democratic,No Candidate Qualified,0
-Macon,Tennessee Senate,17,Republican,Clark Boyd,1459
-Macon,Tennessee Senate,17,Republican,Mae Beavers,1830
-Macon,United States House of Representatives,6,Democratic,Amos Scott Powers,422
-Macon,United States House of Representatives,6,Republican,Diane Black,2459
-Macon,United States House of Representatives,6,Republican,Jerry Lowery,698
+Macon,State House,38,Democratic,No Candidate Qualified,0
+Macon,State House,38,Republican,Kelly T. Keisling,2470
+Macon,State Senate,17,Democratic,No Candidate Qualified,0
+Macon,State Senate,17,Republican,Clark Boyd,1459
+Macon,State Senate,17,Republican,Mae Beavers,1830
+Macon,U.S. House,6,Democratic,Amos Scott Powers,422
+Macon,U.S. House,6,Republican,Diane Black,2459
+Macon,U.S. House,6,Republican,Jerry Lowery,698
 Macon,United States Senate,NA,Democratic,Gary Gene Davis,87
 Macon,United States Senate,NA,Democratic,Gordon Ball,180
 Macon,United States Senate,NA,Democratic,Larry Crim,27
@@ -2033,20 +2033,20 @@ Madison,State Executive Committeewoman,27,Democratic,Gladys Crain,2062
 Madison,State Executive Committeewoman,27,Democratic,Patsy R. Johnson,2736
 Madison,State Executive Committeewoman,27,Republican,Jewell G. Horner,2006
 Madison,State Executive Committeewoman,27,Republican,Shannon Slayton Haynes,6474
-Madison,Tennessee House of Representatives,73,Democratic,Shelia L. Godwin,2575
-Madison,Tennessee House of Representatives,73,Republican,Jimmy Eldridge,9127
-Madison,Tennessee House of Representatives,80,Democratic,Johnny W. Shaw,3004
-Madison,Tennessee House of Representatives,80,Republican,No Candidate Qualified,0
-Madison,Tennessee Senate,27,Democratic,Randy Lamb,4363
-Madison,Tennessee Senate,27,Republican,Brandon Dodds,2791
-Madison,Tennessee Senate,27,Republican,Ed Jackson,7836
-Madison,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,391
-Madison,United States House of Representatives,8,Democratic,Rickey Hobson,1647
-Madison,United States House of Representatives,8,Democratic,Tom Reasons,926
-Madison,United States House of Representatives,8,Democratic,Wes Bradley,1861
-Madison,United States House of Representatives,8,Republican,Dana Matheny,1155
-Madison,United States House of Representatives,8,Republican,John Mills,576
-Madison,United States House of Representatives,8,Republican,Stephen Lee Fincher,9742
+Madison,State House,73,Democratic,Shelia L. Godwin,2575
+Madison,State House,73,Republican,Jimmy Eldridge,9127
+Madison,State House,80,Democratic,Johnny W. Shaw,3004
+Madison,State House,80,Republican,No Candidate Qualified,0
+Madison,State Senate,27,Democratic,Randy Lamb,4363
+Madison,State Senate,27,Republican,Brandon Dodds,2791
+Madison,State Senate,27,Republican,Ed Jackson,7836
+Madison,U.S. House,8,Democratic,Lawrence A. Pivnick,391
+Madison,U.S. House,8,Democratic,Rickey Hobson,1647
+Madison,U.S. House,8,Democratic,Tom Reasons,926
+Madison,U.S. House,8,Democratic,Wes Bradley,1861
+Madison,U.S. House,8,Republican,Dana Matheny,1155
+Madison,U.S. House,8,Republican,John Mills,576
+Madison,U.S. House,8,Republican,Stephen Lee Fincher,9742
 Madison,United States Senate,NA,Democratic,Gary Gene Davis,972
 Madison,United States Senate,NA,Democratic,Gordon Ball,1521
 Madison,United States Senate,NA,Democratic,Larry Crim,515
@@ -2073,19 +2073,19 @@ Marion,State Executive Committeeman,16,Republican,Sam T. Harper,778
 Marion,State Executive Committeewoman,16,Democratic,Betty (Newman) Fraley,1734
 Marion,State Executive Committeewoman,16,Republican,Frances Arthur,1122
 Marion,State Executive Committeewoman,16,Republican,Iris Rudder,713
-Marion,Tennessee House of Representatives,39,Democratic,Matthew Huffer,735
-Marion,Tennessee House of Representatives,39,Republican,David Alexander,797
-Marion,Tennessee House of Representatives,39,Republican,Jack R. Daniel,371
-Marion,Tennessee House of Representatives,92,Democratic,Vicki Cain,1065
-Marion,Tennessee House of Representatives,92,Republican,Billy Spivey,900
-Marion,United States House of Representatives,4,Democratic,Lenda Sherrell,1789
-Marion,United States House of Representatives,4,Republican,David R. Tate,50
-Marion,United States House of Representatives,4,Republican,Jim Tracy,385
-Marion,United States House of Representatives,4,Republican,John Anderson,177
-Marion,United States House of Representatives,4,Republican,Michael S. Warden,9
-Marion,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",10
-Marion,United States House of Representatives,4,Republican,Scott DesJarlais,1858
-Marion,United States House of Representatives,4,Republican,Steve Lane,23
+Marion,State House,39,Democratic,Matthew Huffer,735
+Marion,State House,39,Republican,David Alexander,797
+Marion,State House,39,Republican,Jack R. Daniel,371
+Marion,State House,92,Democratic,Vicki Cain,1065
+Marion,State House,92,Republican,Billy Spivey,900
+Marion,U.S. House,4,Democratic,Lenda Sherrell,1789
+Marion,U.S. House,4,Republican,David R. Tate,50
+Marion,U.S. House,4,Republican,Jim Tracy,385
+Marion,U.S. House,4,Republican,John Anderson,177
+Marion,U.S. House,4,Republican,Michael S. Warden,9
+Marion,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",10
+Marion,U.S. House,4,Republican,Scott DesJarlais,1858
+Marion,U.S. House,4,Republican,Steve Lane,23
 Marion,United States Senate,NA,Democratic,Gary Gene Davis,794
 Marion,United States Senate,NA,Democratic,Gordon Ball,322
 Marion,United States Senate,NA,Democratic,Larry Crim,116
@@ -2112,16 +2112,16 @@ Marshall,State Executive Committeewoman,14,Democratic,Brenda Ables,790
 Marshall,State Executive Committeewoman,14,Democratic,Joan G. Hill,655
 Marshall,State Executive Committeewoman,14,Republican,Joanne Skidmore,788
 Marshall,State Executive Committeewoman,14,Republican,Lynne Davis,1618
-Marshall,Tennessee House of Representatives,92,Democratic,Vicki Cain,1690
-Marshall,Tennessee House of Representatives,92,Republican,Billy Spivey,3301
-Marshall,United States House of Representatives,4,Democratic,Lenda Sherrell,1446
-Marshall,United States House of Representatives,4,Republican,David R. Tate,45
-Marshall,United States House of Representatives,4,Republican,Jim Tracy,1852
-Marshall,United States House of Representatives,4,Republican,John Anderson,160
-Marshall,United States House of Representatives,4,Republican,Michael S. Warden,19
-Marshall,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",11
-Marshall,United States House of Representatives,4,Republican,Scott DesJarlais,1534
-Marshall,United States House of Representatives,4,Republican,Steve Lane,56
+Marshall,State House,92,Democratic,Vicki Cain,1690
+Marshall,State House,92,Republican,Billy Spivey,3301
+Marshall,U.S. House,4,Democratic,Lenda Sherrell,1446
+Marshall,U.S. House,4,Republican,David R. Tate,45
+Marshall,U.S. House,4,Republican,Jim Tracy,1852
+Marshall,U.S. House,4,Republican,John Anderson,160
+Marshall,U.S. House,4,Republican,Michael S. Warden,19
+Marshall,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",11
+Marshall,U.S. House,4,Republican,Scott DesJarlais,1534
+Marshall,U.S. House,4,Republican,Steve Lane,56
 Marshall,United States Senate,NA,Democratic,Gary Gene Davis,217
 Marshall,United States Senate,NA,Democratic,Gordon Ball,603
 Marshall,United States Senate,NA,Democratic,Larry Crim,163
@@ -2147,22 +2147,22 @@ Maury,State Executive Committeewoman,28,Democratic,Cheri Thomas,1086
 Maury,State Executive Committeewoman,28,Democratic,Nancy Dunavant,1878
 Maury,State Executive Committeewoman,28,Republican,Angie McClanahan,4399
 Maury,State Executive Committeewoman,28,Republican,Joanne M. Pogue,3540
-Maury,Tennessee House of Representatives,64,Democratic,No Candidate Qualified,0
-Maury,Tennessee House of Representatives,64,Republican,Sheila Butt,8084
-Maury,Tennessee House of Representatives,69,Democratic,David A. Shepard,790
-Maury,Tennessee House of Representatives,69,Republican,Michael Curcio,1129
-Maury,United States House of Representatives,4,Democratic,Lenda Sherrell,2015
-Maury,United States House of Representatives,4,Republican,David R. Tate,91
-Maury,United States House of Representatives,4,Republican,Jim Tracy,2717
-Maury,United States House of Representatives,4,Republican,John Anderson,414
-Maury,United States House of Representatives,4,Republican,Michael S. Warden,74
-Maury,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",31
-Maury,United States House of Representatives,4,Republican,Scott DesJarlais,3857
-Maury,United States House of Representatives,4,Republican,Steve Lane,110
-Maury,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,140
-Maury,United States House of Representatives,7,Democratic,Daniel Cramer,751
-Maury,United States House of Representatives,7,Republican,Jacob Brimm,363
-Maury,United States House of Representatives,7,Republican,Marsha Blackburn,2411
+Maury,State House,64,Democratic,No Candidate Qualified,0
+Maury,State House,64,Republican,Sheila Butt,8084
+Maury,State House,69,Democratic,David A. Shepard,790
+Maury,State House,69,Republican,Michael Curcio,1129
+Maury,U.S. House,4,Democratic,Lenda Sherrell,2015
+Maury,U.S. House,4,Republican,David R. Tate,91
+Maury,U.S. House,4,Republican,Jim Tracy,2717
+Maury,U.S. House,4,Republican,John Anderson,414
+Maury,U.S. House,4,Republican,Michael S. Warden,74
+Maury,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",31
+Maury,U.S. House,4,Republican,Scott DesJarlais,3857
+Maury,U.S. House,4,Republican,Steve Lane,110
+Maury,U.S. House,7,Democratic,Credo Comlan Amouzouvik,140
+Maury,U.S. House,7,Democratic,Daniel Cramer,751
+Maury,U.S. House,7,Republican,Jacob Brimm,363
+Maury,U.S. House,7,Republican,Marsha Blackburn,2411
 Maury,United States Senate,NA,Democratic,Gary Gene Davis,481
 Maury,United States Senate,NA,Democratic,Gordon Ball,1215
 Maury,United States Senate,NA,Democratic,Larry Crim,229
@@ -2189,13 +2189,13 @@ McMinn,State Executive Committeeman,9,Republican,Bill Landrum,3467
 McMinn,State Executive Committeeman,9,Republican,John S. Stanbery,1956
 McMinn,State Executive Committeewoman,9,Democratic,Sally Love,924
 McMinn,State Executive Committeewoman,9,Republican,June Richesin Landrum,5133
-McMinn,Tennessee House of Representatives,23,Democratic,No Candidate Qualified,0
-McMinn,Tennessee House of Representatives,23,Republican,John W. Forgety,6356
-McMinn,Tennessee Senate,9,Democratic,No Candidate Qualified,0
-McMinn,Tennessee Senate,9,Republican,Mike Bell,5928
-McMinn,United States House of Representatives,3,Democratic,Mary M. Headrick,1045
-McMinn,United States House of Representatives,3,Republican,Chuck Fleischmann,3914
-McMinn,United States House of Representatives,3,Republican,Weston Wamp,2954
+McMinn,State House,23,Democratic,No Candidate Qualified,0
+McMinn,State House,23,Republican,John W. Forgety,6356
+McMinn,State Senate,9,Democratic,No Candidate Qualified,0
+McMinn,State Senate,9,Republican,Mike Bell,5928
+McMinn,U.S. House,3,Democratic,Mary M. Headrick,1045
+McMinn,U.S. House,3,Republican,Chuck Fleischmann,3914
+McMinn,U.S. House,3,Republican,Weston Wamp,2954
 McMinn,United States Senate,NA,Democratic,Gary Gene Davis,315
 McMinn,United States Senate,NA,Democratic,Gordon Ball,222
 McMinn,United States Senate,NA,Democratic,Larry Crim,64
@@ -2222,14 +2222,14 @@ McNairy,State Executive Committeewoman,26,Democratic,Meryl Rice,1031
 McNairy,State Executive Committeewoman,26,Democratic,Varand Sevier-Pride,278
 McNairy,State Executive Committeewoman,26,Republican,Kathryn Bryson,1473
 McNairy,State Executive Committeewoman,26,Republican,Rosemary D. Hamilton,1009
-McNairy,Tennessee House of Representatives,94,Democratic,Write-In - George H. Mitchell,21
-McNairy,Tennessee House of Representatives,94,Republican,Hal Rounds,601
-McNairy,Tennessee House of Representatives,94,Republican,Leigh Rosser Wilburn,1616
-McNairy,Tennessee House of Representatives,94,Republican,Stephen L. Hale,1003
-McNairy,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,152
-McNairy,United States House of Representatives,7,Democratic,Daniel Cramer,1019
-McNairy,United States House of Representatives,7,Republican,Jacob Brimm,414
-McNairy,United States House of Representatives,7,Republican,Marsha Blackburn,3134
+McNairy,State House,94,Democratic,Write-In - George H. Mitchell,21
+McNairy,State House,94,Republican,Hal Rounds,601
+McNairy,State House,94,Republican,Leigh Rosser Wilburn,1616
+McNairy,State House,94,Republican,Stephen L. Hale,1003
+McNairy,U.S. House,7,Democratic,Credo Comlan Amouzouvik,152
+McNairy,U.S. House,7,Democratic,Daniel Cramer,1019
+McNairy,U.S. House,7,Republican,Jacob Brimm,414
+McNairy,U.S. House,7,Republican,Marsha Blackburn,3134
 McNairy,United States Senate,NA,Democratic,Gary Gene Davis,198
 McNairy,United States Senate,NA,Democratic,Gordon Ball,406
 McNairy,United States Senate,NA,Democratic,Larry Crim,101
@@ -2256,19 +2256,19 @@ Meigs,State Executive Committeeman,9,Republican,Bill Landrum,718
 Meigs,State Executive Committeeman,9,Republican,John S. Stanbery,487
 Meigs,State Executive Committeewoman,9,Democratic,Sally Love,440
 Meigs,State Executive Committeewoman,9,Republican,June Richesin Landrum,1050
-Meigs,Tennessee House of Representatives,22,Democratic,No Candidate Qualified,0
-Meigs,Tennessee House of Representatives,22,Republican,Dan Howell,943
-Meigs,Tennessee House of Representatives,22,Republican,J. Adam Lowe,531
-Meigs,Tennessee Senate,9,Democratic,No Candidate Qualified,0
-Meigs,Tennessee Senate,9,Republican,Mike Bell,1124
-Meigs,United States House of Representatives,4,Democratic,Lenda Sherrell,424
-Meigs,United States House of Representatives,4,Republican,David R. Tate,22
-Meigs,United States House of Representatives,4,Republican,Jim Tracy,589
-Meigs,United States House of Representatives,4,Republican,John Anderson,211
-Meigs,United States House of Representatives,4,Republican,Michael S. Warden,30
-Meigs,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",7
-Meigs,United States House of Representatives,4,Republican,Scott DesJarlais,573
-Meigs,United States House of Representatives,4,Republican,Steve Lane,56
+Meigs,State House,22,Democratic,No Candidate Qualified,0
+Meigs,State House,22,Republican,Dan Howell,943
+Meigs,State House,22,Republican,J. Adam Lowe,531
+Meigs,State Senate,9,Democratic,No Candidate Qualified,0
+Meigs,State Senate,9,Republican,Mike Bell,1124
+Meigs,U.S. House,4,Democratic,Lenda Sherrell,424
+Meigs,U.S. House,4,Republican,David R. Tate,22
+Meigs,U.S. House,4,Republican,Jim Tracy,589
+Meigs,U.S. House,4,Republican,John Anderson,211
+Meigs,U.S. House,4,Republican,Michael S. Warden,30
+Meigs,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",7
+Meigs,U.S. House,4,Republican,Scott DesJarlais,573
+Meigs,U.S. House,4,Republican,Steve Lane,56
 Meigs,United States Senate,NA,Democratic,Gary Gene Davis,221
 Meigs,United States Senate,NA,Democratic,Gordon Ball,92
 Meigs,United States Senate,NA,Democratic,Larry Crim,30
@@ -2295,15 +2295,15 @@ Monroe,State Executive Committeeman,9,Republican,Bill Landrum,3779
 Monroe,State Executive Committeeman,9,Republican,John S. Stanbery,2020
 Monroe,State Executive Committeewoman,9,Democratic,Sally Love,1633
 Monroe,State Executive Committeewoman,9,Republican,June Richesin Landrum,5183
-Monroe,Tennessee House of Representatives,21,Democratic,Pamela O. Weston,1124
-Monroe,Tennessee House of Representatives,21,Republican,Jimmy Matlock,3943
-Monroe,Tennessee House of Representatives,23,Democratic,No Candidate Qualified,0
-Monroe,Tennessee House of Representatives,23,Republican,John W. Forgety,2211
-Monroe,Tennessee Senate,9,Democratic,No Candidate Qualified,0
-Monroe,Tennessee Senate,9,Republican,Mike Bell,5754
-Monroe,United States House of Representatives,3,Democratic,Mary M. Headrick,1879
-Monroe,United States House of Representatives,3,Republican,Chuck Fleischmann,3598
-Monroe,United States House of Representatives,3,Republican,Weston Wamp,3292
+Monroe,State House,21,Democratic,Pamela O. Weston,1124
+Monroe,State House,21,Republican,Jimmy Matlock,3943
+Monroe,State House,23,Democratic,No Candidate Qualified,0
+Monroe,State House,23,Republican,John W. Forgety,2211
+Monroe,State Senate,9,Democratic,No Candidate Qualified,0
+Monroe,State Senate,9,Republican,Mike Bell,5754
+Monroe,U.S. House,3,Democratic,Mary M. Headrick,1879
+Monroe,U.S. House,3,Republican,Chuck Fleischmann,3598
+Monroe,U.S. House,3,Republican,Weston Wamp,3292
 Monroe,United States Senate,NA,Democratic,Gary Gene Davis,294
 Monroe,United States Senate,NA,Democratic,Gordon Ball,372
 Monroe,United States Senate,NA,Democratic,Larry Crim,114
@@ -2327,17 +2327,17 @@ Montgomery,State Executive Committeeman,22,Democratic,Keith Jackson,5169
 Montgomery,State Executive Committeeman,22,Republican,R. Wayne Oldham,9553
 Montgomery,State Executive Committeewoman,22,Democratic,Linda Adams Barnes,5288
 Montgomery,State Executive Committeewoman,22,Republican,"Patricia ""Pat"" Allen",9305
-Montgomery,Tennessee House of Representatives,67,Democratic,Joe Pitts,2043
-Montgomery,Tennessee House of Representatives,67,Republican,No Candidate Qualified,0
-Montgomery,Tennessee House of Representatives,68,Democratic,No Candidate Qualified,0
-Montgomery,Tennessee House of Representatives,68,Republican,Curtis Johnson,6786
-Montgomery,Tennessee House of Representatives,74,Democratic,John C. Tidwell,810
-Montgomery,Tennessee House of Representatives,74,Republican,Jay D. Reedy,1007
-Montgomery,Tennessee House of Representatives,74,Republican,Keith Svadba,616
-Montgomery,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,1887
-Montgomery,United States House of Representatives,7,Democratic,Daniel Cramer,3572
-Montgomery,United States House of Representatives,7,Republican,Jacob Brimm,1953
-Montgomery,United States House of Representatives,7,Republican,Marsha Blackburn,9935
+Montgomery,State House,67,Democratic,Joe Pitts,2043
+Montgomery,State House,67,Republican,No Candidate Qualified,0
+Montgomery,State House,68,Democratic,No Candidate Qualified,0
+Montgomery,State House,68,Republican,Curtis Johnson,6786
+Montgomery,State House,74,Democratic,John C. Tidwell,810
+Montgomery,State House,74,Republican,Jay D. Reedy,1007
+Montgomery,State House,74,Republican,Keith Svadba,616
+Montgomery,U.S. House,7,Democratic,Credo Comlan Amouzouvik,1887
+Montgomery,U.S. House,7,Democratic,Daniel Cramer,3572
+Montgomery,U.S. House,7,Republican,Jacob Brimm,1953
+Montgomery,U.S. House,7,Republican,Marsha Blackburn,9935
 Montgomery,United States Senate,NA,Democratic,Gary Gene Davis,1033
 Montgomery,United States Senate,NA,Democratic,Gordon Ball,1767
 Montgomery,United States Senate,NA,Democratic,Larry Crim,615
@@ -2364,17 +2364,17 @@ Moore,State Executive Committeewoman,14,Democratic,Brenda Ables,182
 Moore,State Executive Committeewoman,14,Democratic,Joan G. Hill,133
 Moore,State Executive Committeewoman,14,Republican,Joanne Skidmore,211
 Moore,State Executive Committeewoman,14,Republican,Lynne Davis,560
-Moore,Tennessee House of Representatives,39,Democratic,Matthew Huffer,373
-Moore,Tennessee House of Representatives,39,Republican,David Alexander,671
-Moore,Tennessee House of Representatives,39,Republican,Jack R. Daniel,401
-Moore,United States House of Representatives,4,Democratic,Lenda Sherrell,328
-Moore,United States House of Representatives,4,Republican,David R. Tate,12
-Moore,United States House of Representatives,4,Republican,Jim Tracy,489
-Moore,United States House of Representatives,4,Republican,John Anderson,54
-Moore,United States House of Representatives,4,Republican,Michael S. Warden,9
-Moore,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",0
-Moore,United States House of Representatives,4,Republican,Scott DesJarlais,564
-Moore,United States House of Representatives,4,Republican,Steve Lane,18
+Moore,State House,39,Democratic,Matthew Huffer,373
+Moore,State House,39,Republican,David Alexander,671
+Moore,State House,39,Republican,Jack R. Daniel,401
+Moore,U.S. House,4,Democratic,Lenda Sherrell,328
+Moore,U.S. House,4,Republican,David R. Tate,12
+Moore,U.S. House,4,Republican,Jim Tracy,489
+Moore,U.S. House,4,Republican,John Anderson,54
+Moore,U.S. House,4,Republican,Michael S. Warden,9
+Moore,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",0
+Moore,U.S. House,4,Republican,Scott DesJarlais,564
+Moore,U.S. House,4,Republican,Steve Lane,18
 Moore,United States Senate,NA,Democratic,Gary Gene Davis,64
 Moore,United States Senate,NA,Democratic,Gordon Ball,106
 Moore,United States Senate,NA,Democratic,Larry Crim,39
@@ -2400,11 +2400,11 @@ Morgan,State Executive Committeeman,12,Republican,Mickey Barger,926
 Morgan,State Executive Committeewoman,12,Democratic,Martha Beaty Wiley,939
 Morgan,State Executive Committeewoman,12,Republican,"Elizabeth ""Liz"" Holiway",1036
 Morgan,State Executive Committeewoman,12,Republican,Judy Bowman Cooley,1046
-Morgan,Tennessee House of Representatives,41,Democratic,John Mark Windle,1302
-Morgan,Tennessee House of Representatives,41,Republican,No Candidate Qualified,0
-Morgan,United States House of Representatives,3,Democratic,Mary M. Headrick,1025
-Morgan,United States House of Representatives,3,Republican,Chuck Fleischmann,1342
-Morgan,United States House of Representatives,3,Republican,Weston Wamp,1664
+Morgan,State House,41,Democratic,John Mark Windle,1302
+Morgan,State House,41,Republican,No Candidate Qualified,0
+Morgan,U.S. House,3,Democratic,Mary M. Headrick,1025
+Morgan,U.S. House,3,Republican,Chuck Fleischmann,1342
+Morgan,U.S. House,3,Republican,Weston Wamp,1664
 Morgan,United States Senate,NA,Democratic,Gary Gene Davis,386
 Morgan,United States Senate,NA,Democratic,Gordon Ball,251
 Morgan,United States Senate,NA,Democratic,Larry Crim,57
@@ -2431,17 +2431,17 @@ Obion,State Executive Committeeman,24,Republican,Joey Mehlhorn,751
 Obion,State Executive Committeewoman,24,Democratic,Angela Callis,1015
 Obion,State Executive Committeewoman,24,Republican,Christi Cross,1170
 Obion,State Executive Committeewoman,24,Republican,Marilucile Counce,648
-Obion,Tennessee House of Representatives,76,Democratic,Joyce Washington,494
-Obion,Tennessee House of Representatives,76,Republican,Andy Holt,709
-Obion,Tennessee House of Representatives,77,Democratic,No Candidate Qualified,0
-Obion,Tennessee House of Representatives,77,Republican,Bill Sanderson,1760
-Obion,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,74
-Obion,United States House of Representatives,8,Democratic,Rickey Hobson,200
-Obion,United States House of Representatives,8,Democratic,Tom Reasons,339
-Obion,United States House of Representatives,8,Democratic,Wes Bradley,501
-Obion,United States House of Representatives,8,Republican,Dana Matheny,243
-Obion,United States House of Representatives,8,Republican,John Mills,281
-Obion,United States House of Representatives,8,Republican,Stephen Lee Fincher,2256
+Obion,State House,76,Democratic,Joyce Washington,494
+Obion,State House,76,Republican,Andy Holt,709
+Obion,State House,77,Democratic,No Candidate Qualified,0
+Obion,State House,77,Republican,Bill Sanderson,1760
+Obion,U.S. House,8,Democratic,Lawrence A. Pivnick,74
+Obion,U.S. House,8,Democratic,Rickey Hobson,200
+Obion,U.S. House,8,Democratic,Tom Reasons,339
+Obion,U.S. House,8,Democratic,Wes Bradley,501
+Obion,U.S. House,8,Republican,Dana Matheny,243
+Obion,U.S. House,8,Republican,John Mills,281
+Obion,U.S. House,8,Republican,Stephen Lee Fincher,2256
 Obion,United States Senate,NA,Democratic,Gary Gene Davis,249
 Obion,United States Senate,NA,Democratic,Gordon Ball,284
 Obion,United States Senate,NA,Democratic,Larry Crim,98
@@ -2472,15 +2472,15 @@ Overton,State Executive Committeewoman,15,Democratic,Geeta W. McMillan,1282
 Overton,State Executive Committeewoman,15,Republican,Cindy Beckwith,612
 Overton,State Executive Committeewoman,15,Republican,Hannah Horseman,327
 Overton,State Executive Committeewoman,15,Republican,Patty M. Dycus,714
-Overton,Tennessee House of Representatives,41,Democratic,John Mark Windle,2349
-Overton,Tennessee House of Representatives,41,Republican,No Candidate Qualified,0
-Overton,Tennessee Senate,15,Democratic,Betty Vaudt,1189
-Overton,Tennessee Senate,15,Republican,Gary Steakley,89
-Overton,Tennessee Senate,15,Republican,Matt Swallows,1674
-Overton,Tennessee Senate,15,Republican,Paul Bailey,838
-Overton,United States House of Representatives,6,Democratic,Amos Scott Powers,1324
-Overton,United States House of Representatives,6,Republican,Diane Black,2002
-Overton,United States House of Representatives,6,Republican,Jerry Lowery,467
+Overton,State House,41,Democratic,John Mark Windle,2349
+Overton,State House,41,Republican,No Candidate Qualified,0
+Overton,State Senate,15,Democratic,Betty Vaudt,1189
+Overton,State Senate,15,Republican,Gary Steakley,89
+Overton,State Senate,15,Republican,Matt Swallows,1674
+Overton,State Senate,15,Republican,Paul Bailey,838
+Overton,U.S. House,6,Democratic,Amos Scott Powers,1324
+Overton,U.S. House,6,Republican,Diane Black,2002
+Overton,U.S. House,6,Republican,Jerry Lowery,467
 Overton,United States Senate,NA,Democratic,Gary Gene Davis,360
 Overton,United States Senate,NA,Democratic,Gordon Ball,499
 Overton,United States Senate,NA,Democratic,Larry Crim,83
@@ -2506,12 +2506,12 @@ Perry,State Executive Committeewoman,28,Democratic,Cheri Thomas,188
 Perry,State Executive Committeewoman,28,Democratic,Nancy Dunavant,239
 Perry,State Executive Committeewoman,28,Republican,Angie McClanahan,366
 Perry,State Executive Committeewoman,28,Republican,Joanne M. Pogue,216
-Perry,Tennessee House of Representatives,72,Democratic,No Candidate Qualified,0
-Perry,Tennessee House of Representatives,72,Republican,Steve K. McDaniel,738
-Perry,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,73
-Perry,United States House of Representatives,7,Democratic,Daniel Cramer,388
-Perry,United States House of Representatives,7,Republican,Jacob Brimm,122
-Perry,United States House of Representatives,7,Republican,Marsha Blackburn,737
+Perry,State House,72,Democratic,No Candidate Qualified,0
+Perry,State House,72,Republican,Steve K. McDaniel,738
+Perry,U.S. House,7,Democratic,Credo Comlan Amouzouvik,73
+Perry,U.S. House,7,Democratic,Daniel Cramer,388
+Perry,U.S. House,7,Republican,Jacob Brimm,122
+Perry,U.S. House,7,Republican,Marsha Blackburn,737
 Perry,United States Senate,NA,Democratic,Gary Gene Davis,112
 Perry,United States Senate,NA,Democratic,Gordon Ball,189
 Perry,United States Senate,NA,Democratic,Larry Crim,26
@@ -2537,11 +2537,11 @@ Pickett,State Executive Committeeman,12,Republican,Mickey Barger,303
 Pickett,State Executive Committeewoman,12,Democratic,Martha Beaty Wiley,285
 Pickett,State Executive Committeewoman,12,Republican,"Elizabeth ""Liz"" Holiway",398
 Pickett,State Executive Committeewoman,12,Republican,Judy Bowman Cooley,407
-Pickett,Tennessee House of Representatives,38,Democratic,No Candidate Qualified,0
-Pickett,Tennessee House of Representatives,38,Republican,Kelly T. Keisling,1148
-Pickett,United States House of Representatives,6,Democratic,Amos Scott Powers,287
-Pickett,United States House of Representatives,6,Republican,Diane Black,970
-Pickett,United States House of Representatives,6,Republican,Jerry Lowery,282
+Pickett,State House,38,Democratic,No Candidate Qualified,0
+Pickett,State House,38,Republican,Kelly T. Keisling,1148
+Pickett,U.S. House,6,Democratic,Amos Scott Powers,287
+Pickett,U.S. House,6,Republican,Diane Black,970
+Pickett,U.S. House,6,Republican,Jerry Lowery,282
 Pickett,United States Senate,NA,Democratic,Gary Gene Davis,85
 Pickett,United States Senate,NA,Democratic,Gordon Ball,140
 Pickett,United States Senate,NA,Democratic,Larry Crim,30
@@ -2568,14 +2568,14 @@ Polk,State Executive Committeeman,9,Republican,Bill Landrum,721
 Polk,State Executive Committeeman,9,Republican,John S. Stanbery,942
 Polk,State Executive Committeewoman,9,Democratic,Sally Love,1229
 Polk,State Executive Committeewoman,9,Republican,June Richesin Landrum,1269
-Polk,Tennessee House of Representatives,22,Democratic,No Candidate Qualified,0
-Polk,Tennessee House of Representatives,22,Republican,Dan Howell,937
-Polk,Tennessee House of Representatives,22,Republican,J. Adam Lowe,1035
-Polk,Tennessee Senate,9,Democratic,No Candidate Qualified,0
-Polk,Tennessee Senate,9,Republican,Mike Bell,1556
-Polk,United States House of Representatives,3,Democratic,Mary M. Headrick,1148
-Polk,United States House of Representatives,3,Republican,Chuck Fleischmann,1099
-Polk,United States House of Representatives,3,Republican,Weston Wamp,1033
+Polk,State House,22,Democratic,No Candidate Qualified,0
+Polk,State House,22,Republican,Dan Howell,937
+Polk,State House,22,Republican,J. Adam Lowe,1035
+Polk,State Senate,9,Democratic,No Candidate Qualified,0
+Polk,State Senate,9,Republican,Mike Bell,1556
+Polk,U.S. House,3,Democratic,Mary M. Headrick,1148
+Polk,U.S. House,3,Republican,Chuck Fleischmann,1099
+Polk,U.S. House,3,Republican,Weston Wamp,1033
 Polk,United States Senate,NA,Democratic,Gary Gene Davis,425
 Polk,United States Senate,NA,Democratic,Gordon Ball,309
 Polk,United States Senate,NA,Democratic,Larry Crim,79
@@ -2606,17 +2606,17 @@ Putnam,State Executive Committeewoman,15,Democratic,Geeta W. McMillan,2466
 Putnam,State Executive Committeewoman,15,Republican,Cindy Beckwith,2375
 Putnam,State Executive Committeewoman,15,Republican,Hannah Horseman,1186
 Putnam,State Executive Committeewoman,15,Republican,Patty M. Dycus,2707
-Putnam,Tennessee House of Representatives,25,Democratic,Judy Barnett,214
-Putnam,Tennessee House of Representatives,25,Republican,Cameron Sexton,376
-Putnam,Tennessee House of Representatives,42,Democratic,Mike Walsh,2261
-Putnam,Tennessee House of Representatives,42,Republican,Ryan Williams,7045
-Putnam,Tennessee Senate,15,Democratic,Betty Vaudt,2327
-Putnam,Tennessee Senate,15,Republican,Gary Steakley,561
-Putnam,Tennessee Senate,15,Republican,Matt Swallows,4945
-Putnam,Tennessee Senate,15,Republican,Paul Bailey,3450
-Putnam,United States House of Representatives,6,Democratic,Amos Scott Powers,2432
-Putnam,United States House of Representatives,6,Republican,Diane Black,7016
-Putnam,United States House of Representatives,6,Republican,Jerry Lowery,1765
+Putnam,State House,25,Democratic,Judy Barnett,214
+Putnam,State House,25,Republican,Cameron Sexton,376
+Putnam,State House,42,Democratic,Mike Walsh,2261
+Putnam,State House,42,Republican,Ryan Williams,7045
+Putnam,State Senate,15,Democratic,Betty Vaudt,2327
+Putnam,State Senate,15,Republican,Gary Steakley,561
+Putnam,State Senate,15,Republican,Matt Swallows,4945
+Putnam,State Senate,15,Republican,Paul Bailey,3450
+Putnam,U.S. House,6,Democratic,Amos Scott Powers,2432
+Putnam,U.S. House,6,Republican,Diane Black,7016
+Putnam,U.S. House,6,Republican,Jerry Lowery,1765
 Putnam,United States Senate,NA,Democratic,Gary Gene Davis,603
 Putnam,United States Senate,NA,Democratic,Gordon Ball,975
 Putnam,United States Senate,NA,Democratic,Larry Crim,183
@@ -2642,17 +2642,17 @@ Rhea,State Executive Committeeman,12,Republican,Mickey Barger,1921
 Rhea,State Executive Committeewoman,12,Democratic,Martha Beaty Wiley,648
 Rhea,State Executive Committeewoman,12,Republican,"Elizabeth ""Liz"" Holiway",1787
 Rhea,State Executive Committeewoman,12,Republican,Judy Bowman Cooley,1727
-Rhea,Tennessee House of Representatives,31,Democratic,No Candidate Qualified,0
-Rhea,Tennessee House of Representatives,31,Republican,Jim Cobb,1738
-Rhea,Tennessee House of Representatives,31,Republican,Ron Travis,3353
-Rhea,United States House of Representatives,4,Democratic,Lenda Sherrell,692
-Rhea,United States House of Representatives,4,Republican,David R. Tate,85
-Rhea,United States House of Representatives,4,Republican,Jim Tracy,2192
-Rhea,United States House of Representatives,4,Republican,John Anderson,330
-Rhea,United States House of Representatives,4,Republican,Michael S. Warden,47
-Rhea,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",22
-Rhea,United States House of Representatives,4,Republican,Scott DesJarlais,1721
-Rhea,United States House of Representatives,4,Republican,Steve Lane,105
+Rhea,State House,31,Democratic,No Candidate Qualified,0
+Rhea,State House,31,Republican,Jim Cobb,1738
+Rhea,State House,31,Republican,Ron Travis,3353
+Rhea,U.S. House,4,Democratic,Lenda Sherrell,692
+Rhea,U.S. House,4,Republican,David R. Tate,85
+Rhea,U.S. House,4,Republican,Jim Tracy,2192
+Rhea,U.S. House,4,Republican,John Anderson,330
+Rhea,U.S. House,4,Republican,Michael S. Warden,47
+Rhea,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",22
+Rhea,U.S. House,4,Republican,Scott DesJarlais,1721
+Rhea,U.S. House,4,Republican,Steve Lane,105
 Rhea,United States Senate,NA,Democratic,Gary Gene Davis,241
 Rhea,United States Senate,NA,Democratic,Gordon Ball,153
 Rhea,United States Senate,NA,Democratic,Larry Crim,51
@@ -2678,14 +2678,14 @@ Roane,State Executive Committeeman,12,Republican,Mickey Barger,3471
 Roane,State Executive Committeewoman,12,Democratic,Martha Beaty Wiley,2082
 Roane,State Executive Committeewoman,12,Republican,"Elizabeth ""Liz"" Holiway",3663
 Roane,State Executive Committeewoman,12,Republican,Judy Bowman Cooley,3235
-Roane,Tennessee House of Representatives,31,Democratic,No Candidate Qualified,0
-Roane,Tennessee House of Representatives,31,Republican,Jim Cobb,469
-Roane,Tennessee House of Representatives,31,Republican,Ron Travis,418
-Roane,Tennessee House of Representatives,32,Democratic,Joe Kneiser,1914
-Roane,Tennessee House of Representatives,32,Republican,Kent Calfee,6371
-Roane,United States House of Representatives,3,Democratic,Mary M. Headrick,2295
-Roane,United States House of Representatives,3,Republican,Chuck Fleischmann,4447
-Roane,United States House of Representatives,3,Republican,Weston Wamp,4467
+Roane,State House,31,Democratic,No Candidate Qualified,0
+Roane,State House,31,Republican,Jim Cobb,469
+Roane,State House,31,Republican,Ron Travis,418
+Roane,State House,32,Democratic,Joe Kneiser,1914
+Roane,State House,32,Republican,Kent Calfee,6371
+Roane,U.S. House,3,Democratic,Mary M. Headrick,2295
+Roane,U.S. House,3,Republican,Chuck Fleischmann,4447
+Roane,U.S. House,3,Republican,Weston Wamp,4467
 Roane,United States Senate,NA,Democratic,Gary Gene Davis,726
 Roane,United States Senate,NA,Democratic,Gordon Ball,602
 Roane,United States Senate,NA,Democratic,Larry Crim,144
@@ -2712,19 +2712,19 @@ Robertson,State Executive Committeeman,25,Republican,Michael S. Petty,2237
 Robertson,State Executive Committeewoman,25,Democratic,Martha Shepard,1840
 Robertson,State Executive Committeewoman,25,Republican,Jodie Hardin,2358
 Robertson,State Executive Committeewoman,25,Republican,Mary Ann Parks,3543
-Robertson,Tennessee House of Representatives,66,Democratic,Kyle Roberts,1979
-Robertson,Tennessee House of Representatives,66,Republican,Brock Brewer,813
-Robertson,Tennessee House of Representatives,66,Republican,Chris Orndorff,2340
-Robertson,Tennessee House of Representatives,66,Republican,Matt Burnett,1360
-Robertson,Tennessee House of Representatives,66,Republican,Sabi (Doc) Kumar,3538
-Robertson,Tennessee Senate,25,Democratic,Tony Gross,1753
-Robertson,Tennessee Senate,25,Republican,Jim Summerville,268
-Robertson,Tennessee Senate,25,Republican,Joshua G. Evans,3434
-Robertson,Tennessee Senate,25,Republican,Kerry Roberts,4449
-Robertson,Tennessee Senate,25,Republican,Wayne White,68
-Robertson,United States House of Representatives,6,Democratic,Amos Scott Powers,1814
-Robertson,United States House of Representatives,6,Republican,Diane Black,6072
-Robertson,United States House of Representatives,6,Republican,Jerry Lowery,1920
+Robertson,State House,66,Democratic,Kyle Roberts,1979
+Robertson,State House,66,Republican,Brock Brewer,813
+Robertson,State House,66,Republican,Chris Orndorff,2340
+Robertson,State House,66,Republican,Matt Burnett,1360
+Robertson,State House,66,Republican,Sabi (Doc) Kumar,3538
+Robertson,State Senate,25,Democratic,Tony Gross,1753
+Robertson,State Senate,25,Republican,Jim Summerville,268
+Robertson,State Senate,25,Republican,Joshua G. Evans,3434
+Robertson,State Senate,25,Republican,Kerry Roberts,4449
+Robertson,State Senate,25,Republican,Wayne White,68
+Robertson,U.S. House,6,Democratic,Amos Scott Powers,1814
+Robertson,U.S. House,6,Republican,Diane Black,6072
+Robertson,U.S. House,6,Republican,Jerry Lowery,1920
 Robertson,United States Senate,NA,Democratic,Gary Gene Davis,760
 Robertson,United States Senate,NA,Democratic,Gordon Ball,630
 Robertson,United States Senate,NA,Democratic,Larry Crim,108
@@ -2759,28 +2759,28 @@ Rutherford,State Executive Committeewoman,14,Democratic,Brenda Ables,831
 Rutherford,State Executive Committeewoman,14,Democratic,Joan G. Hill,845
 Rutherford,State Executive Committeewoman,14,Republican,Joanne Skidmore,2363
 Rutherford,State Executive Committeewoman,14,Republican,Lynne Davis,3625
-Rutherford,Tennessee House of Representatives,34,Democratic,No Candidate Qualified,0
-Rutherford,Tennessee House of Representatives,34,Republican,Rick Womick,5454
-Rutherford,Tennessee House of Representatives,37,Democratic,No Candidate Qualified,0
-Rutherford,Tennessee House of Representatives,37,Republican,Dawn White,4359
-Rutherford,Tennessee House of Representatives,37,Republican,Eddie Smotherman,1773
-Rutherford,Tennessee House of Representatives,48,Democratic,William Bill Campbell,1478
-Rutherford,Tennessee House of Representatives,48,Republican,Adam Coggin,2215
-Rutherford,Tennessee House of Representatives,48,Republican,Bryan Terry,2669
-Rutherford,Tennessee House of Representatives,48,Republican,Rick Peppers,2126
-Rutherford,Tennessee House of Representatives,49,Democratic,Mike Williams,1106
-Rutherford,Tennessee House of Representatives,49,Republican,Mike Sparks,2287
-Rutherford,Tennessee House of Representatives,49,Republican,Robert Stevens,1935
-Rutherford,Tennessee Senate,13,Democratic,No Candidate Qualified,0
-Rutherford,Tennessee Senate,13,Republican,Bill Ketron,12495
-Rutherford,United States House of Representatives,4,Democratic,Lenda Sherrell,5294
-Rutherford,United States House of Representatives,4,Republican,David R. Tate,169
-Rutherford,United States House of Representatives,4,Republican,Jim Tracy,13587
-Rutherford,United States House of Representatives,4,Republican,John Anderson,741
-Rutherford,United States House of Representatives,4,Republican,Michael S. Warden,139
-Rutherford,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",89
-Rutherford,United States House of Representatives,4,Republican,Scott DesJarlais,8898
-Rutherford,United States House of Representatives,4,Republican,Steve Lane,530
+Rutherford,State House,34,Democratic,No Candidate Qualified,0
+Rutherford,State House,34,Republican,Rick Womick,5454
+Rutherford,State House,37,Democratic,No Candidate Qualified,0
+Rutherford,State House,37,Republican,Dawn White,4359
+Rutherford,State House,37,Republican,Eddie Smotherman,1773
+Rutherford,State House,48,Democratic,William Bill Campbell,1478
+Rutherford,State House,48,Republican,Adam Coggin,2215
+Rutherford,State House,48,Republican,Bryan Terry,2669
+Rutherford,State House,48,Republican,Rick Peppers,2126
+Rutherford,State House,49,Democratic,Mike Williams,1106
+Rutherford,State House,49,Republican,Mike Sparks,2287
+Rutherford,State House,49,Republican,Robert Stevens,1935
+Rutherford,State Senate,13,Democratic,No Candidate Qualified,0
+Rutherford,State Senate,13,Republican,Bill Ketron,12495
+Rutherford,U.S. House,4,Democratic,Lenda Sherrell,5294
+Rutherford,U.S. House,4,Republican,David R. Tate,169
+Rutherford,U.S. House,4,Republican,Jim Tracy,13587
+Rutherford,U.S. House,4,Republican,John Anderson,741
+Rutherford,U.S. House,4,Republican,Michael S. Warden,139
+Rutherford,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",89
+Rutherford,U.S. House,4,Republican,Scott DesJarlais,8898
+Rutherford,U.S. House,4,Republican,Steve Lane,530
 Rutherford,United States Senate,NA,Democratic,Gary Gene Davis,563
 Rutherford,United States Senate,NA,Democratic,Gordon Ball,2146
 Rutherford,United States Senate,NA,Democratic,Larry Crim,659
@@ -2806,11 +2806,11 @@ Scott,State Executive Committeeman,12,Republican,Mickey Barger,952
 Scott,State Executive Committeewoman,12,Democratic,Martha Beaty Wiley,602
 Scott,State Executive Committeewoman,12,Republican,"Elizabeth ""Liz"" Holiway",1243
 Scott,State Executive Committeewoman,12,Republican,Judy Bowman Cooley,817
-Scott,Tennessee House of Representatives,38,Democratic,No Candidate Qualified,0
-Scott,Tennessee House of Representatives,38,Republican,Kelly T. Keisling,2632
-Scott,United States House of Representatives,3,Democratic,Mary M. Headrick,679
-Scott,United States House of Representatives,3,Republican,Chuck Fleischmann,1350
-Scott,United States House of Representatives,3,Republican,Weston Wamp,2033
+Scott,State House,38,Democratic,No Candidate Qualified,0
+Scott,State House,38,Republican,Kelly T. Keisling,2632
+Scott,U.S. House,3,Democratic,Mary M. Headrick,679
+Scott,U.S. House,3,Republican,Chuck Fleischmann,1350
+Scott,U.S. House,3,Republican,Weston Wamp,2033
 Scott,United States Senate,NA,Democratic,Gary Gene Davis,233
 Scott,United States Senate,NA,Democratic,Gordon Ball,148
 Scott,United States Senate,NA,Democratic,Larry Crim,77
@@ -2837,17 +2837,17 @@ Sequatchie,State Executive Committeeman,16,Republican,Sam T. Harper,575
 Sequatchie,State Executive Committeewoman,16,Democratic,Betty (Newman) Fraley,453
 Sequatchie,State Executive Committeewoman,16,Republican,Frances Arthur,852
 Sequatchie,State Executive Committeewoman,16,Republican,Iris Rudder,540
-Sequatchie,Tennessee House of Representatives,31,Democratic,No Candidate Qualified,0
-Sequatchie,Tennessee House of Representatives,31,Republican,Jim Cobb,613
-Sequatchie,Tennessee House of Representatives,31,Republican,Ron Travis,1586
-Sequatchie,United States House of Representatives,4,Democratic,Lenda Sherrell,471
-Sequatchie,United States House of Representatives,4,Republican,David R. Tate,61
-Sequatchie,United States House of Representatives,4,Republican,Jim Tracy,581
-Sequatchie,United States House of Representatives,4,Republican,John Anderson,202
-Sequatchie,United States House of Representatives,4,Republican,Michael S. Warden,19
-Sequatchie,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",11
-Sequatchie,United States House of Representatives,4,Republican,Scott DesJarlais,1162
-Sequatchie,United States House of Representatives,4,Republican,Steve Lane,50
+Sequatchie,State House,31,Democratic,No Candidate Qualified,0
+Sequatchie,State House,31,Republican,Jim Cobb,613
+Sequatchie,State House,31,Republican,Ron Travis,1586
+Sequatchie,U.S. House,4,Democratic,Lenda Sherrell,471
+Sequatchie,U.S. House,4,Republican,David R. Tate,61
+Sequatchie,U.S. House,4,Republican,Jim Tracy,581
+Sequatchie,U.S. House,4,Republican,John Anderson,202
+Sequatchie,U.S. House,4,Republican,Michael S. Warden,19
+Sequatchie,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",11
+Sequatchie,U.S. House,4,Republican,Scott DesJarlais,1162
+Sequatchie,U.S. House,4,Republican,Steve Lane,50
 Sequatchie,United States Senate,NA,Democratic,Gary Gene Davis,185
 Sequatchie,United States Senate,NA,Democratic,Gordon Ball,79
 Sequatchie,United States Senate,NA,Democratic,Larry Crim,43
@@ -2878,16 +2878,16 @@ Sevier,State Executive Committeewoman,1,Republican,Nancy W. Wilson,1521
 Sevier,State Executive Committeewoman,2,Democratic,Barbara Wagner,430
 Sevier,State Executive Committeewoman,2,Democratic,Marte Lawrence,105
 Sevier,State Executive Committeewoman,2,Republican,Susan S. Mills,4989
-Sevier,Tennessee House of Representatives,12,Democratic,No Candidate Qualified,0
-Sevier,Tennessee House of Representatives,12,Republican,Dale Carr,5514
-Sevier,Tennessee House of Representatives,17,Democratic,No Candidate Qualified,0
-Sevier,Tennessee House of Representatives,17,Republican,Andrew E. Farmer,2260
-Sevier,Tennessee Senate,1,Democratic,No Candidate Qualified,0
-Sevier,Tennessee Senate,1,Republican,Steve Southerland,1515
-Sevier,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Sevier,United States House of Representatives,1,Republican,Daniel J. Hartley,978
-Sevier,United States House of Representatives,1,Republican,John Paul Rader,1643
-Sevier,United States House of Representatives,1,Republican,Phil Roe,5768
+Sevier,State House,12,Democratic,No Candidate Qualified,0
+Sevier,State House,12,Republican,Dale Carr,5514
+Sevier,State House,17,Democratic,No Candidate Qualified,0
+Sevier,State House,17,Republican,Andrew E. Farmer,2260
+Sevier,State Senate,1,Democratic,No Candidate Qualified,0
+Sevier,State Senate,1,Republican,Steve Southerland,1515
+Sevier,U.S. House,1,Democratic,No Candidate Qualified,0
+Sevier,U.S. House,1,Republican,Daniel J. Hartley,978
+Sevier,U.S. House,1,Republican,John Paul Rader,1643
+Sevier,U.S. House,1,Republican,Phil Roe,5768
 Sevier,United States Senate,NA,Democratic,Gary Gene Davis,157
 Sevier,United States Senate,NA,Democratic,Gordon Ball,234
 Sevier,United States Senate,NA,Democratic,Larry Crim,60
@@ -2940,59 +2940,59 @@ Shelby,State Executive Committeewoman,32,Republican,Write-In - Paula Sedgwick,34
 Shelby,State Executive Committeewoman,33,Democratic,Allison Brownlee,11503
 Shelby,State Executive Committeewoman,33,Democratic,London Lamar,4233
 Shelby,State Executive Committeewoman,33,Republican,Mary L. Wagner,3181
-Shelby,Tennessee House of Representatives,83,Democratic,No Candidate Qualified,0
-Shelby,Tennessee House of Representatives,83,Republican,Mark White,9295
-Shelby,Tennessee House of Representatives,84,Democratic,"Joe Towns, Jr.",5168
-Shelby,Tennessee House of Representatives,84,Democratic,Kenneth L. Wells,1356
-Shelby,Tennessee House of Representatives,84,Republican,No Candidate Qualified,0
-Shelby,Tennessee House of Representatives,85,Democratic,Johnnie R. Turner,7769
-Shelby,Tennessee House of Representatives,85,Republican,No Candidate Qualified,0
-Shelby,Tennessee House of Representatives,86,Democratic,Barbara Cooper,5760
-Shelby,Tennessee House of Representatives,86,Republican,"George T. Edwards, III",1864
-Shelby,Tennessee House of Representatives,87,Democratic,Karen Camper,6262
-Shelby,Tennessee House of Representatives,87,Republican,No Candidate Qualified,0
-Shelby,Tennessee House of Representatives,88,Democratic,Larry J. Miller,4757
-Shelby,Tennessee House of Representatives,88,Republican,Harry Barber,1864
-Shelby,Tennessee House of Representatives,90,Democratic,"John J. DeBerry, Jr.",6291
-Shelby,Tennessee House of Representatives,90,Republican,No Candidate Qualified,0
-Shelby,Tennessee House of Representatives,91,Democratic,Doris DeBerry-Bradshaw,3147
-Shelby,Tennessee House of Representatives,91,Democratic,Raumesh A. Akbari,3964
-Shelby,Tennessee House of Representatives,91,Republican,"Orrden Williams, Jr.",106
-Shelby,Tennessee House of Representatives,91,Republican,Samuel (Sam) Watkins,634
-Shelby,Tennessee House of Representatives,93,Democratic,"G.A. Hardaway, Sr.",5069
-Shelby,Tennessee House of Representatives,93,Republican,Colonel G. Billingsley,1411
-Shelby,Tennessee House of Representatives,95,Democratic,No Candidate Qualified,0
-Shelby,Tennessee House of Representatives,95,Republican,Curry Todd,10123
-Shelby,Tennessee House of Representatives,96,Democratic,Dwayne Thompson,3099
-Shelby,Tennessee House of Representatives,96,Republican,Steve McManus,6524
-Shelby,Tennessee House of Representatives,97,Democratic,No Candidate Qualified,0
-Shelby,Tennessee House of Representatives,97,Republican,Jim Coley,6649
-Shelby,Tennessee House of Representatives,98,Democratic,Antonio Parkinson,4555
-Shelby,Tennessee House of Representatives,98,Republican,No Candidate Qualified,0
-Shelby,Tennessee House of Representatives,99,Democratic,No Candidate Qualified,0
-Shelby,Tennessee House of Representatives,99,Republican,Ron Lollar,8824
-Shelby,Tennessee Senate,29,Democratic,Herman Sawyer,611
-Shelby,Tennessee Senate,29,Democratic,Lee Harris,10517
-Shelby,Tennessee Senate,29,Democratic,Ophelia E. Ford,6756
-Shelby,Tennessee Senate,29,Democratic,Ricky Dixon,6882
-Shelby,Tennessee Senate,29,Republican,"Anthony D. Herron, Jr.",682
-Shelby,Tennessee Senate,29,Republican,"James R. ""Jim"" Finney",3111
-Shelby,Tennessee Senate,31,Democratic,No Candidate Qualified,0
-Shelby,Tennessee Senate,31,Republican,Brian Kelsey,23703
-Shelby,Tennessee Senate,33,Democratic,Reginald Tate,16037
-Shelby,Tennessee Senate,33,Republican,No Candidate Qualified,0
-Shelby,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,1527
-Shelby,United States House of Representatives,8,Democratic,Rickey Hobson,2957
-Shelby,United States House of Representatives,8,Democratic,Tom Reasons,838
-Shelby,United States House of Representatives,8,Democratic,Wes Bradley,1622
-Shelby,United States House of Representatives,8,Republican,Dana Matheny,5908
-Shelby,United States House of Representatives,8,Republican,John Mills,3254
-Shelby,United States House of Representatives,8,Republican,Stephen Lee Fincher,25815
-Shelby,United States House of Representatives,8,Republican,Write-In - Nicholas Pegues,1
-Shelby,United States House of Representatives,9,Democratic,Isaac Richmond,876
-Shelby,United States House of Representatives,9,Democratic,Ricky E. Wilkins,22336
-Shelby,United States House of Representatives,9,Democratic,Steve Cohen,45423
-Shelby,United States House of Representatives,9,Republican,Charlotte Bergmann,18579
+Shelby,State House,83,Democratic,No Candidate Qualified,0
+Shelby,State House,83,Republican,Mark White,9295
+Shelby,State House,84,Democratic,"Joe Towns, Jr.",5168
+Shelby,State House,84,Democratic,Kenneth L. Wells,1356
+Shelby,State House,84,Republican,No Candidate Qualified,0
+Shelby,State House,85,Democratic,Johnnie R. Turner,7769
+Shelby,State House,85,Republican,No Candidate Qualified,0
+Shelby,State House,86,Democratic,Barbara Cooper,5760
+Shelby,State House,86,Republican,"George T. Edwards, III",1864
+Shelby,State House,87,Democratic,Karen Camper,6262
+Shelby,State House,87,Republican,No Candidate Qualified,0
+Shelby,State House,88,Democratic,Larry J. Miller,4757
+Shelby,State House,88,Republican,Harry Barber,1864
+Shelby,State House,90,Democratic,"John J. DeBerry, Jr.",6291
+Shelby,State House,90,Republican,No Candidate Qualified,0
+Shelby,State House,91,Democratic,Doris DeBerry-Bradshaw,3147
+Shelby,State House,91,Democratic,Raumesh A. Akbari,3964
+Shelby,State House,91,Republican,"Orrden Williams, Jr.",106
+Shelby,State House,91,Republican,Samuel (Sam) Watkins,634
+Shelby,State House,93,Democratic,"G.A. Hardaway, Sr.",5069
+Shelby,State House,93,Republican,Colonel G. Billingsley,1411
+Shelby,State House,95,Democratic,No Candidate Qualified,0
+Shelby,State House,95,Republican,Curry Todd,10123
+Shelby,State House,96,Democratic,Dwayne Thompson,3099
+Shelby,State House,96,Republican,Steve McManus,6524
+Shelby,State House,97,Democratic,No Candidate Qualified,0
+Shelby,State House,97,Republican,Jim Coley,6649
+Shelby,State House,98,Democratic,Antonio Parkinson,4555
+Shelby,State House,98,Republican,No Candidate Qualified,0
+Shelby,State House,99,Democratic,No Candidate Qualified,0
+Shelby,State House,99,Republican,Ron Lollar,8824
+Shelby,State Senate,29,Democratic,Herman Sawyer,611
+Shelby,State Senate,29,Democratic,Lee Harris,10517
+Shelby,State Senate,29,Democratic,Ophelia E. Ford,6756
+Shelby,State Senate,29,Democratic,Ricky Dixon,6882
+Shelby,State Senate,29,Republican,"Anthony D. Herron, Jr.",682
+Shelby,State Senate,29,Republican,"James R. ""Jim"" Finney",3111
+Shelby,State Senate,31,Democratic,No Candidate Qualified,0
+Shelby,State Senate,31,Republican,Brian Kelsey,23703
+Shelby,State Senate,33,Democratic,Reginald Tate,16037
+Shelby,State Senate,33,Republican,No Candidate Qualified,0
+Shelby,U.S. House,8,Democratic,Lawrence A. Pivnick,1527
+Shelby,U.S. House,8,Democratic,Rickey Hobson,2957
+Shelby,U.S. House,8,Democratic,Tom Reasons,838
+Shelby,U.S. House,8,Democratic,Wes Bradley,1622
+Shelby,U.S. House,8,Republican,Dana Matheny,5908
+Shelby,U.S. House,8,Republican,John Mills,3254
+Shelby,U.S. House,8,Republican,Stephen Lee Fincher,25815
+Shelby,U.S. House,8,Republican,Write-In - Nicholas Pegues,1
+Shelby,U.S. House,9,Democratic,Isaac Richmond,876
+Shelby,U.S. House,9,Democratic,Ricky E. Wilkins,22336
+Shelby,U.S. House,9,Democratic,Steve Cohen,45423
+Shelby,U.S. House,9,Republican,Charlotte Bergmann,18579
 Shelby,United States Senate,NA,Democratic,Gary Gene Davis,7380
 Shelby,United States Senate,NA,Democratic,Gordon Ball,27378
 Shelby,United States Senate,NA,Democratic,Larry Crim,6891
@@ -3020,14 +3020,14 @@ Smith,State Executive Committeewoman,17,Democratic,Rachel Givens,1288
 Smith,State Executive Committeewoman,17,Republican,Jennifer Franklin Winfree,853
 Smith,State Executive Committeewoman,17,Republican,Pat Fields,635
 Smith,State Executive Committeewoman,17,Republican,Yvonne G. Hunter,471
-Smith,Tennessee House of Representatives,40,Democratic,Sarah Marie Smith,1632
-Smith,Tennessee House of Representatives,40,Republican,Terri Lynn Weaver,2553
-Smith,Tennessee Senate,17,Democratic,No Candidate Qualified,0
-Smith,Tennessee Senate,17,Republican,Clark Boyd,822
-Smith,Tennessee Senate,17,Republican,Mae Beavers,1994
-Smith,United States House of Representatives,6,Democratic,Amos Scott Powers,1193
-Smith,United States House of Representatives,6,Republican,Diane Black,2145
-Smith,United States House of Representatives,6,Republican,Jerry Lowery,608
+Smith,State House,40,Democratic,Sarah Marie Smith,1632
+Smith,State House,40,Republican,Terri Lynn Weaver,2553
+Smith,State Senate,17,Democratic,No Candidate Qualified,0
+Smith,State Senate,17,Republican,Clark Boyd,822
+Smith,State Senate,17,Republican,Mae Beavers,1994
+Smith,U.S. House,6,Democratic,Amos Scott Powers,1193
+Smith,U.S. House,6,Republican,Diane Black,2145
+Smith,U.S. House,6,Republican,Jerry Lowery,608
 Smith,United States Senate,NA,Democratic,Gary Gene Davis,200
 Smith,United States Senate,NA,Democratic,Gordon Ball,617
 Smith,United States Senate,NA,Democratic,Larry Crim,81
@@ -3051,13 +3051,13 @@ Stewart,State Executive Committeeman,22,Democratic,Keith Jackson,1030
 Stewart,State Executive Committeeman,22,Republican,R. Wayne Oldham,1258
 Stewart,State Executive Committeewoman,22,Democratic,Linda Adams Barnes,1048
 Stewart,State Executive Committeewoman,22,Republican,"Patricia ""Pat"" Allen",1234
-Stewart,Tennessee House of Representatives,75,Democratic,Charles W. Cooper,683
-Stewart,Tennessee House of Representatives,75,Democratic,Randy Patton,452
-Stewart,Tennessee House of Representatives,75,Republican,Tim Wirgau,1446
-Stewart,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,133
-Stewart,United States House of Representatives,7,Democratic,Daniel Cramer,925
-Stewart,United States House of Representatives,7,Republican,Jacob Brimm,263
-Stewart,United States House of Representatives,7,Republican,Marsha Blackburn,1279
+Stewart,State House,75,Democratic,Charles W. Cooper,683
+Stewart,State House,75,Democratic,Randy Patton,452
+Stewart,State House,75,Republican,Tim Wirgau,1446
+Stewart,U.S. House,7,Democratic,Credo Comlan Amouzouvik,133
+Stewart,U.S. House,7,Democratic,Daniel Cramer,925
+Stewart,U.S. House,7,Republican,Jacob Brimm,263
+Stewart,U.S. House,7,Republican,Marsha Blackburn,1279
 Stewart,United States Senate,NA,Democratic,Gary Gene Davis,222
 Stewart,United States Senate,NA,Democratic,Gordon Ball,353
 Stewart,United States Senate,NA,Democratic,Larry Crim,106
@@ -3084,18 +3084,18 @@ Sullivan,State Executive Committeeman,4,Republican,Mack Patton,5598
 Sullivan,State Executive Committeewoman,4,Democratic,Lori Love,2189
 Sullivan,State Executive Committeewoman,4,Republican,Gail D. Patton,4530
 Sullivan,State Executive Committeewoman,4,Republican,Linda D. Buckles,9255
-Sullivan,Tennessee House of Representatives,1,Democratic,No Candidate Qualified,0
-Sullivan,Tennessee House of Representatives,1,Republican,Jon C. Lundberg,4380
-Sullivan,Tennessee House of Representatives,2,Democratic,No Candidate Qualified,0
-Sullivan,Tennessee House of Representatives,2,Republican,Bud Hulsey,5046
-Sullivan,Tennessee House of Representatives,2,Republican,Tony Shipley,3391
-Sullivan,Tennessee House of Representatives,3,Democratic,No Candidate Qualified,0
-Sullivan,Tennessee House of Representatives,3,Republican,Kevin Dwayne Parsons,639
-Sullivan,Tennessee House of Representatives,3,Republican,Timothy Hill,3130
-Sullivan,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Sullivan,United States House of Representatives,1,Republican,Daniel J. Hartley,1505
-Sullivan,United States House of Representatives,1,Republican,John Paul Rader,829
-Sullivan,United States House of Representatives,1,Republican,Phil Roe,14854
+Sullivan,State House,1,Democratic,No Candidate Qualified,0
+Sullivan,State House,1,Republican,Jon C. Lundberg,4380
+Sullivan,State House,2,Democratic,No Candidate Qualified,0
+Sullivan,State House,2,Republican,Bud Hulsey,5046
+Sullivan,State House,2,Republican,Tony Shipley,3391
+Sullivan,State House,3,Democratic,No Candidate Qualified,0
+Sullivan,State House,3,Republican,Kevin Dwayne Parsons,639
+Sullivan,State House,3,Republican,Timothy Hill,3130
+Sullivan,U.S. House,1,Democratic,No Candidate Qualified,0
+Sullivan,U.S. House,1,Republican,Daniel J. Hartley,1505
+Sullivan,U.S. House,1,Republican,John Paul Rader,829
+Sullivan,U.S. House,1,Republican,Phil Roe,14854
 Sullivan,United States Senate,NA,Democratic,Gary Gene Davis,640
 Sullivan,United States Senate,NA,Democratic,Gordon Ball,660
 Sullivan,United States Senate,NA,Democratic,Larry Crim,213
@@ -3123,16 +3123,16 @@ Sumner,State Executive Committeewoman,18,Democratic,Jeanette Jackson,1207
 Sumner,State Executive Committeewoman,18,Democratic,Maria Brewer,1282
 Sumner,State Executive Committeewoman,18,Republican,Melissa Clark Gay,7972
 Sumner,State Executive Committeewoman,18,Republican,Ruth Fennell,5128
-Sumner,Tennessee House of Representatives,40,Democratic,Sarah Marie Smith,617
-Sumner,Tennessee House of Representatives,40,Republican,Terri Lynn Weaver,3103
-Sumner,Tennessee House of Representatives,44,Democratic,No Candidate Qualified,0
-Sumner,Tennessee House of Representatives,44,Republican,William Lamberth,4588
-Sumner,Tennessee House of Representatives,45,Democratic,"Steven D. Puckett, Jr.",871
-Sumner,Tennessee House of Representatives,45,Republican,Courtney L. Rogers,4488
-Sumner,Tennessee House of Representatives,45,Republican,Len Silverman,2897
-Sumner,United States House of Representatives,6,Democratic,Amos Scott Powers,2297
-Sumner,United States House of Representatives,6,Republican,Diane Black,12788
-Sumner,United States House of Representatives,6,Republican,Jerry Lowery,3378
+Sumner,State House,40,Democratic,Sarah Marie Smith,617
+Sumner,State House,40,Republican,Terri Lynn Weaver,3103
+Sumner,State House,44,Democratic,No Candidate Qualified,0
+Sumner,State House,44,Republican,William Lamberth,4588
+Sumner,State House,45,Democratic,"Steven D. Puckett, Jr.",871
+Sumner,State House,45,Republican,Courtney L. Rogers,4488
+Sumner,State House,45,Republican,Len Silverman,2897
+Sumner,U.S. House,6,Democratic,Amos Scott Powers,2297
+Sumner,U.S. House,6,Republican,Diane Black,12788
+Sumner,U.S. House,6,Republican,Jerry Lowery,3378
 Sumner,United States Senate,NA,Democratic,Gary Gene Davis,322
 Sumner,United States Senate,NA,Democratic,Gordon Ball,1142
 Sumner,United States Senate,NA,Democratic,Larry Crim,228
@@ -3158,16 +3158,16 @@ Tipton,State Executive Committeeman,32,Republican,John R. Wilkerson,1002
 Tipton,State Executive Committeeman,32,Republican,Larry A. McKee,1450
 Tipton,State Executive Committeewoman,32,Democratic,Deborah K. Reed,1326
 Tipton,State Executive Committeewoman,32,Republican,Write-In - Paula Sedgwick,10
-Tipton,Tennessee House of Representatives,81,Democratic,No Candidate Qualified,0
-Tipton,Tennessee House of Representatives,81,Republican,Debra F. Moody,4394
-Tipton,Tennessee House of Representatives,81,Republican,Rory Bricco,2112
-Tipton,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,106
-Tipton,United States House of Representatives,8,Democratic,Rickey Hobson,505
-Tipton,United States House of Representatives,8,Democratic,Tom Reasons,249
-Tipton,United States House of Representatives,8,Democratic,Wes Bradley,510
-Tipton,United States House of Representatives,8,Republican,Dana Matheny,821
-Tipton,United States House of Representatives,8,Republican,John Mills,357
-Tipton,United States House of Representatives,8,Republican,Stephen Lee Fincher,4990
+Tipton,State House,81,Democratic,No Candidate Qualified,0
+Tipton,State House,81,Republican,Debra F. Moody,4394
+Tipton,State House,81,Republican,Rory Bricco,2112
+Tipton,U.S. House,8,Democratic,Lawrence A. Pivnick,106
+Tipton,U.S. House,8,Democratic,Rickey Hobson,505
+Tipton,U.S. House,8,Democratic,Tom Reasons,249
+Tipton,U.S. House,8,Democratic,Wes Bradley,510
+Tipton,U.S. House,8,Republican,Dana Matheny,821
+Tipton,U.S. House,8,Republican,John Mills,357
+Tipton,U.S. House,8,Republican,Stephen Lee Fincher,4990
 Tipton,United States Senate,NA,Democratic,Gary Gene Davis,236
 Tipton,United States Senate,NA,Democratic,Gordon Ball,576
 Tipton,United States Senate,NA,Democratic,Larry Crim,128
@@ -3195,11 +3195,11 @@ Trousdale,State Executive Committeewoman,18,Democratic,Jeanette Jackson,247
 Trousdale,State Executive Committeewoman,18,Democratic,Maria Brewer,303
 Trousdale,State Executive Committeewoman,18,Republican,Melissa Clark Gay,305
 Trousdale,State Executive Committeewoman,18,Republican,Ruth Fennell,284
-Trousdale,Tennessee House of Representatives,40,Democratic,Sarah Marie Smith,599
-Trousdale,Tennessee House of Representatives,40,Republican,Terri Lynn Weaver,769
-Trousdale,United States House of Representatives,6,Democratic,Amos Scott Powers,488
-Trousdale,United States House of Representatives,6,Republican,Diane Black,675
-Trousdale,United States House of Representatives,6,Republican,Jerry Lowery,178
+Trousdale,State House,40,Democratic,Sarah Marie Smith,599
+Trousdale,State House,40,Republican,Terri Lynn Weaver,769
+Trousdale,U.S. House,6,Democratic,Amos Scott Powers,488
+Trousdale,U.S. House,6,Republican,Diane Black,675
+Trousdale,U.S. House,6,Republican,Jerry Lowery,178
 Trousdale,United States Senate,NA,Democratic,Gary Gene Davis,79
 Trousdale,United States Senate,NA,Democratic,Gordon Ball,254
 Trousdale,United States Senate,NA,Democratic,Larry Crim,40
@@ -3225,15 +3225,15 @@ Unicoi,State Executive Committeeman,3,Republican,Kelly Wolfe,1526
 Unicoi,State Executive Committeeman,3,Republican,Kent Harris,1202
 Unicoi,State Executive Committeewoman,3,Democratic,Nancy Fischman,200
 Unicoi,State Executive Committeewoman,3,Republican,Sara Whitehead Sellers,1972
-Unicoi,Tennessee House of Representatives,4,Democratic,Rob Martin,203
-Unicoi,Tennessee House of Representatives,4,Republican,"John B. Holsclaw, Jr.",1352
-Unicoi,Tennessee House of Representatives,4,Republican,Judy R. Veeneman,1236
-Unicoi,Tennessee Senate,3,Democratic,No Candidate Qualified,0
-Unicoi,Tennessee Senate,3,Republican,Rusty Crowe,2411
-Unicoi,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Unicoi,United States House of Representatives,1,Republican,Daniel J. Hartley,286
-Unicoi,United States House of Representatives,1,Republican,John Paul Rader,192
-Unicoi,United States House of Representatives,1,Republican,Phil Roe,2193
+Unicoi,State House,4,Democratic,Rob Martin,203
+Unicoi,State House,4,Republican,"John B. Holsclaw, Jr.",1352
+Unicoi,State House,4,Republican,Judy R. Veeneman,1236
+Unicoi,State Senate,3,Democratic,No Candidate Qualified,0
+Unicoi,State Senate,3,Republican,Rusty Crowe,2411
+Unicoi,U.S. House,1,Democratic,No Candidate Qualified,0
+Unicoi,U.S. House,1,Republican,Daniel J. Hartley,286
+Unicoi,U.S. House,1,Republican,John Paul Rader,192
+Unicoi,U.S. House,1,Republican,Phil Roe,2193
 Unicoi,United States Senate,NA,Democratic,Gary Gene Davis,59
 Unicoi,United States Senate,NA,Democratic,Gordon Ball,43
 Unicoi,United States Senate,NA,Democratic,Larry Crim,24
@@ -3260,14 +3260,14 @@ Union,State Executive Committeewoman,8,Democratic,Lindsey Cole Cadle,385
 Union,State Executive Committeewoman,8,Democratic,Vonda Mallicoat Laughlin,182
 Union,State Executive Committeewoman,8,Republican,Betty Fain,892
 Union,State Executive Committeewoman,8,Republican,Jennifer Inman Little,1056
-Union,Tennessee House of Representatives,35,Democratic,No Candidate Qualified,0
-Union,Tennessee House of Representatives,35,Republican,"Dennis ""Coach"" Roach",320
-Union,Tennessee House of Representatives,35,Republican,Jerry Sexton,670
-Union,Tennessee House of Representatives,36,Democratic,James Virgil Kidwell,347
-Union,Tennessee House of Representatives,36,Republican,Dennis H. Powers,1472
-Union,United States House of Representatives,3,Democratic,Mary M. Headrick,658
-Union,United States House of Representatives,3,Republican,Chuck Fleischmann,1579
-Union,United States House of Representatives,3,Republican,Weston Wamp,1352
+Union,State House,35,Democratic,No Candidate Qualified,0
+Union,State House,35,Republican,"Dennis ""Coach"" Roach",320
+Union,State House,35,Republican,Jerry Sexton,670
+Union,State House,36,Democratic,James Virgil Kidwell,347
+Union,State House,36,Republican,Dennis H. Powers,1472
+Union,U.S. House,3,Democratic,Mary M. Headrick,658
+Union,U.S. House,3,Republican,Chuck Fleischmann,1579
+Union,U.S. House,3,Republican,Weston Wamp,1352
 Union,United States Senate,NA,Democratic,Gary Gene Davis,148
 Union,United States Senate,NA,Democratic,Gordon Ball,203
 Union,United States Senate,NA,Democratic,Larry Crim,57
@@ -3294,19 +3294,19 @@ Van Buren,State Executive Committeeman,16,Republican,Sam T. Harper,219
 Van Buren,State Executive Committeewoman,16,Democratic,Betty (Newman) Fraley,534
 Van Buren,State Executive Committeewoman,16,Republican,Frances Arthur,251
 Van Buren,State Executive Committeewoman,16,Republican,Iris Rudder,199
-Van Buren,Tennessee House of Representatives,25,Democratic,Judy Barnett,514
-Van Buren,Tennessee House of Representatives,25,Republican,Cameron Sexton,459
-Van Buren,United States House of Representatives,4,Democratic,Lenda Sherrell,527
-Van Buren,United States House of Representatives,4,Republican,David R. Tate,6
-Van Buren,United States House of Representatives,4,Republican,Jim Tracy,111
-Van Buren,United States House of Representatives,4,Republican,John Anderson,57
-Van Buren,United States House of Representatives,4,Republican,Michael S. Warden,2
-Van Buren,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",3
-Van Buren,United States House of Representatives,4,Republican,Scott DesJarlais,391
-Van Buren,United States House of Representatives,4,Republican,Steve Lane,11
-Van Buren,United States House of Representatives,6,Democratic,Amos Scott Powers,53
-Van Buren,United States House of Representatives,6,Republican,Diane Black,47
-Van Buren,United States House of Representatives,6,Republican,Jerry Lowery,18
+Van Buren,State House,25,Democratic,Judy Barnett,514
+Van Buren,State House,25,Republican,Cameron Sexton,459
+Van Buren,U.S. House,4,Democratic,Lenda Sherrell,527
+Van Buren,U.S. House,4,Republican,David R. Tate,6
+Van Buren,U.S. House,4,Republican,Jim Tracy,111
+Van Buren,U.S. House,4,Republican,John Anderson,57
+Van Buren,U.S. House,4,Republican,Michael S. Warden,2
+Van Buren,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",3
+Van Buren,U.S. House,4,Republican,Scott DesJarlais,391
+Van Buren,U.S. House,4,Republican,Steve Lane,11
+Van Buren,U.S. House,6,Democratic,Amos Scott Powers,53
+Van Buren,U.S. House,6,Republican,Diane Black,47
+Van Buren,U.S. House,6,Republican,Jerry Lowery,18
 Van Buren,United States Senate,NA,Democratic,Gary Gene Davis,190
 Van Buren,United States Senate,NA,Democratic,Gordon Ball,163
 Van Buren,United States Senate,NA,Democratic,Larry Crim,127
@@ -3333,20 +3333,20 @@ Warren,State Executive Committeeman,16,Republican,Sam T. Harper,932
 Warren,State Executive Committeewoman,16,Democratic,Betty (Newman) Fraley,2731
 Warren,State Executive Committeewoman,16,Republican,Frances Arthur,1249
 Warren,State Executive Committeewoman,16,Republican,Iris Rudder,805
-Warren,Tennessee House of Representatives,43,Democratic,James Thomas Jacobs,278
-Warren,Tennessee House of Representatives,43,Democratic,Kevin Dunlap,2030
-Warren,Tennessee House of Representatives,43,Democratic,Kristopher Gore,180
-Warren,Tennessee House of Representatives,43,Republican,Robert F. Dunham,1300
-Warren,Tennessee House of Representatives,47,Democratic,No Candidate Qualified,0
-Warren,Tennessee House of Representatives,47,Republican,Judd Matheny,1286
-Warren,United States House of Representatives,4,Democratic,Lenda Sherrell,2574
-Warren,United States House of Representatives,4,Republican,David R. Tate,62
-Warren,United States House of Representatives,4,Republican,Jim Tracy,857
-Warren,United States House of Representatives,4,Republican,John Anderson,341
-Warren,United States House of Representatives,4,Republican,Michael S. Warden,44
-Warren,United States House of Representatives,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",11
-Warren,United States House of Representatives,4,Republican,Scott DesJarlais,1816
-Warren,United States House of Representatives,4,Republican,Steve Lane,65
+Warren,State House,43,Democratic,James Thomas Jacobs,278
+Warren,State House,43,Democratic,Kevin Dunlap,2030
+Warren,State House,43,Democratic,Kristopher Gore,180
+Warren,State House,43,Republican,Robert F. Dunham,1300
+Warren,State House,47,Democratic,No Candidate Qualified,0
+Warren,State House,47,Republican,Judd Matheny,1286
+Warren,U.S. House,4,Democratic,Lenda Sherrell,2574
+Warren,U.S. House,4,Republican,David R. Tate,62
+Warren,U.S. House,4,Republican,Jim Tracy,857
+Warren,U.S. House,4,Republican,John Anderson,341
+Warren,U.S. House,4,Republican,Michael S. Warden,44
+Warren,U.S. House,4,Republican,"Oluyomi ""Fapas"" Faparusi, Sr.",11
+Warren,U.S. House,4,Republican,Scott DesJarlais,1816
+Warren,U.S. House,4,Republican,Steve Lane,65
 Warren,United States Senate,NA,Democratic,Gary Gene Davis,542
 Warren,United States Senate,NA,Democratic,Gordon Ball,839
 Warren,United States Senate,NA,Democratic,Larry Crim,341
@@ -3372,19 +3372,19 @@ Washington,State Executive Committeeman,3,Republican,Kelly Wolfe,7594
 Washington,State Executive Committeeman,3,Republican,Kent Harris,6999
 Washington,State Executive Committeewoman,3,Democratic,Nancy Fischman,1210
 Washington,State Executive Committeewoman,3,Republican,Sara Whitehead Sellers,11049
-Washington,Tennessee House of Representatives,6,Democratic,No Candidate Qualified,0
-Washington,Tennessee House of Representatives,6,Republican,Clayton Stout,3495
-Washington,Tennessee House of Representatives,6,Republican,James (Micah) Van Huss,4443
-Washington,Tennessee House of Representatives,7,Democratic,No Candidate Qualified,0
-Washington,Tennessee House of Representatives,7,Republican,Matthew Hill,3966
-Washington,Tennessee House of Representatives,7,Republican,Phil Carriger,3214
-Washington,Tennessee House of Representatives,7,Republican,Todd M. Franklin,265
-Washington,Tennessee Senate,3,Democratic,No Candidate Qualified,0
-Washington,Tennessee Senate,3,Republican,Rusty Crowe,13272
-Washington,United States House of Representatives,1,Democratic,No Candidate Qualified,0
-Washington,United States House of Representatives,1,Republican,Daniel J. Hartley,1491
-Washington,United States House of Representatives,1,Republican,John Paul Rader,764
-Washington,United States House of Representatives,1,Republican,Phil Roe,12666
+Washington,State House,6,Democratic,No Candidate Qualified,0
+Washington,State House,6,Republican,Clayton Stout,3495
+Washington,State House,6,Republican,James (Micah) Van Huss,4443
+Washington,State House,7,Democratic,No Candidate Qualified,0
+Washington,State House,7,Republican,Matthew Hill,3966
+Washington,State House,7,Republican,Phil Carriger,3214
+Washington,State House,7,Republican,Todd M. Franklin,265
+Washington,State Senate,3,Democratic,No Candidate Qualified,0
+Washington,State Senate,3,Republican,Rusty Crowe,13272
+Washington,U.S. House,1,Democratic,No Candidate Qualified,0
+Washington,U.S. House,1,Republican,Daniel J. Hartley,1491
+Washington,U.S. House,1,Republican,John Paul Rader,764
+Washington,U.S. House,1,Republican,Phil Roe,12666
 Washington,United States Senate,NA,Democratic,Gary Gene Davis,305
 Washington,United States Senate,NA,Democratic,Gordon Ball,329
 Washington,United States Senate,NA,Democratic,Larry Crim,107
@@ -3410,13 +3410,13 @@ Wayne,State Executive Committeewoman,28,Democratic,Cheri Thomas,141
 Wayne,State Executive Committeewoman,28,Democratic,Nancy Dunavant,218
 Wayne,State Executive Committeewoman,28,Republican,Angie McClanahan,1323
 Wayne,State Executive Committeewoman,28,Republican,Joanne M. Pogue,663
-Wayne,Tennessee House of Representatives,71,Democratic,No Candidate Qualified,0
-Wayne,Tennessee House of Representatives,71,Republican,"David ""Coach"" Byrd",2561
-Wayne,Tennessee House of Representatives,71,Republican,Vance Dennis,996
-Wayne,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,67
-Wayne,United States House of Representatives,7,Democratic,Daniel Cramer,292
-Wayne,United States House of Representatives,7,Republican,Jacob Brimm,389
-Wayne,United States House of Representatives,7,Republican,Marsha Blackburn,2954
+Wayne,State House,71,Democratic,No Candidate Qualified,0
+Wayne,State House,71,Republican,"David ""Coach"" Byrd",2561
+Wayne,State House,71,Republican,Vance Dennis,996
+Wayne,U.S. House,7,Democratic,Credo Comlan Amouzouvik,67
+Wayne,U.S. House,7,Democratic,Daniel Cramer,292
+Wayne,U.S. House,7,Republican,Jacob Brimm,389
+Wayne,U.S. House,7,Republican,Marsha Blackburn,2954
 Wayne,United States Senate,NA,Democratic,Gary Gene Davis,106
 Wayne,United States Senate,NA,Democratic,Gordon Ball,118
 Wayne,United States Senate,NA,Democratic,Larry Crim,31
@@ -3443,15 +3443,15 @@ Weakley,State Executive Committeeman,24,Republican,Joey Mehlhorn,1339
 Weakley,State Executive Committeewoman,24,Democratic,Angela Callis,1510
 Weakley,State Executive Committeewoman,24,Republican,Christi Cross,1509
 Weakley,State Executive Committeewoman,24,Republican,Marilucile Counce,1401
-Weakley,Tennessee House of Representatives,76,Democratic,Joyce Washington,1562
-Weakley,Tennessee House of Representatives,76,Republican,Andy Holt,3391
-Weakley,United States House of Representatives,8,Democratic,Lawrence A. Pivnick,144
-Weakley,United States House of Representatives,8,Democratic,Rickey Hobson,290
-Weakley,United States House of Representatives,8,Democratic,Tom Reasons,382
-Weakley,United States House of Representatives,8,Democratic,Wes Bradley,615
-Weakley,United States House of Representatives,8,Republican,Dana Matheny,306
-Weakley,United States House of Representatives,8,Republican,John Mills,244
-Weakley,United States House of Representatives,8,Republican,Stephen Lee Fincher,3082
+Weakley,State House,76,Democratic,Joyce Washington,1562
+Weakley,State House,76,Republican,Andy Holt,3391
+Weakley,U.S. House,8,Democratic,Lawrence A. Pivnick,144
+Weakley,U.S. House,8,Democratic,Rickey Hobson,290
+Weakley,U.S. House,8,Democratic,Tom Reasons,382
+Weakley,U.S. House,8,Democratic,Wes Bradley,615
+Weakley,U.S. House,8,Republican,Dana Matheny,306
+Weakley,U.S. House,8,Republican,John Mills,244
+Weakley,U.S. House,8,Republican,Stephen Lee Fincher,3082
 Weakley,United States Senate,NA,Democratic,Gary Gene Davis,242
 Weakley,United States Senate,NA,Democratic,Gordon Ball,401
 Weakley,United States Senate,NA,Democratic,Larry Crim,120
@@ -3482,17 +3482,17 @@ White,State Executive Committeewoman,15,Democratic,Geeta W. McMillan,1397
 White,State Executive Committeewoman,15,Republican,Cindy Beckwith,915
 White,State Executive Committeewoman,15,Republican,Hannah Horseman,522
 White,State Executive Committeewoman,15,Republican,Patty M. Dycus,1022
-White,Tennessee House of Representatives,43,Democratic,James Thomas Jacobs,241
-White,Tennessee House of Representatives,43,Democratic,Kevin Dunlap,723
-White,Tennessee House of Representatives,43,Democratic,Kristopher Gore,373
-White,Tennessee House of Representatives,43,Republican,Robert F. Dunham,2807
-White,Tennessee Senate,15,Democratic,Betty Vaudt,1204
-White,Tennessee Senate,15,Republican,Gary Steakley,120
-White,Tennessee Senate,15,Republican,Matt Swallows,788
-White,Tennessee Senate,15,Republican,Paul Bailey,2582
-White,United States House of Representatives,6,Democratic,Amos Scott Powers,1200
-White,United States House of Representatives,6,Republican,Diane Black,1746
-White,United States House of Representatives,6,Republican,Jerry Lowery,1760
+White,State House,43,Democratic,James Thomas Jacobs,241
+White,State House,43,Democratic,Kevin Dunlap,723
+White,State House,43,Democratic,Kristopher Gore,373
+White,State House,43,Republican,Robert F. Dunham,2807
+White,State Senate,15,Democratic,Betty Vaudt,1204
+White,State Senate,15,Republican,Gary Steakley,120
+White,State Senate,15,Republican,Matt Swallows,788
+White,State Senate,15,Republican,Paul Bailey,2582
+White,U.S. House,6,Democratic,Amos Scott Powers,1200
+White,U.S. House,6,Republican,Diane Black,1746
+White,U.S. House,6,Republican,Jerry Lowery,1760
 White,United States Senate,NA,Democratic,Gary Gene Davis,367
 White,United States Senate,NA,Democratic,Gordon Ball,424
 White,United States Senate,NA,Democratic,Larry Crim,86
@@ -3522,21 +3522,21 @@ Williamson,State Executive Committeewoman,23,Republican,Betty Jane Chalfant,3892
 Williamson,State Executive Committeewoman,23,Republican,Erin W. Nations,2938
 Williamson,State Executive Committeewoman,23,Republican,Paula Uhlir,4213
 Williamson,State Executive Committeewoman,23,Republican,Rebecca Ann Burke,6408
-Williamson,Tennessee House of Representatives,61,Democratic,No Candidate Qualified,0
-Williamson,Tennessee House of Representatives,61,Republican,"Charles M. Sargent, Jr.",4404
-Williamson,Tennessee House of Representatives,61,Republican,Steve Gawrys,4149
-Williamson,Tennessee House of Representatives,63,Democratic,No Candidate Qualified,0
-Williamson,Tennessee House of Representatives,63,Republican,Cherie Hammond,2809
-Williamson,Tennessee House of Representatives,63,Republican,Glen Casada,5423
-Williamson,Tennessee House of Representatives,65,Democratic,Bill Peach,669
-Williamson,Tennessee House of Representatives,65,Democratic,Brian N. Johnson,379
-Williamson,Tennessee House of Representatives,65,Republican,Jeremy Durham,5437
-Williamson,Tennessee Senate,23,Democratic,No Candidate Qualified,0
-Williamson,Tennessee Senate,23,Republican,Jack Johnson,18985
-Williamson,United States House of Representatives,7,Democratic,Credo Comlan Amouzouvik,538
-Williamson,United States House of Representatives,7,Democratic,Daniel Cramer,2051
-Williamson,United States House of Representatives,7,Republican,Jacob Brimm,4033
-Williamson,United States House of Representatives,7,Republican,Marsha Blackburn,18964
+Williamson,State House,61,Democratic,No Candidate Qualified,0
+Williamson,State House,61,Republican,"Charles M. Sargent, Jr.",4404
+Williamson,State House,61,Republican,Steve Gawrys,4149
+Williamson,State House,63,Democratic,No Candidate Qualified,0
+Williamson,State House,63,Republican,Cherie Hammond,2809
+Williamson,State House,63,Republican,Glen Casada,5423
+Williamson,State House,65,Democratic,Bill Peach,669
+Williamson,State House,65,Democratic,Brian N. Johnson,379
+Williamson,State House,65,Republican,Jeremy Durham,5437
+Williamson,State Senate,23,Democratic,No Candidate Qualified,0
+Williamson,State Senate,23,Republican,Jack Johnson,18985
+Williamson,U.S. House,7,Democratic,Credo Comlan Amouzouvik,538
+Williamson,U.S. House,7,Democratic,Daniel Cramer,2051
+Williamson,U.S. House,7,Republican,Jacob Brimm,4033
+Williamson,U.S. House,7,Republican,Marsha Blackburn,18964
 Williamson,United States Senate,NA,Democratic,Gary Gene Davis,379
 Williamson,United States Senate,NA,Democratic,Gordon Ball,1102
 Williamson,United States Senate,NA,Democratic,Larry Crim,251
@@ -3564,16 +3564,16 @@ Wilson,State Executive Committeewoman,17,Democratic,Rachel Givens,3433
 Wilson,State Executive Committeewoman,17,Republican,Jennifer Franklin Winfree,4771
 Wilson,State Executive Committeewoman,17,Republican,Pat Fields,4712
 Wilson,State Executive Committeewoman,17,Republican,Yvonne G. Hunter,2584
-Wilson,Tennessee House of Representatives,46,Democratic,Candace Reed,1617
-Wilson,Tennessee House of Representatives,46,Republican,Mark A. Pody,5524
-Wilson,Tennessee House of Representatives,57,Democratic,Jesse McLevain,1698
-Wilson,Tennessee House of Representatives,57,Republican,Susan M Lynn,8634
-Wilson,Tennessee Senate,17,Democratic,No Candidate Qualified,0
-Wilson,Tennessee Senate,17,Republican,Clark Boyd,7051
-Wilson,Tennessee Senate,17,Republican,Mae Beavers,9112
-Wilson,United States House of Representatives,6,Democratic,Amos Scott Powers,3308
-Wilson,United States House of Representatives,6,Republican,Diane Black,12091
-Wilson,United States House of Representatives,6,Republican,Jerry Lowery,3827
+Wilson,State House,46,Democratic,Candace Reed,1617
+Wilson,State House,46,Republican,Mark A. Pody,5524
+Wilson,State House,57,Democratic,Jesse McLevain,1698
+Wilson,State House,57,Republican,Susan M Lynn,8634
+Wilson,State Senate,17,Democratic,No Candidate Qualified,0
+Wilson,State Senate,17,Republican,Clark Boyd,7051
+Wilson,State Senate,17,Republican,Mae Beavers,9112
+Wilson,U.S. House,6,Democratic,Amos Scott Powers,3308
+Wilson,U.S. House,6,Republican,Diane Black,12091
+Wilson,U.S. House,6,Republican,Jerry Lowery,3827
 Wilson,United States Senate,NA,Democratic,Gary Gene Davis,470
 Wilson,United States Senate,NA,Democratic,Gordon Ball,1719
 Wilson,United States Senate,NA,Democratic,Larry Crim,442
