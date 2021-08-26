@@ -1,4 +1,7 @@
-# OpenElections Data Tennessee [![Build Status](https://github.com/openelections/openelections-data-tn/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-tn/actions)
+[![Build Status](https://github.com/openelections/openelections-data-tn/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-tn/actions/workflows/data_tests.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/openelections/openelections-data-tn/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-tn/actions/workflows/format_tests.yml?query=branch%3Amaster)
+
+# OpenElections Data Tennessee
 
 This repository contains pre-processed election results from Tennessee, formatted to be ingested into the OpenElections [processing pipeline](http://docs.openelections.net/guide/). It contains mostly CSV files converted from PDF tables. Interested in contributing? We have a bunch of [easy tasks](https://github.com/openelections/openelections-data-tn/labels/easy%20task) for you to tackle.
 
