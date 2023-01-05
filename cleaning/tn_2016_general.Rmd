@@ -9,7 +9,7 @@ library(tidyverse)
 also called: rio
 
 ```{r read}
-tn <- rio::import('http://sos-tn-gov-files.s3.amazonaws.com/StateGeneralbyPrecinctNov2016.xlsx')
+tn <- rio::import('https://sos-prod.tnsosgovfiles.com/s3fs-public/document/20221108ByPrecinct.xlsx')
 tn <- tbl_df(tn)
 ```
 
