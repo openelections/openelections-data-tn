@@ -1,0 +1,151 @@
+county,precinct,office,district,party,candidate,votes
+Dyer,A1- Bonicord,State House,77,Democratic,Michael Smith,4
+Dyer,A1- Bonicord,State House,77,Independent,Billy M Jones,3
+Dyer,A1- Bonicord,State House,77,Independent,Max Smith,1
+Dyer,A1- Bonicord,State House,77,Independent,Ronnie Henley,1
+Dyer,A1- Bonicord,State House,77,Republican,Rusty Grills,110
+Dyer,A2- Fowlkes,State House,77,Democratic,Michael Smith,9
+Dyer,A2- Fowlkes,State House,77,Independent,Billy M Jones,0
+Dyer,A2- Fowlkes,State House,77,Independent,Max Smith,2
+Dyer,A2- Fowlkes,State House,77,Independent,Ronnie Henley,0
+Dyer,A2- Fowlkes,State House,77,Republican,Rusty Grills,105
+Dyer,B- Newbern,State House,77,Democratic,Michael Smith,15
+Dyer,B- Newbern,State House,77,Independent,Billy M Jones,0
+Dyer,B- Newbern,State House,77,Independent,Max Smith,2
+Dyer,B- Newbern,State House,77,Independent,Ronnie Henley,4
+Dyer,B- Newbern,State House,77,Republican,Rusty Grills,244
+Dyer,C1- Tatumville,State House,77,Democratic,Michael Smith,3
+Dyer,C1- Tatumville,State House,77,Independent,Billy M Jones,0
+Dyer,C1- Tatumville,State House,77,Independent,Max Smith,0
+Dyer,C1- Tatumville,State House,77,Independent,Ronnie Henley,0
+Dyer,C1- Tatumville,State House,77,Republican,Rusty Grills,95
+Dyer,C2- Trimble,State House,77,Democratic,Michael Smith,15
+Dyer,C2- Trimble,State House,77,Independent,Billy M Jones,0
+Dyer,C2- Trimble,State House,77,Independent,Max Smith,1
+Dyer,C2- Trimble,State House,77,Independent,Ronnie Henley,0
+Dyer,C2- Trimble,State House,77,Republican,Rusty Grills,171
+Dyer,C3- Roellen,State House,77,Democratic,Michael Smith,5
+Dyer,C3- Roellen,State House,77,Independent,Billy M Jones,0
+Dyer,C3- Roellen,State House,77,Independent,Max Smith,0
+Dyer,C3- Roellen,State House,77,Independent,Ronnie Henley,0
+Dyer,C3- Roellen,State House,77,Republican,Rusty Grills,55
+Dyer,D1- Millsfield,State House,77,Democratic,Michael Smith,7
+Dyer,D1- Millsfield,State House,77,Independent,Billy M Jones,0
+Dyer,D1- Millsfield,State House,77,Independent,Max Smith,0
+Dyer,D1- Millsfield,State House,77,Independent,Ronnie Henley,3
+Dyer,D1- Millsfield,State House,77,Republican,Rusty Grills,223
+Dyer,D2- Bogota,State House,77,Democratic,Michael Smith,21
+Dyer,D2- Bogota,State House,77,Independent,Billy M Jones,0
+Dyer,D2- Bogota,State House,77,Independent,Max Smith,2
+Dyer,D2- Bogota,State House,77,Independent,Ronnie Henley,1
+Dyer,D2- Bogota,State House,77,Republican,Rusty Grills,117
+Dyer,E1- Finley,State House,77,Democratic,Michael Smith,9
+Dyer,E1- Finley,State House,77,Independent,Billy M Jones,0
+Dyer,E1- Finley,State House,77,Independent,Max Smith,0
+Dyer,E1- Finley,State House,77,Independent,Ronnie Henley,0
+Dyer,E1- Finley,State House,77,Republican,Rusty Grills,100
+Dyer,E2- Lenox,State House,77,Democratic,Michael Smith,2
+Dyer,E2- Lenox,State House,77,Independent,Billy M Jones,1
+Dyer,E2- Lenox,State House,77,Independent,Max Smith,0
+Dyer,E2- Lenox,State House,77,Independent,Ronnie Henley,0
+Dyer,E2- Lenox,State House,77,Republican,Rusty Grills,128
+Dyer,F- Dyer Co Central,State House,77,Democratic,Michael Smith,50
+Dyer,F- Dyer Co Central,State House,77,Independent,Billy M Jones,1
+Dyer,F- Dyer Co Central,State House,77,Independent,Max Smith,2
+Dyer,F- Dyer Co Central,State House,77,Independent,Ronnie Henley,0
+Dyer,F- Dyer Co Central,State House,77,Republican,Rusty Grills,15
+Dyer,G- Courthouse,State House,77,Democratic,Michael Smith,21
+Dyer,G- Courthouse,State House,77,Independent,Billy M Jones,0
+Dyer,G- Courthouse,State House,77,Independent,Max Smith,0
+Dyer,G- Courthouse,State House,77,Independent,Ronnie Henley,2
+Dyer,G- Courthouse,State House,77,Republican,Rusty Grills,125
+Dyer,H- E. Dyersburg,State House,77,Democratic,Michael Smith,23
+Dyer,H- E. Dyersburg,State House,77,Independent,Billy M Jones,0
+Dyer,H- E. Dyersburg,State House,77,Independent,Max Smith,0
+Dyer,H- E. Dyersburg,State House,77,Independent,Ronnie Henley,0
+Dyer,H- E. Dyersburg,State House,77,Republican,Rusty Grills,138
+Dyer,I1- Community Center,State House,77,Democratic,Michael Smith,19
+Dyer,I1- Community Center,State House,77,Independent,Billy M Jones,0
+Dyer,I1- Community Center,State House,77,Independent,Max Smith,0
+Dyer,I1- Community Center,State House,77,Independent,Ronnie Henley,1
+Dyer,I1- Community Center,State House,77,Republican,Rusty Grills,92
+Dyer,I2- Hurricane Hill,State House,77,Democratic,Michael Smith,13
+Dyer,I2- Hurricane Hill,State House,77,Independent,Billy M Jones,0
+Dyer,I2- Hurricane Hill,State House,77,Independent,Max Smith,0
+Dyer,I2- Hurricane Hill,State House,77,Independent,Ronnie Henley,0
+Dyer,I2- Hurricane Hill,State House,77,Republican,Rusty Grills,108
+Dyer,J- North Dyersburg,State House,77,Democratic,Michael Smith,34
+Dyer,J- North Dyersburg,State House,77,Independent,Billy M Jones,1
+Dyer,J- North Dyersburg,State House,77,Independent,Max Smith,10
+Dyer,J- North Dyersburg,State House,77,Independent,Ronnie Henley,1
+Dyer,J- North Dyersburg,State House,77,Republican,Rusty Grills,277
+Lake,1 Tiptonville SR Citizens,State House,77,Democratic,Michael Smith,3
+Lake,1 Tiptonville SR Citizens,State House,77,Independent,Billy M Jones,0
+Lake,1 Tiptonville SR Citizens,State House,77,Independent,Max Smith,0
+Lake,1 Tiptonville SR Citizens,State House,77,Independent,Ronnie Henley,0
+Lake,1 Tiptonville SR Citizens,State House,77,Republican,Rusty Grills,18
+Lake,2 Courthouse,State House,77,Democratic,Michael Smith,73
+Lake,2 Courthouse,State House,77,Independent,Billy M Jones,0
+Lake,2 Courthouse,State House,77,Independent,Max Smith,1
+Lake,2 Courthouse,State House,77,Independent,Ronnie Henley,1
+Lake,2 Courthouse,State House,77,Republican,Rusty Grills,123
+Lake,3 Lake Co Middle,State House,77,Democratic,Michael Smith,39
+Lake,3 Lake Co Middle,State House,77,Independent,Billy M Jones,0
+Lake,3 Lake Co Middle,State House,77,Independent,Max Smith,2
+Lake,3 Lake Co Middle,State House,77,Independent,Ronnie Henley,1
+Lake,3 Lake Co Middle,State House,77,Republican,Rusty Grills,90
+Obion,2-1 Eddie Cox Sr Ctr,State House,77,Democratic,Michael Smith,1
+Obion,2-1 Eddie Cox Sr Ctr,State House,77,Independent,Billy M Jones,0
+Obion,2-1 Eddie Cox Sr Ctr,State House,77,Independent,Max Smith,0
+Obion,2-1 Eddie Cox Sr Ctr,State House,77,Independent,Ronnie Henley,0
+Obion,2-1 Eddie Cox Sr Ctr,State House,77,Republican,Rusty Grills,2
+Obion,2-4 Woodland,State House,77,Democratic,Michael Smith,14
+Obion,2-4 Woodland,State House,77,Independent,Billy M Jones,4
+Obion,2-4 Woodland,State House,77,Independent,Max Smith,0
+Obion,2-4 Woodland,State House,77,Independent,Ronnie Henley,0
+Obion,2-4 Woodland,State House,77,Republican,Rusty Grills,120
+Obion,3-2 Kenton,State House,77,Democratic,Michael Smith,13
+Obion,3-2 Kenton,State House,77,Independent,Billy M Jones,1
+Obion,3-2 Kenton,State House,77,Independent,Max Smith,4
+Obion,3-2 Kenton,State House,77,Independent,Ronnie Henley,1
+Obion,3-2 Kenton,State House,77,Republican,Rusty Grills,81
+Obion,3-4 Rives,State House,77,Democratic,Michael Smith,15
+Obion,3-4 Rives,State House,77,Independent,Billy M Jones,0
+Obion,3-4 Rives,State House,77,Independent,Max Smith,0
+Obion,3-4 Rives,State House,77,Independent,Ronnie Henley,1
+Obion,3-4 Rives,State House,77,Republican,Rusty Grills,155
+Obion,4-1 Fair Grounds,State House,77,Democratic,Michael Smith,0
+Obion,4-1 Fair Grounds,State House,77,Independent,Billy M Jones,0
+Obion,4-1 Fair Grounds,State House,77,Independent,Max Smith,0
+Obion,4-1 Fair Grounds,State House,77,Independent,Ronnie Henley,0
+Obion,4-1 Fair Grounds,State House,77,Republican,Rusty Grills,1
+Obion,5-2 Cloverdale,State House,77,Democratic,Michael Smith,3
+Obion,5-2 Cloverdale,State House,77,Independent,Billy M Jones,0
+Obion,5-2 Cloverdale,State House,77,Independent,Max Smith,0
+Obion,5-2 Cloverdale,State House,77,Independent,Ronnie Henley,0
+Obion,5-2 Cloverdale,State House,77,Republican,Rusty Grills,77
+Obion,5-4 Hornbeak,State House,77,Democratic,Michael Smith,11
+Obion,5-4 Hornbeak,State House,77,Independent,Billy M Jones,2
+Obion,5-4 Hornbeak,State House,77,Independent,Max Smith,0
+Obion,5-4 Hornbeak,State House,77,Independent,Ronnie Henley,1
+Obion,5-4 Hornbeak,State House,77,Republican,Rusty Grills,110
+Obion,5-5 Samburg,State House,77,Democratic,Michael Smith,7
+Obion,5-5 Samburg,State House,77,Independent,Billy M Jones,1
+Obion,5-5 Samburg,State House,77,Independent,Max Smith,0
+Obion,5-5 Samburg,State House,77,Independent,Ronnie Henley,0
+Obion,5-5 Samburg,State House,77,Republican,Rusty Grills,42
+Obion,6-1 Troy Sr Ctr,State House,77,Democratic,Michael Smith,17
+Obion,6-1 Troy Sr Ctr,State House,77,Independent,Billy M Jones,0
+Obion,6-1 Troy Sr Ctr,State House,77,Independent,Max Smith,2
+Obion,6-1 Troy Sr Ctr,State House,77,Independent,Ronnie Henley,2
+Obion,6-1 Troy Sr Ctr,State House,77,Republican,Rusty Grills,151
+Obion,6-2 Obion Sr Ctr,State House,77,Democratic,Michael Smith,8
+Obion,6-2 Obion Sr Ctr,State House,77,Independent,Billy M Jones,0
+Obion,6-2 Obion Sr Ctr,State House,77,Independent,Max Smith,6
+Obion,6-2 Obion Sr Ctr,State House,77,Independent,Ronnie Henley,0
+Obion,6-2 Obion Sr Ctr,State House,77,Republican,Rusty Grills,53
+Obion,7-2 Obion Co Library,State House,77,Democratic,Michael Smith,50
+Obion,7-2 Obion Co Library,State House,77,Independent,Billy M Jones,1
+Obion,7-2 Obion Co Library,State House,77,Independent,Max Smith,4
+Obion,7-2 Obion Co Library,State House,77,Independent,Ronnie Henley,1
+Obion,7-2 Obion Co Library,State House,77,Republican,Rusty Grills,218

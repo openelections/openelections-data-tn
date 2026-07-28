@@ -1,0 +1,173 @@
+county,precinct,office,district,party,candidate,votes
+Houston,Arlington,State Senate,22,Democratic,Juanita Charles,23
+Houston,Arlington,State Senate,22,Independent,David L. Cutting,0
+Houston,Arlington,State Senate,22,Independent,Doyle Clark,7
+Houston,Arlington,State Senate,22,Republican,Bill Powers,44
+Houston,Erin,State Senate,22,Democratic,Juanita Charles,22
+Houston,Erin,State Senate,22,Independent,David L. Cutting,1
+Houston,Erin,State Senate,22,Independent,Doyle Clark,10
+Houston,Erin,State Senate,22,Republican,Bill Powers,37
+Houston,Erin Elementary,State Senate,22,Democratic,Juanita Charles,17
+Houston,Erin Elementary,State Senate,22,Independent,David L. Cutting,0
+Houston,Erin Elementary,State Senate,22,Independent,Doyle Clark,6
+Houston,Erin Elementary,State Senate,22,Republican,Bill Powers,38
+Houston,Griffins Chapel,State Senate,22,Democratic,Juanita Charles,22
+Houston,Griffins Chapel,State Senate,22,Independent,David L. Cutting,0
+Houston,Griffins Chapel,State Senate,22,Independent,Doyle Clark,10
+Houston,Griffins Chapel,State Senate,22,Republican,Bill Powers,50
+Houston,Houston Co Middle,State Senate,22,Democratic,Juanita Charles,32
+Houston,Houston Co Middle,State Senate,22,Independent,David L. Cutting,0
+Houston,Houston Co Middle,State Senate,22,Independent,Doyle Clark,5
+Houston,Houston Co Middle,State Senate,22,Republican,Bill Powers,32
+Houston,Stewart,State Senate,22,Democratic,Juanita Charles,18
+Houston,Stewart,State Senate,22,Independent,David L. Cutting,0
+Houston,Stewart,State Senate,22,Independent,Doyle Clark,2
+Houston,Stewart,State Senate,22,Republican,Bill Powers,41
+Houston,Tennessee Ridge,State Senate,22,Democratic,Juanita Charles,27
+Houston,Tennessee Ridge,State Senate,22,Independent,David L. Cutting,0
+Houston,Tennessee Ridge,State Senate,22,Independent,Doyle Clark,3
+Houston,Tennessee Ridge,State Senate,22,Republican,Bill Powers,37
+Montgomery,10 Minglewood,State Senate,22,Democratic,Juanita Charles,150
+Montgomery,10 Minglewood,State Senate,22,Independent,David L. Cutting,4
+Montgomery,10 Minglewood,State Senate,22,Independent,Doyle Clark,3
+Montgomery,10 Minglewood,State Senate,22,Republican,Bill Powers,123
+Montgomery,11 Northwest,State Senate,22,Democratic,Juanita Charles,211
+Montgomery,11 Northwest,State Senate,22,Independent,David L. Cutting,2
+Montgomery,11 Northwest,State Senate,22,Independent,Doyle Clark,3
+Montgomery,11 Northwest,State Senate,22,Republican,Bill Powers,107
+Montgomery,12 Ringgold,State Senate,22,Democratic,Juanita Charles,299
+Montgomery,12 Ringgold,State Senate,22,Independent,David L. Cutting,3
+Montgomery,12 Ringgold,State Senate,22,Independent,Doyle Clark,2
+Montgomery,12 Ringgold,State Senate,22,Republican,Bill Powers,127
+Montgomery,13 Byrns Darden,State Senate,22,Democratic,Juanita Charles,288
+Montgomery,13 Byrns Darden,State Senate,22,Independent,David L. Cutting,4
+Montgomery,13 Byrns Darden,State Senate,22,Independent,Doyle Clark,2
+Montgomery,13 Byrns Darden,State Senate,22,Republican,Bill Powers,93
+Montgomery,14 Glenellen,State Senate,22,Democratic,Juanita Charles,327
+Montgomery,14 Glenellen,State Senate,22,Independent,David L. Cutting,19
+Montgomery,14 Glenellen,State Senate,22,Independent,Doyle Clark,8
+Montgomery,14 Glenellen,State Senate,22,Republican,Bill Powers,180
+Montgomery,15 Sango,State Senate,22,Democratic,Juanita Charles,240
+Montgomery,15 Sango,State Senate,22,Independent,David L. Cutting,2
+Montgomery,15 Sango,State Senate,22,Independent,Doyle Clark,6
+Montgomery,15 Sango,State Senate,22,Republican,Bill Powers,459
+Montgomery,16 New Providence,State Senate,22,Democratic,Juanita Charles,195
+Montgomery,16 New Providence,State Senate,22,Independent,David L. Cutting,1
+Montgomery,16 New Providence,State Senate,22,Independent,Doyle Clark,4
+Montgomery,16 New Providence,State Senate,22,Republican,Bill Powers,128
+Montgomery,17 Grace,State Senate,22,Democratic,Juanita Charles,214
+Montgomery,17 Grace,State Senate,22,Independent,David L. Cutting,2
+Montgomery,17 Grace,State Senate,22,Independent,Doyle Clark,1
+Montgomery,17 Grace,State Senate,22,Republican,Bill Powers,134
+Montgomery,18 Hazelwood,State Senate,22,Democratic,Juanita Charles,276
+Montgomery,18 Hazelwood,State Senate,22,Independent,David L. Cutting,0
+Montgomery,18 Hazelwood,State Senate,22,Independent,Doyle Clark,2
+Montgomery,18 Hazelwood,State Senate,22,Republican,Bill Powers,141
+Montgomery,19 Oakland,State Senate,22,Democratic,Juanita Charles,388
+Montgomery,19 Oakland,State Senate,22,Independent,David L. Cutting,1
+Montgomery,19 Oakland,State Senate,22,Independent,Doyle Clark,8
+Montgomery,19 Oakland,State Senate,22,Republican,Bill Powers,386
+Montgomery,1A St B ES,State Senate,22,Democratic,Juanita Charles,197
+Montgomery,1A St B ES,State Senate,22,Independent,David L. Cutting,4
+Montgomery,1A St B ES,State Senate,22,Independent,Doyle Clark,5
+Montgomery,1A St B ES,State Senate,22,Republican,Bill Powers,212
+Montgomery,1B Emmanuel,State Senate,22,Democratic,Juanita Charles,17
+Montgomery,1B Emmanuel,State Senate,22,Independent,David L. Cutting,0
+Montgomery,1B Emmanuel,State Senate,22,Independent,Doyle Clark,2
+Montgomery,1B Emmanuel,State Senate,22,Republican,Bill Powers,24
+Montgomery,20A Clarksville,State Senate,22,Democratic,Juanita Charles,187
+Montgomery,20A Clarksville,State Senate,22,Independent,David L. Cutting,3
+Montgomery,20A Clarksville,State Senate,22,Independent,Doyle Clark,6
+Montgomery,20A Clarksville,State Senate,22,Republican,Bill Powers,337
+Montgomery,20B Barksdale,State Senate,22,Democratic,Juanita Charles,112
+Montgomery,20B Barksdale,State Senate,22,Independent,David L. Cutting,6
+Montgomery,20B Barksdale,State Senate,22,Independent,Doyle Clark,3
+Montgomery,20B Barksdale,State Senate,22,Republican,Bill Powers,153
+Montgomery,21A Cumberland,State Senate,22,Democratic,Juanita Charles,158
+Montgomery,21A Cumberland,State Senate,22,Independent,David L. Cutting,2
+Montgomery,21A Cumberland,State Senate,22,Independent,Doyle Clark,5
+Montgomery,21A Cumberland,State Senate,22,Republican,Bill Powers,114
+Montgomery,21B Hilldale,State Senate,22,Democratic,Juanita Charles,164
+Montgomery,21B Hilldale,State Senate,22,Independent,David L. Cutting,2
+Montgomery,21B Hilldale,State Senate,22,Independent,Doyle Clark,0
+Montgomery,21B Hilldale,State Senate,22,Republican,Bill Powers,381
+Montgomery,2A St B MC,State Senate,22,Democratic,Juanita Charles,219
+Montgomery,2A St B MC,State Senate,22,Independent,David L. Cutting,6
+Montgomery,2A St B MC,State Senate,22,Independent,Doyle Clark,1
+Montgomery,2A St B MC,State Senate,22,Republican,Bill Powers,479
+Montgomery,2B St B CC,State Senate,22,Democratic,Juanita Charles,93
+Montgomery,2B St B CC,State Senate,22,Independent,David L. Cutting,3
+Montgomery,2B St B CC,State Senate,22,Independent,Doyle Clark,3
+Montgomery,2B St B CC,State Senate,22,Republican,Bill Powers,187
+Montgomery,3 East Montgomery,State Senate,22,Democratic,Juanita Charles,224
+Montgomery,3 East Montgomery,State Senate,22,Independent,David L. Cutting,4
+Montgomery,3 East Montgomery,State Senate,22,Independent,Doyle Clark,8
+Montgomery,3 East Montgomery,State Senate,22,Republican,Bill Powers,591
+Montgomery,4A MCMS,State Senate,22,Democratic,Juanita Charles,108
+Montgomery,4A MCMS,State Senate,22,Independent,David L. Cutting,1
+Montgomery,4A MCMS,State Senate,22,Independent,Doyle Clark,2
+Montgomery,4A MCMS,State Senate,22,Republican,Bill Powers,244
+Montgomery,4B WR Event Center,State Senate,22,Democratic,Juanita Charles,103
+Montgomery,4B WR Event Center,State Senate,22,Independent,David L. Cutting,2
+Montgomery,4B WR Event Center,State Senate,22,Independent,Doyle Clark,0
+Montgomery,4B WR Event Center,State Senate,22,Republican,Bill Powers,120
+Montgomery,5A Smith,State Senate,22,Democratic,Juanita Charles,97
+Montgomery,5A Smith,State Senate,22,Independent,David L. Cutting,1
+Montgomery,5A Smith,State Senate,22,Independent,Doyle Clark,1
+Montgomery,5A Smith,State Senate,22,Republican,Bill Powers,75
+Montgomery,5B Madison,State Senate,22,Democratic,Juanita Charles,111
+Montgomery,5B Madison,State Senate,22,Independent,David L. Cutting,0
+Montgomery,5B Madison,State Senate,22,Independent,Doyle Clark,0
+Montgomery,5B Madison,State Senate,22,Republican,Bill Powers,27
+Montgomery,6A Cumberland,State Senate,22,Democratic,Juanita Charles,89
+Montgomery,6A Cumberland,State Senate,22,Independent,David L. Cutting,3
+Montgomery,6A Cumberland,State Senate,22,Independent,Doyle Clark,6
+Montgomery,6A Cumberland,State Senate,22,Republican,Bill Powers,250
+Montgomery,6B Bethel,State Senate,22,Democratic,Juanita Charles,25
+Montgomery,6B Bethel,State Senate,22,Independent,David L. Cutting,1
+Montgomery,6B Bethel,State Senate,22,Independent,Doyle Clark,7
+Montgomery,6B Bethel,State Senate,22,Republican,Bill Powers,92
+Montgomery,7 Woodlawn,State Senate,22,Democratic,Juanita Charles,115
+Montgomery,7 Woodlawn,State Senate,22,Independent,David L. Cutting,3
+Montgomery,7 Woodlawn,State Senate,22,Independent,Doyle Clark,9
+Montgomery,7 Woodlawn,State Senate,22,Republican,Bill Powers,346
+Montgomery,8A Bethel,State Senate,22,Democratic,Juanita Charles,48
+Montgomery,8A Bethel,State Senate,22,Independent,David L. Cutting,0
+Montgomery,8A Bethel,State Senate,22,Independent,Doyle Clark,1
+Montgomery,8A Bethel,State Senate,22,Republican,Bill Powers,29
+Montgomery,8B Barkers Mill,State Senate,22,Democratic,Juanita Charles,128
+Montgomery,8B Barkers Mill,State Senate,22,Independent,David L. Cutting,0
+Montgomery,8B Barkers Mill,State Senate,22,Independent,Doyle Clark,2
+Montgomery,8B Barkers Mill,State Senate,22,Republican,Bill Powers,53
+Montgomery,9 Outlaw,State Senate,22,Democratic,Juanita Charles,167
+Montgomery,9 Outlaw,State Senate,22,Independent,David L. Cutting,1
+Montgomery,9 Outlaw,State Senate,22,Independent,Doyle Clark,0
+Montgomery,9 Outlaw,State Senate,22,Republican,Bill Powers,77
+Stewart,1-1 Indian Mound,State Senate,22,Democratic,Juanita Charles,20
+Stewart,1-1 Indian Mound,State Senate,22,Independent,David L. Cutting,1
+Stewart,1-1 Indian Mound,State Senate,22,Independent,Doyle Clark,1
+Stewart,1-1 Indian Mound,State Senate,22,Republican,Bill Powers,60
+Stewart,2-1 Big Rock,State Senate,22,Democratic,Juanita Charles,21
+Stewart,2-1 Big Rock,State Senate,22,Independent,David L. Cutting,1
+Stewart,2-1 Big Rock,State Senate,22,Independent,Doyle Clark,3
+Stewart,2-1 Big Rock,State Senate,22,Republican,Bill Powers,71
+Stewart,3-1 Bumpus Mills,State Senate,22,Democratic,Juanita Charles,29
+Stewart,3-1 Bumpus Mills,State Senate,22,Independent,David L. Cutting,0
+Stewart,3-1 Bumpus Mills,State Senate,22,Independent,Doyle Clark,3
+Stewart,3-1 Bumpus Mills,State Senate,22,Republican,Bill Powers,80
+Stewart,4-1 Church Street,State Senate,22,Democratic,Juanita Charles,29
+Stewart,4-1 Church Street,State Senate,22,Independent,David L. Cutting,0
+Stewart,4-1 Church Street,State Senate,22,Independent,Doyle Clark,2
+Stewart,4-1 Church Street,State Senate,22,Republican,Bill Powers,80
+Stewart,5-1 Visitors Center,State Senate,22,Democratic,Juanita Charles,48
+Stewart,5-1 Visitors Center,State Senate,22,Independent,David L. Cutting,0
+Stewart,5-1 Visitors Center,State Senate,22,Independent,Doyle Clark,0
+Stewart,5-1 Visitors Center,State Senate,22,Republican,Bill Powers,72
+Stewart,6-1 Public Library,State Senate,22,Democratic,Juanita Charles,55
+Stewart,6-1 Public Library,State Senate,22,Independent,David L. Cutting,1
+Stewart,6-1 Public Library,State Senate,22,Independent,Doyle Clark,1
+Stewart,6-1 Public Library,State Senate,22,Republican,Bill Powers,82
+Stewart,7-1 Cumberland City,State Senate,22,Democratic,Juanita Charles,39
+Stewart,7-1 Cumberland City,State Senate,22,Independent,David L. Cutting,0
+Stewart,7-1 Cumberland City,State Senate,22,Independent,Doyle Clark,2
+Stewart,7-1 Cumberland City,State Senate,22,Republican,Bill Powers,68
