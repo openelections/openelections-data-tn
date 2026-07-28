@@ -1,0 +1,165 @@
+county,precinct,office,district,party,candidate,votes
+Cannon,1-1 Westside,State Senate,17,Democratic,Mary Alice Carfi,63
+Cannon,1-1 Westside,State Senate,17,Republican,Mark Pody,116
+Cannon,2-1 Auburntown,State Senate,17,Democratic,Mary Alice Carfi,22
+Cannon,2-1 Auburntown,State Senate,17,Republican,Mark Pody,34
+Cannon,2-2 Gassaway,State Senate,17,Democratic,Mary Alice Carfi,22
+Cannon,2-2 Gassaway,State Senate,17,Republican,Mark Pody,16
+Cannon,2-3 Pleasant Ridge,State Senate,17,Democratic,Mary Alice Carfi,34
+Cannon,2-3 Pleasant Ridge,State Senate,17,Republican,Mark Pody,43
+Cannon,2-4 Short Mountain,State Senate,17,Democratic,Mary Alice Carfi,31
+Cannon,2-4 Short Mountain,State Senate,17,Republican,Mark Pody,28
+Cannon,3-2 Woodland,State Senate,17,Democratic,Mary Alice Carfi,41
+Cannon,3-2 Woodland,State Senate,17,Republican,Mark Pody,76
+Cannon,4-1 Eastside,State Senate,17,Democratic,Mary Alice Carfi,45
+Cannon,4-1 Eastside,State Senate,17,Republican,Mark Pody,78
+Cannon,4-2 Short Mountain,State Senate,17,Democratic,Mary Alice Carfi,20
+Cannon,4-2 Short Mountain,State Senate,17,Republican,Mark Pody,17
+Cannon,5-1 Woodbury,State Senate,17,Democratic,Mary Alice Carfi,75
+Cannon,5-1 Woodbury,State Senate,17,Republican,Mark Pody,59
+Clay,1 Dentons Cross Road,State Senate,17,Democratic,Mary Alice Carfi,24
+Clay,1 Dentons Cross Road,State Senate,17,Republican,Mark Pody,45
+Clay,2 Hermitage Springs,State Senate,17,Democratic,Mary Alice Carfi,32
+Clay,2 Hermitage Springs,State Senate,17,Republican,Mark Pody,38
+Clay,3 Celina,State Senate,17,Democratic,Mary Alice Carfi,79
+Clay,3 Celina,State Senate,17,Republican,Mark Pody,35
+Clay,4-1 Maple Grove,State Senate,17,Democratic,Mary Alice Carfi,5
+Clay,4-1 Maple Grove,State Senate,17,Republican,Mark Pody,10
+Clay,4-2 Butlers Landing,State Senate,17,Democratic,Mary Alice Carfi,21
+Clay,4-2 Butlers Landing,State Senate,17,Republican,Mark Pody,26
+Clay,5-1 Beech Bethany,State Senate,17,Democratic,Mary Alice Carfi,23
+Clay,5-1 Beech Bethany,State Senate,17,Republican,Mark Pody,13
+Clay,5-2 Pea Ridge,State Senate,17,Democratic,Mary Alice Carfi,34
+Clay,5-2 Pea Ridge,State Senate,17,Republican,Mark Pody,23
+DeKalb,1-1 Alexandria,State Senate,17,Democratic,Mary Alice Carfi,55
+DeKalb,1-1 Alexandria,State Senate,17,Republican,Mark Pody,49
+DeKalb,1-2 Temperence Hall,State Senate,17,Democratic,Mary Alice Carfi,14
+DeKalb,1-2 Temperence Hall,State Senate,17,Republican,Mark Pody,19
+DeKalb,1-3 Edgar Evins Park,State Senate,17,Democratic,Mary Alice Carfi,1
+DeKalb,1-3 Edgar Evins Park,State Senate,17,Republican,Mark Pody,3
+DeKalb,2-1 Liberty,State Senate,17,Democratic,Mary Alice Carfi,19
+DeKalb,2-1 Liberty,State Senate,17,Republican,Mark Pody,52
+DeKalb,2-2 Dowelltown,State Senate,17,Democratic,Mary Alice Carfi,36
+DeKalb,2-2 Dowelltown,State Senate,17,Republican,Mark Pody,27
+DeKalb,2-3 Snows Hill,State Senate,17,Democratic,Mary Alice Carfi,45
+DeKalb,2-3 Snows Hill,State Senate,17,Republican,Mark Pody,32
+DeKalb,3-1 Church of God,State Senate,17,Democratic,Mary Alice Carfi,89
+DeKalb,3-1 Church of God,State Senate,17,Republican,Mark Pody,94
+DeKalb,4-2 Rock Castle,State Senate,17,Democratic,Mary Alice Carfi,8
+DeKalb,4-2 Rock Castle,State Senate,17,Republican,Mark Pody,14
+DeKalb,4-3 Courthouse,State Senate,17,Democratic,Mary Alice Carfi,91
+DeKalb,4-3 Courthouse,State Senate,17,Republican,Mark Pody,47
+DeKalb,5-1 Johnson Chapel,State Senate,17,Democratic,Mary Alice Carfi,11
+DeKalb,5-1 Johnson Chapel,State Senate,17,Republican,Mark Pody,28
+DeKalb,5-2 County Complex,State Senate,17,Democratic,Mary Alice Carfi,62
+DeKalb,5-2 County Complex,State Senate,17,Republican,Mark Pody,60
+DeKalb,6-1 Belk,State Senate,17,Democratic,Mary Alice Carfi,12
+DeKalb,6-1 Belk,State Senate,17,Republican,Mark Pody,27
+DeKalb,6-2 Keltonburg,State Senate,17,Democratic,Mary Alice Carfi,31
+DeKalb,6-2 Keltonburg,State Senate,17,Republican,Mark Pody,19
+DeKalb,6-3 Blue Springs,State Senate,17,Democratic,Mary Alice Carfi,15
+DeKalb,6-3 Blue Springs,State Senate,17,Republican,Mark Pody,31
+DeKalb,7-1 Church of Christ,State Senate,17,Democratic,Mary Alice Carfi,90
+DeKalb,7-1 Church of Christ,State Senate,17,Republican,Mark Pody,46
+Macon,Armory,State Senate,17,Democratic,Mary Alice Carfi,27
+Macon,Armory,State Senate,17,Republican,Mark Pody,54
+Macon,Central,State Senate,17,Democratic,Mary Alice Carfi,23
+Macon,Central,State Senate,17,Republican,Mark Pody,34
+Macon,County High School,State Senate,17,Democratic,Mary Alice Carfi,28
+Macon,County High School,State Senate,17,Republican,Mark Pody,35
+Macon,County Junior High,State Senate,17,Democratic,Mary Alice Carfi,21
+Macon,County Junior High,State Senate,17,Republican,Mark Pody,48
+Macon,Cross Roads,State Senate,17,Democratic,Mary Alice Carfi,16
+Macon,Cross Roads,State Senate,17,Republican,Mark Pody,30
+Macon,Lafayette,State Senate,17,Democratic,Mary Alice Carfi,13
+Macon,Lafayette,State Senate,17,Republican,Mark Pody,38
+Macon,Red Boiling Springs,State Senate,17,Democratic,Mary Alice Carfi,40
+Macon,Red Boiling Springs,State Senate,17,Republican,Mark Pody,31
+Macon,Welcome Center,State Senate,17,Democratic,Mary Alice Carfi,21
+Macon,Welcome Center,State Senate,17,Republican,Mark Pody,60
+Macon,Westside,State Senate,17,Democratic,Mary Alice Carfi,29
+Macon,Westside,State Senate,17,Republican,Mark Pody,24
+Macon,Willette,State Senate,17,Democratic,Mary Alice Carfi,20
+Macon,Willette,State Senate,17,Republican,Mark Pody,74
+Smith,01 Defeated,State Senate,17,Democratic,Mary Alice Carfi,76
+Smith,01 Defeated,State Senate,17,Republican,Mark Pody,122
+Smith,02 Tanglewood,State Senate,17,Democratic,Mary Alice Carfi,145
+Smith,02 Tanglewood,State Senate,17,Republican,Mark Pody,109
+Smith,03 New Middleton,State Senate,17,Democratic,Mary Alice Carfi,93
+Smith,03 New Middleton,State Senate,17,Republican,Mark Pody,106
+Smith,04 Rock City,State Senate,17,Democratic,Mary Alice Carfi,48
+Smith,04 Rock City,State Senate,17,Republican,Mark Pody,81
+Smith,05 Gordonsville,State Senate,17,Democratic,Mary Alice Carfi,105
+Smith,05 Gordonsville,State Senate,17,Republican,Mark Pody,98
+Smith,06 Carthage,State Senate,17,Democratic,Mary Alice Carfi,113
+Smith,06 Carthage,State Senate,17,Republican,Mark Pody,63
+Smith,07 South Carthage,State Senate,17,Democratic,Mary Alice Carfi,74
+Smith,07 South Carthage,State Senate,17,Republican,Mark Pody,76
+Smith,08 Elmwood,State Senate,17,Democratic,Mary Alice Carfi,79
+Smith,08 Elmwood,State Senate,17,Republican,Mark Pody,61
+Wilson,1-1,State Senate,17,Democratic,Mary Alice Carfi,199
+Wilson,1-1,State Senate,17,Republican,Mark Pody,99
+Wilson,10-1,State Senate,17,Democratic,Mary Alice Carfi,168
+Wilson,10-1,State Senate,17,Republican,Mark Pody,143
+Wilson,11-1,State Senate,17,Democratic,Mary Alice Carfi,306
+Wilson,11-1,State Senate,17,Republican,Mark Pody,166
+Wilson,12-1,State Senate,17,Democratic,Mary Alice Carfi,68
+Wilson,12-1,State Senate,17,Republican,Mark Pody,108
+Wilson,12-2,State Senate,17,Democratic,Mary Alice Carfi,55
+Wilson,12-2,State Senate,17,Republican,Mark Pody,92
+Wilson,13-1,State Senate,17,Democratic,Mary Alice Carfi,127
+Wilson,13-1,State Senate,17,Republican,Mark Pody,126
+Wilson,14-1,State Senate,17,Democratic,Mary Alice Carfi,135
+Wilson,14-1,State Senate,17,Republican,Mark Pody,104
+Wilson,15-1,State Senate,17,Democratic,Mary Alice Carfi,85
+Wilson,15-1,State Senate,17,Republican,Mark Pody,157
+Wilson,16-1,State Senate,17,Democratic,Mary Alice Carfi,128
+Wilson,16-1,State Senate,17,Republican,Mark Pody,77
+Wilson,17-1,State Senate,17,Democratic,Mary Alice Carfi,138
+Wilson,17-1,State Senate,17,Republican,Mark Pody,228
+Wilson,18-1,State Senate,17,Democratic,Mary Alice Carfi,200
+Wilson,18-1,State Senate,17,Republican,Mark Pody,149
+Wilson,19-1,State Senate,17,Democratic,Mary Alice Carfi,114
+Wilson,19-1,State Senate,17,Republican,Mark Pody,136
+Wilson,2-1,State Senate,17,Democratic,Mary Alice Carfi,129
+Wilson,2-1,State Senate,17,Republican,Mark Pody,87
+Wilson,20-1,State Senate,17,Democratic,Mary Alice Carfi,83
+Wilson,20-1,State Senate,17,Republican,Mark Pody,33
+Wilson,21-1,State Senate,17,Democratic,Mary Alice Carfi,52
+Wilson,21-1,State Senate,17,Republican,Mark Pody,38
+Wilson,21-2,State Senate,17,Democratic,Mary Alice Carfi,13
+Wilson,21-2,State Senate,17,Republican,Mark Pody,49
+Wilson,22-1,State Senate,17,Democratic,Mary Alice Carfi,128
+Wilson,22-1,State Senate,17,Republican,Mark Pody,106
+Wilson,23-1,State Senate,17,Democratic,Mary Alice Carfi,187
+Wilson,23-1,State Senate,17,Republican,Mark Pody,287
+Wilson,24-1,State Senate,17,Democratic,Mary Alice Carfi,136
+Wilson,24-1,State Senate,17,Republican,Mark Pody,116
+Wilson,25-1,State Senate,17,Democratic,Mary Alice Carfi,79
+Wilson,25-1,State Senate,17,Republican,Mark Pody,54
+Wilson,25-2,State Senate,17,Democratic,Mary Alice Carfi,70
+Wilson,25-2,State Senate,17,Republican,Mark Pody,126
+Wilson,3-1,State Senate,17,Democratic,Mary Alice Carfi,139
+Wilson,3-1,State Senate,17,Republican,Mark Pody,140
+Wilson,4-1,State Senate,17,Democratic,Mary Alice Carfi,87
+Wilson,4-1,State Senate,17,Republican,Mark Pody,108
+Wilson,4-2,State Senate,17,Democratic,Mary Alice Carfi,14
+Wilson,4-2,State Senate,17,Republican,Mark Pody,20
+Wilson,5-1,State Senate,17,Democratic,Mary Alice Carfi,141
+Wilson,5-1,State Senate,17,Republican,Mark Pody,205
+Wilson,6-1,State Senate,17,Democratic,Mary Alice Carfi,101
+Wilson,6-1,State Senate,17,Republican,Mark Pody,126
+Wilson,7-1,State Senate,17,Democratic,Mary Alice Carfi,38
+Wilson,7-1,State Senate,17,Republican,Mark Pody,76
+Wilson,7-2,State Senate,17,Democratic,Mary Alice Carfi,64
+Wilson,7-2,State Senate,17,Republican,Mark Pody,74
+Wilson,8-1,State Senate,17,Democratic,Mary Alice Carfi,188
+Wilson,8-1,State Senate,17,Republican,Mark Pody,148
+Wilson,9-1,State Senate,17,Democratic,Mary Alice Carfi,84
+Wilson,9-1,State Senate,17,Republican,Mark Pody,121
+Wilson,9-2,State Senate,17,Democratic,Mary Alice Carfi,21
+Wilson,9-2,State Senate,17,Republican,Mark Pody,56
+Wilson,Absentee,State Senate,17,Democratic,Mary Alice Carfi,84
+Wilson,Absentee,State Senate,17,Republican,Mark Pody,86
+Wilson,Provisional,State Senate,17,Democratic,Mary Alice Carfi,6
+Wilson,Provisional,State Senate,17,Republican,Mark Pody,5
