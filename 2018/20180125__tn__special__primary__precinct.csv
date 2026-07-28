@@ -1,0 +1,187 @@
+county,precinct,office,district,party,candidate,votes
+Bedford,1-1 Wartrace,State Senate,14,Democratic,Gayle Jordan,8
+Bedford,1-1 Wartrace,State Senate,14,Republican,Joe Carr,40
+Bedford,1-1 Wartrace,State Senate,14,Republican,Shane Reeves,78
+Bedford,1-2 Bell Buckle,State Senate,14,Democratic,Gayle Jordan,16
+Bedford,1-2 Bell Buckle,State Senate,14,Republican,Joe Carr,29
+Bedford,1-2 Bell Buckle,State Senate,14,Republican,Shane Reeves,85
+Bedford,2-3 Fair Haven,State Senate,14,Democratic,Gayle Jordan,11
+Bedford,2-3 Fair Haven,State Senate,14,Republican,Joe Carr,56
+Bedford,2-3 Fair Haven,State Senate,14,Republican,Shane Reeves,141
+Bedford,3-3 Unionville,State Senate,14,Democratic,Gayle Jordan,12
+Bedford,3-3 Unionville,State Senate,14,Republican,Joe Carr,43
+Bedford,3-3 Unionville,State Senate,14,Republican,Shane Reeves,106
+Bedford,4-3 Bedford,State Senate,14,Democratic,Gayle Jordan,15
+Bedford,4-3 Bedford,State Senate,14,Republican,Joe Carr,63
+Bedford,4-3 Bedford,State Senate,14,Republican,Shane Reeves,143
+Bedford,5-2 Flat Creek,State Senate,14,Democratic,Gayle Jordan,16
+Bedford,5-2 Flat Creek,State Senate,14,Republican,Joe Carr,59
+Bedford,5-2 Flat Creek,State Senate,14,Republican,Shane Reeves,201
+Bedford,5-5 Normandy,State Senate,14,Democratic,Gayle Jordan,2
+Bedford,5-5 Normandy,State Senate,14,Republican,Joe Carr,28
+Bedford,5-5 Normandy,State Senate,14,Republican,Shane Reeves,47
+Bedford,6-1 East Side,State Senate,14,Democratic,Gayle Jordan,19
+Bedford,6-1 East Side,State Senate,14,Republican,Joe Carr,8
+Bedford,6-1 East Side,State Senate,14,Republican,Shane Reeves,51
+Bedford,7-1 Deery Eakin,State Senate,14,Democratic,Gayle Jordan,20
+Bedford,7-1 Deery Eakin,State Senate,14,Republican,Joe Carr,21
+Bedford,7-1 Deery Eakin,State Senate,14,Republican,Shane Reeves,81
+Bedford,8-1 Thomas,State Senate,14,Democratic,Gayle Jordan,14
+Bedford,8-1 Thomas,State Senate,14,Republican,Joe Carr,23
+Bedford,8-1 Thomas,State Senate,14,Republican,Shane Reeves,72
+Bedford,9-2 Southside,State Senate,14,Democratic,Gayle Jordan,18
+Bedford,9-2 Southside,State Senate,14,Republican,Joe Carr,35
+Bedford,9-2 Southside,State Senate,14,Republican,Shane Reeves,102
+Lincoln,1-1 Blanche,State Senate,14,Democratic,Gayle Jordan,1
+Lincoln,1-1 Blanche,State Senate,14,Republican,Joe Carr,25
+Lincoln,1-1 Blanche,State Senate,14,Republican,Shane Reeves,42
+Lincoln,1-2 Molino,State Senate,14,Democratic,Gayle Jordan,8
+Lincoln,1-2 Molino,State Senate,14,Republican,Joe Carr,14
+Lincoln,1-2 Molino,State Senate,14,Republican,Shane Reeves,29
+Lincoln,1-3 Taft,State Senate,14,Democratic,Gayle Jordan,2
+Lincoln,1-3 Taft,State Senate,14,Republican,Joe Carr,40
+Lincoln,1-3 Taft,State Senate,14,Republican,Shane Reeves,22
+Lincoln,2-1 Boonshill,State Senate,14,Democratic,Gayle Jordan,5
+Lincoln,2-1 Boonshill,State Senate,14,Republican,Joe Carr,22
+Lincoln,2-1 Boonshill,State Senate,14,Republican,Shane Reeves,54
+Lincoln,2-2 Howell,State Senate,14,Democratic,Gayle Jordan,5
+Lincoln,2-2 Howell,State Senate,14,Republican,Joe Carr,17
+Lincoln,2-2 Howell,State Senate,14,Republican,Shane Reeves,27
+Lincoln,2-3 Petersburg,State Senate,14,Democratic,Gayle Jordan,5
+Lincoln,2-3 Petersburg,State Senate,14,Republican,Joe Carr,30
+Lincoln,2-3 Petersburg,State Senate,14,Republican,Shane Reeves,33
+Lincoln,3-1 Recreation Center,State Senate,14,Democratic,Gayle Jordan,15
+Lincoln,3-1 Recreation Center,State Senate,14,Republican,Joe Carr,31
+Lincoln,3-1 Recreation Center,State Senate,14,Republican,Shane Reeves,39
+Lincoln,3-2 Liberty,State Senate,14,Democratic,Gayle Jordan,5
+Lincoln,3-2 Liberty,State Senate,14,Republican,Joe Carr,35
+Lincoln,3-2 Liberty,State Senate,14,Republican,Shane Reeves,39
+Lincoln,4-1 Maranatha,State Senate,14,Democratic,Gayle Jordan,5
+Lincoln,4-1 Maranatha,State Senate,14,Republican,Joe Carr,44
+Lincoln,4-1 Maranatha,State Senate,14,Republican,Shane Reeves,36
+Lincoln,4-2 FNB,State Senate,14,Democratic,Gayle Jordan,5
+Lincoln,4-2 FNB,State Senate,14,Republican,Joe Carr,38
+Lincoln,4-2 FNB,State Senate,14,Republican,Shane Reeves,27
+Lincoln,5-1 Calvary,State Senate,14,Democratic,Gayle Jordan,3
+Lincoln,5-1 Calvary,State Senate,14,Republican,Joe Carr,20
+Lincoln,5-1 Calvary,State Senate,14,Republican,Shane Reeves,32
+Lincoln,5-2 Armory,State Senate,14,Democratic,Gayle Jordan,7
+Lincoln,5-2 Armory,State Senate,14,Republican,Joe Carr,11
+Lincoln,5-2 Armory,State Senate,14,Republican,Shane Reeves,17
+Lincoln,6-1 Fayetteville CPC,State Senate,14,Democratic,Gayle Jordan,13
+Lincoln,6-1 Fayetteville CPC,State Senate,14,Republican,Joe Carr,30
+Lincoln,6-1 Fayetteville CPC,State Senate,14,Republican,Shane Reeves,99
+Lincoln,6-2 Belleville,State Senate,14,Democratic,Gayle Jordan,6
+Lincoln,6-2 Belleville,State Senate,14,Republican,Joe Carr,12
+Lincoln,6-2 Belleville,State Senate,14,Republican,Shane Reeves,26
+Lincoln,6-3 Mulberry,State Senate,14,Democratic,Gayle Jordan,3
+Lincoln,6-3 Mulberry,State Senate,14,Republican,Joe Carr,17
+Lincoln,6-3 Mulberry,State Senate,14,Republican,Shane Reeves,25
+Lincoln,7-1 Elora,State Senate,14,Democratic,Gayle Jordan,3
+Lincoln,7-1 Elora,State Senate,14,Republican,Joe Carr,5
+Lincoln,7-1 Elora,State Senate,14,Republican,Shane Reeves,11
+Lincoln,7-2 Flintville,State Senate,14,Democratic,Gayle Jordan,4
+Lincoln,7-2 Flintville,State Senate,14,Republican,Joe Carr,25
+Lincoln,7-2 Flintville,State Senate,14,Republican,Shane Reeves,34
+Lincoln,7-3 Kelso,State Senate,14,Democratic,Gayle Jordan,0
+Lincoln,7-3 Kelso,State Senate,14,Republican,Joe Carr,22
+Lincoln,7-3 Kelso,State Senate,14,Republican,Shane Reeves,22
+Lincoln,8-1 Lincoln,State Senate,14,Democratic,Gayle Jordan,7
+Lincoln,8-1 Lincoln,State Senate,14,Republican,Joe Carr,45
+Lincoln,8-1 Lincoln,State Senate,14,Republican,Shane Reeves,63
+Lincoln,8-2 South Lincoln,State Senate,14,Democratic,Gayle Jordan,1
+Lincoln,8-2 South Lincoln,State Senate,14,Republican,Joe Carr,23
+Lincoln,8-2 South Lincoln,State Senate,14,Republican,Shane Reeves,19
+Marshall,1 Chapel Hill,State Senate,14,Democratic,Gayle Jordan,9
+Marshall,1 Chapel Hill,State Senate,14,Republican,Joe Carr,42
+Marshall,1 Chapel Hill,State Senate,14,Republican,Shane Reeves,71
+Marshall,2 Henry Horton Park,State Senate,14,Democratic,Gayle Jordan,7
+Marshall,2 Henry Horton Park,State Senate,14,Republican,Joe Carr,33
+Marshall,2 Henry Horton Park,State Senate,14,Republican,Shane Reeves,74
+Marshall,3 Belfast,State Senate,14,Democratic,Gayle Jordan,20
+Marshall,3 Belfast,State Senate,14,Republican,Joe Carr,71
+Marshall,3 Belfast,State Senate,14,Republican,Shane Reeves,58
+Marshall,4 Cornersville,State Senate,14,Democratic,Gayle Jordan,9
+Marshall,4 Cornersville,State Senate,14,Republican,Joe Carr,45
+Marshall,4 Cornersville,State Senate,14,Republican,Shane Reeves,83
+Marshall,5 Recreation Center,State Senate,14,Democratic,Gayle Jordan,16
+Marshall,5 Recreation Center,State Senate,14,Republican,Joe Carr,69
+Marshall,5 Recreation Center,State Senate,14,Republican,Shane Reeves,85
+Marshall,6 Parkview,State Senate,14,Democratic,Gayle Jordan,13
+Marshall,6 Parkview,State Senate,14,Republican,Joe Carr,43
+Marshall,6 Parkview,State Senate,14,Republican,Shane Reeves,46
+Marshall,7 Hardison,State Senate,14,Democratic,Gayle Jordan,10
+Marshall,7 Hardison,State Senate,14,Republican,Joe Carr,15
+Marshall,7 Hardison,State Senate,14,Republican,Shane Reeves,39
+Marshall,8 Lewisburg Gas,State Senate,14,Democratic,Gayle Jordan,11
+Marshall,8 Lewisburg Gas,State Senate,14,Republican,Joe Carr,33
+Marshall,8 Lewisburg Gas,State Senate,14,Republican,Shane Reeves,54
+Marshall,9 McKnight Center,State Senate,14,Democratic,Gayle Jordan,15
+Marshall,9 McKnight Center,State Senate,14,Republican,Joe Carr,50
+Marshall,9 McKnight Center,State Senate,14,Republican,Shane Reeves,96
+Moore,1 Courthouse,State Senate,14,Democratic,Gayle Jordan,0
+Moore,1 Courthouse,State Senate,14,Republican,Joe Carr,30
+Moore,1 Courthouse,State Senate,14,Republican,Shane Reeves,23
+Moore,2 High School,State Senate,14,Democratic,Gayle Jordan,3
+Moore,2 High School,State Senate,14,Republican,Joe Carr,27
+Moore,2 High School,State Senate,14,Republican,Shane Reeves,25
+Moore,3 Moore County Bldg,State Senate,14,Democratic,Gayle Jordan,3
+Moore,3 Moore County Bldg,State Senate,14,Republican,Joe Carr,41
+Moore,3 Moore County Bldg,State Senate,14,Republican,Shane Reeves,37
+Moore,4 Lynchburg,State Senate,14,Democratic,Gayle Jordan,10
+Moore,4 Lynchburg,State Senate,14,Republican,Joe Carr,34
+Moore,4 Lynchburg,State Senate,14,Republican,Shane Reeves,40
+Moore,5 Motlow College,State Senate,14,Democratic,Gayle Jordan,5
+Moore,5 Motlow College,State Senate,14,Republican,Joe Carr,13
+Moore,5 Motlow College,State Senate,14,Republican,Shane Reeves,31
+Rutherford,15-1,State Senate,14,Democratic,Gayle Jordan,23
+Rutherford,15-1,State Senate,14,Republican,Joe Carr,102
+Rutherford,15-1,State Senate,14,Republican,Shane Reeves,334
+Rutherford,15-2,State Senate,14,Democratic,Gayle Jordan,28
+Rutherford,15-2,State Senate,14,Republican,Joe Carr,63
+Rutherford,15-2,State Senate,14,Republican,Shane Reeves,216
+Rutherford,16-2,State Senate,14,Democratic,Gayle Jordan,11
+Rutherford,16-2,State Senate,14,Republican,Joe Carr,27
+Rutherford,16-2,State Senate,14,Republican,Shane Reeves,55
+Rutherford,17-2,State Senate,14,Democratic,Gayle Jordan,4
+Rutherford,17-2,State Senate,14,Republican,Joe Carr,3
+Rutherford,17-2,State Senate,14,Republican,Shane Reeves,6
+Rutherford,17-3,State Senate,14,Democratic,Gayle Jordan,0
+Rutherford,17-3,State Senate,14,Republican,Joe Carr,2
+Rutherford,17-3,State Senate,14,Republican,Shane Reeves,5
+Rutherford,18-2,State Senate,14,Democratic,Gayle Jordan,10
+Rutherford,18-2,State Senate,14,Republican,Joe Carr,40
+Rutherford,18-2,State Senate,14,Republican,Shane Reeves,132
+Rutherford,2-1,State Senate,14,Democratic,Gayle Jordan,21
+Rutherford,2-1,State Senate,14,Republican,Joe Carr,168
+Rutherford,2-1,State Senate,14,Republican,Shane Reeves,191
+Rutherford,2-3,State Senate,14,Democratic,Gayle Jordan,13
+Rutherford,2-3,State Senate,14,Republican,Joe Carr,73
+Rutherford,2-3,State Senate,14,Republican,Shane Reeves,117
+Rutherford,21-1,State Senate,14,Democratic,Gayle Jordan,13
+Rutherford,21-1,State Senate,14,Republican,Joe Carr,36
+Rutherford,21-1,State Senate,14,Republican,Shane Reeves,67
+Rutherford,21-2,State Senate,14,Democratic,Gayle Jordan,12
+Rutherford,21-2,State Senate,14,Republican,Joe Carr,93
+Rutherford,21-2,State Senate,14,Republican,Shane Reeves,162
+Rutherford,4-1,State Senate,14,Democratic,Gayle Jordan,3
+Rutherford,4-1,State Senate,14,Republican,Joe Carr,37
+Rutherford,4-1,State Senate,14,Republican,Shane Reeves,58
+Rutherford,4-3,State Senate,14,Democratic,Gayle Jordan,9
+Rutherford,4-3,State Senate,14,Republican,Joe Carr,104
+Rutherford,4-3,State Senate,14,Republican,Shane Reeves,256
+Rutherford,4-4,State Senate,14,Democratic,Gayle Jordan,0
+Rutherford,4-4,State Senate,14,Republican,Joe Carr,25
+Rutherford,4-4,State Senate,14,Republican,Shane Reeves,28
+Rutherford,6-1,State Senate,14,Democratic,Gayle Jordan,15
+Rutherford,6-1,State Senate,14,Republican,Joe Carr,132
+Rutherford,6-1,State Senate,14,Republican,Shane Reeves,144
+Rutherford,6-2,State Senate,14,Democratic,Gayle Jordan,11
+Rutherford,6-2,State Senate,14,Republican,Joe Carr,73
+Rutherford,6-2,State Senate,14,Republican,Shane Reeves,118
+Rutherford,7-2,State Senate,14,Democratic,Gayle Jordan,14
+Rutherford,7-2,State Senate,14,Republican,Joe Carr,96
+Rutherford,7-2,State Senate,14,Republican,Shane Reeves,195
+Rutherford,8-4,State Senate,14,Democratic,Gayle Jordan,2
+Rutherford,8-4,State Senate,14,Republican,Joe Carr,25
+Rutherford,8-4,State Senate,14,Republican,Shane Reeves,71
