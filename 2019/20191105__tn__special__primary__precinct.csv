@@ -1,0 +1,151 @@
+county,precinct,office,district,party,candidate,votes
+Dyer,A1- Bonicord,State House,77,Democratic,Michael Smith,14
+Dyer,A1- Bonicord,State House,77,Republican,Bob Kirk,29
+Dyer,A1- Bonicord,State House,77,Republican,Casey L Hood,23
+Dyer,A1- Bonicord,State House,77,Republican,Rusty Grills,134
+Dyer,A1- Bonicord,State House,77,Republican,Vanedda Prince Webb,26
+Dyer,A2- Fowlkes,State House,77,Democratic,Michael Smith,10
+Dyer,A2- Fowlkes,State House,77,Republican,Bob Kirk,20
+Dyer,A2- Fowlkes,State House,77,Republican,Casey L Hood,14
+Dyer,A2- Fowlkes,State House,77,Republican,Rusty Grills,127
+Dyer,A2- Fowlkes,State House,77,Republican,Vanedda Prince Webb,12
+Dyer,B- Newbern,State House,77,Democratic,Michael Smith,22
+Dyer,B- Newbern,State House,77,Republican,Bob Kirk,25
+Dyer,B- Newbern,State House,77,Republican,Casey L Hood,54
+Dyer,B- Newbern,State House,77,Republican,Rusty Grills,316
+Dyer,B- Newbern,State House,77,Republican,Vanedda Prince Webb,21
+Dyer,C1- Tatumville,State House,77,Democratic,Michael Smith,3
+Dyer,C1- Tatumville,State House,77,Republican,Bob Kirk,7
+Dyer,C1- Tatumville,State House,77,Republican,Casey L Hood,17
+Dyer,C1- Tatumville,State House,77,Republican,Rusty Grills,120
+Dyer,C1- Tatumville,State House,77,Republican,Vanedda Prince Webb,13
+Dyer,C2- Trimble,State House,77,Democratic,Michael Smith,18
+Dyer,C2- Trimble,State House,77,Republican,Bob Kirk,20
+Dyer,C2- Trimble,State House,77,Republican,Casey L Hood,41
+Dyer,C2- Trimble,State House,77,Republican,Rusty Grills,232
+Dyer,C2- Trimble,State House,77,Republican,Vanedda Prince Webb,23
+Dyer,C3- Roellen,State House,77,Democratic,Michael Smith,6
+Dyer,C3- Roellen,State House,77,Republican,Bob Kirk,10
+Dyer,C3- Roellen,State House,77,Republican,Casey L Hood,9
+Dyer,C3- Roellen,State House,77,Republican,Rusty Grills,84
+Dyer,C3- Roellen,State House,77,Republican,Vanedda Prince Webb,15
+Dyer,D1- Millsfield,State House,77,Democratic,Michael Smith,12
+Dyer,D1- Millsfield,State House,77,Republican,Bob Kirk,33
+Dyer,D1- Millsfield,State House,77,Republican,Casey L Hood,31
+Dyer,D1- Millsfield,State House,77,Republican,Rusty Grills,300
+Dyer,D1- Millsfield,State House,77,Republican,Vanedda Prince Webb,25
+Dyer,D2- Bogota,State House,77,Democratic,Michael Smith,6
+Dyer,D2- Bogota,State House,77,Republican,Bob Kirk,24
+Dyer,D2- Bogota,State House,77,Republican,Casey L Hood,29
+Dyer,D2- Bogota,State House,77,Republican,Rusty Grills,135
+Dyer,D2- Bogota,State House,77,Republican,Vanedda Prince Webb,47
+Dyer,E1- Finley,State House,77,Democratic,Michael Smith,10
+Dyer,E1- Finley,State House,77,Republican,Bob Kirk,24
+Dyer,E1- Finley,State House,77,Republican,Casey L Hood,13
+Dyer,E1- Finley,State House,77,Republican,Rusty Grills,129
+Dyer,E1- Finley,State House,77,Republican,Vanedda Prince Webb,22
+Dyer,E2- Lenox,State House,77,Democratic,Michael Smith,5
+Dyer,E2- Lenox,State House,77,Republican,Bob Kirk,47
+Dyer,E2- Lenox,State House,77,Republican,Casey L Hood,26
+Dyer,E2- Lenox,State House,77,Republican,Rusty Grills,162
+Dyer,E2- Lenox,State House,77,Republican,Vanedda Prince Webb,32
+Dyer,F- Dyer Co Central,State House,77,Democratic,Michael Smith,60
+Dyer,F- Dyer Co Central,State House,77,Republican,Bob Kirk,7
+Dyer,F- Dyer Co Central,State House,77,Republican,Casey L Hood,6
+Dyer,F- Dyer Co Central,State House,77,Republican,Rusty Grills,17
+Dyer,F- Dyer Co Central,State House,77,Republican,Vanedda Prince Webb,4
+Dyer,G- Courthouse,State House,77,Democratic,Michael Smith,18
+Dyer,G- Courthouse,State House,77,Republican,Bob Kirk,66
+Dyer,G- Courthouse,State House,77,Republican,Casey L Hood,24
+Dyer,G- Courthouse,State House,77,Republican,Rusty Grills,152
+Dyer,G- Courthouse,State House,77,Republican,Vanedda Prince Webb,61
+Dyer,H- E. Dyersburg,State House,77,Democratic,Michael Smith,26
+Dyer,H- E. Dyersburg,State House,77,Republican,Bob Kirk,61
+Dyer,H- E. Dyersburg,State House,77,Republican,Casey L Hood,16
+Dyer,H- E. Dyersburg,State House,77,Republican,Rusty Grills,181
+Dyer,H- E. Dyersburg,State House,77,Republican,Vanedda Prince Webb,44
+Dyer,I1- Community Center,State House,77,Democratic,Michael Smith,19
+Dyer,I1- Community Center,State House,77,Republican,Bob Kirk,22
+Dyer,I1- Community Center,State House,77,Republican,Casey L Hood,5
+Dyer,I1- Community Center,State House,77,Republican,Rusty Grills,141
+Dyer,I1- Community Center,State House,77,Republican,Vanedda Prince Webb,35
+Dyer,I2- Hurricane Hill,State House,77,Democratic,Michael Smith,7
+Dyer,I2- Hurricane Hill,State House,77,Republican,Bob Kirk,44
+Dyer,I2- Hurricane Hill,State House,77,Republican,Casey L Hood,14
+Dyer,I2- Hurricane Hill,State House,77,Republican,Rusty Grills,148
+Dyer,I2- Hurricane Hill,State House,77,Republican,Vanedda Prince Webb,10
+Dyer,J- North Dyersburg,State House,77,Democratic,Michael Smith,41
+Dyer,J- North Dyersburg,State House,77,Republican,Bob Kirk,211
+Dyer,J- North Dyersburg,State House,77,Republican,Casey L Hood,23
+Dyer,J- North Dyersburg,State House,77,Republican,Rusty Grills,277
+Dyer,J- North Dyersburg,State House,77,Republican,Vanedda Prince Webb,165
+Lake,1 Tiptonville SR Citizens,State House,77,Democratic,Michael Smith,3
+Lake,1 Tiptonville SR Citizens,State House,77,Republican,Bob Kirk,1
+Lake,1 Tiptonville SR Citizens,State House,77,Republican,Casey L Hood,16
+Lake,1 Tiptonville SR Citizens,State House,77,Republican,Rusty Grills,24
+Lake,1 Tiptonville SR Citizens,State House,77,Republican,Vanedda Prince Webb,0
+Lake,2 Courthouse,State House,77,Democratic,Michael Smith,69
+Lake,2 Courthouse,State House,77,Republican,Bob Kirk,15
+Lake,2 Courthouse,State House,77,Republican,Casey L Hood,101
+Lake,2 Courthouse,State House,77,Republican,Rusty Grills,108
+Lake,2 Courthouse,State House,77,Republican,Vanedda Prince Webb,12
+Lake,3 Lake Co Middle,State House,77,Democratic,Michael Smith,37
+Lake,3 Lake Co Middle,State House,77,Republican,Bob Kirk,11
+Lake,3 Lake Co Middle,State House,77,Republican,Casey L Hood,106
+Lake,3 Lake Co Middle,State House,77,Republican,Rusty Grills,110
+Lake,3 Lake Co Middle,State House,77,Republican,Vanedda Prince Webb,17
+Obion,2-1 Eddie Cox Sr Ctr,State House,77,Democratic,Michael Smith,0
+Obion,2-1 Eddie Cox Sr Ctr,State House,77,Republican,Bob Kirk,0
+Obion,2-1 Eddie Cox Sr Ctr,State House,77,Republican,Casey L Hood,7
+Obion,2-1 Eddie Cox Sr Ctr,State House,77,Republican,Rusty Grills,4
+Obion,2-1 Eddie Cox Sr Ctr,State House,77,Republican,Vanedda Prince Webb,0
+Obion,2-4 Woodland,State House,77,Democratic,Michael Smith,23
+Obion,2-4 Woodland,State House,77,Republican,Bob Kirk,5
+Obion,2-4 Woodland,State House,77,Republican,Casey L Hood,120
+Obion,2-4 Woodland,State House,77,Republican,Rusty Grills,146
+Obion,2-4 Woodland,State House,77,Republican,Vanedda Prince Webb,16
+Obion,3-2 Kenton,State House,77,Democratic,Michael Smith,13
+Obion,3-2 Kenton,State House,77,Republican,Bob Kirk,20
+Obion,3-2 Kenton,State House,77,Republican,Casey L Hood,63
+Obion,3-2 Kenton,State House,77,Republican,Rusty Grills,110
+Obion,3-2 Kenton,State House,77,Republican,Vanedda Prince Webb,11
+Obion,3-4 Rives,State House,77,Democratic,Michael Smith,16
+Obion,3-4 Rives,State House,77,Republican,Bob Kirk,13
+Obion,3-4 Rives,State House,77,Republican,Casey L Hood,127
+Obion,3-4 Rives,State House,77,Republican,Rusty Grills,203
+Obion,3-4 Rives,State House,77,Republican,Vanedda Prince Webb,7
+Obion,4-1 Fair Grounds,State House,77,Democratic,Michael Smith,1
+Obion,4-1 Fair Grounds,State House,77,Republican,Bob Kirk,0
+Obion,4-1 Fair Grounds,State House,77,Republican,Casey L Hood,5
+Obion,4-1 Fair Grounds,State House,77,Republican,Rusty Grills,3
+Obion,4-1 Fair Grounds,State House,77,Republican,Vanedda Prince Webb,0
+Obion,5-2 Cloverdale,State House,77,Democratic,Michael Smith,6
+Obion,5-2 Cloverdale,State House,77,Republican,Bob Kirk,2
+Obion,5-2 Cloverdale,State House,77,Republican,Casey L Hood,71
+Obion,5-2 Cloverdale,State House,77,Republican,Rusty Grills,87
+Obion,5-2 Cloverdale,State House,77,Republican,Vanedda Prince Webb,0
+Obion,5-4 Hornbeak,State House,77,Democratic,Michael Smith,9
+Obion,5-4 Hornbeak,State House,77,Republican,Bob Kirk,10
+Obion,5-4 Hornbeak,State House,77,Republican,Casey L Hood,147
+Obion,5-4 Hornbeak,State House,77,Republican,Rusty Grills,144
+Obion,5-4 Hornbeak,State House,77,Republican,Vanedda Prince Webb,3
+Obion,5-5 Samburg,State House,77,Democratic,Michael Smith,8
+Obion,5-5 Samburg,State House,77,Republican,Bob Kirk,3
+Obion,5-5 Samburg,State House,77,Republican,Casey L Hood,58
+Obion,5-5 Samburg,State House,77,Republican,Rusty Grills,78
+Obion,5-5 Samburg,State House,77,Republican,Vanedda Prince Webb,2
+Obion,6-1 Troy Sr Ctr,State House,77,Democratic,Michael Smith,18
+Obion,6-1 Troy Sr Ctr,State House,77,Republican,Bob Kirk,18
+Obion,6-1 Troy Sr Ctr,State House,77,Republican,Casey L Hood,330
+Obion,6-1 Troy Sr Ctr,State House,77,Republican,Rusty Grills,208
+Obion,6-1 Troy Sr Ctr,State House,77,Republican,Vanedda Prince Webb,8
+Obion,6-2 Obion Sr Ctr,State House,77,Democratic,Michael Smith,6
+Obion,6-2 Obion Sr Ctr,State House,77,Republican,Bob Kirk,1
+Obion,6-2 Obion Sr Ctr,State House,77,Republican,Casey L Hood,233
+Obion,6-2 Obion Sr Ctr,State House,77,Republican,Rusty Grills,64
+Obion,6-2 Obion Sr Ctr,State House,77,Republican,Vanedda Prince Webb,2
+Obion,7-2 Obion Co Library,State House,77,Democratic,Michael Smith,40
+Obion,7-2 Obion Co Library,State House,77,Republican,Bob Kirk,10
+Obion,7-2 Obion Co Library,State House,77,Republican,Casey L Hood,189
+Obion,7-2 Obion Co Library,State House,77,Republican,Rusty Grills,266
+Obion,7-2 Obion Co Library,State House,77,Republican,Vanedda Prince Webb,11

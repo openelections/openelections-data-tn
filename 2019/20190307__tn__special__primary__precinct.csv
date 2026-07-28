@@ -1,0 +1,216 @@
+county,precinct,office,district,party,candidate,votes
+Houston,Arlington,State Senate,22,Democratic,Juanita Charles,7
+Houston,Arlington,State Senate,22,Republican,Betty M. Burchett,2
+Houston,Arlington,State Senate,22,Republican,Bill Powers,8
+Houston,Arlington,State Senate,22,Republican,Jason D. Knight,4
+Houston,Arlington,State Senate,22,Republican,Jeff Burkhart,45
+Houston,Erin,State Senate,22,Democratic,Juanita Charles,16
+Houston,Erin,State Senate,22,Republican,Betty M. Burchett,5
+Houston,Erin,State Senate,22,Republican,Bill Powers,16
+Houston,Erin,State Senate,22,Republican,Jason D. Knight,6
+Houston,Erin,State Senate,22,Republican,Jeff Burkhart,11
+Houston,Erin Elementary,State Senate,22,Democratic,Juanita Charles,6
+Houston,Erin Elementary,State Senate,22,Republican,Betty M. Burchett,11
+Houston,Erin Elementary,State Senate,22,Republican,Bill Powers,7
+Houston,Erin Elementary,State Senate,22,Republican,Jason D. Knight,0
+Houston,Erin Elementary,State Senate,22,Republican,Jeff Burkhart,30
+Houston,Griffins Chapel,State Senate,22,Democratic,Juanita Charles,9
+Houston,Griffins Chapel,State Senate,22,Republican,Betty M. Burchett,3
+Houston,Griffins Chapel,State Senate,22,Republican,Bill Powers,15
+Houston,Griffins Chapel,State Senate,22,Republican,Jason D. Knight,18
+Houston,Griffins Chapel,State Senate,22,Republican,Jeff Burkhart,37
+Houston,Houston Co Middle,State Senate,22,Democratic,Juanita Charles,10
+Houston,Houston Co Middle,State Senate,22,Republican,Betty M. Burchett,10
+Houston,Houston Co Middle,State Senate,22,Republican,Bill Powers,11
+Houston,Houston Co Middle,State Senate,22,Republican,Jason D. Knight,6
+Houston,Houston Co Middle,State Senate,22,Republican,Jeff Burkhart,22
+Houston,Stewart,State Senate,22,Democratic,Juanita Charles,3
+Houston,Stewart,State Senate,22,Republican,Betty M. Burchett,8
+Houston,Stewart,State Senate,22,Republican,Bill Powers,17
+Houston,Stewart,State Senate,22,Republican,Jason D. Knight,9
+Houston,Stewart,State Senate,22,Republican,Jeff Burkhart,30
+Houston,Tennessee Ridge,State Senate,22,Democratic,Juanita Charles,13
+Houston,Tennessee Ridge,State Senate,22,Republican,Betty M. Burchett,5
+Houston,Tennessee Ridge,State Senate,22,Republican,Bill Powers,10
+Houston,Tennessee Ridge,State Senate,22,Republican,Jason D. Knight,0
+Houston,Tennessee Ridge,State Senate,22,Republican,Jeff Burkhart,33
+Montgomery,10 Minglewood,State Senate,22,Democratic,Juanita Charles,33
+Montgomery,10 Minglewood,State Senate,22,Republican,Betty M. Burchett,17
+Montgomery,10 Minglewood,State Senate,22,Republican,Bill Powers,40
+Montgomery,10 Minglewood,State Senate,22,Republican,Jason D. Knight,32
+Montgomery,10 Minglewood,State Senate,22,Republican,Jeff Burkhart,40
+Montgomery,11 Northwest,State Senate,22,Democratic,Juanita Charles,32
+Montgomery,11 Northwest,State Senate,22,Republican,Betty M. Burchett,17
+Montgomery,11 Northwest,State Senate,22,Republican,Bill Powers,36
+Montgomery,11 Northwest,State Senate,22,Republican,Jason D. Knight,21
+Montgomery,11 Northwest,State Senate,22,Republican,Jeff Burkhart,40
+Montgomery,12 Ringgold,State Senate,22,Democratic,Juanita Charles,50
+Montgomery,12 Ringgold,State Senate,22,Republican,Betty M. Burchett,13
+Montgomery,12 Ringgold,State Senate,22,Republican,Bill Powers,39
+Montgomery,12 Ringgold,State Senate,22,Republican,Jason D. Knight,25
+Montgomery,12 Ringgold,State Senate,22,Republican,Jeff Burkhart,42
+Montgomery,13 Byrns Darden,State Senate,22,Democratic,Juanita Charles,44
+Montgomery,13 Byrns Darden,State Senate,22,Republican,Betty M. Burchett,19
+Montgomery,13 Byrns Darden,State Senate,22,Republican,Bill Powers,34
+Montgomery,13 Byrns Darden,State Senate,22,Republican,Jason D. Knight,10
+Montgomery,13 Byrns Darden,State Senate,22,Republican,Jeff Burkhart,45
+Montgomery,14 Glenellen,State Senate,22,Democratic,Juanita Charles,48
+Montgomery,14 Glenellen,State Senate,22,Republican,Betty M. Burchett,37
+Montgomery,14 Glenellen,State Senate,22,Republican,Bill Powers,80
+Montgomery,14 Glenellen,State Senate,22,Republican,Jason D. Knight,23
+Montgomery,14 Glenellen,State Senate,22,Republican,Jeff Burkhart,74
+Montgomery,15 Sango,State Senate,22,Democratic,Juanita Charles,51
+Montgomery,15 Sango,State Senate,22,Republican,Betty M. Burchett,133
+Montgomery,15 Sango,State Senate,22,Republican,Bill Powers,222
+Montgomery,15 Sango,State Senate,22,Republican,Jason D. Knight,44
+Montgomery,15 Sango,State Senate,22,Republican,Jeff Burkhart,153
+Montgomery,16 New Providence,State Senate,22,Democratic,Juanita Charles,43
+Montgomery,16 New Providence,State Senate,22,Republican,Betty M. Burchett,15
+Montgomery,16 New Providence,State Senate,22,Republican,Bill Powers,48
+Montgomery,16 New Providence,State Senate,22,Republican,Jason D. Knight,21
+Montgomery,16 New Providence,State Senate,22,Republican,Jeff Burkhart,44
+Montgomery,17 Grace,State Senate,22,Democratic,Juanita Charles,31
+Montgomery,17 Grace,State Senate,22,Republican,Betty M. Burchett,21
+Montgomery,17 Grace,State Senate,22,Republican,Bill Powers,39
+Montgomery,17 Grace,State Senate,22,Republican,Jason D. Knight,26
+Montgomery,17 Grace,State Senate,22,Republican,Jeff Burkhart,38
+Montgomery,18 Hazelwood,State Senate,22,Democratic,Juanita Charles,33
+Montgomery,18 Hazelwood,State Senate,22,Republican,Betty M. Burchett,13
+Montgomery,18 Hazelwood,State Senate,22,Republican,Bill Powers,23
+Montgomery,18 Hazelwood,State Senate,22,Republican,Jason D. Knight,43
+Montgomery,18 Hazelwood,State Senate,22,Republican,Jeff Burkhart,52
+Montgomery,19 Oakland,State Senate,22,Democratic,Juanita Charles,69
+Montgomery,19 Oakland,State Senate,22,Republican,Betty M. Burchett,73
+Montgomery,19 Oakland,State Senate,22,Republican,Bill Powers,144
+Montgomery,19 Oakland,State Senate,22,Republican,Jason D. Knight,51
+Montgomery,19 Oakland,State Senate,22,Republican,Jeff Burkhart,114
+Montgomery,1A St B ES,State Senate,22,Democratic,Juanita Charles,44
+Montgomery,1A St B ES,State Senate,22,Republican,Betty M. Burchett,27
+Montgomery,1A St B ES,State Senate,22,Republican,Bill Powers,90
+Montgomery,1A St B ES,State Senate,22,Republican,Jason D. Knight,19
+Montgomery,1A St B ES,State Senate,22,Republican,Jeff Burkhart,95
+Montgomery,1B Emmanuel,State Senate,22,Democratic,Juanita Charles,2
+Montgomery,1B Emmanuel,State Senate,22,Republican,Betty M. Burchett,4
+Montgomery,1B Emmanuel,State Senate,22,Republican,Bill Powers,5
+Montgomery,1B Emmanuel,State Senate,22,Republican,Jason D. Knight,4
+Montgomery,1B Emmanuel,State Senate,22,Republican,Jeff Burkhart,11
+Montgomery,20A Clarksville,State Senate,22,Democratic,Juanita Charles,34
+Montgomery,20A Clarksville,State Senate,22,Republican,Betty M. Burchett,108
+Montgomery,20A Clarksville,State Senate,22,Republican,Bill Powers,160
+Montgomery,20A Clarksville,State Senate,22,Republican,Jason D. Knight,20
+Montgomery,20A Clarksville,State Senate,22,Republican,Jeff Burkhart,100
+Montgomery,20B Barksdale,State Senate,22,Democratic,Juanita Charles,34
+Montgomery,20B Barksdale,State Senate,22,Republican,Betty M. Burchett,55
+Montgomery,20B Barksdale,State Senate,22,Republican,Bill Powers,74
+Montgomery,20B Barksdale,State Senate,22,Republican,Jason D. Knight,15
+Montgomery,20B Barksdale,State Senate,22,Republican,Jeff Burkhart,34
+Montgomery,21A Cumberland,State Senate,22,Democratic,Juanita Charles,32
+Montgomery,21A Cumberland,State Senate,22,Republican,Betty M. Burchett,27
+Montgomery,21A Cumberland,State Senate,22,Republican,Bill Powers,74
+Montgomery,21A Cumberland,State Senate,22,Republican,Jason D. Knight,9
+Montgomery,21A Cumberland,State Senate,22,Republican,Jeff Burkhart,32
+Montgomery,21B Hilldale,State Senate,22,Democratic,Juanita Charles,37
+Montgomery,21B Hilldale,State Senate,22,Republican,Betty M. Burchett,69
+Montgomery,21B Hilldale,State Senate,22,Republican,Bill Powers,238
+Montgomery,21B Hilldale,State Senate,22,Republican,Jason D. Knight,14
+Montgomery,21B Hilldale,State Senate,22,Republican,Jeff Burkhart,115
+Montgomery,2A St B MC,State Senate,22,Democratic,Juanita Charles,47
+Montgomery,2A St B MC,State Senate,22,Republican,Betty M. Burchett,110
+Montgomery,2A St B MC,State Senate,22,Republican,Bill Powers,276
+Montgomery,2A St B MC,State Senate,22,Republican,Jason D. Knight,25
+Montgomery,2A St B MC,State Senate,22,Republican,Jeff Burkhart,140
+Montgomery,2B St B CC,State Senate,22,Democratic,Juanita Charles,20
+Montgomery,2B St B CC,State Senate,22,Republican,Betty M. Burchett,43
+Montgomery,2B St B CC,State Senate,22,Republican,Bill Powers,101
+Montgomery,2B St B CC,State Senate,22,Republican,Jason D. Knight,9
+Montgomery,2B St B CC,State Senate,22,Republican,Jeff Burkhart,39
+Montgomery,3 East Montgomery,State Senate,22,Democratic,Juanita Charles,49
+Montgomery,3 East Montgomery,State Senate,22,Republican,Betty M. Burchett,132
+Montgomery,3 East Montgomery,State Senate,22,Republican,Bill Powers,265
+Montgomery,3 East Montgomery,State Senate,22,Republican,Jason D. Knight,68
+Montgomery,3 East Montgomery,State Senate,22,Republican,Jeff Burkhart,195
+Montgomery,4A MCMS,State Senate,22,Democratic,Juanita Charles,27
+Montgomery,4A MCMS,State Senate,22,Republican,Betty M. Burchett,54
+Montgomery,4A MCMS,State Senate,22,Republican,Bill Powers,123
+Montgomery,4A MCMS,State Senate,22,Republican,Jason D. Knight,37
+Montgomery,4A MCMS,State Senate,22,Republican,Jeff Burkhart,88
+Montgomery,4B CMCSS,State Senate,22,Democratic,Juanita Charles,24
+Montgomery,4B CMCSS,State Senate,22,Republican,Betty M. Burchett,26
+Montgomery,4B CMCSS,State Senate,22,Republican,Bill Powers,55
+Montgomery,4B CMCSS,State Senate,22,Republican,Jason D. Knight,12
+Montgomery,4B CMCSS,State Senate,22,Republican,Jeff Burkhart,69
+Montgomery,5A Smith,State Senate,22,Democratic,Juanita Charles,19
+Montgomery,5A Smith,State Senate,22,Republican,Betty M. Burchett,14
+Montgomery,5A Smith,State Senate,22,Republican,Bill Powers,31
+Montgomery,5A Smith,State Senate,22,Republican,Jason D. Knight,14
+Montgomery,5A Smith,State Senate,22,Republican,Jeff Burkhart,24
+Montgomery,5B Madison,State Senate,22,Democratic,Juanita Charles,27
+Montgomery,5B Madison,State Senate,22,Republican,Betty M. Burchett,11
+Montgomery,5B Madison,State Senate,22,Republican,Bill Powers,13
+Montgomery,5B Madison,State Senate,22,Republican,Jason D. Knight,2
+Montgomery,5B Madison,State Senate,22,Republican,Jeff Burkhart,7
+Montgomery,6A Cumberland,State Senate,22,Democratic,Juanita Charles,18
+Montgomery,6A Cumberland,State Senate,22,Republican,Betty M. Burchett,60
+Montgomery,6A Cumberland,State Senate,22,Republican,Bill Powers,111
+Montgomery,6A Cumberland,State Senate,22,Republican,Jason D. Knight,40
+Montgomery,6A Cumberland,State Senate,22,Republican,Jeff Burkhart,84
+Montgomery,6B Bethel,State Senate,22,Democratic,Juanita Charles,8
+Montgomery,6B Bethel,State Senate,22,Republican,Betty M. Burchett,26
+Montgomery,6B Bethel,State Senate,22,Republican,Bill Powers,26
+Montgomery,6B Bethel,State Senate,22,Republican,Jason D. Knight,14
+Montgomery,6B Bethel,State Senate,22,Republican,Jeff Burkhart,49
+Montgomery,7 Woodlawn,State Senate,22,Democratic,Juanita Charles,40
+Montgomery,7 Woodlawn,State Senate,22,Republican,Betty M. Burchett,42
+Montgomery,7 Woodlawn,State Senate,22,Republican,Bill Powers,92
+Montgomery,7 Woodlawn,State Senate,22,Republican,Jason D. Knight,88
+Montgomery,7 Woodlawn,State Senate,22,Republican,Jeff Burkhart,198
+Montgomery,8A Bethel,State Senate,22,Democratic,Juanita Charles,7
+Montgomery,8A Bethel,State Senate,22,Republican,Betty M. Burchett,1
+Montgomery,8A Bethel,State Senate,22,Republican,Bill Powers,10
+Montgomery,8A Bethel,State Senate,22,Republican,Jason D. Knight,1
+Montgomery,8A Bethel,State Senate,22,Republican,Jeff Burkhart,9
+Montgomery,8B Barkers Mill,State Senate,22,Democratic,Juanita Charles,20
+Montgomery,8B Barkers Mill,State Senate,22,Republican,Betty M. Burchett,6
+Montgomery,8B Barkers Mill,State Senate,22,Republican,Bill Powers,12
+Montgomery,8B Barkers Mill,State Senate,22,Republican,Jason D. Knight,12
+Montgomery,8B Barkers Mill,State Senate,22,Republican,Jeff Burkhart,14
+Montgomery,9 Outlaw,State Senate,22,Democratic,Juanita Charles,37
+Montgomery,9 Outlaw,State Senate,22,Republican,Betty M. Burchett,11
+Montgomery,9 Outlaw,State Senate,22,Republican,Bill Powers,22
+Montgomery,9 Outlaw,State Senate,22,Republican,Jason D. Knight,22
+Montgomery,9 Outlaw,State Senate,22,Republican,Jeff Burkhart,22
+Stewart,1-1 Indian Mound,State Senate,22,Democratic,Juanita Charles,7
+Stewart,1-1 Indian Mound,State Senate,22,Republican,Betty M. Burchett,3
+Stewart,1-1 Indian Mound,State Senate,22,Republican,Bill Powers,25
+Stewart,1-1 Indian Mound,State Senate,22,Republican,Jason D. Knight,8
+Stewart,1-1 Indian Mound,State Senate,22,Republican,Jeff Burkhart,39
+Stewart,2-1 Big Rock,State Senate,22,Democratic,Juanita Charles,10
+Stewart,2-1 Big Rock,State Senate,22,Republican,Betty M. Burchett,5
+Stewart,2-1 Big Rock,State Senate,22,Republican,Bill Powers,19
+Stewart,2-1 Big Rock,State Senate,22,Republican,Jason D. Knight,19
+Stewart,2-1 Big Rock,State Senate,22,Republican,Jeff Burkhart,52
+Stewart,3-1 Bumpus Mills,State Senate,22,Democratic,Juanita Charles,10
+Stewart,3-1 Bumpus Mills,State Senate,22,Republican,Betty M. Burchett,6
+Stewart,3-1 Bumpus Mills,State Senate,22,Republican,Bill Powers,22
+Stewart,3-1 Bumpus Mills,State Senate,22,Republican,Jason D. Knight,13
+Stewart,3-1 Bumpus Mills,State Senate,22,Republican,Jeff Burkhart,49
+Stewart,4-1 Church Street,State Senate,22,Democratic,Juanita Charles,12
+Stewart,4-1 Church Street,State Senate,22,Republican,Betty M. Burchett,13
+Stewart,4-1 Church Street,State Senate,22,Republican,Bill Powers,53
+Stewart,4-1 Church Street,State Senate,22,Republican,Jason D. Knight,11
+Stewart,4-1 Church Street,State Senate,22,Republican,Jeff Burkhart,43
+Stewart,5-1 Visitors Center,State Senate,22,Democratic,Juanita Charles,18
+Stewart,5-1 Visitors Center,State Senate,22,Republican,Betty M. Burchett,14
+Stewart,5-1 Visitors Center,State Senate,22,Republican,Bill Powers,40
+Stewart,5-1 Visitors Center,State Senate,22,Republican,Jason D. Knight,22
+Stewart,5-1 Visitors Center,State Senate,22,Republican,Jeff Burkhart,56
+Stewart,6-1 Public Library,State Senate,22,Democratic,Juanita Charles,31
+Stewart,6-1 Public Library,State Senate,22,Republican,Betty M. Burchett,16
+Stewart,6-1 Public Library,State Senate,22,Republican,Bill Powers,35
+Stewart,6-1 Public Library,State Senate,22,Republican,Jason D. Knight,16
+Stewart,6-1 Public Library,State Senate,22,Republican,Jeff Burkhart,48
+Stewart,7-1 Cumberland City,State Senate,22,Democratic,Juanita Charles,13
+Stewart,7-1 Cumberland City,State Senate,22,Republican,Betty M. Burchett,12
+Stewart,7-1 Cumberland City,State Senate,22,Republican,Bill Powers,21
+Stewart,7-1 Cumberland City,State Senate,22,Republican,Jason D. Knight,15
+Stewart,7-1 Cumberland City,State Senate,22,Republican,Jeff Burkhart,51
