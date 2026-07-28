@@ -1,0 +1,100 @@
+county,precinct,office,district,party,candidate,votes
+Davidson,02-4,State House,51,Democratic,Aftyn Behn,15
+Davidson,02-4,State House,51,Democratic,Anthony Davis,10
+Davidson,02-4,State House,51,Republican,David C. Hooven,2
+Davidson,03-4,State House,51,Democratic,Aftyn Behn,135
+Davidson,03-4,State House,51,Democratic,Anthony Davis,132
+Davidson,03-4,State House,51,Republican,David C. Hooven,40
+Davidson,03-7,State House,51,Democratic,Aftyn Behn,7
+Davidson,03-7,State House,51,Democratic,Anthony Davis,15
+Davidson,03-7,State House,51,Republican,David C. Hooven,1
+Davidson,05-7,State House,51,Democratic,Aftyn Behn,73
+Davidson,05-7,State House,51,Democratic,Anthony Davis,43
+Davidson,05-7,State House,51,Republican,David C. Hooven,11
+Davidson,06-1,State House,51,Democratic,Aftyn Behn,1
+Davidson,06-1,State House,51,Democratic,Anthony Davis,0
+Davidson,06-1,State House,51,Republican,David C. Hooven,1
+Davidson,06-2,State House,51,Democratic,Aftyn Behn,4
+Davidson,06-2,State House,51,Democratic,Anthony Davis,5
+Davidson,06-2,State House,51,Republican,David C. Hooven,0
+Davidson,06-3,State House,51,Democratic,Aftyn Behn,465
+Davidson,06-3,State House,51,Democratic,Anthony Davis,358
+Davidson,06-3,State House,51,Republican,David C. Hooven,25
+Davidson,06-4,State House,51,Democratic,Aftyn Behn,459
+Davidson,06-4,State House,51,Democratic,Anthony Davis,390
+Davidson,06-4,State House,51,Republican,David C. Hooven,80
+Davidson,06-5,State House,51,Democratic,Aftyn Behn,208
+Davidson,06-5,State House,51,Democratic,Anthony Davis,170
+Davidson,06-5,State House,51,Republican,David C. Hooven,20
+Davidson,06-6,State House,51,Democratic,Aftyn Behn,313
+Davidson,06-6,State House,51,Democratic,Anthony Davis,215
+Davidson,06-6,State House,51,Republican,David C. Hooven,36
+Davidson,06-7,State House,51,Democratic,Aftyn Behn,58
+Davidson,06-7,State House,51,Democratic,Anthony Davis,70
+Davidson,06-7,State House,51,Republican,David C. Hooven,12
+Davidson,06-8,State House,51,Democratic,Aftyn Behn,329
+Davidson,06-8,State House,51,Democratic,Anthony Davis,232
+Davidson,06-8,State House,51,Republican,David C. Hooven,40
+Davidson,07-1,State House,51,Democratic,Aftyn Behn,10
+Davidson,07-1,State House,51,Democratic,Anthony Davis,9
+Davidson,07-1,State House,51,Republican,David C. Hooven,1
+Davidson,07-3,State House,51,Democratic,Aftyn Behn,108
+Davidson,07-3,State House,51,Democratic,Anthony Davis,107
+Davidson,07-3,State House,51,Republican,David C. Hooven,33
+Davidson,07-4,State House,51,Democratic,Aftyn Behn,464
+Davidson,07-4,State House,51,Democratic,Anthony Davis,464
+Davidson,07-4,State House,51,Republican,David C. Hooven,104
+Davidson,07-5,State House,51,Democratic,Aftyn Behn,412
+Davidson,07-5,State House,51,Democratic,Anthony Davis,416
+Davidson,07-5,State House,51,Republican,David C. Hooven,68
+Davidson,07-6,State House,51,Democratic,Aftyn Behn,189
+Davidson,07-6,State House,51,Democratic,Anthony Davis,139
+Davidson,07-6,State House,51,Republican,David C. Hooven,23
+Davidson,07-7,State House,51,Democratic,Aftyn Behn,340
+Davidson,07-7,State House,51,Democratic,Anthony Davis,405
+Davidson,07-7,State House,51,Republican,David C. Hooven,98
+Davidson,09-1,State House,51,Democratic,Aftyn Behn,138
+Davidson,09-1,State House,51,Democratic,Anthony Davis,150
+Davidson,09-1,State House,51,Republican,David C. Hooven,27
+Davidson,09-2,State House,51,Democratic,Aftyn Behn,6
+Davidson,09-2,State House,51,Democratic,Anthony Davis,13
+Davidson,09-2,State House,51,Republican,David C. Hooven,1
+Davidson,09-3,State House,51,Democratic,Aftyn Behn,235
+Davidson,09-3,State House,51,Democratic,Anthony Davis,216
+Davidson,09-3,State House,51,Republican,David C. Hooven,126
+Davidson,14-5,State House,51,Democratic,Aftyn Behn,1
+Davidson,14-5,State House,51,Democratic,Anthony Davis,2
+Davidson,14-5,State House,51,Republican,David C. Hooven,5
+Davidson,15-1,State House,51,Democratic,Aftyn Behn,382
+Davidson,15-1,State House,51,Democratic,Anthony Davis,298
+Davidson,15-1,State House,51,Republican,David C. Hooven,280
+Davidson,15-3,State House,51,Democratic,Aftyn Behn,221
+Davidson,15-3,State House,51,Democratic,Anthony Davis,200
+Davidson,15-3,State House,51,Republican,David C. Hooven,163
+Davidson,15-4,State House,51,Democratic,Aftyn Behn,93
+Davidson,15-4,State House,51,Democratic,Anthony Davis,72
+Davidson,15-4,State House,51,Republican,David C. Hooven,60
+Davidson,15-5,State House,51,Democratic,Aftyn Behn,6
+Davidson,15-5,State House,51,Democratic,Anthony Davis,7
+Davidson,15-5,State House,51,Republican,David C. Hooven,3
+Davidson,17-1,State House,51,Democratic,Aftyn Behn,10
+Davidson,17-1,State House,51,Democratic,Anthony Davis,7
+Davidson,17-1,State House,51,Republican,David C. Hooven,8
+Davidson,19-1,State House,51,Democratic,Aftyn Behn,7
+Davidson,19-1,State House,51,Democratic,Anthony Davis,12
+Davidson,19-1,State House,51,Republican,David C. Hooven,3
+Davidson,19-2,State House,51,Democratic,Aftyn Behn,278
+Davidson,19-2,State House,51,Democratic,Anthony Davis,185
+Davidson,19-2,State House,51,Republican,David C. Hooven,82
+Davidson,19-3,State House,51,Democratic,Aftyn Behn,23
+Davidson,19-3,State House,51,Democratic,Anthony Davis,8
+Davidson,19-3,State House,51,Republican,David C. Hooven,8
+Davidson,19-4,State House,51,Democratic,Aftyn Behn,137
+Davidson,19-4,State House,51,Democratic,Anthony Davis,113
+Davidson,19-4,State House,51,Republican,David C. Hooven,69
+Davidson,19-5,State House,51,Democratic,Aftyn Behn,140
+Davidson,19-5,State House,51,Democratic,Anthony Davis,119
+Davidson,19-5,State House,51,Republican,David C. Hooven,85
+Davidson,All County Precinct,State House,51,Democratic,Aftyn Behn,0
+Davidson,All County Precinct,State House,51,Democratic,Anthony Davis,0
+Davidson,All County Precinct,State House,51,Republican,David C. Hooven,0

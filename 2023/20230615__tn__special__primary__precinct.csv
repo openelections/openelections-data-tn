@@ -1,0 +1,102 @@
+county,precinct,office,district,party,candidate,votes
+Davidson,06-8,State House,52,Democratic,Justin Jones,138
+Davidson,06-8,State House,52,Republican,Laura Nelson,2
+Davidson,08-1,State House,52,Democratic,Justin Jones,111
+Davidson,08-1,State House,52,Republican,Laura Nelson,15
+Davidson,08-2,State House,52,Democratic,Justin Jones,39
+Davidson,08-2,State House,52,Republican,Laura Nelson,7
+Davidson,08-3,State House,52,Democratic,Justin Jones,219
+Davidson,08-3,State House,52,Republican,Laura Nelson,27
+Davidson,12-4,State House,52,Democratic,Justin Jones,12
+Davidson,12-4,State House,52,Republican,Laura Nelson,14
+Davidson,13-1,State House,52,Democratic,Justin Jones,89
+Davidson,13-1,State House,52,Republican,Laura Nelson,13
+Davidson,13-2,State House,52,Democratic,Justin Jones,58
+Davidson,13-2,State House,52,Republican,Laura Nelson,13
+Davidson,13-4,State House,52,Democratic,Justin Jones,9
+Davidson,13-4,State House,52,Republican,Laura Nelson,1
+Davidson,13-5,State House,52,Democratic,Justin Jones,79
+Davidson,13-5,State House,52,Republican,Laura Nelson,42
+Davidson,15-2,State House,52,Democratic,Justin Jones,2
+Davidson,15-2,State House,52,Republican,Laura Nelson,2
+Davidson,16-1,State House,52,Democratic,Justin Jones,22
+Davidson,16-1,State House,52,Republican,Laura Nelson,1
+Davidson,16-2,State House,52,Democratic,Justin Jones,1
+Davidson,16-2,State House,52,Republican,Laura Nelson,0
+Davidson,16-3,State House,52,Democratic,Justin Jones,63
+Davidson,16-3,State House,52,Republican,Laura Nelson,13
+Davidson,16-4,State House,52,Democratic,Justin Jones,30
+Davidson,16-4,State House,52,Republican,Laura Nelson,8
+Davidson,17-5,State House,52,Democratic,Justin Jones,23
+Davidson,17-5,State House,52,Republican,Laura Nelson,10
+Davidson,28-1,State House,52,Democratic,Justin Jones,0
+Davidson,28-1,State House,52,Republican,Laura Nelson,0
+Davidson,28-2,State House,52,Democratic,Justin Jones,26
+Davidson,28-2,State House,52,Republican,Laura Nelson,9
+Davidson,28-5,State House,52,Democratic,Justin Jones,12
+Davidson,28-5,State House,52,Republican,Laura Nelson,5
+Davidson,29-1,State House,52,Democratic,Justin Jones,140
+Davidson,29-1,State House,52,Republican,Laura Nelson,23
+Davidson,29-2,State House,52,Democratic,Justin Jones,111
+Davidson,29-2,State House,52,Republican,Laura Nelson,9
+Davidson,29-3,State House,52,Democratic,Justin Jones,118
+Davidson,29-3,State House,52,Republican,Laura Nelson,7
+Davidson,29-4,State House,52,Democratic,Justin Jones,213
+Davidson,29-4,State House,52,Republican,Laura Nelson,28
+Shelby,01-01,State House,86,Democratic,David Page,28
+Shelby,01-01,State House,86,Democratic,Justin J. Pearson,142
+Shelby,01-01,State House,86,Republican,No Candidate Qualified,0
+Shelby,01-02,State House,86,Democratic,David Page,3
+Shelby,01-02,State House,86,Democratic,Justin J. Pearson,29
+Shelby,01-02,State House,86,Republican,No Candidate Qualified,0
+Shelby,01-03,State House,86,Democratic,David Page,0
+Shelby,01-03,State House,86,Democratic,Justin J. Pearson,1
+Shelby,01-03,State House,86,Republican,No Candidate Qualified,0
+Shelby,01-04,State House,86,Democratic,David Page,26
+Shelby,01-04,State House,86,Democratic,Justin J. Pearson,44
+Shelby,01-04,State House,86,Republican,No Candidate Qualified,0
+Shelby,01-05,State House,86,Democratic,David Page,13
+Shelby,01-05,State House,86,Democratic,Justin J. Pearson,157
+Shelby,01-05,State House,86,Republican,No Candidate Qualified,0
+Shelby,07-01,State House,86,Democratic,David Page,0
+Shelby,07-01,State House,86,Democratic,Justin J. Pearson,0
+Shelby,07-01,State House,86,Republican,No Candidate Qualified,0
+Shelby,07-02,State House,86,Democratic,David Page,0
+Shelby,07-02,State House,86,Democratic,Justin J. Pearson,17
+Shelby,07-02,State House,86,Republican,No Candidate Qualified,0
+Shelby,08-01,State House,86,Democratic,David Page,0
+Shelby,08-01,State House,86,Democratic,Justin J. Pearson,34
+Shelby,08-01,State House,86,Republican,No Candidate Qualified,0
+Shelby,08-02,State House,86,Democratic,David Page,0
+Shelby,08-02,State House,86,Democratic,Justin J. Pearson,42
+Shelby,08-02,State House,86,Republican,No Candidate Qualified,0
+Shelby,08-03,State House,86,Democratic,David Page,7
+Shelby,08-03,State House,86,Democratic,Justin J. Pearson,192
+Shelby,08-03,State House,86,Republican,No Candidate Qualified,0
+Shelby,08-05,State House,86,Democratic,David Page,8
+Shelby,08-05,State House,86,Democratic,Justin J. Pearson,136
+Shelby,08-05,State House,86,Republican,No Candidate Qualified,0
+Shelby,08-08,State House,86,Democratic,David Page,1
+Shelby,08-08,State House,86,Democratic,Justin J. Pearson,120
+Shelby,08-08,State House,86,Republican,No Candidate Qualified,0
+Shelby,08-09,State House,86,Democratic,David Page,0
+Shelby,08-09,State House,86,Democratic,Justin J. Pearson,6
+Shelby,08-09,State House,86,Republican,No Candidate Qualified,0
+Shelby,08-12,State House,86,Democratic,David Page,3
+Shelby,08-12,State House,86,Democratic,Justin J. Pearson,60
+Shelby,08-12,State House,86,Republican,No Candidate Qualified,0
+Shelby,09-01,State House,86,Democratic,David Page,4
+Shelby,09-01,State House,86,Democratic,Justin J. Pearson,74
+Shelby,09-01,State House,86,Republican,No Candidate Qualified,0
+Shelby,09-02,State House,86,Democratic,David Page,8
+Shelby,09-02,State House,86,Democratic,Justin J. Pearson,128
+Shelby,09-02,State House,86,Republican,No Candidate Qualified,0
+Shelby,09-03,State House,86,Democratic,David Page,10
+Shelby,09-03,State House,86,Democratic,Justin J. Pearson,341
+Shelby,09-03,State House,86,Republican,No Candidate Qualified,0
+Shelby,09-06,State House,86,Democratic,David Page,7
+Shelby,09-06,State House,86,Democratic,Justin J. Pearson,346
+Shelby,09-06,State House,86,Republican,No Candidate Qualified,0
+Shelby,09-09,State House,86,Democratic,David Page,7
+Shelby,09-09,State House,86,Democratic,Justin J. Pearson,341
+Shelby,09-09,State House,86,Republican,No Candidate Qualified,0
