@@ -1,0 +1,155 @@
+county,precinct,office,district,party,candidate,votes
+Carter,Elk Mills,State House,3,Democratic,Lori Love,9
+Carter,Elk Mills,State House,3,Republican,Timothy Hill,15
+Carter,Hampton,State House,3,Democratic,Lori Love,22
+Carter,Hampton,State House,3,Republican,Timothy Hill,70
+Carter,Little Milligan,State House,3,Democratic,Lori Love,15
+Carter,Little Milligan,State House,3,Republican,Timothy Hill,26
+Carter,Roan Mountain,State House,3,Democratic,Lori Love,20
+Carter,Roan Mountain,State House,3,Republican,Timothy Hill,125
+Carter,Tiger Valley,State House,3,Democratic,Lori Love,7
+Carter,Tiger Valley,State House,3,Republican,Timothy Hill,25
+Carter,Valley Forge,State House,3,Democratic,Lori Love,4
+Carter,Valley Forge,State House,3,Republican,Timothy Hill,12
+Davidson,06-8,State House,52,Democratic,Justin Jones,560
+Davidson,06-8,State House,52,Republican,Laura Nelson,63
+Davidson,08-1,State House,52,Democratic,Justin Jones,561
+Davidson,08-1,State House,52,Republican,Laura Nelson,109
+Davidson,08-2,State House,52,Democratic,Justin Jones,118
+Davidson,08-2,State House,52,Republican,Laura Nelson,34
+Davidson,08-3,State House,52,Democratic,Justin Jones,708
+Davidson,08-3,State House,52,Republican,Laura Nelson,172
+Davidson,12-4,State House,52,Democratic,Justin Jones,55
+Davidson,12-4,State House,52,Republican,Laura Nelson,82
+Davidson,13-1,State House,52,Democratic,Justin Jones,244
+Davidson,13-1,State House,52,Republican,Laura Nelson,54
+Davidson,13-2,State House,52,Democratic,Justin Jones,210
+Davidson,13-2,State House,52,Republican,Laura Nelson,59
+Davidson,13-4,State House,52,Democratic,Justin Jones,42
+Davidson,13-4,State House,52,Republican,Laura Nelson,6
+Davidson,13-5,State House,52,Democratic,Justin Jones,289
+Davidson,13-5,State House,52,Republican,Laura Nelson,165
+Davidson,15-2,State House,52,Democratic,Justin Jones,17
+Davidson,15-2,State House,52,Republican,Laura Nelson,5
+Davidson,16-1,State House,52,Democratic,Justin Jones,178
+Davidson,16-1,State House,52,Republican,Laura Nelson,50
+Davidson,16-2,State House,52,Democratic,Justin Jones,13
+Davidson,16-2,State House,52,Republican,Laura Nelson,4
+Davidson,16-3,State House,52,Democratic,Justin Jones,218
+Davidson,16-3,State House,52,Republican,Laura Nelson,85
+Davidson,16-4,State House,52,Democratic,Justin Jones,122
+Davidson,16-4,State House,52,Republican,Laura Nelson,52
+Davidson,17-5,State House,52,Democratic,Justin Jones,51
+Davidson,17-5,State House,52,Republican,Laura Nelson,36
+Davidson,28-1,State House,52,Democratic,Justin Jones,2
+Davidson,28-1,State House,52,Republican,Laura Nelson,1
+Davidson,28-2,State House,52,Democratic,Justin Jones,74
+Davidson,28-2,State House,52,Republican,Laura Nelson,45
+Davidson,28-5,State House,52,Democratic,Justin Jones,65
+Davidson,28-5,State House,52,Republican,Laura Nelson,12
+Davidson,29-1,State House,52,Democratic,Justin Jones,383
+Davidson,29-1,State House,52,Republican,Laura Nelson,111
+Davidson,29-2,State House,52,Democratic,Justin Jones,377
+Davidson,29-2,State House,52,Republican,Laura Nelson,61
+Davidson,29-3,State House,52,Democratic,Justin Jones,309
+Davidson,29-3,State House,52,Republican,Laura Nelson,82
+Davidson,29-4,State House,52,Democratic,Justin Jones,630
+Davidson,29-4,State House,52,Republican,Laura Nelson,206
+Davidson,All County Precinct,State House,52,Democratic,Justin Jones,0
+Davidson,All County Precinct,State House,52,Republican,Laura Nelson,0
+Hawkins,1 Allandale,State House,3,Democratic,Lori Love,45
+Hawkins,1 Allandale,State House,3,Republican,Timothy Hill,63
+Hawkins,1 Mount Carmel,State House,3,Democratic,Lori Love,53
+Hawkins,1 Mount Carmel,State House,3,Republican,Timothy Hill,78
+Hawkins,2 Church Hill,State House,3,Democratic,Lori Love,0
+Hawkins,2 Church Hill,State House,3,Republican,Timothy Hill,0
+Hawkins,2 McPheeter's Bend,State House,3,Democratic,Lori Love,30
+Hawkins,2 McPheeter's Bend,State House,3,Republican,Timothy Hill,57
+Hawkins,3 Carter's Valley,State House,3,Democratic,Lori Love,45
+Hawkins,3 Carter's Valley,State House,3,Republican,Timothy Hill,76
+Hawkins,3 Wallace,State House,3,Democratic,Lori Love,2
+Hawkins,3 Wallace,State House,3,Republican,Timothy Hill,0
+Hawkins,4 Keplar/Dykes,State House,3,Democratic,Lori Love,6
+Hawkins,4 Keplar/Dykes,State House,3,Republican,Timothy Hill,15
+Hawkins,4 Surgoinsville,State House,3,Democratic,Lori Love,0
+Hawkins,4 Surgoinsville,State House,3,Republican,Timothy Hill,9
+Hawkins,4 Upper Beech,State House,3,Democratic,Lori Love,3
+Hawkins,4 Upper Beech,State House,3,Republican,Timothy Hill,8
+Johnson,1A Laurel,State House,3,Democratic,Lori Love,23
+Johnson,1A Laurel,State House,3,Republican,Timothy Hill,182
+Johnson,1B Cold Springs,State House,3,Democratic,Lori Love,24
+Johnson,1B Cold Springs,State House,3,Republican,Timothy Hill,156
+Johnson,2 Forge/Shouns,State House,3,Democratic,Lori Love,14
+Johnson,2 Forge/Shouns,State House,3,Republican,Timothy Hill,86
+Johnson,3A Trade,State House,3,Democratic,Lori Love,25
+Johnson,3A Trade,State House,3,Republican,Timothy Hill,59
+Johnson,3B Neva,State House,3,Democratic,Lori Love,44
+Johnson,3B Neva,State House,3,Republican,Timothy Hill,212
+Johnson,4A Dry Run,State House,3,Democratic,Lori Love,30
+Johnson,4A Dry Run,State House,3,Republican,Timothy Hill,137
+Johnson,4B Butler,State House,3,Democratic,Lori Love,11
+Johnson,4B Butler,State House,3,Republican,Timothy Hill,98
+Johnson,5 Doe,State House,3,Democratic,Lori Love,34
+Johnson,5 Doe,State House,3,Republican,Timothy Hill,215
+Johnson,6 Shady,State House,3,Democratic,Lori Love,30
+Johnson,6 Shady,State House,3,Republican,Timothy Hill,113
+Johnson,7 City,State House,3,Democratic,Lori Love,41
+Johnson,7 City,State House,3,Republican,Timothy Hill,229
+Shelby,01-01,State House,86,Democratic,Justin J. Pearson,147
+Shelby,01-01,State House,86,Independent,Jeff Johnston,38
+Shelby,01-02,State House,86,Democratic,Justin J. Pearson,28
+Shelby,01-02,State House,86,Independent,Jeff Johnston,8
+Shelby,01-03,State House,86,Democratic,Justin J. Pearson,1
+Shelby,01-03,State House,86,Independent,Jeff Johnston,0
+Shelby,01-04,State House,86,Democratic,Justin J. Pearson,75
+Shelby,01-04,State House,86,Independent,Jeff Johnston,18
+Shelby,01-05,State House,86,Democratic,Justin J. Pearson,154
+Shelby,01-05,State House,86,Independent,Jeff Johnston,30
+Shelby,07-01,State House,86,Democratic,Justin J. Pearson,0
+Shelby,07-01,State House,86,Independent,Jeff Johnston,0
+Shelby,07-02,State House,86,Democratic,Justin J. Pearson,24
+Shelby,07-02,State House,86,Independent,Jeff Johnston,0
+Shelby,08-01,State House,86,Democratic,Justin J. Pearson,48
+Shelby,08-01,State House,86,Independent,Jeff Johnston,1
+Shelby,08-02,State House,86,Democratic,Justin J. Pearson,42
+Shelby,08-02,State House,86,Independent,Jeff Johnston,4
+Shelby,08-03,State House,86,Democratic,Justin J. Pearson,200
+Shelby,08-03,State House,86,Independent,Jeff Johnston,24
+Shelby,08-05,State House,86,Democratic,Justin J. Pearson,166
+Shelby,08-05,State House,86,Independent,Jeff Johnston,7
+Shelby,08-08,State House,86,Democratic,Justin J. Pearson,174
+Shelby,08-08,State House,86,Independent,Jeff Johnston,4
+Shelby,08-09,State House,86,Democratic,Justin J. Pearson,4
+Shelby,08-09,State House,86,Independent,Jeff Johnston,1
+Shelby,08-12,State House,86,Democratic,Justin J. Pearson,57
+Shelby,08-12,State House,86,Independent,Jeff Johnston,2
+Shelby,09-01,State House,86,Democratic,Justin J. Pearson,83
+Shelby,09-01,State House,86,Independent,Jeff Johnston,3
+Shelby,09-02,State House,86,Democratic,Justin J. Pearson,161
+Shelby,09-02,State House,86,Independent,Jeff Johnston,3
+Shelby,09-03,State House,86,Democratic,Justin J. Pearson,374
+Shelby,09-03,State House,86,Independent,Jeff Johnston,2
+Shelby,09-06,State House,86,Democratic,Justin J. Pearson,385
+Shelby,09-06,State House,86,Independent,Jeff Johnston,5
+Shelby,09-09,State House,86,Democratic,Justin J. Pearson,316
+Shelby,09-09,State House,86,Independent,Jeff Johnston,7
+Sullivan,1A,State House,3,Democratic,Lori Love,13
+Sullivan,1A,State House,3,Republican,Timothy Hill,19
+Sullivan,4A,State House,3,Democratic,Lori Love,0
+Sullivan,4A,State House,3,Republican,Timothy Hill,0
+Sullivan,4C,State House,3,Democratic,Lori Love,27
+Sullivan,4C,State House,3,Republican,Timothy Hill,18
+Sullivan,5A,State House,3,Democratic,Lori Love,138
+Sullivan,5A,State House,3,Republican,Timothy Hill,227
+Sullivan,5B,State House,3,Democratic,Lori Love,49
+Sullivan,5B,State House,3,Republican,Timothy Hill,85
+Sullivan,5C,State House,3,Democratic,Lori Love,8
+Sullivan,5C,State House,3,Republican,Timothy Hill,42
+Sullivan,6A,State House,3,Democratic,Lori Love,0
+Sullivan,6A,State House,3,Republican,Timothy Hill,0
+Sullivan,7B,State House,3,Democratic,Lori Love,79
+Sullivan,7B,State House,3,Republican,Timothy Hill,90
+Sullivan,7C,State House,3,Democratic,Lori Love,44
+Sullivan,7C,State House,3,Republican,Timothy Hill,86
+Sullivan,8B,State House,3,Democratic,Lori Love,14
+Sullivan,8B,State House,3,Republican,Timothy Hill,22

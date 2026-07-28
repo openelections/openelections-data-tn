@@ -1,0 +1,106 @@
+county,precinct,office,district,party,candidate,votes
+Carter,Elk Mills,State House,3,Democratic,Lori Love,1
+Carter,Elk Mills,State House,3,Republican,Stacy Vaughan,2
+Carter,Elk Mills,State House,3,Republican,Timothy Hill,13
+Carter,Hampton,State House,3,Democratic,Lori Love,3
+Carter,Hampton,State House,3,Republican,Stacy Vaughan,6
+Carter,Hampton,State House,3,Republican,Timothy Hill,60
+Carter,Little Milligan,State House,3,Democratic,Lori Love,2
+Carter,Little Milligan,State House,3,Republican,Stacy Vaughan,10
+Carter,Little Milligan,State House,3,Republican,Timothy Hill,14
+Carter,Roan Mountain,State House,3,Democratic,Lori Love,2
+Carter,Roan Mountain,State House,3,Republican,Stacy Vaughan,7
+Carter,Roan Mountain,State House,3,Republican,Timothy Hill,106
+Carter,Tiger Valley,State House,3,Democratic,Lori Love,3
+Carter,Tiger Valley,State House,3,Republican,Stacy Vaughan,2
+Carter,Tiger Valley,State House,3,Republican,Timothy Hill,15
+Carter,Valley Forge,State House,3,Democratic,Lori Love,0
+Carter,Valley Forge,State House,3,Republican,Stacy Vaughan,0
+Carter,Valley Forge,State House,3,Republican,Timothy Hill,4
+Hawkins,1 Allandale,State House,3,Democratic,Lori Love,1
+Hawkins,1 Allandale,State House,3,Republican,Stacy Vaughan,19
+Hawkins,1 Allandale,State House,3,Republican,Timothy Hill,22
+Hawkins,1 Mount Carmel,State House,3,Democratic,Lori Love,6
+Hawkins,1 Mount Carmel,State House,3,Republican,Stacy Vaughan,27
+Hawkins,1 Mount Carmel,State House,3,Republican,Timothy Hill,70
+Hawkins,2 Church Hill,State House,3,Democratic,Lori Love,0
+Hawkins,2 Church Hill,State House,3,Republican,Stacy Vaughan,0
+Hawkins,2 Church Hill,State House,3,Republican,Timothy Hill,2
+Hawkins,2 McPheeter's Bend,State House,3,Democratic,Lori Love,3
+Hawkins,2 McPheeter's Bend,State House,3,Republican,Stacy Vaughan,23
+Hawkins,2 McPheeter's Bend,State House,3,Republican,Timothy Hill,32
+Hawkins,3 Carter's Valley,State House,3,Democratic,Lori Love,7
+Hawkins,3 Carter's Valley,State House,3,Republican,Stacy Vaughan,19
+Hawkins,3 Carter's Valley,State House,3,Republican,Timothy Hill,42
+Hawkins,3 Wallace,State House,3,Democratic,Lori Love,0
+Hawkins,3 Wallace,State House,3,Republican,Stacy Vaughan,0
+Hawkins,3 Wallace,State House,3,Republican,Timothy Hill,1
+Hawkins,4 Keplar/Dykes,State House,3,Democratic,Lori Love,0
+Hawkins,4 Keplar/Dykes,State House,3,Republican,Stacy Vaughan,11
+Hawkins,4 Keplar/Dykes,State House,3,Republican,Timothy Hill,8
+Hawkins,4 Surgoinsville,State House,3,Democratic,Lori Love,0
+Hawkins,4 Surgoinsville,State House,3,Republican,Stacy Vaughan,3
+Hawkins,4 Surgoinsville,State House,3,Republican,Timothy Hill,5
+Hawkins,4 Upper Beech,State House,3,Democratic,Lori Love,0
+Hawkins,4 Upper Beech,State House,3,Republican,Stacy Vaughan,0
+Hawkins,4 Upper Beech,State House,3,Republican,Timothy Hill,1
+Johnson,1A Laurel,State House,3,Democratic,Lori Love,2
+Johnson,1A Laurel,State House,3,Republican,Stacy Vaughan,11
+Johnson,1A Laurel,State House,3,Republican,Timothy Hill,102
+Johnson,1B Cold Springs,State House,3,Democratic,Lori Love,3
+Johnson,1B Cold Springs,State House,3,Republican,Stacy Vaughan,21
+Johnson,1B Cold Springs,State House,3,Republican,Timothy Hill,100
+Johnson,2 Forge/Shouns,State House,3,Democratic,Lori Love,0
+Johnson,2 Forge/Shouns,State House,3,Republican,Stacy Vaughan,11
+Johnson,2 Forge/Shouns,State House,3,Republican,Timothy Hill,71
+Johnson,3A Trade,State House,3,Democratic,Lori Love,2
+Johnson,3A Trade,State House,3,Republican,Stacy Vaughan,8
+Johnson,3A Trade,State House,3,Republican,Timothy Hill,43
+Johnson,3B Neva,State House,3,Democratic,Lori Love,12
+Johnson,3B Neva,State House,3,Republican,Stacy Vaughan,9
+Johnson,3B Neva,State House,3,Republican,Timothy Hill,113
+Johnson,4A Dry Run,State House,3,Democratic,Lori Love,2
+Johnson,4A Dry Run,State House,3,Republican,Stacy Vaughan,21
+Johnson,4A Dry Run,State House,3,Republican,Timothy Hill,59
+Johnson,4B Butler,State House,3,Democratic,Lori Love,0
+Johnson,4B Butler,State House,3,Republican,Stacy Vaughan,7
+Johnson,4B Butler,State House,3,Republican,Timothy Hill,57
+Johnson,5 Doe,State House,3,Democratic,Lori Love,2
+Johnson,5 Doe,State House,3,Republican,Stacy Vaughan,19
+Johnson,5 Doe,State House,3,Republican,Timothy Hill,156
+Johnson,6 Shady,State House,3,Democratic,Lori Love,10
+Johnson,6 Shady,State House,3,Republican,Stacy Vaughan,8
+Johnson,6 Shady,State House,3,Republican,Timothy Hill,69
+Johnson,7 City,State House,3,Democratic,Lori Love,14
+Johnson,7 City,State House,3,Republican,Stacy Vaughan,16
+Johnson,7 City,State House,3,Republican,Timothy Hill,158
+Sullivan,1A,State House,3,Democratic,Lori Love,2
+Sullivan,1A,State House,3,Republican,Stacy Vaughan,5
+Sullivan,1A,State House,3,Republican,Timothy Hill,18
+Sullivan,4A,State House,3,Democratic,Lori Love,0
+Sullivan,4A,State House,3,Republican,Stacy Vaughan,0
+Sullivan,4A,State House,3,Republican,Timothy Hill,0
+Sullivan,4C,State House,3,Democratic,Lori Love,0
+Sullivan,4C,State House,3,Republican,Stacy Vaughan,6
+Sullivan,4C,State House,3,Republican,Timothy Hill,11
+Sullivan,5A,State House,3,Democratic,Lori Love,1
+Sullivan,5A,State House,3,Republican,Stacy Vaughan,37
+Sullivan,5A,State House,3,Republican,Timothy Hill,128
+Sullivan,5B,State House,3,Democratic,Lori Love,0
+Sullivan,5B,State House,3,Republican,Stacy Vaughan,11
+Sullivan,5B,State House,3,Republican,Timothy Hill,55
+Sullivan,5C,State House,3,Democratic,Lori Love,0
+Sullivan,5C,State House,3,Republican,Stacy Vaughan,5
+Sullivan,5C,State House,3,Republican,Timothy Hill,19
+Sullivan,6A,State House,3,Democratic,Lori Love,0
+Sullivan,6A,State House,3,Republican,Stacy Vaughan,0
+Sullivan,6A,State House,3,Republican,Timothy Hill,0
+Sullivan,7B,State House,3,Democratic,Lori Love,3
+Sullivan,7B,State House,3,Republican,Stacy Vaughan,30
+Sullivan,7B,State House,3,Republican,Timothy Hill,47
+Sullivan,7C,State House,3,Democratic,Lori Love,3
+Sullivan,7C,State House,3,Republican,Stacy Vaughan,24
+Sullivan,7C,State House,3,Republican,Timothy Hill,50
+Sullivan,8B,State House,3,Democratic,Lori Love,2
+Sullivan,8B,State House,3,Republican,Stacy Vaughan,2
+Sullivan,8B,State House,3,Republican,Timothy Hill,15
