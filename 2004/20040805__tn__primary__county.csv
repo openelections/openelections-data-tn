@@ -1,0 +1,825 @@
+county,office,district,party,candidate,votes
+Anderson,State House,33,Democratic,Jim Hackworth,2639
+Anderson,State House,38,Democratic,Champ E. Langford,74
+Anderson,State House,38,Democratic,Leslie Winningham,215
+Anderson,U.S. House,3,Democratic,Betty F. Williamson,1488
+Anderson,U.S. House,3,Democratic,John Wolfe,1147
+Anderson,U.S. House,3,Republican,Timothy A. Sevier,237
+Anderson,U.S. House,3,Republican,Zach Wamp,2833
+Bedford,State House,62,Democratic,Curt Cobb,858
+Bedford,State Senate,16,Democratic,Larry Trail,784
+Bedford,State Senate,16,Republican,Jim Tracy,377
+Bedford,U.S. House,6,Democratic,Bart Gordon,826
+Bedford,U.S. House,6,Democratic,Robert C. Hall,58
+Bedford,U.S. House,6,Republican,Elizabeth Hall,189
+Bedford,U.S. House,6,Republican,Nick Demas,152
+Benton,State House,75,Democratic,Philip L. Craig,163
+Benton,State House,75,Democratic,"Willie ""Butch"" Borchert",1344
+Benton,State House,75,Republican,"Stephen R. Blackwell, Sr.",67
+Benton,State Senate,24,Democratic,Roy Herron,1231
+Benton,State Senate,24,Republican,Dennis J. Doster,64
+Benton,U.S. House,8,Democratic,John Tanner,1380
+Benton,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),0
+Benton,U.S. House,8,Republican,James L. Hart,61
+Bledsoe,State House,25,Democratic,Don Cuva,28
+Bledsoe,State House,25,Democratic,"J. H. Graham, III",387
+Bledsoe,State House,25,Republican,Eric H. Swafford,304
+Bledsoe,State House,25,Republican,Harvey Howard,46
+Bledsoe,State Senate,14,Democratic,Jerry W. Cooper,344
+Bledsoe,U.S. House,4,Democratic,Harvey Howard,34
+Bledsoe,U.S. House,4,Democratic,Lincoln Davis,402
+Bledsoe,U.S. House,4,Republican,Dale Harvey,27
+Bledsoe,U.S. House,4,Republican,Don Cuva,11
+Bledsoe,U.S. House,4,Republican,Janice Bowling,285
+Blount,State House,20,Republican,Doug Overbey,4457
+Blount,State House,8,Republican,Joe McCord,3386
+Blount,State Senate,8,Democratic,Linda Jo Dees,1049
+Blount,State Senate,8,Republican,Bill Clabough,4136
+Blount,State Senate,8,Republican,Raymond Finney,4956
+Blount,U.S. House,2,Democratic,John Greene,596
+Blount,U.S. House,2,Democratic,Robert R. (Bob) Scott,468
+Blount,U.S. House,2,Republican,Debbie Jones Howard,713
+Blount,U.S. House,2,Republican,"John J. Duncan, Jr.",8308
+Bradley,State House,22,Republican,J. Chris Newton,1038
+Bradley,State House,24,Republican,Andrew B. Morgan,1349
+Bradley,State House,24,Republican,Dewayne Bunch,2648
+Bradley,U.S. House,3,Democratic,Betty F. Williamson,623
+Bradley,U.S. House,3,Democratic,John Wolfe,990
+Bradley,U.S. House,3,Republican,Timothy A. Sevier,457
+Bradley,U.S. House,3,Republican,Zach Wamp,4655
+Campbell,State House,36,Democratic,J. C. White,1348
+Campbell,State House,36,Democratic,Trever Warwick,1185
+Campbell,State House,36,Republican,William Baird,2455
+Campbell,State Senate,12,Democratic,Tommy Kilby,2632
+Campbell,State Senate,12,Republican,Jerry Sharp,2492
+Campbell,U.S. House,4,Democratic,Harvey Howard,267
+Campbell,U.S. House,4,Democratic,Lincoln Davis,2613
+Campbell,U.S. House,4,Republican,Dale Harvey,350
+Campbell,U.S. House,4,Republican,Don Cuva,42
+Campbell,U.S. House,4,Republican,Janice Bowling,1698
+Cannon,State House,46,Democratic,Stratton Bone,999
+Cannon,U.S. House,6,Democratic,Bart Gordon,1197
+Cannon,U.S. House,6,Democratic,Robert C. Hall,85
+Cannon,U.S. House,6,Republican,Elizabeth Hall,115
+Cannon,U.S. House,6,Republican,Nick Demas,106
+Carroll,State House,76,Democratic,Mark L. Maddox,544
+Carroll,State House,79,Democratic,Harris Jones,75
+Carroll,State House,79,Republican,Chris Crider,162
+Carroll,U.S. House,8,Democratic,John Tanner,911
+Carroll,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),23
+Carroll,U.S. House,8,Republican,James L. Hart,340
+Carter,State House,4,Republican,Jerome Cochran,3942
+Carter,State House,4,Republican,"John B. Holsclaw, Sr.",2089
+Carter,U.S. House,1,Democratic,Graham Leonard,237
+Carter,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",183
+Carter,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",150
+Carter,U.S. House,1,Republican,"David R. Smith, II",627
+Carter,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",4879
+Cheatham,State House,78,Democratic,David R. Davis,429
+Cheatham,State House,78,Democratic,Tony Campbell,807
+Cheatham,State House,78,Republican,Phillip Johnson,588
+Cheatham,State Senate,22,Democratic,Rosalind Kurita,1135
+Cheatham,State Senate,22,Republican,Brenda Radford,511
+Cheatham,U.S. House,5,Democratic,Jim Cooper,829
+Cheatham,U.S. House,5,Republican,Scott Knapp,329
+Cheatham,U.S. House,7,Republican,Marsha Blackburn,223
+Chester,State House,72,Democratic,David Kenneth Mason,334
+Chester,State House,72,Republican,Steve K. McDaniel,752
+Chester,State Senate,26,Democratic,"John S. Wilder, Sr.",743
+Chester,State Senate,26,Republican,Ron Stallings,596
+Chester,U.S. House,7,Republican,Marsha Blackburn,834
+Claiborne,State House,35,Democratic,Bill R. Howerton,1045
+Claiborne,State House,35,Democratic,Raymond Lawson,496
+Claiborne,State House,35,Republican,"Dennis ""Coach"" Roach",1164
+Claiborne,State House,35,Republican,Scott Marlow,515
+Claiborne,State House,35,Republican,Travis Moody,425
+Claiborne,State Senate,4,Republican,Mike Williams,2059
+Claiborne,U.S. House,3,Democratic,Betty F. Williamson,643
+Claiborne,U.S. House,3,Democratic,John Wolfe,904
+Claiborne,U.S. House,3,Republican,Timothy A. Sevier,295
+Claiborne,U.S. House,3,Republican,Zach Wamp,1755
+Clay,State House,38,Democratic,Champ E. Langford,490
+Clay,State House,38,Democratic,Leslie Winningham,549
+Clay,U.S. House,6,Democratic,Bart Gordon,793
+Clay,U.S. House,6,Democratic,Robert C. Hall,86
+Clay,U.S. House,6,Republican,Elizabeth Hall,100
+Clay,U.S. House,6,Republican,Nick Demas,62
+Cocke,State House,11,Democratic,Eddie Yokley,455
+Cocke,State House,11,Republican,Charlotte T. Leibrock,1390
+Cocke,U.S. House,1,Democratic,Graham Leonard,84
+Cocke,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",83
+Cocke,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",91
+Cocke,U.S. House,1,Republican,"David R. Smith, II",92
+Cocke,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",1399
+Coffee,State House,47,Democratic,Edward H. North,2826
+Coffee,State House,47,Republican,Judd Matheny,2231
+Coffee,State Senate,14,Democratic,Jerry W. Cooper,3063
+Coffee,U.S. House,4,Democratic,Harvey Howard,424
+Coffee,U.S. House,4,Democratic,Lincoln Davis,2925
+Coffee,U.S. House,4,Republican,Dale Harvey,116
+Coffee,U.S. House,4,Republican,Don Cuva,34
+Coffee,U.S. House,4,Republican,Janice Bowling,2173
+Crockett,State House,82,Democratic,Craig Fitzhugh,433
+Crockett,State House,82,Republican,Dave Dahl,213
+Crockett,State Senate,26,Democratic,"John S. Wilder, Sr.",432
+Crockett,State Senate,26,Republican,Ron Stallings,163
+Crockett,U.S. House,8,Democratic,John Tanner,530
+Crockett,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),61
+Crockett,U.S. House,8,Republican,James L. Hart,98
+Cumberland,State House,25,Democratic,Don Cuva,421
+Cumberland,State House,25,Democratic,"J. H. Graham, III",2395
+Cumberland,State House,25,Republican,Eric H. Swafford,2028
+Cumberland,State House,25,Republican,Harvey Howard,589
+Cumberland,U.S. House,4,Democratic,Harvey Howard,235
+Cumberland,U.S. House,4,Democratic,Lincoln Davis,2667
+Cumberland,U.S. House,4,Republican,Dale Harvey,293
+Cumberland,U.S. House,4,Republican,Don Cuva,101
+Cumberland,U.S. House,4,Republican,Janice Bowling,2253
+Davidson,State House,50,Democratic,Gary W. Moore,1819
+Davidson,State House,50,Democratic,Tim Garrett,1419
+Davidson,State House,50,Republican,Ken Berryhill,608
+Davidson,State House,51,Democratic,Michael L. Turner,1425
+Davidson,State House,51,Republican,Greg Gaines,630
+Davidson,State House,52,Democratic,Rob Briley,1575
+Davidson,State House,52,Republican,Karen Bennett,387
+Davidson,State House,53,Democratic,Janis Baird Sontany,1793
+Davidson,State House,53,Democratic,Tony Derryberry,1024
+Davidson,State House,53,Republican,Susan K. Faulkner,491
+Davidson,State House,54,Democratic,Edith Taylor Langster,2278
+Davidson,State House,54,Democratic,Melvin Gill,708
+Davidson,State House,55,Democratic,Gary Odom,1845
+Davidson,State House,55,Democratic,Tom Cash,936
+Davidson,State House,56,Democratic,Ron Veasey,1931
+Davidson,State House,56,Republican,Beth Halteman Harwell,1336
+Davidson,State House,58,Democratic,Mary Pruitt,1231
+Davidson,State House,59,Democratic,Miles Brooks,247
+Davidson,State House,59,Democratic,Sherry Jones,873
+Davidson,State House,59,Democratic,Toni K. Hall,74
+Davidson,State House,60,Democratic,"Ben West, Jr.",1190
+Davidson,State Senate,20,Democratic,Joe M. Haynes,4220
+Davidson,State Senate,20,Democratic,Mary L. Earle,1611
+Davidson,U.S. House,5,Democratic,Jim Cooper,19070
+Davidson,U.S. House,5,Republican,Scott Knapp,4472
+Davidson,U.S. House,7,Republican,Marsha Blackburn,577
+DeKalb,State House,40,Democratic,Frank Buck,951
+DeKalb,U.S. House,6,Democratic,Bart Gordon,1118
+DeKalb,U.S. House,6,Democratic,Robert C. Hall,76
+DeKalb,U.S. House,6,Republican,Elizabeth Hall,91
+DeKalb,U.S. House,6,Republican,Nick Demas,102
+Decatur,State House,71,Democratic,"Randy ""Bear"" Rinks",233
+Decatur,State House,72,Democratic,David Kenneth Mason,93
+Decatur,State House,72,Republican,Steve K. McDaniel,74
+Decatur,State Senate,24,Democratic,Roy Herron,308
+Decatur,State Senate,24,Republican,Dennis J. Doster,111
+Decatur,U.S. House,7,Republican,Marsha Blackburn,148
+Dickson,State House,69,Democratic,David A. Shepard,2421
+Dickson,U.S. House,8,Democratic,John Tanner,1701
+Dickson,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),379
+Dickson,U.S. House,8,Republican,James L. Hart,740
+Dyer,State House,77,Democratic,Phillip Pinion,339
+Dyer,State House,77,Republican,Shelly Arnett,244
+Dyer,State House,82,Democratic,Craig Fitzhugh,336
+Dyer,State House,82,Republican,Dave Dahl,323
+Dyer,State Senate,32,Democratic,Pete Parker,507
+Dyer,State Senate,32,Republican,Mark Norris,559
+Dyer,U.S. House,8,Democratic,John Tanner,952
+Dyer,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),183
+Dyer,U.S. House,8,Republican,James L. Hart,312
+Fayette,State House,94,Republican,Dolores Gresham,763
+Fayette,State Senate,26,Democratic,"John S. Wilder, Sr.",896
+Fayette,State Senate,26,Republican,Ron Stallings,673
+Fayette,U.S. House,7,Republican,Marsha Blackburn,752
+Fentress,State House,41,Democratic,John Mark Windle,1225
+Fentress,State Senate,12,Democratic,Tommy Kilby,1097
+Fentress,State Senate,12,Republican,Jerry Sharp,614
+Fentress,U.S. House,4,Democratic,Harvey Howard,63
+Fentress,U.S. House,4,Democratic,Lincoln Davis,1226
+Fentress,U.S. House,4,Republican,Dale Harvey,65
+Fentress,U.S. House,4,Republican,Don Cuva,16
+Fentress,U.S. House,4,Republican,Janice Bowling,746
+Franklin,State House,39,Democratic,George Fraley,3412
+Franklin,State House,39,Republican,Bill Green,1263
+Franklin,State House,39,Republican,Jack Daniel,811
+Franklin,State Senate,14,Democratic,Jerry W. Cooper,3294
+Franklin,U.S. House,4,Democratic,Harvey Howard,329
+Franklin,U.S. House,4,Democratic,Lincoln Davis,3296
+Franklin,U.S. House,4,Republican,Dale Harvey,151
+Franklin,U.S. House,4,Republican,Don Cuva,18
+Franklin,U.S. House,4,Republican,Janice Bowling,1783
+Gibson,State House,79,Democratic,Harris Jones,958
+Gibson,State House,79,Republican,Chris Crider,1024
+Gibson,U.S. House,8,Democratic,John Tanner,1757
+Gibson,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),105
+Gibson,U.S. House,8,Republican,James L. Hart,242
+Giles,State House,65,Democratic,Joe Fowlkes,1608
+Giles,State House,65,Republican,James P. Moon,687
+Giles,U.S. House,4,Democratic,Harvey Howard,101
+Giles,U.S. House,4,Democratic,Lincoln Davis,1423
+Giles,U.S. House,4,Republican,Dale Harvey,77
+Giles,U.S. House,4,Republican,Don Cuva,14
+Giles,U.S. House,4,Republican,Janice Bowling,633
+Grainger,State House,35,Democratic,Bill R. Howerton,401
+Grainger,State House,35,Democratic,Raymond Lawson,119
+Grainger,State House,35,Republican,"Dennis ""Coach"" Roach",1070
+Grainger,State House,35,Republican,Scott Marlow,55
+Grainger,State House,35,Republican,Travis Moody,137
+Grainger,State Senate,4,Republican,Mike Williams,1064
+Grainger,U.S. House,3,Democratic,Betty F. Williamson,178
+Grainger,U.S. House,3,Democratic,John Wolfe,210
+Grainger,U.S. House,3,Republican,Timothy A. Sevier,169
+Grainger,U.S. House,3,Republican,Zach Wamp,866
+Greene,State House,11,Democratic,Eddie Yokley,634
+Greene,State House,11,Republican,Charlotte T. Leibrock,967
+Greene,State House,5,Democratic,Don Alexander,770
+Greene,State House,5,Republican,David B. Hawk,1774
+Greene,U.S. House,1,Democratic,Graham Leonard,596
+Greene,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",228
+Greene,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",225
+Greene,U.S. House,1,Republican,"David R. Smith, II",274
+Greene,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",3431
+Grundy,State House,37,Democratic,Bill W. Harmon,1107
+Grundy,State Senate,14,Democratic,Jerry W. Cooper,1060
+Grundy,U.S. House,4,Democratic,Harvey Howard,89
+Grundy,U.S. House,4,Democratic,Lincoln Davis,1099
+Grundy,U.S. House,4,Republican,Dale Harvey,21
+Grundy,U.S. House,4,Republican,Don Cuva,3
+Grundy,U.S. House,4,Republican,Janice Bowling,154
+Hamblen,State House,10,Democratic,John Litz,2136
+Hamblen,State House,10,Republican,Nina Fullington,2813
+Hamblen,U.S. House,1,Democratic,Graham Leonard,632
+Hamblen,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",468
+Hamblen,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",392
+Hamblen,U.S. House,1,Republican,"David R. Smith, II",242
+Hamblen,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",3105
+Hamilton,State House,26,Democratic,James Carpenter,1118
+Hamilton,State House,26,Republican,Beverley Self,1049
+Hamilton,State House,26,Republican,Gerald McCormick,1853
+Hamilton,State House,27,Republican,Chris Clem,3453
+Hamilton,State House,28,Democratic,Isaac Robinson III,1045
+Hamilton,State House,28,Democratic,Tommie F. Brown,3259
+Hamilton,State House,29,Democratic,Brenda Kaye Turner,1655
+Hamilton,State House,29,Democratic,JoAnne Favors,2647
+Hamilton,State House,29,Republican,Johnny Horne,1230
+Hamilton,State House,30,Democratic,Debbie Colburn,1417
+Hamilton,State House,30,Republican,Jack Sharp,2218
+Hamilton,State House,31,Democratic,Ann Gabbert Bates,561
+Hamilton,State House,31,Democratic,Larry R. Daniels,359
+Hamilton,State House,31,Republican,Bill W. Hollin,210
+Hamilton,State House,31,Republican,Bo Watson,894
+Hamilton,State House,31,Republican,Daved Senters,829
+Hamilton,State House,31,Republican,Donald E. Pickrell,16
+Hamilton,State House,31,Republican,Frank Stewart,19
+Hamilton,State House,31,Republican,Terry Conley,668
+Hamilton,State Senate,10,Democratic,"Walt ""Combat"" Ward",1275
+Hamilton,State Senate,10,Democratic,Ward Crutchfield,8039
+Hamilton,State Senate,10,Republican,Basil J. Marceaux I,2749
+Hamilton,U.S. House,3,Democratic,Betty F. Williamson,5246
+Hamilton,U.S. House,3,Democratic,John Wolfe,8538
+Hamilton,U.S. House,3,Republican,Timothy A. Sevier,1239
+Hamilton,U.S. House,3,Republican,Zach Wamp,13588
+Hancock,State House,9,Republican,Mike Harrison,643
+Hancock,State Senate,4,Republican,Mike Williams,502
+Hancock,U.S. House,1,Democratic,Graham Leonard,23
+Hancock,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",193
+Hancock,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",43
+Hancock,U.S. House,1,Republican,"David R. Smith, II",51
+Hancock,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",664
+Hardeman,State House,80,Democratic,James A. Baxter,248
+Hardeman,State House,80,Democratic,Johnny Shaw,2007
+Hardeman,State House,94,Republican,Dolores Gresham,549
+Hardeman,State Senate,26,Democratic,"John S. Wilder, Sr.",1685
+Hardeman,State Senate,26,Republican,Ron Stallings,1438
+Hardeman,U.S. House,7,Republican,Marsha Blackburn,1006
+Hardin,State House,71,Democratic,"Randy ""Bear"" Rinks",461
+Hardin,State Senate,26,Democratic,"John S. Wilder, Sr.",421
+Hardin,State Senate,26,Republican,Ron Stallings,240
+Hardin,U.S. House,7,Republican,Marsha Blackburn,266
+Hawkins,State House,6,Republican,David Davis,40
+Hawkins,State House,9,Republican,Mike Harrison,1268
+Hawkins,State Senate,4,Republican,Mike Williams,1290
+Hawkins,U.S. House,1,Democratic,Graham Leonard,248
+Hawkins,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",92
+Hawkins,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",98
+Hawkins,U.S. House,1,Republican,"David R. Smith, II",144
+Hawkins,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",1405
+Haywood,State House,81,Democratic,Jimmy Naifeh,473
+Haywood,State House,81,Republican,"Jesse James Cannon, Jr.",203
+Haywood,State Senate,26,Democratic,"John S. Wilder, Sr.",443
+Haywood,State Senate,26,Republican,Ron Stallings,166
+Haywood,U.S. House,8,Democratic,John Tanner,480
+Haywood,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),72
+Haywood,U.S. House,8,Republican,James L. Hart,84
+Henderson,State House,72,Democratic,David Kenneth Mason,172
+Henderson,State House,72,Republican,Steve K. McDaniel,485
+Henderson,State Senate,24,Democratic,Roy Herron,206
+Henderson,State Senate,24,Republican,Dennis J. Doster,329
+Henderson,U.S. House,7,Republican,Marsha Blackburn,429
+Henry,State House,75,Democratic,Philip L. Craig,1119
+Henry,State House,75,Democratic,"Willie ""Butch"" Borchert",1159
+Henry,State House,75,Republican,"Stephen R. Blackwell, Sr.",301
+Henry,State Senate,24,Democratic,Roy Herron,1911
+Henry,State Senate,24,Republican,Dennis J. Doster,313
+Henry,U.S. House,8,Democratic,John Tanner,2068
+Henry,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),125
+Henry,U.S. House,8,Republican,James L. Hart,177
+Hickman,State House,69,Democratic,David A. Shepard,964
+Hickman,State House,74,Democratic,John C. Tidwell,723
+Hickman,U.S. House,4,Democratic,Harvey Howard,127
+Hickman,U.S. House,4,Democratic,Lincoln Davis,1170
+Hickman,U.S. House,4,Republican,Dale Harvey,55
+Hickman,U.S. House,4,Republican,Don Cuva,9
+Hickman,U.S. House,4,Republican,Janice Bowling,362
+Hickman,U.S. House,7,Republican,Marsha Blackburn,245
+Houston,State House,74,Democratic,John C. Tidwell,298
+Houston,State Senate,22,Democratic,Rosalind Kurita,324
+Houston,State Senate,22,Republican,Brenda Radford,62
+Houston,U.S. House,8,Democratic,John Tanner,320
+Houston,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),5
+Houston,U.S. House,8,Republican,James L. Hart,49
+Humphreys,State House,74,Democratic,John C. Tidwell,1754
+Humphreys,U.S. House,8,Democratic,John Tanner,1494
+Humphreys,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),69
+Humphreys,U.S. House,8,Republican,James L. Hart,361
+Jackson,State House,38,Democratic,Champ E. Langford,577
+Jackson,State House,38,Democratic,Leslie Winningham,1528
+Jackson,U.S. House,6,Democratic,Bart Gordon,1750
+Jackson,U.S. House,6,Democratic,Robert C. Hall,127
+Jackson,U.S. House,6,Republican,Elizabeth Hall,120
+Jackson,U.S. House,6,Republican,Nick Demas,128
+Jefferson,State House,17,Democratic,Hank Barnett,691
+Jefferson,State House,17,Republican,Ed Shouse,344
+Jefferson,State House,17,Republican,Frank S. Niceley,1462
+Jefferson,State House,17,Republican,James T. Bletner,668
+Jefferson,State House,17,Republican,Larry C. Elkins,232
+Jefferson,State House,35,Democratic,Bill R. Howerton,117
+Jefferson,State House,35,Democratic,Raymond Lawson,58
+Jefferson,State House,35,Republican,"Dennis ""Coach"" Roach",582
+Jefferson,State House,35,Republican,Scott Marlow,49
+Jefferson,State House,35,Republican,Travis Moody,43
+Jefferson,State Senate,4,Republican,Mike Williams,2873
+Jefferson,U.S. House,1,Democratic,Graham Leonard,40
+Jefferson,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",57
+Jefferson,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",45
+Jefferson,U.S. House,1,Republican,"David R. Smith, II",57
+Jefferson,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",708
+Jefferson,U.S. House,3,Democratic,Betty F. Williamson,354
+Jefferson,U.S. House,3,Democratic,John Wolfe,287
+Jefferson,U.S. House,3,Republican,Timothy A. Sevier,468
+Jefferson,U.S. House,3,Republican,Zach Wamp,1954
+Johnson,State House,3,Democratic,Joe Mike Akard,276
+Johnson,State House,3,Republican,Jason E. Mumpower,897
+Johnson,State House,3,Republican,Sherry Greene Grubb,349
+Johnson,State Senate,2,Democratic,"Wm. H. ""John"" McKamey",266
+Johnson,State Senate,2,Republican,Ron Ramsey,1012
+Johnson,U.S. House,1,Democratic,Graham Leonard,139
+Johnson,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",58
+Johnson,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",82
+Johnson,U.S. House,1,Republican,"David R. Smith, II",149
+Johnson,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",998
+Knox,State House,13,Democratic,Harry Tindell,2069
+Knox,State House,13,Republican,Randall Parker,2466
+Knox,State House,14,Democratic,Chris Oldham,869
+Knox,State House,14,Republican,Diane B. Jablonski,2463
+Knox,State House,14,Republican,Park M. (Parkey) Strader,2889
+Knox,State House,15,Democratic,Joe Armstrong,1527
+Knox,State House,16,Republican,Bill Dunn,4172
+Knox,State House,17,Democratic,Hank Barnett,722
+Knox,State House,17,Republican,Ed Shouse,1758
+Knox,State House,17,Republican,Frank S. Niceley,982
+Knox,State House,17,Republican,James T. Bletner,1290
+Knox,State House,17,Republican,Larry C. Elkins,101
+Knox,State House,18,Democratic,Michael S. Carroll,1341
+Knox,State House,18,Republican,David Wright,2217
+Knox,State House,18,Republican,Mike Brown,208
+Knox,State House,18,Republican,Stacey Campfield,2444
+Knox,State House,19,Republican,Harry Brooks,3771
+Knox,State Senate,6,Democratic,Cindy McGill,3940
+Knox,State Senate,6,Republican,Billy J. Stokes,5087
+Knox,State Senate,6,Republican,Jamie Hagood,12658
+Knox,U.S. House,2,Democratic,John Greene,4194
+Knox,U.S. House,2,Democratic,Robert R. (Bob) Scott,3790
+Knox,U.S. House,2,Republican,Debbie Jones Howard,2611
+Knox,U.S. House,2,Republican,"John J. Duncan, Jr.",26337
+Lake,State House,77,Democratic,Phillip Pinion,891
+Lake,State House,77,Republican,Shelly Arnett,133
+Lake,State Senate,24,Democratic,Roy Herron,691
+Lake,State Senate,24,Republican,Dennis J. Doster,76
+Lake,U.S. House,8,Democratic,John Tanner,972
+Lake,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),0
+Lake,U.S. House,8,Republican,James L. Hart,102
+Lauderdale,State House,82,Democratic,Craig Fitzhugh,1854
+Lauderdale,State House,82,Republican,Dave Dahl,731
+Lauderdale,State Senate,32,Democratic,Pete Parker,1007
+Lauderdale,State Senate,32,Republican,Mark Norris,616
+Lauderdale,U.S. House,8,Democratic,John Tanner,1715
+Lauderdale,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),45
+Lauderdale,U.S. House,8,Republican,James L. Hart,460
+Lawrence,State House,70,Democratic,Johnny Lyles,2093
+Lawrence,State House,70,Republican,Joey Hensley,1336
+Lawrence,U.S. House,4,Democratic,Harvey Howard,190
+Lawrence,U.S. House,4,Democratic,Lincoln Davis,2124
+Lawrence,U.S. House,4,Republican,Dale Harvey,70
+Lawrence,U.S. House,4,Republican,Don Cuva,14
+Lawrence,U.S. House,4,Republican,Janice Bowling,968
+Lewis,State House,70,Democratic,Johnny Lyles,603
+Lewis,State House,70,Republican,Joey Hensley,726
+Lewis,U.S. House,4,Democratic,Harvey Howard,67
+Lewis,U.S. House,4,Democratic,Lincoln Davis,821
+Lewis,U.S. House,4,Republican,Dale Harvey,44
+Lewis,U.S. House,4,Republican,Don Cuva,19
+Lewis,U.S. House,4,Republican,Janice Bowling,536
+Lincoln,State House,39,Democratic,George Fraley,429
+Lincoln,State House,39,Republican,Bill Green,127
+Lincoln,State House,39,Republican,Jack Daniel,244
+Lincoln,State House,62,Democratic,Curt Cobb,1021
+Lincoln,U.S. House,4,Democratic,Harvey Howard,107
+Lincoln,U.S. House,4,Democratic,Lincoln Davis,1493
+Lincoln,U.S. House,4,Republican,Dale Harvey,108
+Lincoln,U.S. House,4,Republican,Don Cuva,21
+Lincoln,U.S. House,4,Republican,Janice Bowling,960
+Loudon,State House,21,Republican,Russell Johnson,1408
+Loudon,State House,32,Democratic,Dennis Ferguson,91
+Loudon,State House,32,Democratic,Duie Swicegood,46
+Loudon,U.S. House,2,Democratic,John Greene,212
+Loudon,U.S. House,2,Democratic,Robert R. (Bob) Scott,264
+Loudon,U.S. House,2,Republican,Debbie Jones Howard,122
+Loudon,U.S. House,2,Republican,"John J. Duncan, Jr.",1625
+Macon,State House,40,Democratic,Frank Buck,712
+Macon,U.S. House,6,Democratic,Bart Gordon,837
+Macon,U.S. House,6,Democratic,Robert C. Hall,28
+Macon,U.S. House,6,Republican,Elizabeth Hall,264
+Macon,U.S. House,6,Republican,Nick Demas,343
+Madison,State House,73,Democratic,Charlie Caldwell,673
+Madison,State House,73,Republican,Jimmy Eldridge,3424
+Madison,State House,80,Democratic,James A. Baxter,249
+Madison,State House,80,Democratic,Johnny Shaw,1361
+Madison,U.S. House,8,Democratic,John Tanner,3921
+Madison,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),542
+Madison,U.S. House,8,Republican,James L. Hart,1749
+Marion,State House,37,Democratic,Bill W. Harmon,2206
+Marion,State Senate,10,Democratic,"Walt ""Combat"" Ward",384
+Marion,State Senate,10,Democratic,Ward Crutchfield,1894
+Marion,State Senate,10,Republican,Basil J. Marceaux I,533
+Marion,U.S. House,4,Democratic,Harvey Howard,256
+Marion,U.S. House,4,Democratic,Lincoln Davis,2141
+Marion,U.S. House,4,Republican,Dale Harvey,95
+Marion,U.S. House,4,Republican,Don Cuva,12
+Marion,U.S. House,4,Republican,Janice Bowling,633
+Marshall,State House,65,Democratic,Joe Fowlkes,937
+Marshall,State House,65,Republican,James P. Moon,503
+Marshall,U.S. House,6,Democratic,Bart Gordon,920
+Marshall,U.S. House,6,Democratic,Robert C. Hall,57
+Marshall,U.S. House,6,Republican,Elizabeth Hall,196
+Marshall,U.S. House,6,Republican,Nick Demas,194
+Maury,State House,64,Democratic,Guy Z. Derryberry,1007
+Maury,State House,64,Republican,Tom DuBois,988
+Maury,State House,74,Democratic,John C. Tidwell,155
+Maury,U.S. House,4,Democratic,Harvey Howard,127
+Maury,U.S. House,4,Democratic,Lincoln Davis,1121
+Maury,U.S. House,4,Republican,Dale Harvey,73
+Maury,U.S. House,4,Republican,Don Cuva,12
+Maury,U.S. House,4,Republican,Janice Bowling,1091
+McMinn,State House,23,Republican,Bob McKee,2132
+McMinn,U.S. House,2,Democratic,John Greene,611
+McMinn,U.S. House,2,Democratic,Robert R. (Bob) Scott,511
+McMinn,U.S. House,2,Republican,Debbie Jones Howard,189
+McMinn,U.S. House,2,Republican,"John J. Duncan, Jr.",2159
+McNairy,State House,71,Democratic,"Randy ""Bear"" Rinks",1244
+McNairy,State Senate,26,Democratic,"John S. Wilder, Sr.",1151
+McNairy,State Senate,26,Republican,Ron Stallings,924
+McNairy,U.S. House,7,Republican,Marsha Blackburn,1107
+Meigs,State House,22,Republican,J. Chris Newton,483
+Meigs,U.S. House,3,Democratic,Betty F. Williamson,140
+Meigs,U.S. House,3,Democratic,John Wolfe,328
+Meigs,U.S. House,3,Republican,Timothy A. Sevier,68
+Meigs,U.S. House,3,Republican,Zach Wamp,523
+Monroe,State House,21,Republican,Russell Johnson,1169
+Monroe,State House,23,Republican,Bob McKee,896
+Monroe,U.S. House,2,Democratic,John Greene,504
+Monroe,U.S. House,2,Democratic,Robert R. (Bob) Scott,714
+Monroe,U.S. House,2,Republican,Debbie Jones Howard,142
+Monroe,U.S. House,2,Republican,"John J. Duncan, Jr.",2273
+Montgomery,State House,67,Democratic,Kim McMillan,1114
+Montgomery,State House,67,Republican,Cecil Stout,706
+Montgomery,State House,68,Democratic,Tommy Head,1875
+Montgomery,State House,68,Republican,Curtis G. Johnson,1104
+Montgomery,State House,68,Republican,Dale B. Redman,313
+Montgomery,State House,78,Democratic,David R. Davis,296
+Montgomery,State House,78,Democratic,Tony Campbell,196
+Montgomery,State House,78,Republican,Phillip Johnson,364
+Montgomery,State Senate,22,Democratic,Rosalind Kurita,3526
+Montgomery,State Senate,22,Republican,Brenda Radford,2510
+Montgomery,U.S. House,7,Republican,Marsha Blackburn,1892
+Montgomery,U.S. House,8,Democratic,John Tanner,1330
+Montgomery,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),14
+Montgomery,U.S. House,8,Republican,James L. Hart,655
+Moore,State House,39,Democratic,George Fraley,620
+Moore,State House,39,Republican,Bill Green,190
+Moore,State House,39,Republican,Jack Daniel,398
+Moore,State Senate,16,Democratic,Larry Trail,539
+Moore,State Senate,16,Republican,Jim Tracy,354
+Moore,U.S. House,4,Democratic,Harvey Howard,83
+Moore,U.S. House,4,Democratic,Lincoln Davis,641
+Moore,U.S. House,4,Republican,Dale Harvey,25
+Moore,U.S. House,4,Republican,Don Cuva,4
+Moore,U.S. House,4,Republican,Janice Bowling,603
+Morgan,State House,41,Democratic,John Mark Windle,2118
+Morgan,State Senate,12,Democratic,Tommy Kilby,2029
+Morgan,State Senate,12,Republican,Jerry Sharp,787
+Morgan,U.S. House,4,Democratic,Harvey Howard,134
+Morgan,U.S. House,4,Democratic,Lincoln Davis,2094
+Morgan,U.S. House,4,Republican,Dale Harvey,133
+Morgan,U.S. House,4,Republican,Don Cuva,31
+Morgan,U.S. House,4,Republican,Janice Bowling,718
+Obion,State House,77,Democratic,Phillip Pinion,2575
+Obion,State House,77,Republican,Shelly Arnett,567
+Obion,State Senate,24,Democratic,Roy Herron,2275
+Obion,State Senate,24,Republican,Dennis J. Doster,522
+Obion,U.S. House,8,Democratic,John Tanner,2826
+Obion,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),76
+Obion,U.S. House,8,Republican,James L. Hart,454
+Overton,State House,41,Democratic,John Mark Windle,2125
+Overton,U.S. House,6,Democratic,Bart Gordon,1841
+Overton,U.S. House,6,Democratic,Robert C. Hall,116
+Overton,U.S. House,6,Republican,Elizabeth Hall,112
+Overton,U.S. House,6,Republican,Nick Demas,201
+Perry,State House,74,Democratic,John C. Tidwell,164
+Perry,State Senate,24,Democratic,Roy Herron,130
+Perry,State Senate,24,Republican,Dennis J. Doster,28
+Perry,U.S. House,7,Republican,Marsha Blackburn,44
+Pickett,State House,38,Democratic,Champ E. Langford,45
+Pickett,State House,38,Democratic,Leslie Winningham,648
+Pickett,U.S. House,4,Democratic,Harvey Howard,42
+Pickett,U.S. House,4,Democratic,Lincoln Davis,638
+Pickett,U.S. House,4,Republican,Dale Harvey,41
+Pickett,U.S. House,4,Republican,Don Cuva,13
+Pickett,U.S. House,4,Republican,Janice Bowling,455
+Polk,State House,22,Republican,J. Chris Newton,696
+Polk,U.S. House,3,Democratic,Betty F. Williamson,405
+Polk,U.S. House,3,Democratic,John Wolfe,1071
+Polk,U.S. House,3,Republican,Timothy A. Sevier,49
+Polk,U.S. House,3,Republican,Zach Wamp,713
+Putnam,State House,42,Democratic,Jere L. Hargrove,2220
+Putnam,State House,42,Republican,Raymond C. Dyer,792
+Putnam,State House,43,Democratic,Charles Curtiss,200
+Putnam,U.S. House,6,Democratic,Bart Gordon,2606
+Putnam,U.S. House,6,Democratic,Robert C. Hall,222
+Putnam,U.S. House,6,Republican,Elizabeth Hall,289
+Putnam,U.S. House,6,Republican,Nick Demas,659
+Rhea,State House,31,Democratic,Ann Gabbert Bates,946
+Rhea,State House,31,Democratic,Larry R. Daniels,378
+Rhea,State House,31,Republican,Bill W. Hollin,1162
+Rhea,State House,31,Republican,Bo Watson,557
+Rhea,State House,31,Republican,Daved Senters,395
+Rhea,State House,31,Republican,Donald E. Pickrell,83
+Rhea,State House,31,Republican,Frank Stewart,135
+Rhea,State House,31,Republican,Terry Conley,87
+Rhea,State Senate,12,Democratic,Tommy Kilby,1130
+Rhea,State Senate,12,Republican,Jerry Sharp,1215
+Rhea,U.S. House,3,Democratic,Betty F. Williamson,400
+Rhea,U.S. House,3,Democratic,John Wolfe,669
+Rhea,U.S. House,3,Republican,Timothy A. Sevier,212
+Rhea,U.S. House,3,Republican,Zach Wamp,1879
+Roane,State House,32,Democratic,Dennis Ferguson,3491
+Roane,State House,32,Democratic,Duie Swicegood,901
+Roane,State Senate,12,Democratic,Tommy Kilby,3500
+Roane,State Senate,12,Republican,Jerry Sharp,1849
+Roane,U.S. House,3,Democratic,Betty F. Williamson,190
+Roane,U.S. House,3,Democratic,John Wolfe,150
+Roane,U.S. House,3,Republican,Timothy A. Sevier,23
+Roane,U.S. House,3,Republican,Zach Wamp,457
+Roane,U.S. House,4,Democratic,Harvey Howard,351
+Roane,U.S. House,4,Democratic,Lincoln Davis,3252
+Roane,U.S. House,4,Republican,Dale Harvey,444
+Roane,U.S. House,4,Republican,Don Cuva,32
+Roane,U.S. House,4,Republican,Janice Bowling,1169
+Robertson,State House,66,Democratic,Eugene E. (Gene) Davidson,1560
+Robertson,State House,66,Republican,Chris Atkins,667
+Robertson,State Senate,18,Democratic,Jo Ann Graves,1595
+Robertson,State Senate,18,Republican,Diane Black,649
+Robertson,U.S. House,6,Democratic,Bart Gordon,1467
+Robertson,U.S. House,6,Democratic,Robert C. Hall,111
+Robertson,U.S. House,6,Republican,Elizabeth Hall,264
+Robertson,U.S. House,6,Republican,Nick Demas,366
+Rutherford,State House,34,Republican,Donna Rowland,1511
+Rutherford,State House,48,Democratic,John Hood,2899
+Rutherford,State House,49,Democratic,Kent Coleman,1994
+Rutherford,State House,49,Republican,Oscar D. Gardner,1010
+Rutherford,State House,62,Democratic,Curt Cobb,139
+Rutherford,State Senate,16,Democratic,Larry Trail,5243
+Rutherford,State Senate,16,Republican,Jim Tracy,2947
+Rutherford,U.S. House,6,Democratic,Bart Gordon,7007
+Rutherford,U.S. House,6,Democratic,Robert C. Hall,504
+Rutherford,U.S. House,6,Republican,Elizabeth Hall,1583
+Rutherford,U.S. House,6,Republican,Nick Demas,2381
+Scott,State House,38,Democratic,Champ E. Langford,265
+Scott,State House,38,Democratic,Leslie Winningham,1944
+Scott,State Senate,12,Democratic,Tommy Kilby,1783
+Scott,State Senate,12,Republican,Jerry Sharp,775
+Scott,U.S. House,4,Democratic,Harvey Howard,133
+Scott,U.S. House,4,Democratic,Lincoln Davis,1896
+Scott,U.S. House,4,Republican,Dale Harvey,132
+Scott,U.S. House,4,Republican,Don Cuva,26
+Scott,U.S. House,4,Republican,Janice Bowling,781
+Sequatchie,State House,37,Democratic,Bill W. Harmon,324
+Sequatchie,State Senate,14,Democratic,Jerry W. Cooper,274
+Sequatchie,U.S. House,4,Democratic,Harvey Howard,22
+Sequatchie,U.S. House,4,Democratic,Lincoln Davis,317
+Sequatchie,U.S. House,4,Republican,Dale Harvey,16
+Sequatchie,U.S. House,4,Republican,Don Cuva,1
+Sequatchie,U.S. House,4,Republican,Janice Bowling,128
+Sevier,State House,12,Republican,Richard Montgomery,2782
+Sevier,State House,8,Republican,Joe McCord,633
+Sevier,State Senate,8,Democratic,Linda Jo Dees,491
+Sevier,State Senate,8,Republican,Bill Clabough,2131
+Sevier,State Senate,8,Republican,Raymond Finney,1880
+Sevier,U.S. House,1,Democratic,Graham Leonard,156
+Sevier,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",116
+Sevier,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",172
+Sevier,U.S. House,1,Republican,"David R. Smith, II",300
+Sevier,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",2781
+Sevier,U.S. House,2,Democratic,John Greene,52
+Sevier,U.S. House,2,Democratic,Robert R. (Bob) Scott,35
+Sevier,U.S. House,2,Republican,Debbie Jones Howard,84
+Sevier,U.S. House,2,Republican,"John J. Duncan, Jr.",660
+Shelby,State House,83,Democratic,Julian J. Prewitt,1348
+Shelby,State House,83,Republican,Brian Kelsey,3170
+Shelby,State House,83,Republican,Charles W. McDonald,538
+Shelby,State House,83,Republican,Chuck Bates,1784
+Shelby,State House,83,Republican,Mark White,1103
+Shelby,State House,83,Republican,Pat Collins,257
+Shelby,State House,83,Republican,Stan Peppenhorst,307
+Shelby,State House,84,Democratic,"Joe Towns, Jr.",2955
+Shelby,State House,85,Democratic,Errol D. Harmon,1088
+Shelby,State House,85,Democratic,Larry Turner,3264
+Shelby,State House,85,Democratic,Paul Lewis,319
+Shelby,State House,86,Democratic,Barbara Cooper,2530
+Shelby,State House,86,Republican,George T. Edwards III,658
+Shelby,State House,87,Democratic,Kathryn I. Bowers,2115
+Shelby,State House,87,Republican,Palmer Lee Harris (Write-In),0
+Shelby,State House,88,Democratic,Larry J. Miller,1767
+Shelby,State House,89,Democratic,Beverly Robison Marrero,1762
+Shelby,State House,89,Republican,Jim Jamieson,1382
+Shelby,State House,90,Democratic,"John DeBerry, Jr.",3053
+Shelby,State House,91,Democratic,Lois DeBerry,3062
+Shelby,State House,92,Democratic,Henri E. Brooks,3162
+Shelby,State House,92,Republican,D. Jack Smith (Write-In),101
+Shelby,State House,93,Democratic,Mike Kernell,2210
+Shelby,State House,93,Republican,John Pellicciotti,1945
+Shelby,State House,95,Republican,Curry Todd,4152
+Shelby,State House,95,Republican,Dan Dickerson,956
+Shelby,State House,96,Republican,Paul R. Stanley,3173
+Shelby,State House,97,Democratic,Susan Slyfield,917
+Shelby,State House,97,Republican,Tre Hargett,3137
+Shelby,State House,98,Democratic,"Ulysses Jones, Jr.",2805
+Shelby,State House,99,Republican,"W. C. ""Bubba"" Pleasant",2932
+Shelby,State Senate,28,Democratic,Jim Kyle,4660
+Shelby,State Senate,30,Democratic,Steve Cohen,7055
+Shelby,State Senate,30,Republican,"Johnny Hatcher, Jr.",5471
+Shelby,State Senate,32,Democratic,Pete Parker,593
+Shelby,State Senate,32,Republican,Mark Norris,3721
+Shelby,U.S. House,7,Republican,Marsha Blackburn,14293
+Shelby,U.S. House,8,Democratic,John Tanner,2006
+Shelby,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),74
+Shelby,U.S. House,8,Republican,James L. Hart,1127
+Shelby,U.S. House,9,Democratic,"Harold Ford, Jr.",33708
+Shelby,U.S. House,9,Republican,Ruben M. Fort,12532
+Smith,State House,40,Democratic,Frank Buck,1695
+Smith,U.S. House,6,Democratic,Bart Gordon,1806
+Smith,U.S. House,6,Democratic,Robert C. Hall,94
+Smith,U.S. House,6,Republican,Elizabeth Hall,218
+Smith,U.S. House,6,Republican,Nick Demas,220
+Stewart,State House,75,Democratic,Philip L. Craig,682
+Stewart,State House,75,Democratic,"Willie ""Butch"" Borchert",1320
+Stewart,State House,75,Republican,"Stephen R. Blackwell, Sr.",511
+Stewart,State Senate,24,Democratic,Roy Herron,1339
+Stewart,State Senate,24,Republican,Dennis J. Doster,502
+Stewart,U.S. House,8,Democratic,John Tanner,1731
+Stewart,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),22
+Stewart,U.S. House,8,Republican,James L. Hart,507
+Sullivan,State House,1,Democratic,Linda King Brittenham,1400
+Sullivan,State House,1,Republican,Steven M. Godsey,2293
+Sullivan,State House,2,Democratic,Nathan Vaughn,1072
+Sullivan,State House,2,Republican,Neal Kerney,1502
+Sullivan,State House,3,Democratic,Joe Mike Akard,1345
+Sullivan,State House,3,Republican,Jason E. Mumpower,1974
+Sullivan,State House,3,Republican,Sherry Greene Grubb,681
+Sullivan,State Senate,2,Democratic,"Wm. H. ""John"" McKamey",3684
+Sullivan,State Senate,2,Republican,Ron Ramsey,6273
+Sullivan,U.S. House,1,Democratic,Graham Leonard,1797
+Sullivan,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",747
+Sullivan,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",903
+Sullivan,U.S. House,1,Republican,"David R. Smith, II",809
+Sullivan,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",5938
+Sumner,State House,44,Democratic,Mike McDonald,1722
+Sumner,State House,44,Republican,Ricky D. Goats,1127
+Sumner,State House,45,Democratic,Herman Lawson,1048
+Sumner,State House,45,Democratic,Jay Ingrum,1392
+Sumner,State House,45,Republican,Bill Deaton,980
+Sumner,State House,45,Republican,Debra Young Maggart,1784
+Sumner,State House,45,Republican,Dusty Lynne-Marcum,93
+Sumner,State House,45,Republican,Mark A. Skidmore,478
+Sumner,State House,45,Republican,Mike McVey,105
+Sumner,State House,45,Republican,Robert E. Lea,53
+Sumner,State House,45,Republican,Steve Nelson,1151
+Sumner,State House,57,Republican,Susan Lynn,888
+Sumner,State House,57,Republican,Tom Wood,327
+Sumner,State Senate,18,Democratic,Jo Ann Graves,4360
+Sumner,State Senate,18,Republican,Diane Black,6451
+Sumner,U.S. House,6,Democratic,Bart Gordon,4268
+Sumner,U.S. House,6,Democratic,Robert C. Hall,339
+Sumner,U.S. House,6,Republican,Elizabeth Hall,3253
+Sumner,U.S. House,6,Republican,Nick Demas,2432
+Tipton,State House,81,Democratic,Jimmy Naifeh,903
+Tipton,State House,81,Republican,"Jesse James Cannon, Jr.",748
+Tipton,State House,94,Republican,Dolores Gresham,362
+Tipton,State Senate,32,Democratic,Pete Parker,684
+Tipton,State Senate,32,Republican,Mark Norris,1028
+Tipton,U.S. House,8,Democratic,John Tanner,1027
+Tipton,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),404
+Tipton,U.S. House,8,Republican,James L. Hart,521
+Trousdale,State House,46,Democratic,Stratton Bone,560
+Trousdale,U.S. House,6,Democratic,Bart Gordon,577
+Trousdale,U.S. House,6,Democratic,Robert C. Hall,32
+Trousdale,U.S. House,6,Republican,Elizabeth Hall,46
+Trousdale,U.S. House,6,Republican,Nick Demas,39
+Unicoi,State House,5,Democratic,Don Alexander,251
+Unicoi,State House,5,Republican,David B. Hawk,1015
+Unicoi,U.S. House,1,Democratic,Graham Leonard,106
+Unicoi,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",85
+Unicoi,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",66
+Unicoi,U.S. House,1,Republican,"David R. Smith, II",97
+Unicoi,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",1122
+Union,State House,36,Democratic,J. C. White,336
+Union,State House,36,Democratic,Trever Warwick,824
+Union,State House,36,Republican,William Baird,844
+Union,State Senate,4,Republican,Mike Williams,1274
+Union,U.S. House,3,Democratic,Betty F. Williamson,370
+Union,U.S. House,3,Democratic,John Wolfe,472
+Union,U.S. House,3,Republican,Timothy A. Sevier,117
+Union,U.S. House,3,Republican,Zach Wamp,960
+Van Buren,State House,37,Democratic,Bill W. Harmon,297
+Van Buren,State Senate,14,Democratic,Jerry W. Cooper,255
+Van Buren,U.S. House,4,Democratic,Harvey Howard,24
+Van Buren,U.S. House,4,Democratic,Lincoln Davis,304
+Van Buren,U.S. House,4,Republican,Dale Harvey,9
+Van Buren,U.S. House,4,Republican,Don Cuva,3
+Van Buren,U.S. House,4,Republican,Janice Bowling,98
+Warren,State House,43,Democratic,Charles Curtiss,1154
+Warren,State House,47,Democratic,Edward H. North,444
+Warren,State House,47,Republican,Judd Matheny,174
+Warren,State Senate,14,Democratic,Jerry W. Cooper,1702
+Warren,U.S. House,4,Democratic,Harvey Howard,115
+Warren,U.S. House,4,Democratic,Lincoln Davis,1697
+Warren,U.S. House,4,Republican,Dale Harvey,42
+Warren,U.S. House,4,Republican,Don Cuva,8
+Warren,U.S. House,4,Republican,Janice Bowling,427
+Washington,State House,6,Republican,David Davis,3042
+Washington,State House,7,Democratic,Tony DeLucia,759
+Washington,State House,7,Republican,Frank R. Hawkins,373
+Washington,State House,7,Republican,Matthew Hill,2008
+Washington,State House,7,Republican,Robert D. (Bob) Patton,1655
+Washington,U.S. House,1,Democratic,Graham Leonard,776
+Washington,U.S. House,1,Democratic,"Lewis Hopkins, Jr.",376
+Washington,U.S. House,1,Democratic,"William Malcolm Earp, Jr.",503
+Washington,U.S. House,1,Republican,"David R. Smith, II",905
+Washington,U.S. House,1,Republican,"William L. ""Bill"" Jenkins",6296
+Wayne,State House,70,Democratic,Johnny Lyles,67
+Wayne,State House,70,Republican,Joey Hensley,38
+Wayne,State House,72,Democratic,David Kenneth Mason,151
+Wayne,State House,72,Republican,Steve K. McDaniel,418
+Wayne,State Senate,26,Democratic,"John S. Wilder, Sr.",351
+Wayne,State Senate,26,Republican,Ron Stallings,302
+Wayne,U.S. House,7,Republican,Marsha Blackburn,447
+Weakley,State House,76,Democratic,Mark L. Maddox,1189
+Weakley,State Senate,24,Democratic,Roy Herron,1155
+Weakley,State Senate,24,Republican,Dennis J. Doster,321
+Weakley,U.S. House,8,Democratic,John Tanner,1306
+Weakley,U.S. House,8,Republican,Dennis K. Bertrand (Write-In),54
+Weakley,U.S. House,8,Republican,James L. Hart,188
+White,State House,43,Democratic,Charles Curtiss,888
+White,U.S. House,4,Democratic,Harvey Howard,89
+White,U.S. House,4,Democratic,Lincoln Davis,873
+White,U.S. House,4,Republican,Dale Harvey,12
+White,U.S. House,4,Republican,Don Cuva,12
+White,U.S. House,4,Republican,Janice Bowling,272
+Williamson,State House,61,Republican,"Charles M. Sargent, Jr.",1111
+Williamson,State House,63,Republican,Glen Casada,1066
+Williamson,State House,78,Democratic,David R. Davis,53
+Williamson,State House,78,Democratic,Tony Campbell,50
+Williamson,State House,78,Republican,Phillip Johnson,132
+Williamson,U.S. House,4,Democratic,Harvey Howard,26
+Williamson,U.S. House,4,Democratic,Lincoln Davis,229
+Williamson,U.S. House,4,Republican,Dale Harvey,32
+Williamson,U.S. House,4,Republican,Don Cuva,9
+Williamson,U.S. House,4,Republican,Janice Bowling,320
+Williamson,U.S. House,7,Republican,Marsha Blackburn,1970
+Wilson,State House,46,Democratic,Stratton Bone,2503
+Wilson,State House,57,Republican,Susan Lynn,2340
+Wilson,State House,57,Republican,Tom Wood,1293
+Wilson,U.S. House,5,Democratic,Jim Cooper,2497
+Wilson,U.S. House,5,Republican,Scott Knapp,3309
+Wilson,U.S. House,6,Democratic,Bart Gordon,1511
+Wilson,U.S. House,6,Democratic,Robert C. Hall,131
+Wilson,U.S. House,6,Republican,Elizabeth Hall,365
+Wilson,U.S. House,6,Republican,Nick Demas,272
